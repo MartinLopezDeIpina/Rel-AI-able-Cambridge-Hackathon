@@ -7,14 +7,15 @@ model binding. Two backends:
                         Uses transparent lexical heuristics instead of real LLM
                         inference. PLACEHOLDER: it proves the pipeline/wiring and
                         the scoring, NOT the substantive accuracy.
-  * OpenRouterBackend - real binding that REUSES the project's OpenRouter client
+  * VertexBackend     - real binding that REUSES the project's LLM client
                         (``app.services.citation_llm_service.build_llm``), so the
-                        whole app talks to one configured model (``LLM_MODEL``).
+                        whole app talks to one configured model. With the default
+                        ``LLM_PROVIDER=vertex`` this is Gemini via Vertex AI (ADC).
                         Sends the strict-JSON templates from
                         :mod:`app.services.distortion_prompts`.
 
 The real backend replaces the mock 1:1 (same method signatures). Each LLM stage
-degrades to the mock heuristic if the reply cannot be parsed or no API key is
+degrades to the mock heuristic if the reply cannot be parsed or no credentials are
 configured, so the pipeline never crashes offline.
 """
 
@@ -121,7 +122,7 @@ class MockBackend:
 
     NOTE: the heuristics deliberately mirror the same distortion types as the
     synthetic eval generator -> metrics with this backend are a plumbing/scoring
-    test, NOT a validation of the method. Real validation needs the OpenRouter
+    test, NOT a validation of the method. Real validation needs the Vertex
     backend (+ a small hand-labelled anchor set).
     """
 
@@ -204,19 +205,20 @@ def _ev(statement, premise, level, label, pid, reason) -> dict:
 
 
 # --------------------------------------------------------------------------
-# OpenRouterBackend (real LLM stages, reusing the project's OpenRouter client)
+# VertexBackend (real LLM stages, reusing the project's LLM client)
 # --------------------------------------------------------------------------
 
-class OpenRouterBackend(MockBackend):
+class VertexBackend(MockBackend):
     """LLM backend that reuses ``citation_llm_service.build_llm`` (one client for
-    the whole app). Inherits ``rerank`` from :class:`MockBackend` (cheap lexical
-    pre-filter ahead of the LLM ``select``); overrides ``select``/``decompose``/
-    ``judge`` to call the configured model with the strict-JSON prompts. Every
-    overridden stage falls back to the mock heuristic if the model reply cannot be
-    parsed or no API key is set, so the pipeline never crashes.
+    the whole app; Gemini via Vertex AI under the default ``LLM_PROVIDER=vertex``).
+    Inherits ``rerank`` from :class:`MockBackend` (cheap lexical pre-filter ahead of
+    the LLM ``select``); overrides ``select``/``decompose``/``judge`` to call the
+    configured model with the strict-JSON prompts. Every overridden stage falls back
+    to the mock heuristic if the model reply cannot be parsed or no credentials are
+    configured, so the pipeline never crashes.
     """
 
-    name = "openrouter"
+    name = "vertex"
 
     def __init__(self) -> None:
         self._llm = None
@@ -224,7 +226,7 @@ class OpenRouterBackend(MockBackend):
     def _model(self):
         if self._llm is None:
             from app.services.citation_llm_service import build_llm
-            self._llm = build_llm()  # raises if OPENROUTER_API_KEY is missing
+            self._llm = build_llm()  # raises if the provider's credentials are missing
         return self._llm
 
     def _ask(self, prompt: str) -> dict:
@@ -276,4 +278,6 @@ class OpenRouterBackend(MockBackend):
 
 
 def get_backend(name: str):
-    return {"mock": MockBackend, "openrouter": OpenRouterBackend}[name]()
+    # "openrouter" kept as a back-compat alias for the renamed "vertex" backend.
+    return {"mock": MockBackend, "vertex": VertexBackend,
+            "openrouter": VertexBackend}[name]()

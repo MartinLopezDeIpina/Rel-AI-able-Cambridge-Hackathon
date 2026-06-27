@@ -8,7 +8,7 @@ Stages: chunk source into paragraphs -> rerank -> select R_top -> gather followi
 paragraphs (meso context) -> decompose into statements/premises -> 3-level charity
 judge -> two %-scores + classification. The model steps run via a pluggable
 backend (:mod:`app.services.distortion_backend`); the default is the deterministic
-offline MockBackend, ``openrouter`` is the real one.
+offline MockBackend, ``vertex`` is the real one (Gemini via Vertex AI).
 """
 
 from __future__ import annotations
@@ -73,7 +73,7 @@ def analyze(relevant_text: str, source_text: str, backend,
     ``id`` is NOT processed, only passed through: the result is a tuple
     ``(report, id)`` so the caller can re-associate the report with its citation
     row. ``global_summary`` is forwarded to the judge for macro context (the mock
-    backend ignores it; the OpenRouter backend uses it).
+    backend ignores it; the Vertex backend uses it).
     """
     paragraphs = chunk_paragraphs(source_text, size, overlap)
     if not paragraphs:

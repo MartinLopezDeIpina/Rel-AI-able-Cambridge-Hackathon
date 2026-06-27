@@ -3,7 +3,7 @@
 These templates are the contract between the orchestrator
 (:mod:`app.services.distortion_service`) and the LLM for the SELECT (stage 3),
 DECOMPOSE (stage 4) and JUDGE (stages 5-6) steps. The MockBackend ignores them
-and uses transparent heuristics; the OpenRouterBackend sends exactly these. All
+and uses transparent heuristics; the VertexBackend sends exactly these. All
 of them require strict JSON replies.
 """
 

@@ -94,6 +94,19 @@ def build_llm(settings: Settings | None = None):
             thinking_budget=settings.google_thinking_budget,
         )
 
+    if settings.llm_provider == "gemini":
+        from langchain_google_genai import ChatGoogleGenerativeAI
+
+        if not settings.gemini_api_key:
+            raise RuntimeError(
+                "GEMINI_API_KEY is not set; required for the gemini provider."
+            )
+        return ChatGoogleGenerativeAI(
+            model=settings.google_model,
+            google_api_key=settings.gemini_api_key,
+            temperature=settings.llm_temperature,
+        )
+
     from langchain_openai import ChatOpenAI
 
     if not settings.openrouter_api_key:

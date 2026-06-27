@@ -13,7 +13,7 @@ separate package**). Left column = Leo's original module, right = where it lives
 | Leo's original | Now in this repo | What it does |
 |---|---|---|
 | `detect_distortion.py` | `app/services/distortion_service.py` | The faithfulness detector — `analyze()` (the 6-stage charity-judge pipeline) + `score()` + the `relevant_text` helpers. |
-| `llm_backend.py` | `app/services/distortion_backend.py` | Pluggable model layer: `MockBackend` (offline) + `OpenRouterBackend` (real LLM). |
+| `llm_backend.py` | `app/services/distortion_backend.py` | Pluggable model layer: `MockBackend` (offline) + `VertexBackend` (real LLM, Gemini via Vertex AI). |
 | `prompts.py` | `app/services/distortion_prompts.py` | Strict-JSON prompt contracts for the SELECT / DECOMPOSE / JUDGE stages. |
 | `pdf_to_text.py` | `app/services/pdf_ocr.py` | PDF→text with OCR fallback (PyMuPDF + RapidOCR) for scanned sources. |
 | `citelib.py` | `app/services/citelib.py` | Shared embedding / chunking / fuzzy name-match helpers (fastembed + rapidfuzz). |
@@ -35,7 +35,7 @@ our accuracy evidence, referenced from tests, not shipped).
    removed) so the team builds one deployable FastAPI app.
 
 2. **One LLM client, reused.** Leo's offline `NemotronBackend` stub was deleted.
-   The new `OpenRouterBackend` reuses Martin's `citation_llm_service.build_llm`, so
+   The new `VertexBackend` reuses Martin's `citation_llm_service.build_llm`, so
    citation enrichment *and* the distortion judge talk to a single configured
    model. **All Nemotron references removed**; the default `LLM_MODEL` is now
    Gemini (`google/gemini-3.5-flash`), overridable in `.env`. `MockBackend` stays

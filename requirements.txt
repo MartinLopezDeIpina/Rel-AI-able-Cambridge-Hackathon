@@ -1,11 +1,13 @@
 fastapi>=0.110
 uvicorn[standard]>=0.29
+python-multipart>=0.0.9          # multipart file upload for POST /api/citations/verify (frontend)
 pydantic>=2.6
 pydantic-settings>=2.2
 pypdf>=4.0
 langchain>=0.3
 langchain-openai>=0.2
-langchain-google-vertexai>=2.0
+langchain-google-vertexai>=2.0    # provider "vertex" (needs a GCP project)
+langchain-google-genai>=2.0       # provider "gemini" (Developer API, API key only)
 python-dotenv>=1.0
 
 # Citation resolution / semantic index (fallback resolver)
