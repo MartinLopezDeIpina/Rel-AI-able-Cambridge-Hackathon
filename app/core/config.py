@@ -17,12 +17,13 @@ class Settings(BaseSettings):
     debug: bool = True
     api_prefix: str = "/api"
 
-    # LLM citation enrichment. Provider picks the backend: "openrouter" (Nemotron)
-    # or "vertex" (Google Gemini via Vertex AI + ADC).
-    llm_provider: str = "openrouter"
+    # LLM citation enrichment + the distortion judge (one client, via build_llm).
+    # Provider picks the backend: "vertex" (Google Gemini via Vertex AI + ADC) or
+    # "openrouter" (Nemotron via OpenAI-compatible API).
+    llm_provider: str = "vertex"
     llm_temperature: float = 0.0
 
-    # OpenRouter (OpenAI-compatible).
+    # OpenRouter (OpenAI-compatible) — non-default fallback provider.
     openrouter_api_key: str | None = None
     llm_base_url: str = "https://openrouter.ai/api/v1"
     llm_model: str = "nvidia/nemotron-3-nano-30b-a3b:free"  # swap tier via .env
@@ -32,6 +33,11 @@ class Settings(BaseSettings):
     google_project: str | None = None  # GCP project id (required for vertex)
     google_location: str = "us-central1"
     google_thinking_budget: int = 0  # 0 disables Gemini 2.5 "thinking" (~40% faster)
+
+    # Citation resolution / semantic index (the fallback resolver).
+    index_dir: str = "index"           # holds embeddings.npy / chunks.json / sources.json
+    corpus_dir: str = "index/texts"    # sources to build the index from if it's missing
+    distortion_backend: str = "mock"   # "mock" (offline) | "openrouter" (LLM judge)
 
 
 @lru_cache

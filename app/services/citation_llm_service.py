@@ -2,14 +2,15 @@
 
 The regex layer (:mod:`app.services.citation_service`) reliably extracts the
 formal citation strings and assigns each a 1-based ``id`` in document order.
-This module feeds those anchors *plus the whole document* to a Nemotron model
-(via OpenRouter, using LangChain for model modularity) and gets back structured
-JSON keyed by ``id`` — filling the metadata regex cannot: full case names,
-court, judges, the proposition the case is cited for, the supporting Ground, and
-the document's own wording on how the citation is used.
+This module feeds those anchors *plus the whole document* to the configured LLM
+(``build_llm`` — Google Gemini via Vertex AI by default, or Nemotron via
+OpenRouter) and gets back structured JSON keyed by ``id`` — filling the metadata
+regex cannot: full case names, court, judges, the proposition the case is cited
+for, the supporting Ground, and the document's own wording on how it is used.
 
-Model selection is config-driven (:class:`app.core.config.Settings`), so the
-Nemotron tier swaps via ``LLM_MODEL`` in ``.env`` with no code change.
+Provider/model selection is config-driven (:class:`app.core.config.Settings`)
+via ``LLM_PROVIDER`` with no code change. ``build_llm`` is also reused by the
+distortion judge (:mod:`app.services.distortion_backend`).
 """
 
 from __future__ import annotations

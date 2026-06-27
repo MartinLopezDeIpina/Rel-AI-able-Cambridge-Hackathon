@@ -47,3 +47,60 @@ class EnrichedCitation(Citation, CitationMetadata):
 
     ``id`` is shared by both parents and reconciles the two halves.
     """
+
+
+class ClassificationType(str, Enum):
+    """The user-facing verdict for one citation — the three buckets the challenge
+    asks for. Mischaracterised and out-of-context collapse into one bucket because,
+    to the reviewing partner, both mean "the case is real but used unfairly"."""
+
+    EXISTS_CORRECTLY_APPLIED = "EXISTS_CORRECTLY_APPLIED"
+    EXISTS_MISCHARACTERISED_TAKEN_OUT_OF_CONTEXT = (
+        "EXISTS_MISCHARACTERISED_TAKEN_OUT_OF_CONTEXT"
+    )
+    DOESNT_EXIST = "DOESNT_EXIST"
+
+
+class Classification(BaseModel):
+    """The final verdict object for one citation, derived from the resolver
+    (does the case exist in / resolve to the dataset?) and the faithfulness
+    detector (is it applied correctly?)."""
+
+    type: ClassificationType
+    # 0..1 — how sure we are of the verdict (resolver confidence × detector margin).
+    confidence: float | None = None
+    # True when the citation could not be confirmed real (resolver wanted a web
+    # check but none was configured). Keeps "unknown" out of a false DOESNT_EXIST.
+    needs_review: bool = False
+    # True when the deterministic metadata match missed and Leo's semantic vector
+    # search resolved the source instead — surfaced for transparency in the report.
+    used_semantic_fallback: bool = False
+    # one-line, plain-language rationale for the partner.
+    reason: str | None = None
+
+
+class AnalysisDict(BaseModel):
+    """Typed mirror of the dict returned by ``detect_distortion.analyze`` (the
+    faithfulness detector). Curated to the five fields the API/UI consumes.
+
+    Field types:
+    - ``classification``: ``str`` — the detector's raw class, one of
+      ``"correct" | "mischaracterised" | "out_of_context"`` (distinct from the
+      user-facing :class:`ClassificationType`, which also covers DOESNT_EXIST).
+    - ``mischaracterised_pct``: ``float`` — 0..100, share of premises VIOLATED,
+      severity-weighted by level (micro/meso/macro).
+    - ``out_of_context_pct``: ``float`` — 0..100, share of premises UNADDRESSED
+      (the source does not speak to what the citation claims).
+    - ``plain_language_holding``: ``str`` — 1–2 sentences on what the case
+      actually decided.
+    - ``evaluations``: ``list[dict]`` — per-premise judge results; each item has
+      ``statement, premise, level('micro'|'meso'|'macro'),
+      label('SATISFIED'|'CHARITABLE'|'VIOLATED'|'UNADDRESSED'),
+      evidence_paragraph_id(int|None), reason(str)``.
+    """
+
+    classification: str
+    mischaracterised_pct: float
+    out_of_context_pct: float
+    plain_language_holding: str
+    evaluations: list[dict] = []
