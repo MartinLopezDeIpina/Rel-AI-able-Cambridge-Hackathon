@@ -87,6 +87,44 @@ class EnrichedCitation(Citation, CitationMetadata):
     """
 
 
+class FieldMismatch(BaseModel):
+    """One citing-side attribute whose value disagrees with the matched source.
+
+    Only fields present (non-null) on the citing side are ever compared, so a
+    mismatch always means the document asserts something the real authority does
+    not — the partner should be alerted. Source-only fields are not flagged.
+    """
+
+    field: str  # the attribute name, e.g. "reporter", "division", "case_name"
+    citing_value: object | None = None  # value as written in the citing document
+    source_value: object | None = None  # value from the matched source metadata
+
+
+class MetadataMatchResult(BaseModel):
+    """Existence + metadata-equality verdict for one citation, produced by the
+    metadata-match layer that sits between extraction and the faithfulness check.
+
+    ``exists`` answers "is this a real case we could confirm?"; ``field_mismatches``
+    answers "does the document describe it with the real authority's metadata?".
+    Neither is the final user-facing verdict — that merges with the downstream
+    distortion detector — but together they catch fabricated and mislabelled cites.
+    """
+
+    id: int  # matches EnrichedCitation.id
+    exists: bool  # source found AND confirmed to be this case
+    matched_source: str | None = None  # identifier of the matched source (id/filename)
+    match_method: str | None = None  # "direct" | "fuzzy" | "semantic" | None
+    # True when the deterministic triple missed and the semantic resolver decided.
+    used_semantic_fallback: bool = False
+    # True when the year+court+number triple was satisfied (directly or confirmed).
+    required_params_matched: bool = False
+    field_mismatches: list[FieldMismatch] = []
+    # True when existence could not be confirmed either way (resolver wanted a web
+    # check, or the agent was unsure) — keeps "unknown" out of a false "doesn't exist".
+    needs_review: bool = False
+    reason: str | None = None  # one-line, plain-language rationale for the partner
+
+
 class ClassificationType(str, Enum):
     """The user-facing verdict for one citation — the three buckets the challenge
     asks for. Mischaracterised and out-of-context collapse into one bucket because,
