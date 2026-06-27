@@ -9,7 +9,7 @@ import { AnalysisProgress } from "@/components/relaiable/AnalysisProgress";
 import { useAnalysisStore } from "@/lib/analysis-store";
 import { useMutation } from "@tanstack/react-query";
 import { toast } from "sonner";
-import { verifyFile } from "@/lib/api";
+import { verifyFile, toReport } from "@/lib/api";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -29,13 +29,17 @@ function Landing() {
   const [analysing, setAnalysing] = useState<string | null>(null);
   const navigate = useNavigate();
   const start = useAnalysisStore((s) => s.startAnalysis);
+  const setParagraphs = useAnalysisStore((s) => s.setParagraphs);
   const loadReport = useAnalysisStore((s) => s.loadReport);
 
   // Upload -> POST /verify (the backend runs the pipeline and writes a fresh
-  // report.json before responding) -> load that report into the store.
+  // report.json before responding) -> store paragraphs from the sync response
+  // (needed for highlighting), then load the validated report into the store.
   const mutation = useMutation({
     mutationFn: (file: File) => verifyFile(file),
-    onSuccess: async (_resp, file) => {
+    onSuccess: async (resp, file) => {
+      const { paragraphs } = toReport(resp);
+      setParagraphs(paragraphs);
       start(file.name);
       await loadReport();
     },

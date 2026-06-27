@@ -35,9 +35,11 @@ export interface Report {
 /** Live report from the store, or the bundled mock when nothing has been analysed. */
 export function useReport(): Report {
   // Live verification result comes from the polled report.json (store.report);
-  // fall back to the bundled mock until an analysis has completed.
+  // paragraphs come from the sync response stored by setParagraphs() on upload.
+  // Fall back to the bundled mock until an analysis has completed.
   const report = useAnalysisStore((s) => s.report);
   const documentName = useAnalysisStore((s) => s.documentName);
+  const storedParagraphs = useAnalysisStore((s) => s.paragraphs);
   const citations = report?.citations ?? [];
   const isLive = citations.length > 0;
 
@@ -53,8 +55,7 @@ export function useReport(): Report {
   return {
     citations,
     sorted: sortCitations(citations),
-    // The store doesn't carry per-document paragraphs yet; show the sample preview.
-    paragraphs: MOCK_DOC_PARAGRAPHS,
+    paragraphs: storedParagraphs.length > 0 ? storedParagraphs : MOCK_DOC_PARAGRAPHS,
     document: { ...MOCK_DOCUMENT, name: documentName ?? MOCK_DOCUMENT.name },
     isLive: true,
   };

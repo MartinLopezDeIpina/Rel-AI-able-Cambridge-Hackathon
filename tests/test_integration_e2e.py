@@ -110,10 +110,10 @@ def test_step1_to_5_real_chain(agent, monkeypatch, tiny_index, tiny_corpus, mock
 def test_full_pipeline_live(agent, tiny_index, tiny_corpus):
     """Fullest real path: LLM enrichment (Step 1) + real resolve (Step 3) + Vertex judge
     (Step 4) + orchestrator (Step 5), then validate report.json end-to-end."""
-    from app.services.citation_llm_service import enrich_from_text
+    from app.services.citation_llm_service import extract_enriched_citations_from_text
     from app.services.distortion_backend import get_backend
 
-    enriched = enrich_from_text(BRIEF)
+    enriched = extract_enriched_citations_from_text(BRIEF)
     assert enriched, "Step 1 LLM enrichment returned no citations"
     resolver = rs.ResolverService(index_dir=tiny_index, corpus_dir=tiny_corpus)
     resp = pl.verify_enriched(enriched, resolver, get_backend("vertex"), "brief.pdf")

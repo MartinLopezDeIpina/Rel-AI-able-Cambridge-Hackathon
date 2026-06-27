@@ -23,11 +23,13 @@ interface AnalysisState {
   hasAnalysis: boolean;
   documentName: string | null;
   jurisdiction: string;
+  paragraphs: string[]; // document-preview paragraph texts (from sync response)
   report: ReportPayload | null;
   config: DocumentConfig | null;
   _pollTimer: number | null;
   setJurisdiction: (j: string) => void;
   startAnalysis: (name: string) => void;
+  setParagraphs: (paragraphs: string[]) => void;
   reset: () => void;
   loadReport: () => Promise<void>;
   loadConfig: () => Promise<void>;
@@ -97,15 +99,17 @@ export const useAnalysisStore = create<AnalysisState>((set, get) => ({
   hasAnalysis: false,
   documentName: null,
   jurisdiction: "UK",
+  paragraphs: [],
   report: null,
   config: null,
   _pollTimer: null,
   setJurisdiction: (j) => set({ jurisdiction: j }),
   startAnalysis: (name) => set({ hasAnalysis: true, documentName: name }),
+  setParagraphs: (paragraphs) => set({ paragraphs }),
   reset: () => {
     get().stopReportPolling();
     reportNotReadyLogged = false;
-    set({ hasAnalysis: false, documentName: null, report: null });
+    set({ hasAnalysis: false, documentName: null, paragraphs: [], report: null });
   },
   loadReport: async () => {
     const report = await fetchValidatedReport();
