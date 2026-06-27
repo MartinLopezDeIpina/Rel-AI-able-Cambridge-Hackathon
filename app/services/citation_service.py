@@ -101,8 +101,12 @@ def extract_citations(pdf_path: str | Path) -> list[Citation]:
     result is ordered by position in the document with a 1-based ``id`` so each
     citation can be anchored back to during LLM enrichment.
     """
-    text = read_pdf_text(pdf_path)
+    return extract_citations_from_text(read_pdf_text(pdf_path))
 
+
+def extract_citations_from_text(text: str) -> list[Citation]:
+    """Extract UK legal citations from raw document ``text`` (the regex core shared by
+    :func:`extract_citations`; used when the document is pasted text, not a PDF)."""
     # Collect (document_position, fields) for every match across the three styles.
     found: list[tuple[int, dict]] = []
 

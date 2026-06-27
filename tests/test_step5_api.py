@@ -24,13 +24,14 @@ def test_health_ok(agent):
 
 @pytest.mark.unit
 @pytest.mark.contract
-def test_verify_endpoint_not_yet_implemented(agent):
-    # Documents current reality: the route the frontend needs does not exist yet.
-    resp = client.post("/api/citations/verify", json={"text": "x"})
-    agent.case("verify_absent", "POST /api/citations/verify").expect(
-        status=404).check(status=resp.status_code)
-    agent.case("verify_absent", "POST /api/citations/verify").note(
-        "ACTION: build the endpoint + M1->M3->M4 orchestrator (Step 5).")
+def test_verify_endpoint_exists_and_handles_no_citations(agent):
+    # The route the frontend needs now exists; text with no citations -> empty report,
+    # no LLM call (so this stays an offline unit test).
+    resp = client.post("/api/citations/verify", json={"text": "no citations in here"})
+    agent.case("verify_present", "POST /api/citations/verify").expect(
+        status=200).check(status=resp.status_code)
+    body = resp.json()
+    assert isinstance(body.get("citations"), list) and body["citations"] == []
 
 
 @pytest.mark.contract

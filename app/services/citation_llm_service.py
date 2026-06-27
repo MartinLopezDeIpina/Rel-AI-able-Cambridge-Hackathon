@@ -32,7 +32,11 @@ from app.schemas.citation import (
     CitationMetadata,
     EnrichedCitation,
 )
-from app.services.citation_service import extract_citations, read_pdf_text
+from app.services.citation_service import (
+    extract_citations,
+    extract_citations_from_text,
+    read_pdf_text,
+)
 
 _SYSTEM_PROMPT = """You are a UK legal citation analyst. You are given the full \
 text of a court document (a skeleton argument) and a numbered list of case \
@@ -194,17 +198,26 @@ def _merge(citation: Citation, metadata: CitationMetadata | None) -> EnrichedCit
     return EnrichedCitation(**data)
 
 
-def extract_enriched_citations(pdf_path: str | Path) -> list[EnrichedCitation]:
-    """Extract citations (regex) then enrich their metadata with the LLM."""
-    citations = extract_citations(pdf_path)
+def _enrich_citations(citations: list[Citation], document: str) -> list[EnrichedCitation]:
+    """Enrich already-extracted ``citations`` against the ``document`` text."""
     if not citations:
         return []
-    document = read_pdf_text(pdf_path)
     metadata = _enrich(citations, document)
     return [
         _merge(c, _verify(metadata[c.id], document) if c.id in metadata else None)
         for c in citations
     ]
+
+
+def extract_enriched_citations(pdf_path: str | Path) -> list[EnrichedCitation]:
+    """Extract citations (regex) then enrich their metadata with the LLM."""
+    document = read_pdf_text(pdf_path)
+    return _enrich_citations(extract_citations(pdf_path), document)
+
+
+def extract_enriched_citations_from_text(text: str) -> list[EnrichedCitation]:
+    """Extract + enrich citations from raw pasted ``text`` (no PDF)."""
+    return _enrich_citations(extract_citations_from_text(text), text)
 
 
 class CitationLLMService:
