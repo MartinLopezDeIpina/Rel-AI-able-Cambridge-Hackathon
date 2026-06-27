@@ -18,8 +18,9 @@ class Settings(BaseSettings):
     api_prefix: str = "/api"
 
     # LLM citation enrichment + the distortion judge (one client, via build_llm).
-    # Provider picks the backend: "vertex" (Google Gemini via Vertex AI + ADC) or
-    # "openrouter" (Nemotron via OpenAI-compatible API).
+    # Provider picks the backend: "vertex" (Google Gemini via Vertex AI + ADC,
+    # needs a GCP project), "gemini" (Gemini Developer API — API key only, no
+    # project), or "openrouter" (Nemotron via OpenAI-compatible API).
     llm_provider: str = "vertex"
     llm_temperature: float = 0.0
 
@@ -33,6 +34,9 @@ class Settings(BaseSettings):
     google_project: str | None = None  # GCP project id (required for vertex)
     google_location: str = "us-central1"
     google_thinking_budget: int = 0  # 0 disables Gemini 2.5 "thinking" (~40% faster)
+
+    # Gemini Developer API (provider "gemini") — API key only, no GCP project.
+    gemini_api_key: str | None = None  # GEMINI_API_KEY (AI Studio / express "AQ." key)
 
     # Citation resolution / semantic index (the fallback resolver).
     index_dir: str = "index"           # holds embeddings.npy / chunks.json / sources.json

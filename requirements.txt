@@ -5,7 +5,8 @@ pydantic-settings>=2.2
 pypdf>=4.0
 langchain>=0.3
 langchain-openai>=0.2
-langchain-google-vertexai>=2.0
+langchain-google-vertexai>=2.0    # provider "vertex" (needs a GCP project)
+langchain-google-genai>=2.0       # provider "gemini" (Developer API, API key only)
 python-dotenv>=1.0
 
 # Citation resolution / semantic index (fallback resolver)
