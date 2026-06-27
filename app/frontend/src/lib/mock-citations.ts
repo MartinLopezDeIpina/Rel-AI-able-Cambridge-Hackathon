@@ -18,6 +18,9 @@ export interface Citation {
   action: string;
   // Index of paragraph in mock document where citation appears
   paragraph: number;
+  // Semantic-entropy uncertainty (0..1 normalised) that the source supports the
+  // citation — only present for live results; higher = the model is less certain.
+  uncertainty?: number | null;
 }
 
 export const STATUS_META: Record<

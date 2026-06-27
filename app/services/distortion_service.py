@@ -105,8 +105,28 @@ def analyze(relevant_text: str, source_text: str, backend,
                            global_summary=global_summary)              # Stages 5+6
     evals = judged.get("evaluations", [])
     mischar, ooc, cls = score(evals)                                   # Stage 6
-    return _report(relevant_text, cls, mischar, ooc, r_ids, evals,
-                   judged.get("plain_language_holding", "")), id
+    report = _report(relevant_text, cls, mischar, ooc, r_ids, evals,
+                     judged.get("plain_language_holding", ""))
+    # Stage 7 (optional): semantic-entropy uncertainty over the selected paragraphs.
+    report["uncertainty"] = _uncertainty(relevant_text, r_top, backend)
+    return report, id
+
+
+def _uncertainty(relevant_text: str, r_top: list[dict], backend) -> dict | None:
+    """Semantic-entropy uncertainty that the selected paragraphs support the citation.
+    Only with the real (vertex) judge and when enabled; never fatal."""
+    from app.core.config import get_settings
+
+    settings = get_settings()
+    if not settings.semantic_entropy_enabled or getattr(backend, "name", "") != "vertex":
+        return None
+    try:
+        from app.services import semantic_entropy
+
+        return semantic_entropy.compute(
+            relevant_text, [p["text"] for p in r_top], settings)
+    except Exception:  # noqa: BLE001 - uncertainty is best-effort
+        return None
 
 
 def _report(relevant_text, cls, mischar, ooc, r_ids, evals, holding) -> dict:

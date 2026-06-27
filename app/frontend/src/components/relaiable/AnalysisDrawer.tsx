@@ -5,7 +5,7 @@ import {
   SheetTitle,
 } from "@/components/ui/sheet";
 import { StatusBadge } from "./StatusBadge";
-
+import { ConfidenceBar } from "./ConfidenceBar";
 import type { Citation } from "@/lib/mock-citations";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Copy } from "lucide-react";
@@ -36,7 +36,30 @@ export function AnalysisDrawer({
               </p>
             </SheetHeader>
 
-
+            <div className="mt-4 grid gap-3 sm:grid-cols-2">
+              <div className="rounded-lg border bg-muted/40 p-4">
+                <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
+                  AI confidence
+                </p>
+                <div className="mt-2">
+                  <ConfidenceBar value={citation.confidence} />
+                </div>
+              </div>
+              {citation.uncertainty != null && (
+                <div className="rounded-lg border bg-muted/40 p-4">
+                  <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
+                    Model certainty
+                  </p>
+                  <div className="mt-2">
+                    <ConfidenceBar value={Math.round((1 - citation.uncertainty) * 100)} />
+                  </div>
+                  <p className="mt-1.5 text-[11px] text-muted-foreground">
+                    5-sample semantic entropy: {citation.uncertainty.toFixed(2)} (0 = unanimous,
+                    1 = maximally split)
+                  </p>
+                </div>
+              )}
+            </div>
 
             <div className="mt-6 space-y-6 text-sm">
               <Field label="Original citation as it appears">

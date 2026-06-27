@@ -48,6 +48,14 @@ class Settings(BaseSettings):
     corpus_dir: str = "pdfs"
     distortion_backend: str = "vertex"  # "vertex" (Gemini judge) | "mock" (offline)
 
+    # Semantic-entropy uncertainty for Step 4 (Farquhar/Kuhn-style): sample the
+    # support/contradict judgement N times, cluster by meaning, weight by sequence
+    # probability (Gemini logprobs), and take entropy over clusters. Only runs with
+    # the vertex (Gemini) judge; the N samples are issued concurrently.
+    semantic_entropy_enabled: bool = True
+    semantic_entropy_samples: int = 5            # N samples per (paragraph, citation)
+    semantic_entropy_temperature: float = 1.0    # sampling temperature for diversity
+
     # One-off source-metadata builder (app.services.source_metadata_builder): a
     # preprocessing step, NOT part of the runtime pipeline. Vision-OCRs the first
     # pages of each source judgment, then extracts its citation metadata to JSON.
