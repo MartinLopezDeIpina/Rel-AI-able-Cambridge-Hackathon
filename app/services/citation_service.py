@@ -70,7 +70,7 @@ def _resolve_pdf_path(pdf_path: str | Path) -> Path:
     raise FileNotFoundError(f"PDF not found: {pdf_path}")
 
 
-def _read_pdf_text(pdf_path: str | Path) -> str:
+def read_pdf_text(pdf_path: str | Path) -> str:
     """Extract all text from a PDF, with newlines collapsed to spaces.
 
     Collapsing whitespace lets citations that wrap across lines still match.
@@ -97,21 +97,19 @@ def extract_citations(pdf_path: str | Path) -> list[Citation]:
     """Extract UK legal citations from ``pdf_path`` as structured objects.
 
     Accepts either a full path or a bare filename (resolved against the
-    project root and ``data/``). Duplicates (by raw text) are removed,
-    preserving first-seen order.
+    project root and ``data/``). Duplicates (by raw text) are removed, and the
+    result is ordered by position in the document with a 1-based ``id`` so each
+    citation can be anchored back to during LLM enrichment.
     """
-    text = _read_pdf_text(pdf_path)
-    citations: list[Citation] = []
-    seen: set[str] = set()
+    text = read_pdf_text(pdf_path)
 
-    def add(citation: Citation) -> None:
-        if citation.raw not in seen:
-            seen.add(citation.raw)
-            citations.append(citation)
+    # Collect (document_position, fields) for every match across the three styles.
+    found: list[tuple[int, dict]] = []
 
     for match in _NEUTRAL_RE.finditer(text):
-        add(
-            Citation(
+        found.append((
+            match.start(),
+            dict(
                 raw=match.group(0),
                 case_name=_find_case_name(text, match.start()),
                 year=int(match.group("year")),
@@ -119,12 +117,13 @@ def extract_citations(pdf_path: str | Path) -> list[Citation]:
                 division=match.group("division"),
                 number=_to_int(match.group("number")),
                 citation_type=CitationType.neutral,
-            )
-        )
+            ),
+        ))
 
     for match in _REPORT_RE.finditer(text):
-        add(
-            Citation(
+        found.append((
+            match.start(),
+            dict(
                 raw=match.group(0),
                 case_name=_find_case_name(text, match.start()),
                 year=int(match.group("year")),
@@ -132,12 +131,13 @@ def extract_citations(pdf_path: str | Path) -> list[Citation]:
                 volume=_to_int(match.group("volume")),
                 page=_to_int(match.group("page")),
                 citation_type=CitationType.law_report,
-            )
-        )
+            ),
+        ))
 
     for match in _NOMINATE_RE.finditer(text):
-        add(
-            Citation(
+        found.append((
+            match.start(),
+            dict(
                 raw=match.group(0),
                 case_name=_find_case_name(text, match.start()),
                 year=int(match.group("year")),
@@ -145,8 +145,18 @@ def extract_citations(pdf_path: str | Path) -> list[Citation]:
                 volume=_to_int(match.group("volume")),
                 page=_to_int(match.group("page")),
                 citation_type=CitationType.nominate,
-            )
-        )
+            ),
+        ))
+
+    # Order by document position, dedupe by raw text, then assign 1-based ids.
+    found.sort(key=lambda item: item[0])
+    citations: list[Citation] = []
+    seen: set[str] = set()
+    for _, fields in found:
+        if fields["raw"] in seen:
+            continue
+        seen.add(fields["raw"])
+        citations.append(Citation(id=len(citations) + 1, **fields))
 
     return citations
 
