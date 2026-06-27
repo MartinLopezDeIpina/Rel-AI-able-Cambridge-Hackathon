@@ -2,15 +2,15 @@
 
 The regex layer (:mod:`app.services.citation_service`) reliably extracts the
 formal citation strings and assigns each a 1-based ``id`` in document order.
-This module feeds those anchors *plus the whole document* to an OpenRouter model
-(Gemini by default, via LangChain for model modularity) and gets back structured
-JSON keyed by ``id`` — filling the metadata regex cannot: full case names,
-court, judges, the proposition the case is cited for, the supporting Ground, and
-the document's own wording on how the citation is used.
+This module feeds those anchors *plus the whole document* to the configured LLM
+(``build_llm`` — Google Gemini via Vertex AI by default, or Nemotron via
+OpenRouter) and gets back structured JSON keyed by ``id`` — filling the metadata
+regex cannot: full case names, court, judges, the proposition the case is cited
+for, the supporting Ground, and the document's own wording on how it is used.
 
-Model selection is config-driven (:class:`app.core.config.Settings`), so the
-model swaps via ``LLM_MODEL`` in ``.env`` with no code change. ``build_llm`` is
-also reused by the distortion judge (:mod:`app.services.distortion_backend`).
+Provider/model selection is config-driven (:class:`app.core.config.Settings`)
+via ``LLM_PROVIDER`` with no code change. ``build_llm`` is also reused by the
+distortion judge (:mod:`app.services.distortion_backend`).
 """
 
 from __future__ import annotations
@@ -71,10 +71,31 @@ FULL DOCUMENT TEXT:
 
 
 def build_llm(settings: Settings | None = None):
-    """Construct the chat model. Modular: tier/endpoint come from settings."""
+    """Construct the chat model for the configured provider.
+
+    Modular: ``LLM_PROVIDER`` selects the backend and the rest of the pipeline is
+    unchanged. "openrouter" -> Nemotron via OpenAI-compatible API; "vertex" ->
+    Google Gemini via Vertex AI (Application Default Credentials).
+    """
+    settings = settings or get_settings()
+
+    if settings.llm_provider == "vertex":
+        from langchain_google_vertexai import ChatVertexAI
+
+        if not settings.google_project:
+            raise RuntimeError(
+                "GOOGLE_PROJECT is not set; required for the vertex provider."
+            )
+        return ChatVertexAI(
+            model=settings.google_model,
+            project=settings.google_project,
+            location=settings.google_location,
+            temperature=settings.llm_temperature,
+            thinking_budget=settings.google_thinking_budget,
+        )
+
     from langchain_openai import ChatOpenAI
 
-    settings = settings or get_settings()
     if not settings.openrouter_api_key:
         raise RuntimeError(
             "OPENROUTER_API_KEY is not set. Add it to .env (or the environment) "
