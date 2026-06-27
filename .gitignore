@@ -8,3 +8,7 @@ venv/
 *.egg-info/
 .DS_Store
 pdfs/
+
+# Frontend (app/frontend) — JS deps + npm lockfile (project's committed lockfile is bun.lock)
+node_modules/
+package-lock.json
