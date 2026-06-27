@@ -42,6 +42,44 @@ class CitationExtraction(BaseModel):
     items: list[CitationMetadata]
 
 
+class SourceMetadataFields(BaseModel):
+    """The descriptive metadata of ONE source case-law document, as the stage-2 LLM
+    returns it. Mirrors :class:`Citation`'s fields but ALL optional, so "not found
+    -> null" is representable (the builder never fabricates)."""
+
+    case_name: str | None = None  # e.g. "OBG Ltd v Allan"
+    year: int | None = None  # 2007
+    court: str | None = None  # neutral court code: UKHL, EWHC, EWCA Civ ...
+    division: str | None = None  # bracketed division for EWHC: Comm, Ch, TCC ...
+    reporter: str | None = None  # law-report series: Ch, QB, AC, WLR, All ER ...
+    volume: int | None = None  # optional volume, e.g. 1 in "[1972] 1 QB 60"
+    number: int | None = None  # neutral case number, e.g. 21
+    page: int | None = None  # law-report page, e.g. 646
+    citation_type: CitationType | None = None
+    raw: str | None = None  # the case's OWN citation as printed, e.g. "[2007] UKHL 21"
+    court_name: str | None = None  # court in words, e.g. "House of Lords"
+    judges: list[str] = []  # e.g. ["Lord Hoffmann"]
+    decision_date: str | None = None  # judgment date as printed, e.g. "2 May 2007"
+
+
+class SourceMetadata(SourceMetadataFields):
+    """A source document's extracted metadata, keyed by filename, with the builder's
+    run status. Produced by the one-off ``source_metadata_builder`` and read back
+    later by the runtime pipeline."""
+
+    source: str  # filename identifier (the resource id), e.g. "obg-...-case-l.pdf"
+    status: str = "ok"  # "ok" | "error" (error -> review this source manually)
+    pages_used: int = 0  # how many leading pages were fed before essentials were filled
+    error: str | None = None  # populated when status == "error"
+
+
+class SourceExtraction(BaseModel):
+    """Root container for the stage-2 LLM reply for one source document. The model
+    returns its metadata under ``item``; the builder adds ``source`` and run status."""
+
+    item: SourceMetadataFields
+
+
 class EnrichedCitation(Citation, CitationMetadata):
     """A regex :class:`Citation` merged with its LLM :class:`CitationMetadata`.
 

@@ -39,6 +39,32 @@ class Settings(BaseSettings):
     corpus_dir: str = "index/texts"    # sources to build the index from if it's missing
     distortion_backend: str = "mock"   # "mock" (offline) | "openrouter" (LLM judge)
 
+    # One-off source-metadata builder (app.services.source_metadata_builder): a
+    # preprocessing step, NOT part of the runtime pipeline. Vision-OCRs the first
+    # pages of each source judgment, then extracts its citation metadata to JSON.
+    # Vision OCR needs a multimodal model, so the builder forces its own provider
+    # (default Gemini via Vertex) independent of the runtime ``llm_provider``, which
+    # may be a text-only model like Nemotron.
+    source_llm_provider: str = "vertex"                       # "vertex" | "openrouter"
+    source_dir: str = "data"                                  # the source PDFs/judgments
+    source_metadata_out: str = "data/source_metadata.json"    # the metadata "database"
+    # Full-document vision-OCR transcripts (ALL pages), for later pipeline steps.
+    source_texts_dir: str = "data/text_source"               # one <stem>.txt per source
+    vision_dpi: int = 170                                     # page render DPI for OCR
+    # A page with at least this many embedded-text chars is treated as digital (use
+    # its text layer for free); below it the page is a scan and goes to vision OCR.
+    text_layer_min_chars: int = 100
+    vision_ocr_batch_pages: int = 3                           # pages per vision call (full OCR)
+    # Files rendered/OCR'd at once. Kept small on purpose: PDF page rendering holds the
+    # GIL, so too many files at once starves the progress bars and the vision calls.
+    # Throughput comes from per-file batch parallelism + the global call cap, not from
+    # rendering many files at once. (0 = all files — avoid for big scanned corpora.)
+    vision_ocr_concurrency: int = 4
+    vision_intra_concurrency: int = 10                        # page-batches per file in parallel
+    vision_max_concurrent_calls: int = 16                     # global cap on simultaneous vision calls
+    vision_max_pages: int = 3                                 # max leading pages for metadata
+    source_request_sleep: float = 1.0                        # throttle between documents (s)
+
 
 @lru_cache
 def get_settings() -> Settings:
