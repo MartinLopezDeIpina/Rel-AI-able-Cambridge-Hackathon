@@ -1,0 +1,1068 @@
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+
+SCBAILII_CASE_PROPERTY
+BAILII Citation Number: [1996] EWHC Ch 1
+Chancery Division
+ 20 March 1996
+B e f o r e :
+James
+Munby
+Q.C.
+____________________
+Between:
+
+LONG
+
+V
+
+TOWER
+HAMLETS
+LONDON
+BOROUGH
+COUNCIL
+____________________
+Philip Walter (instructed by Wallace Bogan) appeared for the plaintiff; Sarah
+Hargreaves (instructed by the solicitor to the Tower Hamlets London Borough Council)
+represented the defendants.
+____________________
+1. Giving judgment, Mr James Munby QC said: This case raises the question what is
+meant by the words 'tenancy from year to year or other period, without a lease in writing'
+in para 5(1) of Schedule 1 to the Limitation Act 1980. It also, at least on one view of
+the matter, raises the question what is meant by the words 'creation by parol of leases
+taking effect in possession for a term not exceeding three years' in section 54(2) of the
+Law of Property Act 1925 - a question which, in turn, involves consideration of the law
+relating to reversionary leases. Both questions are of some interest and importance.
+2. The matter comes before me on an appeal by the plaintiff, Ronald James Long ('Mr
+Long'), from an order made by Deputy Master Wall on September 26 1995. The master
+had before him an application by the defendants, Tower Hamlets London Borough
+Council (the 'council'), by summons dated March 21 1995 to strike out the originating
+summons which the plaintiff had issued on January 13 1995. The master struck out the
+originating summons on the ground that Mr Long's claim was doomed to fail.
+Facts
+3. The facts which are relevant to the main question that I have to decide lie within a very
+narrow compass. The dispute relates to the ground-floor shop ('the shop') and a
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+2
+
+maisonette on the upper floors ('the maisonette') at 21 Turners Road, Tower Hamlets,
+London E3 ('the premises'). The premises are part of the property registered at Her
+Majesty's Land Registry under title number 255264. On September 4 1975 agents
+acting for the then owner of the premises, a Mr Jacobs, wrote a letter to Mr Long in the
+following terms:
+Dear Sir,
+21 Turners Road E3
+Ground Floor
+We confirm on behalf of our client, Mr H Jacobs, that we are prepared to grant you a quarterly
+tenancy of the above upon the following terms:
+1 The rent to be £ 55 per quarter, payable on the usual quarter days in advance, exclusive of
+general and water rates payable in respect of this part of the property.
+2 The premises are to be held by R J Long, Esq, trading as Long Bros, Upholstery, in connection
+with his business as an upholsterer.
+3 The tenant is not to sublet the whole or any part of the premises.
+4 The tenant is to maintain the interior and shop front in good decorative repair and condition.
+5 The tenant is to give four weeks notice in writing before vacating the premises.
+6 The tenancy is to commence on Monday, the 29th September 1975
+on a quarterly basis.
+Yours faithfully,
+4. On September 8 1975 Mr Long made the following endorsement on a copy of the letter:
+I, Ronald James Long, agree to abide by the terms and conditions of the tenancy set out herein
+Signed R J Long
+Date 8-9-75
+5. The copy letter endorsed by Mr Long ('the tenancy document') was returned to the
+landlord. It was retained by the landlord and his successors in title, being eventually
+produced from their files by the council after the present litigation had been
+commenced.
+6. On or about September 29 1975 Mr Long took possession of the shop. On September
+24 1976 Mr Jacobs' successor in title completed the sale of the freehold of the premises
+to the Greater London Council ('GLC'). On October 13 1976 GLC were registered as
+proprietors of the premises. In or about September 1983 GLC gave Mr Long notice to
+quit the shop; the notice expired on March 25 1984. On August 25 1988 the freehold of
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+3
+
+the premises was transferred under statutory powers to the council as the successor
+authority to GLC. The council have since been registered as proprietor of the premises.
+Issues
+7. It is common ground that Mr Long has paid no rent for the shop for many years.
+According to Mr Long he stopped paying rent in 1977. The council accept that rent has
+been neither demanded nor paid since March 1984. When precisely rent was last paid
+is a matter which can only be resolved at trial. Mr Long claims to have taken possession
+of the maisonette in 1977 at a time when, he says, it was unoccupied. The council, on
+the other hand, have produced documents which prima facie establish that the
+maisonette was lawfully occupied by a Mr Taylor as tenant of GLC until February 20
+1978, when he was rehoused by GLC elsewhere. Precisely when and to what extent Mr
+Long ever made use of the maisonette is in dispute between the parties, as is the extent
+to which he has, in recent years, been in occupation of the shop. These also, however,
+are matters which can only be resolved at trial.
+8. At trial the case will turn on the application to the facts, whatever they may be found to
+be, of section 15(1) and (6) of, and paras 5 and 8 of Schedule 1 to, the Limitation Act
+1980. Section 15(1) and (6) is in the following terms:
+(1) No action shall be brought by any person to recover any land after the expiration of twelve
+years from the date on which the right of action accrued to him or, if it first accrued to some
+person through whom he claims, to that person… .
+(6) Part I of Schedule 1 to this Act contains provisions for determining the date of accrual of
+rights of action to recover land in the cases there mentioned.
+Para 5 of Schedule 1 provides as follows:
+(1) Subject to sub-paragraph (2) below, a tenancy from year to year or other period, without a
+lease in writing, shall for the purposes of this Act be treated as being determined at the
+expiration of the first year or other period; and accordingly the right of action of the person
+entitled to the land subject to the tenancy shall be treated as having accrued at the date on which
+in accordance with this subparagraph the tenancy is determined.
+(2) Where any rent has subsequently been received in respect of the tenancy, the right of action
+shall be treated as having accrued on the date of the last receipt of rent.
+9. Para 8(1) of Schedule 1 provides that:
+No right of action to recover land shall be treated as accruing unless the land is in the possession
+of some person in whose favour the period of limitation can run (referred to below in this
+paragraph as 'adverse possession'); and where under the preceding provisions of this Schedule
+any such right of action is treated as accruing on a certain date and no person is in adverse
+possession on that date, the right of action shall not be treated as accruing unless and until
+adverse possession is taken of the land.
+10. Mr Long's case is simple. He says that he is and has been ever since 1977 continuously
+in possession of the whole of the premises (that is, of both the shop and the maisonette);
+that he has paid no rent since 1977 for any part of the premises and has, ever since then,
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+4
+
+been in adverse possession of the premises within the meaning of para 8(1); that in
+accordance with para 5(2) the GLC's right of action to recover the premises is to be
+treated as having accrued at the latest by January 1 1978; and that, in consequence, any
+claim by the council to recover the premises became statute-barred, in accordance with
+section 15(1), at the latest by January 1 1990, some five years before the present
+proceedings were commenced. On this footing Mr Long seeks: (i) a declaration that he
+is entitled beneficially to the premises; and (ii) rectification of the proprietorship
+register of title no 255264 to remove the premises from that title and to open a new title
+for the premises under which he is the registered proprietor.
+11. The council deny that Mr Long can prove either the factual possession or the animus
+possidendi which are necessary to found adverse possession: Buckinghamshire County
+Council v Moran [1990] Ch 623. Moreover, the council say that Mr Long last paid rent
+in March 1984, less than 12 years before the proceedings were commenced on January
+13 1995. Accordingly, say the council, their claim to recover the premises is not yet
+statute-barred.
+12. As I have already said, the factual disputes between the parties can only be resolved at
+trial. On what basis, therefore, do the council seek to strike out Mr Long's claim? Three
+arguments are put forward by Miss Sara Hargreaves of counsel on behalf of the council.
+Each, in substance, proceeds on the footing that, whatever may be the eventual
+resolution of the factual disputes to which I have referred, there are other grounds on
+which the council can establish that time cannot on any view have begun to run in Mr
+Long's favour until 1984 at the earliest.
+13. Before considering Miss Hargreaves' arguments there is one preliminary matter which
+I must address. It will be appreciated that the tenancy document related only to the shop.
+There is no suggestion that Mr Long was ever granted a tenancy of the maisonette or
+that he has ever paid any additional rent for the maisonette. On what basis, then, does
+Miss Hargreaves seek to resist Mr Long's claim in so far as it relates to the maisonette?
+She relies upon the principle that if a tenant occupies land belonging to the landlord but
+not included in the demise, that land is presumed to be an addition to the land demised
+to the tenant, so that it becomes subject to the terms of the tenancy and must therefore
+be given up to the landlord when the tenancy ends: Smirk v Lyndale Developments
+Ltd [1975] Ch 317*. Mr Philip Walter of counsel, on behalf of Mr Long, seeks to
+confine the principle, which otherwise he accepts, in two ways: first, he says it is limited
+to cases where the encroachment is on land which is waste; second, he says that it is
+limited to cases where the tenant is estopped by words or conduct from denying that
+the additional land is within the demise. Neither condition, he says is satisfied in the
+present case.
+14. I cannot accept either of Mr Walter's submissions. In Smirk v Lyndale Developments
+Ltd [1975] Ch 317, Pennycuick V-C considered all the relevant authorities, which as he
+said at p323G had got into something of a tangle, and concluded at pp324G, 329C,
+332G that the law had been correctly stated by Alderson and Parke BB
+in Kingsmill v Millard (1855) 11 Exch 313. His decision on the point was not
+challenged on appeal and was accepted as correct by the Court of Appeal: [1975] Ch
+317, at pp337G, 340E, 341H. The law as laid down in those two cases I take to be clear
+and binding on me. They show that the principle applies whether or not the land
+encroached upon is waste. They show, moreover, that the principle is based on a
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+5
+
+presumption, albeit a rebuttable presumption, which, although it may be considered to
+operate in a manner akin to an estoppel, is not dependent upon proof, as Mr Walter I
+think would have it, of any active representation to the landlords by the tenant. On the
+contrary, the presumption is treated as applying unless the tenant, during the term,
+communicates with the landlords in such a way as to show that he is asserting his own
+title as against the landlords or, as Alderson B put it, that he is setting the landlords at
+defiance. There is nothing in the evidence before me in the present case which even
+begins to suggest that Mr Long, in his dealings with the GLC and the council, ever
+sought to distinguish between the shop and the maisonette or ever sought to assert that,
+while he occupied the shop as tenant, his occupation of the maisonette was in some
+different character. Accordingly, in my judgment, Miss Hargreaves is entitled to say
+that, on the evidence as it stands, the presumption is wholly unrebutted and that the
+principle as laid down in Smirk v Lyndale Developments Ltd applies. It follows that, for
+present purposes, no distinction is to be drawn between Mr Long's claim as it relates to
+the shop and his claim as it relates to the maisonette.
+15. I turn therefore to consider the three issues identified by Miss Hargreaves as justifying
+the striking out of Mr Long's claim.
+Issue 1 - 'lease in writing'
+16. In the first place, and this is her principal argument, Miss Hargreaves submits that the
+tenancy document is a 'lease in writing' within the meaning of para 5(1) of Schedule 1
+to the Limitation Act 1980; that time accordingly did not begin to run in favour of Mr
+Long when he stopped paying rent (whenever that was) but only when his tenancy was
+brought to an end by notice to quit; and that the only relevant notice to quit was that
+which expired on March 25 1984, less than 12 years before the commencement of the
+present proceedings.
+17. Mr Walter denies that the tenancy document is, or as a matter of law is capable of being,
+a 'lease in writing' within the meaning of para 5(1). Put shortly, his argument can be
+summarised as follows:
+(a) A document cannot be a 'lease in writing' within the meaning of para 5(1) unless it is
+dispositive, that is, as Mr Walter put it in argument, the document must be one which at law
+creates, of and by itself, a leasehold estate in land.
+(b) As the tenancy document was not executed as a deed, it could take effect as a lease only if
+fell within the exception in section 54(2) of the Law of Property Act 1925, that is, if it '[took]
+effect in possession' for a term not exceeding three years. It did not, says Mr Walter, because
+it took effect, if at all, as a reversionary lease.
+18. At first blush the use in para 5(1) of the words 'tenancy from year to year or other period,
+without a lease in writing' is rather puzzling to anyone familiar with the scheme of the
+Law of Property Act 1925 and its distinction between those leases which are required
+by section 52 to be made by deed and those leases which section 54(2) permits to be
+created by parol, in other words without the need even for writing. The provisions of
+the Law of Property Act 1925 itself are also, at first, rather puzzling. Notwithstanding
+the reference in section 52(2)(d) to 'leases or tenancies … not required by law to be
+made in writing', the Act does not itself, so far as I am aware, require any class of lease
+to be made in writing, though certain leases made under the Settled Land Act 1925
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+6
+
+which would otherwise be required by section 42(1)(i) of that Act to be made by deed
+are permitted by section 42(5)(ii) to be made by writing under hand.
+(1) Historical background
+19. The explanation for the seeming oddities is historical. As Mr Walter pointed out, para
+5 of Schedule 1 to the Limitation Act 1980 reproduces provisions first enacted as
+section 8 of the Real Property Limitation Act 1833 and later re-enacted as section 9(2)
+of the Limitation Act 1939. Section 8 of the Real Property Limitation Act 1833
+provided as follows:
+And be it further enacted, That when any Person shall be in Possession or in Receipt of the
+Profits of any Land, or in Receipt of any Rent, as Tenant from Year to Year or other Period,
+without any Lease in Writing, the Right of the Person entitled subject thereto, or of the Person
+through whom he claims, to make an Entry or Distress or to bring an Action to recover such
+Land or Rent shall be deemed to have first accrued at the Determination of the first of such
+Years or other Periods, or at the last Time when any Rent payable in respect of such Tenancy
+shall have been received (which shall last happen).
+20. As Mr Walter also pointed out, the context in which the Real Property Limitation Act
+1833 was enacted was that of the Statute of Frauds 1677. However, in order to
+understand the exceedingly interesting and instructive arguments that have been so
+skilfully deployed by Mr Walter and Miss Hargreaves it is necessary to go even further
+back than that and to consider, albeit briefly, the relevant principles of the common law.
+21. At common law a lease could be granted in any way, even orally: Megarry and
+Wade, The Law of Real Property, 5th ed 1984, at p636. Moreover, there was at common
+law no restraint upon the grant of a reversionary lease, that is, a lease to take effect in
+reversion on some future day, however distant, and conferring no right to take
+possession in the meantime. Such a lease (to be contrasted with a concurrent lease, that
+is, a lease of the reversion: Megarry and Wade at pp664--665) gave the lessee an
+immediate vested legal interest in the land, that interest being known as an interesse
+termini, though until the date when the lease was due to take effect this interest was
+vested in interest and not in possession. On the other hand, the lessee under a
+reversionary lease acquired no estate in the land until he had actually entered, that is,
+taken possession in accordance with the lease; until then all he had was an interesse
+termini: Megarry and Wade at pp231, 637, 647--648.
+22. In 1677 the Statute of Frauds was enacted 'For Prevention of many fraudulent Practices,
+which are commonly endeavoured to be upheld by Perjury and Subornation of Perjury'.
+Section 1 of the Statute of Frauds provided that:
+all Leases, Estates … or Terms of Years … made or created by Livery and Seisin only, or by
+Parol, and not put in Writing, and signed by the Parties so making or creating the same, or their
+Agents thereunto lawfully authorised by Writing, shall have the Force and Effect of Leases or
+Estates at Will only, and shall not either in Law or Equity be deemed or taken to have any other
+or greater Force or Effect; any Consideration for making any such Parol Leases or Estates, or
+any former Law or Usage, to the contrary notwithstanding.
+23. Section 2 of the Statute of Frauds excepted from the operation of section 1:
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+7
+
+all Leases not exceeding the Term of Three Years from the making thereof, whereupon the
+Rent reserved to the Landlord, during such Term, shall amount unto Two third Parts at the least
+of the full improved Value of the Thing demised.
+24. Section 4 of the Statute of Frauds provided, so far as is material, that:
+no Action shall be brought … to charge any Person … upon any Contract or Sale of Lands, …
+or any Interest in or concerning them … unless the Agreement upon which such Action shall
+be brought, or some Memorandum or Note thereof, shall be in Writing, and signed by the Party
+to be charged therewith, or some other Person thereunto by him lawfully authorized.
+25. Accordingly, when the Real Property Limitation Act 1833 was enacted the distinction
+was not, as it now is, between those leases required to be made by deed and those which
+may be created by parol, but rather between those leases required by section 1 of the
+Statute of Frauds to be 'put in Writing' and those which, by virtue of section 2 of the
+Statute of Frauds, could still be created at common law by parol.
+26. The modern requirement of a deed was first imposed by section 4 of the Transfer of
+Property Act 1844, which provided:
+That no Lease in Writing of any … Land … shall be valid as a Lease … unless the same shall
+be made by Deed; but any Agreement in Writing to let … any such Land shall be valid and
+take effect as an Agreement to execute a Lease …; and the Person who shall be in the
+Possession of the Land in pursuance of any Agreement to let may, from Payment of Rent or
+other Circumstances, be construed to be a Tenant from Year to Year.
+27. The drafting of section 4 of the Transfer of Property Act 1844 was soon perceived to
+have been defective: see Tress v Savage (1854) 4 E & B 36, at p43, per Coleridge J.
+Section 4 was therefore repealed by section 1 of the Real Property Act 1845. Section 3
+of the latter Act provided:
+That … a Lease, required by Law to be in Writing, … shall … be void at Law, unless made by
+Deed:
+28. Sections 1, 2 and 4 of the Statute of Frauds remained in force.
+29. Thus from 1845 the combined effect of the Statute of Frauds and the Real Property Act
+1845 was that those leases which, prior to the Transfer of Property Act 1844, had been
+required by section 1 of the Statute of Frauds to be in writing were now required by
+section 3 of the Real Property Act 1845 to be made by deed; but that those leases which
+had been excepted by section 2 of the Statute of Frauds from the operation of section 1
+of the Statute of Frauds remained excepted from the operation of section 3 of the Real
+Property Act 1845.
+30. Although the effect of section 3 of the Real Property Act 1845 was to make a written
+lease which did not fall within section 2 of the Statute of Frauds 'void', that did not
+deprive the written document of all legal effect. At law, as soon as the tenant took
+possession, and rent was paid and accepted, a yearly or other periodic tenancy arose.
+That periodic tenancy was a legal estate which was treated as being held on such of the
+terms set out in the written document as were applicable to and not inconsistent with a
+periodic tenancy: Tress v Savage (1854) 4 E & B 36; Martin v Smith (1874) LR 9 Exch
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+8
+
+50. In equity the imperfect lease was treated as a contract to grant a lease and, moreover,
+provided there was valuable consideration and a sufficient act of part performance, a
+contract of which specific performance would, in principle, be granted under the rule
+in Parker v Taswell (1858) 2 De G & J 559 and Walsh v Lonsdale (1882) 21 ChD 9.
+31. Sections 1 and 2 of the Statute of Frauds and section 3 of the Real Property Act 1845
+were replaced by sections 52 and 54 of the Law of Property Act 1925. Section 4 of the
+Statute of Frauds, so far as is material, was replaced by section 40 of the Law of
+Property Act, itself since repealed by section 2(8) of the Law of Property
+(Miscellaneous Provisions) Act 1989. Section 52 of the Law of Property Act 1925,
+replacing section 3 of the Real Property Act 1845, provides so far as is material, as
+follows:
+(1) All conveyances of land or of any interest therein are void for the purpose of conveying or
+creating a legal estate unless made by deed.
+(2) This section does not apply to NL …
+(d) leases or tenancies or other assurances not required by law to be made in writing;
+32. 'Conveyance' is defined by section 205(1)(ii) of the Law of Property Act 1925 as
+including a lease. Section 54 of the Law of Property Act 1925, replacing sections 1 and
+2 of the Statute of Frauds, is in the following terms:
+(1) All interests in land created by parol and not put in writing and signed by the persons so
+creating the same, or by their agents thereunto lawfully authorised in writing, have,
+notwithstanding any consideration having been given for the same, the force and effect of
+interests at will only.
+(2) Nothing in the foregoing provisions of this Part of this Act shall affect the creation by parol
+of leases taking effect in possession for a term not exceeding three years (whether or not the
+lessee is given power to extend the term) at the best rent which can be reasonably obtained
+without taking a fine.
+33. The words 'taking effect in possession' are not defined as such, though 'Term of years
+absolute' is defined by section 205(1)(xxvii) of the Law of Property Act 1925 in such a
+way as to distinguish a 'term of years taking effect in possession' from a 'term of years
+taking effect in reversion':
+'Term of years absolute' means a term of years (taking effect either in possession or in reversion
+whether or not at a rent) …
+34. 'Possession' is defined by section 205(1)(xix) of the Law of Property Act 1925 as
+including receipt of rents or profits or the right to receive the same.
+35. It will be observed that sections 52 and 54 of the Law of Property Act 1925 follow very
+closely, and in large part perpetuate the language of, their statutory precursors. As is
+pointed out in Megarry and Wade at p637:
+The provisions of the two previous Acts were repeated by the Law of Property Act 1925 but
+with certain alterations. No attempt has been made to state the combined effect of the earlier
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+9
+
+Acts: section 54 follows the Statute of Frauds 1677 and section 52 follows the Real Property
+Act 1845 so that their differing provisions still stand side by side. This is presumably because
+they had become so familiar that it was thought best to preserve them.
+36. Thus sections 52(2)(d) and 54(1) preserve fossilised references to leases in writing
+which, though they may reflect the formal requirements imposed in 1677 by the Statute
+of Frauds (and still representing the law when the Real Property Limitation Act 1833
+was enacted), had been overtaken by the formal requirement of a deed imposed by the
+Transfer of Property Act 1844.
+37. However, as is also pointed out in Megarry and Wade at p637, and as appears from a
+comparison of section 54(2) of the Law of Property Act 1925 with section 2 of the
+Statute of Frauds, section 54(2) did make two changes. The first, on which nothing
+turns for present purposes, was to substitute for the reference in the Statute of Frauds
+to a rent not less than two-thirds of the full improved value reference to the best rent
+reasonably obtainable without taking a fine. The second, which is crucial to Mr Walter's
+argument, was to substitute for the reference in the Statute of Frauds to a lease not
+exceeding three years 'from the making thereof' reference in section 54(2) to a lease
+'taking effect in possession' for a term not exceeding three years.
+38. The Law of Property Act 1925 made two other changes to the law which are material
+for present purposes: first, section 149(1) and (2) abolished the doctrine of interesse
+termini and the rule that a lessee took no estate until he had actually entered; second,
+section 149(3) limits to 21 years the time that may elapse before the term under a
+reversionary lease begins; a reversionary lease postponed for more than 21 years is
+void. The effect of section 149, therefore, is to give the lessee under a reversionary
+lease, so long as it is not postponed for more than 21 years, an immediate estate, rather
+than a mere interest, in the land - though until the date when the lease is due to take
+effect that estate will be vested in interest only and not in possession.
+(2) Para 5(1) - 'lease in writing'
+39. Before the master Mr Walter argued that, notwithstanding the use of the words 'lease
+in writing', the exception under para 5(1) of Schedule 1 to the Limitation Act 1980
+applies only if the lease has been made by deed. That submission, which, in my
+judgment, is clearly wrong, was not pursued before me. Mr Walter and Miss Hargreaves
+were at one in agreeing that the word 'writing' in para 5(1) has the meaning given to it
+by section 5 of and Schedule 1 to the Interpretation Act 1978:
+'Writing' includes typing, printing, lithography, photography and other modes of representing
+or reproducing words in a visible form, and expressions referring to writing are construed
+accordingly.
+40. I agree. A written document does not have to be a deed in order to be a 'writing' for the
+purposes of para 5(1), though on the other hand, a document which is a deed will also
+be a 'writing' for the purposes of para 5(1).
+41. As I have said, Mr Walter's argument is that a document is not a 'lease in writing' unless
+it is dispositive, that is, a document which at law creates, of and by itself, a leasehold
+estate in land. A document which is merely an agreement for a lease, or merely
+evidential of the terms of a lease is not, he submits, a 'lease in writing'. Miss Hargreaves'
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+10
+
+submission is that this is much too subtle and technical an approach. She contends for
+a simple and practical approach, suggesting that the reason why para 5(1) distinguishes
+between those leases which are, and those leases which are not, 'in writing' is evidential.
+She asserts, I have no doubt correctly, that Mr Long acquired, at the latest when he took
+possession and started paying rent on or about September 29 1975, a periodic tenancy
+at law and that that tenancy is to be treated at law as having been held on the terms of
+the tenancy document. She says, again no doubt correctly, that equity would in principle
+treat the tenancy document as a specifically enforceable agreement for a lease, so that
+Mr Long had what is often called an equitable lease. Thus far, I did not understand Mr
+Walter to challenge Miss Hargreaves' analysis of the effect of the tenancy document in
+the events which had happened. So, says Miss Hargreaves, there plainly was a lease, all
+the terms of the lease are to be found set out in a written document, and there is,
+therefore, a 'lease in writing'. It is, says Miss Hargreaves, as simple and straight forward
+as that. No, says Mr Walter, Miss Hargreaves' argument does not go far enough. She
+has to show that the tenancy agreement itself was dispositive and created a legal estate
+in land. An equitable lease is not, he says, a lease and does not of itself create an estate
+in land.
+42. In my judgment, Mr Walter's submission on this point is correct.
+43. In the light of the historical background, and bearing in mind the familiar distinction,
+drawn for example in sections 9 and 7 of the Statute of Frauds (now sections 53(1)(c)
+and 53(1)(b) of the Law of Property Act 1925), between those transactions required to
+be 'in' writing, that is, where the writing required by the statute is dispositive, and those
+requiring only to be 'manifested and proved by some writing', that is, where the writing
+required by the statute need be no more than evidential, one's initial impression is that
+the 'writing' referred to in para 5(1) of Schedule 1 to the Limitation Act 1980 must be
+dispositive and not merely evidential. Para 5(1), after all, refers to a 'lease in writing'
+(emphasis supplied). Indeed, as a matter of simple English language, that is what one
+would expect the words to mean.
+44. But the matter does not rest there, because I have been referred to two authorities which,
+in my judgment, indicate that this is indeed the correct meaning of the words. In Doe d
+Landsell v Gower (1851) 17 QB 589 the question was whether an entry in a vestry-
+book, signed by the tenant and by one, but not by all, of the parish officers, was a 'lease
+in writing' within the meaning of section 8 of the Real Property Limitation Act 1833. It
+was held by the Court of Queen's Bench (Patteson, Coleridge and Wightman JJ) that it
+was not, because only one of the parish officers had signed the vestry-book and he had
+not professed to sign on behalf of all. The facts of the case were very far removed indeed
+from the facts of the present case, but the reasons given by the judges for arriving at
+their decision are apposite. They are all to the same effect. Patteson J at p598 made it
+clear that, in his opinion, what section 8 required was an … 'actual lease', that is
+… not … a document, generally, but … a lease; … something which is to pass an interest.
+45. Coleridge J at p599 said that what section 8 required was
+… a lease in writing: that is, not merely an instrument which would be evidence of the
+conditions of holding, but one passing an interest.
+46. Wightman J at p600 said that section 8
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+11
+
+… requires an instrument in writing that may operate as a lease.
+47. In my judgment, this is clear authority for the proposition that there was no 'lease in
+writing' for the purposes of section 8 of the Real Property Limitation Act 1833, and
+thus there is no 'lease in writing' for the purposes of para 5(1) of Schedule 1 to the
+Limitation Act 1980, if the 'writing' is merely evidential. If there is to be a 'lease in
+writing' the writing must itself at law 'pass an interest' (to use the words of Patteson and
+Coleridge JJ) and 'operate as a lease' (to use Wightman J's words).
+48. Moses v Lovegrove [1952] 2 QB 533, the only other authority on the point to which I
+was referred, is to the like effect. One of the questions in that case was whether a rent
+book was a 'lease in writing' within the meaning of section 9(2) of the Limitation Act
+1939. The Court of Appeal held that it was not. Sir Raymond Evershed MR said at
+p536:
+The alleged lease in writing consisted of the rent book, which was put in evidence. The judge
+rejected the view that the rent book was such a lease in writing within the meaning of the Act,
+and I think he was entirely right in that conclusion.
+The rent book is, I think, what it purports to be, and what it is called, a rent book, that is, a book
+containing acknowledgements for payment of weekly sums of rent, and containing also, in
+pursuance of the terms of the legislation, a reference to the conditions on which the tenant was
+holding his tenancy. I think that on the face of it, it was not intended to be, and is not a contract
+for granting a tenancy, still less a lease creating an estate. It is, I think, at most what it was
+intended to be, and what it is on the face of it called, a book evidencing the terms on which the
+tenant held.
+49. Romer LJ at p543 said that he entirely agreed with the Master of the Rolls.
+50. These authorities make it clear, in my judgment, that a written document, whatever its
+terms, however clearly referable to the existence of a lease, and however
+comprehensive it may be in setting out the terms of the lease, is not a 'lease in writing'
+for the purposes of para 5(1) of Schedule 1 to the Limitation Act 1980 unless at law the
+document itself operates to 'pass an interest' (the words used by Patteson and Coleridge
+JJ), itself 'operates as a lease' (the words used by Wightman J) or itself 'creates an estate'
+(the words used by Sir Raymond Evershed MR).
+(3) Section 54 (2) - 'taking effect in possession'
+51. That being so, the next question which arises is whether the tenancy document operated
+to create a leasehold estate. It plainly did not take effect as a deed. The question
+therefore is whether or not it operated in accordance with section 54(2) of the Law of
+Property Act 1925 as a 'lease taking effect in possession for a term not exceeding three
+years'.
+52. Mr Walter accepts that, notwithstanding the reference in section 54(2) to the creation
+of leases 'by parol', a lease which otherwise satisfies the requirements of section 54(2)
+can be created either by parol or in writing. This is plainly correct: see, for
+example, Wright v Macadam [1949] 2 KB 744, at p747 per Jenkins LJ; Kushner v Law
+Society [1952] 1 KB 264, at p272 per Lord Goddard CJ. Mr Walter concedes that the
+tenancy document, properly construed, purported to take effect as a tenancy and not as
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+12
+
+a mere agreement to grant a tenancy: Rollason v Leon (1861) 7 H & N
+73; Hand v Hall (1877) 2 ExD 355. He also accepts that the tenancy document, since it
+stipulated for a quarterly tenancy, was for a 'term not exceeding three years' as that
+phrase is used in section 54(2).
+53. However, submits Mr Walter, the tenancy did not 'tak[e] effect in possession' and the
+tenancy document was therefore not, as required by section 54(2), a lease taking 'effect
+in possession'. Although the tenancy document was executed on September 8 1975, the
+tenancy was not to commence immediately but rather on a future date, September 29
+1975, and Mr Long had no right to take possession until the latter date. Therefore, says
+Mr Walter, it took effect, if at all, as a reversionary lease. Whatever may have been the
+position at common law or prior to 1925, he says, the inclusion in section 54(2) of the
+words 'taking effect in possession' has the effect of excluding altogether from the ambit
+of section 54(2) reversionary leases conferring no immediate right to take possession.
+Thus, he submits, a reversionary lease can only take effect if made by deed. If that is
+right then it follows, says Mr Walter, that a reversionary lease cannot be a 'lease in
+writing' for the purposes of para 5(1) of Schedule 1 to the Limitation Act 1925 unless
+it is made by deed. Mr Walter submits that the only tenancy which ever came into
+existence in the present case was not one created by the tenancy document. It arose, he
+says, by operation of law as a result of Mr Long taking possession on or about
+September 29 1975 and paying rent. The tenancy document, says Mr Walter, is not a
+lease. It is no more than a document whose terms, so far as they are consistent with a
+periodic tenancy, will be treated as the terms on which Mr Long held the periodic
+tenancy which arose by operation of law on or about September 29 1975.
+54. Miss Hargreaves, on the other hand, disputes that reversionary leases were excluded
+from the exception in section 2 of the Statute of Frauds or that they are excluded from
+the ambit of section 54(2). She accepts that the three-year period, referred to both in
+section 2 of the Statute of Frauds and in section 54(2), provides what she calls the basic
+measure of computation, and that the computation of the three-year period is from the
+date of the parol grant. But that, according to Miss Hargreaves, is the only limit imposed
+by section 54(2). The fundamental principle, common both to section 2 of the Statute
+of Frauds and to section 54(2), she says, is: the term whether it is to commence
+immediately or at some date in the future, must take effect in possession within three
+years from the date of the parol grant and must not extend beyond three years from the
+date of the parol grant. So long as it satisfies this condition it matters not, she submits,
+whether the term takes effect in possession at the date of the parol grant. It is implicit
+in this argument that the words 'taking effect in possession' in section 54(2) are
+descriptive only of the quality of the lease at the date when the term commences and
+not of the quality of the lease at the date of the parol grant. She suggests that the
+restrictions on the grant of reversionary leases are to be found in section 149 of the Law
+of Property Act 1925, and not in section 54(2).
+(a) Statute of Frauds
+55. Before turning to consider the question as it arises in relation to section 54(2) I must
+first examine certain older authorities on section 2 of the Statute of Frauds. The first
+case is Rawlins v Turner (1699) 1 Ld Raym 736. The report is very short:
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+13
+
+No lease by parol is good which imports to convey an interest for more than three years from
+the time of the making.
+It was ruled by Holt Chief Justice at Lent Assizes at Kingston 1699, that such lease for three
+years of land, as will be good without deed within the [Statute of Frauds] … s2, must be for
+three years, to be computed from the time of the agreement; and not for three years to be
+computed from any day after.
+56. The second case is Ryley v Hicks (1725) 1 Stranage 651. Again the report is very short:
+In Middlesex, coram Raymond, Chief Justice.
+Leases by parol for less than three years from the making, to commence at a future day, are not
+within Statute of Frauds… .
+The plaintiff declares, that 24 February 1723, she demised to the defendant a chamber, a cellar,
+and half a shop, habendum from LadyDay then next for a quarter of a year, and so from quarter
+to quarter, so long as both parties shall please, at 51. per quarter.
+It was objected by Whitaker, that this being to commence at a future day, was but a lease at
+will since the Statute of Frauds. The Chief Justice at first thought it a good objection, but upon
+farther consideration he was of opinion, that the exception was not confined to leases that were
+to commence from the time of making, but was general as to all leases that were not to hold for
+above three years from the making. So the plaintiff had a verdict …
+57. The case is also reported in Buller's Nisi Prius 6th ed at p177:
+A lease by parol for a year and an half, to commence after the expiration of a lease which wants
+a year of expiring, is a good lease within the statute of frauds, for it does not exceed three years
+from the making.
+58. It will be seen that the two reports differ in their summary of the relevant facts. As
+observed in Selwyn, An Abridgment of the Law of Nisi Prius, 13th ed 1869, vol 2 at
+p759, the report in Strange is 'probably from a different note'. But the statement of
+principle is the same in both reports.
+59. Ryley v Hicks was criticised by Dampier J in Inman v Stamp (1815) 1 Stark 12,
+reported on this point only in Selwyn at p759 (the earlier proceedings at nisi prius are
+reported, but on a different and for present purposes irrelevant point, as Inman v Stamp:
+In Inman v Stamp BR Trin 55 Geo III., Dampier, J, said the practice had been with the
+foregoing case of Ryley v Hicks, although he rather inclined to think that the 2nd section of the
+statute [of frauds], taken with section 4 [of the statute of frauds], was confined to leases
+executed by possession, on which two-thirds of the improved rent was reserved.
+60. In Edge v Strafford (1831) 1 Cr & J 391 it was argued that Ryley v Hicks had in effect
+been over-ruled by Inman v Stamp. The argument was rejected at p396 by Bayley B,
+giving the judgment of the Court of Exchequer, who appears to have
+treated Ryley v Hicks as good authority for the proposition that:
+a lease, though it were to commence in futuro, would be within the exception in the statute of
+frauds, if it did not exceed three years from the making.
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+14
+
+61. A similar argument in Lord Bolton v Tomlin (1836) 5 Ad & El 856 fared little better,
+though the court in that case managed to avoid deciding, or even expressing any opinion
+on, the point.
+62. In Hand v Hall (1877) 2 ExD 355 an agreement was made on January 26 1876 for a
+tenancy until Midsummer 12 months from February 14 1876. It was held by the Court
+of Appeal, reversing the Exchequer Division, that the agreement operated as a devise
+within the exception in section 2 of the Statute of Frauds. As was pointed out in
+Foa, The Relationship of Landlord and Tenant, 6th ed 1924, at p11, the decision of the
+Court of Appeal is consistent only with the view that Ryley v Hicks was correctly
+decided, although that case seems not to have been referred to and the contrary appears
+not to have been argued.
+63. The next case to which I was referred is Foster v Reeves [1892] 2 QB 255. In that case
+an agreement was made on May 12 1890 for a tenancy for three years to commence on
+June 24 1890 and thereafter from year to year until determined. The landlord sued to
+recover rent after the tenant had given up possession. It seems to have been common
+ground that there was no lease at law, and the argument in the Court of Appeal was as
+to the power of the county court, under the legislation then in force, to grant specific
+performance of the agreement under the rule in Walsh v Lonsdale (1882) 21 ChD 9.
+Each of the judges, however, referred, albeit briefly, to the position at law. Lord Esher
+MR said at p257:
+When the agreement is looked at, it is found that it assumes to create a tenancy for three years
+to begin at a subsequent date. Such a tenancy can at common law only be created by deed …
+If, therefore, we look to the common law alone, this claim cannot be supported.
+64. Fry LJ said at pp258--259:
+… it was a sum which could be recovered in equity, provided the agreement under which it
+was claimed was one that would be enforced by a court of equity. Independently of this, there
+was no right to sue for it.
+65. Lopes LJ said at p259:
+By the joint operation of the Statute of Frauds and … [the Real Property Act 1845], a lease for
+more than three years must be by deed. Here the agreement purports to create a term of more
+than three years, and it is clear that rent could not, at common law, have been recovered under
+that agreement.
+66. At first, Mr Walter was minded to argue that Lord Esher MR's observations (though
+not, he accepted, those of Lopes LJ) were authority for the proposition that a tenancy
+to begin at a subsequent date could at law only be created by deed. On reflection, and
+having considered Ryley v Hicks (1725) 1 Stranage 651, Mr Walter accepted that this
+was not what Lord Esher MR had meant. In my judgment, Mr Walter was entirely
+correct to make that concession. When Lord Esher MR said at p257 that 'Such a tenancy
+can at common law only be created by deed', the tenancy he was referring to was, as
+the immediately preceding words make clear, 'a tenancy for three years, to begin at a
+subsequent date' (emphasis supplied). Read thus, Lord Esher MR was making the same
+point as Lopes LJ, and indeed the very same point that had been made by Lord Holt CJ
+as long ago as 1699: a tenancy for three years to commence at a future date was not
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+15
+
+within section 2 of the Statute of Frauds, and thus at law could only be made in writing
+from 1677 or, from 1844, by deed. This was not because the tenancy was to commence
+at a future date, for Ryley v Hicks shows that, even after the enactment of the Statute of
+Frauds, there was nothing objectionable in that. It was because the tenancy was to last
+for a period expiring more than three years from the date of the agreement, and it had
+been established by Rawlins v Turner (1699) 1 Ld Raym 736 that such a lease fell
+outside the exception in section 2. There is, in my judgment, nothing
+in Foster v Reeves to suggest that the Court of Appeal was seeking to overturn
+established authority, although in that case, as previously in Hand v Hall (1877) 2 ExD
+355, Ryley v Hicks seems not to have been referred to Foster v Reeves is, therefore, in
+my judgment, no authority for the proposition that, after the enactment of the Real
+Property Act 1845, a lease for less than three years to commence at a future date could
+at law only be created by deed.
+67. Be that as it may, the matter appears to have been resolved the following year
+in Parker v Briggs, a decision of the Court of Appeal reported only, and there rather
+inadequately, in (1893) 37 Sol Jo 452:
+the appellants contend … that a parol lease to commence at a future date was in point of law
+and in fact an agreement for a lease, and as such must be in writing under section 4 of the
+Statute of Frauds, even though the lease agreed to be granted were for a less period than three
+years (Edge v Strafford 1 Cr & J 391) … The court, however, decided against the appellants
+…, two of the learned judges holding that it was possible to create a parol lease to commence
+in the future (Ryley v Hicks Stra 651) …
+68. Accordingly, Mr Walter was, in my judgment, correct not to press the argument that,
+after the enactment of the Real Property Act 1845, a lease to commence at a future date,
+could at law only be created by deed, even if it would otherwise fall within the exception
+in section 2 of the Statute of Frauds. The contrary is, in my judgment, clear from the
+authorities to which I have referred. That Ryley v Hicks (1725) 1 Stranage 651
+remained good law until the coming into force of the Law of Property Act 1925 appears,
+moreover, to have been the general view of the commentators: see Halsbury's Laws of
+England, 1st ed 1911, vol 18, at p384, para 830; Foa, The Relationship of Landlord and
+Tenant, 6th ed 1924, at p11; Redman, The Law of Landlord and Tenant, 8th ed 1924,
+at pp121, 439--440.
+69. It follows, in my judgment, that prior to the coming into force of the Law of Property
+Act 1925 Mr Walter's argument would have failed. So far as concerns the effect of the
+exception in section 2 of the Statute of Frauds, Miss Hargreaves correctly relies
+upon Rawlins v Turner (1699) 1 Ld Raym 736 and Ryley v Hicks (1725) 1 Stranage
+651 to make good her submissions. Unless, therefore, the effect of section 54(2) of the
+Law of Property Act 1925 was, as Mr Walter asserts, to change the law as previously
+laid down in Ryley v Hicks, the tenancy document will, as it seems to me, constitute a
+'lease in writing' for the purposes of para 5(1) of Schedule 1 to the Limitation Act 1980.
+70. Before turning to consider the meaning of section 54(2) there is another aspect of the
+Statute of Frauds on which Mr Walter placed some reliance and to which I must briefly
+advert. Cases such as Inman v Stamp (1815) 1 Stark 12, Edge v Strafford (1831) 1 Cr
+& J 391 and Lord Bolton v Tomlin (1836) 5 Ad & El 856 show that if there was an oral
+letting in futuro for less than three years from the date of the agreement there was no
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+16
+
+remedy in contract, though an action could be brought on the lease once possession had
+been taken, so that what had previously been a mere interesse termini had become an
+estate in the land. The reason for the divergent treatment was, as Mr Walter points out,
+that such an oral transaction was caught, qua contract, by section 4 of the Statute of
+Frauds but, falling as it did within the exception in section 2, was not caught, qua lease,
+by section 1 of the Statute of Frauds. As Mr Walter observes, the law as formulated in
+particular in Edge v Strafford was unsatisfactory in treating very differently the
+enforceability of the same transaction qua contract and qua demise. Given that the
+exception in section 2 of the Statute of Frauds extended to oral demises, it could be a
+fine point whether a particular oral transaction was a mere agreement, and thus wholly
+unenforceable by virtue of section 4, or a demise, and thus effective qua lease under the
+exception in section 2.
+(b) Section 54(2)
+71. As I have already mentioned, the words 'taking effect in possession' which appear in
+section 54(2) of the Law of Property Act 1925 were not to be found in section 2 of the
+Statute of Frauds. There appears to be no judicial authority as to the effect (if any) of
+this change: certainly I was referred to none. The question is canvassed by some of the
+commentators, though unhappily for Mr Long and the council, who as a result have
+been driven to litigate the matter, the commentators do not speak with one voice.
+72. Foa, The General Law of Landlord and Tenant, 7th ed 1947, at p10, puts the point very
+clearly:
+A parol lease might be made under the exception in the Statute of Frauds to take effect in futuro,
+provided that it came to an end within three years from the making thereof
+(Ryley v Hicks (1725) 1 Stra 651). The present statute seems to except only those taking effect
+immediately in possession.
+73. The same view is expressed in Megarry and Wade at p637, where it is said that:
+A lease taking effect in possession is to be contrasted with one taking effect in reversion, eg a
+lease granted today to take effect in 19 days' time …
+74. Emmet on Title, 19th ed 1986, vol 2, para 26.006 expresses the same view as Megarry
+and Wade in very similar language. Hill and Redman's Law of Landlord and Tenant,
+18th ed 1988, vol 1, at ppA264--265, paras A[631][639], is to the same effect, drawing
+a distinction between
+(a) reversionary leases, that is leases to take effect in reversion at the time of the grant,
+possession being postponed to a future date (which are outside the s 54(2) exception); and (b)
+leases which take effect in possession at once but where the term is calculated from a future
+date (which are within the exception).
+75. These plainly support Mr Walter's argument. Miss Hargreaves referred me to the
+contrary view expressed in Halsbury's Laws of England, 4th ed 1994 reissue, vol 27(1),
+at p87, para 78, where it says of section 54(2):
+The three years are computed from the day of the making of the lease; and, if the term does not
+commence at once, it must expire, or be capable of expiring, within three years from that day.
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+17
+
+[Rawlins v Turner (1699) 1 Ld Raym 736; Foster v Reeves [1892] 2 QB 255, per Lord Esher
+MR.] The exception to the requirement of a deed is not confined to leases commencing at the
+time they are made. [Ryley v Hicks (1725) 1 Stranage 651]
+76. One's confidence in that view might be somewhat greater were it not for the fact that
+the passage has remained unchanged since before 1925: compare Halsbury's Laws, 1st
+ed 1911, vol 18, at p384, para 830. Miss Hargreaves also referred me to Woodfall's Law
+of Landlord and Tenant, looseleaf ed 1994, vol 1, at p5/2, para 5.003,
+where Ryley v Hicks (1725) 1 Stranage 651 is still referred to as good authority, albeit
+not for the point at present in issue. Again, the passage in question has remained
+virtually unchanged since before 1925: compare Woodfall's Law of Landlord and
+Tenant, 21st ed 1924, at p158. Moreover, elsewhere in the current edition the view
+appears to be expressed that a lease takes effect in possession for the purposes of section
+54(2) only if it is to commence immediately and not at a future date: Woodfall, vol 1,
+at p6/8, para 6.019.
+77. The preponderance of the commentaries therefore supports Mr Walter. That fact though
+suggestive can hardly be decisive. There are, however, in my judgment, three reasons
+why Mr Walter's argument is indeed correct.
+78. In the first place, the words 'in possession', when used as part of the phrase 'taking effect
+in possession for a term not exceeding three years', in my judgment, have their normal
+legal meaning. They connote an estate or interest in the land which is vested 'in
+possession' rather than merely vested 'in interest'. This reading is powerfully reinforced
+by the distinction drawn in section 205(1)(xxvii) of the Law of Property Act 1925
+between a 'term of years taking effect in possession' and a 'term of years taking effect
+in reversion'. The words 'taking effect in possession' in section 54(2) are, in my
+judgment, used in the same sense in which those words are used in section 205(1)(xxvii)
+and thus, and this is the critical point, in distinction to the words 'taking effect in
+reversion'. This, as it seems to me, demonstrates that, as Mr Walter submits,
+reversionary leases were not intended to come within the ambit of section 54(2). Putting
+the same point rather differently, the words 'taking effect in possession' are used in
+section 54(2) in such a way as to achieve the same result as that contended for by
+Dampier J in Inman v Stamp when he sought to argue that the exception in section 2 of
+the Statute of Frauds applied only to leases 'executed by possession'.
+79. Second, it is very difficult, if Miss Hargreaves' argument is correct, to see what was the
+purpose of including the words 'in possession' in section 54(2) at all. It is implicit in her
+argument that the words 'taking effect in possession' in section 54(2) are descriptive of
+the quality of the lease at the date when the term commences and not of the quality of
+the lease at the date of the parol grant. Given the definition of 'possession' in section
+205(1)(xix) of the Law of Property Act 1925, however, it would seem that any lease,
+even a concurrent lease, must necessarily take effect 'in possession' at the date when the
+term commences. So, if Miss Hargreaves is correct, the words 'in possession' add
+nothing to what would otherwise be the effect of section 54(2).
+80. The third reason is, in my judgment, decisive. It will be remembered that those leases
+which fell within the exception in section 2 of the Statute of Frauds were defined, so
+far as is material for present purposes, as being
+Leases not exceeding the Term of Three Years from the making thereof.
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+18
+
+81. In contrast, those leases which fall within the exception in section 54(2) are defined, so
+far as is material for present purposes, as being
+leases taking effect in possession for a term not exceeding three years.
+82. It will be seen that the three-year period referred to in section 2 of the Statute of Frauds
+is not the same as the three-year period referred to in section 54(2). Under the Statute
+of Frauds the three-year period was the period 'from the making' of the lease, in other
+words the period of three-years from the date of the parol grant. Thus, whether or not
+the language of section 2 implicitly required the term of the lease to commence on 'the
+making thereof' (the point on which Dampier J in Inman v Stamp thought
+that Ryley v Hicks (1725) 1 Stranage 651 had been wrongly decided), the words 'not
+exceeding the Term of Three Years from the making thereof' plainly meant that, as held
+by Holt CJ in Rawlins v Turner (1699) 1 Ld Raym 736, no lease by parol could be good
+which imported to convey an interest for more than three-years from the time of the
+making. Under section 4(2), on the other hand, the three-year period is the period of the
+term comprised in the lease. Moreover, there has been omitted from section 4(2) any
+express reference to the date of 'the making' of the lease. Thus, if Miss Hargreaves'
+argument is correct, there is no limit expressed in section 54(2) to the period which may
+elapse before the lease 'tak[es] effect in possession', the only requirement being that the
+lease, when eventually it does 'tak[e] effect in possession', must be 'for a term not
+exceeding three years'. On this footing the only limit to the period which might elapse
+before the term 'tak[es] effect in possession' would be the period of 21 years specified
+in section 149(3) of the Law of Property Act 1925.
+83. Miss Hargreaves, of course, recoils from going this far. Her argument acknowledges
+that the term, whether it is to commence immediately or at some date in the future, must
+not extend beyond three years from the date of the parol grant. However it is impossible
+to find that limitation in the language of section 54(2) unless it is to be found, as I think
+it is to be found, in the crucial words 'taking effect in possession', those words then
+being understood, as they have to be understood, in the sense which I have already
+indicated. Indeed, Miss Hargreaves comes very close to recognising how far the logic
+of her argument drives her when she suggests that the restrictions on the grant of
+reversionary leases are to be found in section 149 of the Law of Property Act 1925, and
+not in section 54(2). But this, in my judgment, is quite impossible. There is simply no
+basis for suggesting that what parliament envisaged when it repealed section 2 of the
+Statute of Frauds and enacted section 54(2) was the grant of parol leases which might
+not come into effect for 21 years and might not come to an end for 24 years. It makes
+sense to suggest, as is implicit in Mr Walter's argument, that parliament intended to
+clarify the law and, by adopting Dampier J's approach, to abolish the gloss
+to Rawlins v Turner (1699) 1 Ld Raym 736 represented by the somewhat controversial
+decision in Ryley v Hicks (1725) 1 Stranage 651. It is a very different thing indeed to
+suggest that parliament intended to sweep away the basic principle articulated
+in Rawlins v Turner and to widen so drastically the class of leases excepted from the
+operation of what are now sections 52(1) and 54(1) of the Law of Property Act 1925.
+84. One final comment on the matter is perhaps appropriate. As Mr Walter points out, the
+effect of construing section 54(2) in the way for which he contends is to put an end to
+the distinction, based on sections 2 and 4 of the Statute of Frauds and illustrated by
+cases such as Edge v Strafford (1831) 1 Cr & J 391, of an oral letting in futuro being
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+19
+
+enforceable qua lease, but not qua contract. If his construction of section 54(2) is
+correct, the effect of the Law of Property Act 1925 was to make equally unenforceable
+both an oral executory agreement to grant a lease (section 40) and an oral attempt to
+grant a lease taking effect in possession in the future (section 54(2)), and, accordingly,
+to put an end to the need to distinguish between those oral transactions for a future
+tenancy which, as a matter of construction, took effect as mere agreements, and were
+thus unenforceable by virtue of section 4 of the Statute of Frauds, and those oral
+transactions which, as a matter of construction, took effect as leases, and thus fell within
+the exception in section 2 of the Statute of Frauds. It is tempting to think that this was,
+indeed, parliament's intention when it replaced section 2 of the Statute of Frauds with
+section 54(2) of the Law of Property Act 1925, but the temptation, which rests on mere
+speculation, must in my judgment be resisted. Be that as it may, it is of some comfort
+to note that, accepting Mr Walter's submission, as I do, this is indeed the effect of the
+legislation.
+85. Accordingly Mr Walter is correct, in my judgment, when he submits that reversionary
+leases conferring no immediate right to take possession are altogether excluded from
+the ambit of section 54(2) of the Law of Property Act 1925 and that such reversionary
+leases can take effect only if made by deed. It follows that the tenancy document (which
+it is common ground was a reversionary lease not made by deed and not conferring on
+Mr Long an immediate right to take possession) was incapable of taking effect as a
+parol lease under section 54(2). Thus, as Mr Walter submits, the tenancy which
+undoubtedly came into existence was not one created by the tenancy document but
+rather one which arose by operation of law. From this it follows, in my judgment, that
+the tenancy document is not a 'lease in writing' within the meaning of para 5(1) of
+Schedule 1 to the Limitation Act 1980. Accordingly, and as a matter of law, Miss
+Hargreaves fails in her first argument for striking out Mr Long's claim.
+Issue 2 - the Landlord and Tenant Act 1954
+86. Miss Hargreaves' second argument is based on the provisions of the Landlord and
+Tenant Act 1954. She submits that Mr Long's tenancy was a tenancy to which Part II
+of the Landlord and Tenant Act 1954 applied. Section 24(1) of that Act provides that:
+A tenancy to which this Part of this Act applies shall not come to an end unless terminated in
+accordance with the provisions of this Part of this Act;
+an event which, she says, did not occur in the present case until the notice to quit given to Mr
+Long in or about September 1983 expired on March 25 1984. She points out that section 24(2)
+of the Landlord and Tenant Act 1954 does not include the operation of the Limitation Act 1980
+among the list of matters which, notwithstanding section 24(1), are expressed not to prevent a
+tenancy to which the Act applies coming to an end. In short, she submits, the effect of the clear
+and mandatory language of section 24(1) is to make it impossible for the tenant under a tenancy
+to which Part II of the Act applies to be in adverse possession within the meaning of para 8(1)
+of Schedule 1 to the Limitation Act 1980 until such time as the tenancy has been terminated in
+accordance with the provisions of Part II of the Act. The argument is entirely novel: neither
+Miss Hargreaves nor Mr Walter was able to point me to any authority in which the point has
+been canvassed let alone decided.
+87. A
+similar
+argument
+in
+the
+context
+of
+the
+Rent
+Acts
+was
+rejected
+in Moses v Lovegrove [1952] 2 QB 533. I have to confess that my initial reaction to
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+20
+
+Miss Hargreaves' argument reflected that of Sir Raymond Evershed MR when he said
+at p537:
+Such a view, if well founded is, I think, somewhat startling, for it would necessarily follow
+therefrom that in a case of premises controlled or covered by the Rent Restriction legislation,
+unless the statutory period under the Limitation Act, 1939, had expired before they came under
+the control, no Limitation Act could ever run in favour of the tenant, or could ever run at all,
+so long as the Rent Restriction legislation remains on the statute book.
+There is a further reason for thinking such a conclusion surprising, and it was a reason noticed
+by my brother Romer during the argument: the Rent Restriction legislation is intended to
+protect tenants. If … [counsel] is right, it would, in this instance, have the peculiar and oblique
+effect of preserving to the landlord a right in respect of this property, which she would
+indubitably, on the argument, otherwise have lost.
+88. Miss Hargreaves points out, however, that there is a fundamental difference between
+the operation of the Rent Acts and the operation of Part II of the Landlord and Tenant
+Act 1954. Whereas the Rent Acts do not prevent the termination of the tenancy by a
+common law notice to quit, and thus confer on the protected tenant no more than what
+has been described as a 'personal status or statutory right of irremovability', Part II of
+the Landlord and Tenant Act 1954 continues the common law tenancy, albeit with a
+statutory variation as to the mode of determination. What Miss Hargreaves says as to
+the distinction between the two statutory schemes of protection is, of course, entirely
+correct. For my part, however, I doubt that the distinction which Miss Hargreaves draws
+really bears upon the reasoning which underlay the decision of the Court of Appeal
+in Moses v Lovegrove [1952] 2 QB 533 or that it is sufficient, for the purposes of the
+proper application of the Limitation Act 1980, to justify distinguishing the two types of
+case in the way she suggests.
+89. Be that as it may (and I wish to emphasise that I am expressing no final view on Miss
+Hargreaves' submissions), there is, in my judgment, a fundamental flaw in her argument
+which makes it impossible for her to succeed at this stage in the litigation. This is that
+her argument assumes that Mr Long's tenancy was a tenancy to which Part II of the
+Landlord and Tenant Act 1954 applied at the material times. However, Part II of the
+Act applies only to tenancies where the property comprised in the tenancy is or includes
+premises occupied by the tenant for the purposes of a business carried on by him or for
+those and other purposes: section 23(1). Given the factual disputes between the parties
+to which I have already referred, and the general paucity of the evidence at present
+before the court, it would not, in my judgment, be appropriate to assume for the
+purposes of this striking out application, as on Miss Hargreaves' case to have to, that
+Mr Long was at the material times occupying the whole or some part of the premises
+for the purposes of a business being carried on by him.
+90. Accordingly I reject Miss Hargreaves' second argument for striking out Mr Long's
+claim.
+Issue 3 - acknowledgement
+91. Miss Hargreaves' final argument is that Mr Long acknowledged the GLC's title to the
+premises in 1984, that is less than 12 years before the present proceedings were
+commenced. In this connection she relies upon sections 29 to 31 of the Limitation Act
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+21
+
+1980. She accepts that the acknowledgement must be in writing. She puts her case in
+two ways.
+92. First, she relies upon a letter dated January 12 1984 written to the GLC by Jones, Son
+& Day, a firm of estate agents and valuers who Mr Walter accepts were acting as Mr
+Long's agents. The letter was in the following terms:
+Long Brothers
+Clemence Street Site
+11/19 & 21 Turners Road
+We refer to your letter of 14th September with enclosure. Since it would appear our clients are
+entitled to compensation for disturbance we shall be obliged if appropriate claim form be
+forwarded.
+As our clients would prefer alternative accommodation they ask if your Council have any lock-
+up type store in the area to let of 500/600 square feet.
+93. Neither the letter of September 14 1983 nor its enclosure was in evidence before me.
+Both seem to have been lost.
+94. Deputy Master Wall thought that the reference to compensation might have been to
+statutory compensation following the service of a compulsory purchase order. Miss
+Hargreaves was able to demonstrate to my satisfaction that this cannot have been the
+case, and Mr Walter does not seek to argue the contrary. Miss Hargreaves and Mr
+Walter are at one in accepting that the enclosure to the missing letter of September 14
+1983 was in all probability a notice to quit served in accordance with Part II of the
+Landlord and Tenant Act 1954, and in accepting that the reference to compensation in
+the letter of January 12 1984 was in all probability a reference to compensation payable
+under that Act. Mr Walter, however, draws attention to the fact that, while the letter of
+January 12 1984 referred to two other properties in addition to the premises, namely 11
+and 19 Turners Road, it referred to the letter of September 14 1983 as having apparently
+contained only a single enclosure. Therefore, he says, it is not shown with that degree
+of probability necessary to justify the striking out of Mr Long's claim, either that the
+letter of September 14 1983 contained a notice to quit the premises, as opposed to a
+notice to quit one or other or both of the other properties, or that the letter of January
+12 1984 was written with reference to the premises.
+95. Furthermore, says Mr Walter, the letter of January 12 1984 did not constitute an
+acknowledgment of the GLC's title to anything because it was not making any definite
+assertion. The critical words 'it would appear' are, he says, suggestive of no more than
+an inference derived from a document just received rather than an assertion or
+admission of fact. The letter of January 12 1984 merely assumes for the sake of
+argument that something said in the missing letter of September 14 1983 may be
+correct, but without acknowledging that it necessarily is. It amounts, he says, to nothing
+more than a comment to the effect that 'on the basis of what you say in your letter, and
+assuming for the sake of argument that it is correct, it would appear … '. The request
+for a claim form cannot, he says, be read as an admission of anything. He points out
+that it is difficult to construe the letter of January 12 1984 without knowing what had
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+22
+
+been said in the letter of September 14 1983 and without knowing the precise form of
+its enclosure. He relies upon the subjunctive use of the word 'would' which, he says, is
+not consistent with an unequivocal acknowledgment.
+96. I can see the force of Mr Walter's arguments. The point, in a sense, is a short one, but
+at the end of the day, and not having seen either the letter of September 14 1983 or its
+enclosure, I am not prepared to hold that the letter of January 12 1984 constituted an
+acknowledgment by Mr Long of GLC's title to the premises.
+97. In the alternative, Miss Hargreaves relies upon the following letter written to the GLC
+by Mr Long on March 1 1984:
+As explained to your dept on many times we are exempt from water rates, we have no toilets
+no running water at all. One of your men came round and had a look at the premises later part
+of last year to see for himself what I said was correct.
+98. Miss Hargreaves says, on the evidence I have seen no doubt correctly, that the GLC's
+practice was to collect water rates on behalf of Thames Water only in respect
+of tenanted properties. Therefore, she says, the very fact that in 1984 the GLC were, as
+the evidence shows, trying to collect water rates from Mr Long indicates that he must
+still have been paying rent to GLC for the shop. That may or may not be so, but as I
+have already said the date when Mr Long last paid rent is a matter which can only be
+resolved at trial. More to the point, however, Miss Hargreaves submits that there would
+have been no purpose in Mr Long approaching GLC with the complaint about the water
+supply set out in his letter of March 1 1984 unless he had thought that GLC was
+responsible for the water supply by reason of his tenancy. Therefore, she says, the letter
+of March 1 1984 constitutes an acknowledgment by Mr Long of the GLC's title to the
+premises.
+99. Mr Walter says that the letter of March 1 1984 cannot possibly be construed as an
+acknowledgment of GLC's title as freeholder. The only admission, he says, is that the
+GLC were demanding payment of the water rate. I agree. It is, in my judgment, nothing
+to the point that the GLC's practice was to collect water rates only from tenanted
+properties and that the GLC may therefore have thought that Mr Long was their tenant.
+There is nothing in the evidence I have seen to show that Mr Long either knew of the
+GLC's practice or had any reason to believe that the reason why the GLC were
+demanding payment of the water rates was because they were treating him as their
+tenant. There is, in my judgment, no warrant for Miss Hargreaves' assertion that Mr
+Long must have thought that the GLC were responsible for the water supply by reason
+of his tenancy. Absent knowledge of the GLC's practice, there is any number of reasons
+why someone in Mr Long's position may have thought that the GLC, a local authority
+exercising many public functions, was responsible for collecting water rates.
+Acknowledgment by Mr Long that the GLC had some form of responsibility for the
+water supply to the premises cannot of itself and without more ado, in my judgment,
+constitute an acknowledgment by him of the GLC's title to the land. Someone like Mr
+Long is as likely to have thought that the GLC were exercising their functions as local
+authority as to have thought that their involvement was as owner of the land.
+Conclusion
+
+Long v Tower Hamlets London Borough Council [1996] EWHC Ch 1 (20
+March 1996).docx
+23
+
+100.
+Accordingly, in my judgment, Miss Hargreaves has failed to make out any of
+the grounds she relies upon to justify striking out Mr Long's claim. It may be that, at
+trial, she will succeed in making good one or other of the matters on which I have held
+there to be triable issues. But she has failed to show, as she must if it is to be struck out
+at this stage, that Mr Long's claim is doomed to fail. Mr Long is entitled to go to trial
+to have his claim determined.
+101.
+It follows, in my judgment, that Mr Long's appeal must be allowed. I shall
+therefore set aside the order made by Deputy Master Wall on September 26 1995 and
+dismiss the summons issued by the council on March 21 1995.
+Appeal allowed.

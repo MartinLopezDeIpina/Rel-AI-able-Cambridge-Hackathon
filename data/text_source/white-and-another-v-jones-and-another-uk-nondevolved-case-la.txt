@@ -1,0 +1,2008 @@
+81
+
+HOUSE OF LORDS
+
+OPINIONS OF THE LORDS OF APPEAL FOR JUDGMENT
+IN THE CAUSE
+
+WHITE AND ANOTHER
+(RESPONDENTS)
+
+v.
+
+JONES AND OTHERS
+(APPELLANTS)
+
+ON 16th FEBRUARY 1995
+
+LORD KEITH OF KINKEL
+
+My Lords,
+
+I have had the advantage of reading in draft the speech to be delivered
+by my noble and learned friend Lord Mustill, and I agree with it.
+
+I am unable to reconcile the allowance of the plaintiffs' claim with
+principle, or to accept that to do so would represent an appropriate advance
+on the incremental basis from decided cases. The position is that the
+defendant Mr. Jones contracted with the testator, Mr. Barratt, to perform a
+particular service for him, namely to take the appropriate steps to enable Mr.
+Barratt's revised testamentary intentions to receive effect. He negligently
+failed to take these steps with due expedition with the result that upon Mr.
+Barratt's death the plaintiffs did not become entitled to the testamentary
+provisions which but for that failure they would have been taken.
+
+The contractual duty which Mr. Jones owed to the testator was to
+secure that his testamentary intention was put into effective legal form
+promptly. The plaintiffs' case is that precisely the same duty was owed to
+them by Mr. Jones in tort. If the intended effect of the contract was between
+Mr. Jones and the testator had been that an immediate benefit, provided by Mr.
+Jones, should be conferred on the plaintiffs, and by reason of Mr. Jones's
+deliberate act or his negligence the plaintiffs had failed to obtain the benefit,
+the plaintiffs would have had no cause of action against Mr. Jones for breach
+of contract, because English law does not admit of jus quaesitum tertio. Nor
+would they have had any cause of action against him in tort, for the law
+would not, I think, allow the rule against jus quaesitum tertio to be
+circumvented in that way. To admit the plaintiffs' claim in the present case
+would in substance, in my opinion, be to give them the benefit of a contract
+to which they were not parties.
+
+- 1 -
+
+Lord Keith
+of Kinkel
+
+Lord Goff
+of Chieveley
+Lord Browne-
+Wilkinson
+Lord Mustill
+Lord Nolan
+
+Further there is, in my opinion, no decided case the grounds of
+decision in which are capable of being extended incrementally and by way of
+analogy so as to admit of a remedy in tort being made available to the
+plaintiffs. Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C.
+465 was a case where the defendants, in response to a request from the
+plaintiffs, had made a representation about the financial soundness of a certain
+concern, in reliance upon which the plaintiffs had acted and in doing so had
+suffered financial loss. This House held that but for a disclaimer of liability
+the defendants would have been liable in damages for negligence in the
+making of the representation. In that case there was a direct relationship
+between the parties creating such proximity as to give rise to a duty of care.
+Here there was no relationship between the plaintiffs and Mr. Jones, nor did
+Mr. Jones do or say anything upon which the plaintiffs acted to their
+prejudice. No damage was done or by Mr. Jones to any existing financial or
+other interest of the plaintiffs. The intention to benefit the plaintiffs existed
+only in the mind of the testator, and if it had received legal effect would have
+given them only a spes successionis of an ambulatory character.
+
+In Henderson v. Merrett Syndicates Ltd. [1994] 3 W.L.R. 761 the
+managing agents were engaged in conducting the financial affairs of the
+Names belonging to the syndicates under their charge. It was alleged that
+they managed these affairs with a lack of due care which involved the Names
+in enormous losses. It was held by this House that the managing agents owed
+to the Names a duty of care in tort, it being irrelevant that no contractual
+relationship existed between them. Here Mr. Jones was not engaged in
+managing any aspect of the plaintiffs' affairs. He was employed only to deal
+with a particular aspect of the testator's affairs.
+
+Upon the whole matter I have found the conceptual difficulties involved
+in the plaintiffs' claim, which are fully recognised by all your Lordships, to
+be too formidable to be resolved by any process of reasoning compatible with
+existing principles of law.
+
+I would therefore allow the appeal
+
+LORD GOFF OF CHIEVELEY
+
+My Lords,
+
+In this appeal, your Lordships' House has to consider for the first time
+the much discussed question whether an intended beneficiary under a will is
+entitled to recover damages from the testator's solicitors by reason of whose
+negligence the testator's intention to benefit him under the will has failed to
+be carried into effect. In Ross v. Caunters [1980] Ch. 297, a case in which
+the will failed because, through the negligence of the testator's solicitors, the
+will was not duly attested, Sir Robert Megarry V.C. held that the disappointed
+
+- 2 -
+
+beneficiary in the ineffective will was entitled to recover damages from the
+solicitors in negligence. In the present case, the testator's solicitors
+negligently delayed the preparation of a fresh will in place of a previous will
+which the testator had decided to revoke, and the testator died before the new
+will was prepared. The plaintiffs were the two daughters of the testator who
+would have benefited under the fresh will but received nothing under the
+previous will which, by reason of the solicitors' delay, remained unrevoked.
+It was held by the Court of Appeal, reversing the decision of Turner J., that
+the plaintiffs were entitled to recover damages from the solicitors in
+negligence. The question which your Lordships have to decide is whether, in
+cases such as these, the solicitors are liable to the intended beneficiaries who,
+as a result of their negligence, have failed to receive the benefit which the
+testator intended they should receive.
+
+The facts
+
+I shall now set out the facts of the present case, and for this purpose
+I shall gratefully adopt the account of the Vice-Chancellor, Sir Donald
+Nicholls, set out in [1993] 3 W.L.R. 730, 733E-734H, which reads as
+follows:
+
+"The action arises out of an unfortunate family rift. Mr. Arthur
+Barratt and his wife lived at 84, Whitecroft Road, Sheldon,
+Birmingham. They had two children, Carol and Pauline. Carol
+married twice, first to Peter Gould, and later to David White. She
+lived next door at 82, Whitecroft Road. She moved there to be close
+to her parents after her father had a stroke in 1983. Carol had three
+girls: Mandy and Maxine by her first marriage, Karen by her second.
+Pauline, the other daughter, also lived nearby, three or four minutes'
+walk away. She was married to John Heath, and they had two boys,
+Stephen and Andrew.
+
+Mrs. Barratt died on 23 January 1986. There was then a family row
+between Mr. Barratt and Pauline (Mrs. Heath). About the removal of a
+money box belonging to Mrs. Barratt. Carol (Mrs. White) sided with
+her sister. Mr. Barratt felt so strongly that he made a will cutting both
+his daughters out of his estate. There was no evidence that he had
+previously made a will. The will, executed on 4 March 1986, was
+prepared by the defendant firm of solicitors, Philip Baker King & Co.
+The first defendant, Mr. John Jones, was a legal executive employed
+by the firm. He had known Mr. Barratt for some years. Mr.
+Barratt's estate consisted principally of a house worth £27,000, about
+£1,000 in a building society, and insurances totalling some £1,000.
+By his will Mr. Barratt appointed his former son-in-law Peter Gould,
+his granddaughter Mandy, and Mr. Jones to be his executors. He gave
+£100 each to two of his grandchildren, Karen and Andrew. Apart
+from these small legacies he left his estate equally between Peter
+Gould, Mandy and Maxine. He left nothing to either daughter.
+
+- 3 -
+
+Happily, the estrangement between Mr. Barratt and his daughters did
+not continue for long. By mid-June 1986 they were reconciled. Mr.
+Barratt became concerned at the terms of the will he had made. He
+told his daughters what he had done and what he wished to happen.
+He told Mr. Jones on the telephone that he wanted to change his will.
+Carol White also spoke to Mr. Jones on the telephone about her
+father's wishes. Mr. Jones suggested that Mr. Barratt should jot down
+what he wanted and he, Mr. Jones, would deal with it. Mr. Barratt
+destroyed his copy of the March 1986 will. Mr. Heath was in the
+habit of writing letters for Mr. Barratt. In the middle of July he wrote
+out a letter addressed to Mr. Jones setting forth instructions for the
+new will: Carol and Pauline were to have £9,000 each, the five
+grandchildren £1,600 each, Carol and Pauline were to be responsible
+for the legal costs, and they were to dispose of the contents of the
+house. The letter said: 'I have destroyed the original will ... I trust
+the above is as required.' The letter was signed by Mr. Barratt. It
+was posted to the solicitors and received by them on 17 July.
+
+Regrettably, nothing was done by Mr. Jones to give effect to these
+instructions for a month. Appointments were made for Mr. Jones to
+call round to see Mr. Barratt on three successive Thursdays but Mr.
+Jones did not keep them. Then on 16 August he dictated an internal
+memorandum to a member of the firm's probate department, which
+read:
+
+'Re: Arthur Thomas Barratt [sic] - New Will. Keith Amos
+drew up a will which is filed away under reference 30C.
+Please see Mr. Barratt's instructions in his letter received on 17
+July. I have considered the matter and feel possibly a new will
+should be drawn up if an addendum cannot be made. Would
+you be kind enough to do it as soon as possible and let me
+know the amount of your costs. Mr. Barratt is a friend of
+mine and I [will] pop along to his house to witness the will and
+obtain costs. I have an appointment to see Mr. Barratt on
+[blank] and if at all possible could you let me have the will by
+that date.'
+
+On the following day Mr. Jones went away on holiday. A week later,
+on 23 August, Mr. Barratt went off to Weston-super-Mare for a
+fortnight's holiday. Mr. Jones returned to the office on Monday, 1
+September, and Carol arranged an appointment for him to call and see
+Mr. Barratt on 17 September. That was the first available date after
+Mr. Barratt's return from holiday. Meanwhile nothing further had
+been done within the firm regarding Mr. Barratt's will. Indeed, the
+memo dictated by Mr. Jones on 16 August was not even transcribed
+until 5 September, four days after Mr. Jones came back from holiday.
+
+- 4 -
+While on holiday Mr. Barratt, who was aged 78, fell and hit his head.
+He returned home on 6 or 7 September. At the weekend he suffered
+a heart attack, and he died on 14 September.
+
+In due course the will executed in March 1986 was admitted to
+probate. So there were the two documents: the will and the letter of
+instructions for a new will. The letter was not witnessed as required
+by the Wills Act 1837 (7 Will. 4 & 1 Vict. c. 26), so it could not
+itself stand and take effect as a will. The family were unable to agree
+on how the estate should be divided. The daughters took the view that
+Mr. Jones's inexcusable delay was the cause of their not having
+received £18,000 from their father's estate. Had Mr. Jones done what
+he should have done, the March 1986 will would have been revoked
+and replaced with a new will benefiting them. So they brought an
+action for damages for negligence."
+
+The decisions of the courts below
+
+The action was heard by Turner J. He dismissed the plaintiffs' claim.
+First, he decided that not apply Ross v. Caunters [1980] Ch. 297 in a case
+where there had been a failure to draw up the will for execution, as opposed
+to a case where (as in Ross v. Caunters) the will had been drawn up and
+executed, but had not been properly attested. Second, he held that on the
+facts of the present case the damage was too speculative and uncertain in
+extent to be recoverable. The Court of Appeal [1993] 3 W.L.R. 730,
+however, reversed Turner J.'s decision on both these issues and so allowed
+the appeal, holding that the solicitors owed a duty of care to the two plaintiffs,
+and were in breach of that duty. They assessed the damages recoverable by
+the two plaintiffs at £9,000 each, being the minimum sum which each would
+have received under the second will if it had been drawn up and duly
+executed. The decision of the Court of Appeal to reverse the decision of
+Turner J. on the first of these issues raises a point of principle to which I will
+return later.
+
+Experience in other countries
+
+I turn to the principal issue which arises on the appeal, which is
+whether in the circumstances of cases such as Ross v. Caunters
+[1980] Ch. 297 and the present case the testator's solicitors are liable to the
+disappointed beneficiary. As I have already stated, the question is one which
+has been much discussed, not only in this country and other common law
+countries, but also in some civil law countries, notably Germany. There can
+be no doubt that Ross v. Caunters has been generally welcomed by academic
+writers (see, e.g., Salmond and Heuston on the Law of Torts, 20th ed. (1992)
+pp. 215, 217; Winfield & Jolowicz on Tort, 13th ed. (1989) pp. 88-89, 96,
+106; Fleming on Torts, 8th ed., (1992) p. 184, and Markesinis and Deakin
+on Tort Law, 3rd ed., (1994) pp. 95-98). Furthermore it does not appear to
+
+- 5 -
+have been the subject of adverse comment in the higher courts in this country,
+though it has not been approved except by the Court of Appeal in the present
+case. Indeed, as far as I am aware, Ross v. Caunters has created no serious
+problems in practice since it was decided nearly fifteen years ago. A similar
+conclusion has been reached in the courts of New Zealand (see Gartside v.
+Sheffield, Young & Ellis [1983] N.Z.L.R. 37), and the law appears to be
+developing in the same direction in Canada (see, in particular Peake v. Vernon
+& Thompson (1990) 49 B.C.L.R. (2d) 245, and Heath v. Ivens (1991) 57
+B.C.L.R. (2d) 39). The position in Australia (to which I will refer in a
+moment), is at present less clear. In the United States, following two earlier
+decisions in California (Biakanja v. Irving 320 P. 2d 16 (1958), in which
+liability was held to arise in tort, and Lucas v. Hamm 364 P. 2d 685 1961,
+in which the disappointed beneficiary as treated as a third party beneficiary
+of the testator's right of action against the negligent attorney), the trend now
+appears to be moving strongly in favour of liability (see 61 A.L.R. (4th) 444
+(1988) at pp. 470-475 (and Teaching)). For the American position generally,
+see the Restatement of the Law Governing Lawyers, Tentative Draft No. 7
+(April 7 1994), para. 73(3), and in particular comment f., and Illustration 2.
+Other cases are cited in the Reporter's Note under para. 73.) In Germany a
+disappointed beneficiary may be entitled to claim damages from the testator's
+negligent solicitor under the principle known as contract with protective effect
+for third parties (Vertrag mit Schutzwirkung für Dritte). I shall discuss the
+relevant German law on the subject in greater detail at a later stage in this
+opinion. It is also appears that a similar conclusion would be reached in France:
+see Jurisprudence (1979) 19243, Cass. civ. ler, 23 Nov. 1977; and
+Jurisprudence (1982) 19728, Cass. civ. ler, 14 Jan. 1981, which appears to
+be based on the broad principle that a notary is responsible, even as against
+third parties, for all fault causing damage committed by him in the exercise
+of his functions. On facts very similar to those of the present case, the Court
+of Appeal of Amsterdam has held a notary liable in negligence to the intended
+beneficiary: see NJ No. 740 31 Jan. 1985.
+
+The conceptual difficulties
+
+Even so, it has been recognised on all hands that Ross v. Caunters
+[1980] Ch. 297 raises difficulties of a conceptual nature, and that as a result
+it is not altogether easy to accommodate the decision within the ordinary
+principles of our law of obligations. Perhaps the most trenchant criticism of
+Ross v. Caunters is to be found in the judgments of Lush J. and (especially)
+Murphy J. in the decision of the Full Court of the Supreme Court of Victoria
+in Seale v. Perry [1982] V.R. 193, in which particular stress is laid upon the
+conceptual difficulties which it raises. It is however right to point out that,
+in that case, McGarvie J. took a rather different view, and further that the
+court, in declining to follow Ross v. Caunters, had also to decline to follow
+the decision of the Full Court of the Supreme Court of Western Australia in
+Watts v. Public Trustee of Western Australia [1980] W.A.R. 97, in which
+Ross v. Caunters was followed. Moreover in Finlay v. Rowlands, Anderson
+
+- 6 -
+
+& Hine [1987] Tas. R. 60. Seale v. Perry was not followed, the reasoning in
+Ross v. Caunters, being preferred. The decision of the High Court of
+Australia in Hawkins v. Clayton (1988) 164 C.L.R. 539, in which it was held
+by a majority that a solicitor who had retained custody of a will liable in
+tort to the executor for loss suffered by reason of the solicitor's failure to
+locate and notify him in due time of the testatrix's death, provides an
+indication that the High Court may be prepared to take a less strict approach
+to cases such as Ross v. Caunters than that adopted by the majority of the
+court in Seale v. Perry.
+
+It is right however that I should immediately summarise these
+conceptual difficulties. They are as follows:
+
+(1) First, the general rule is well established that a solicitor acting on
+behalf of a client owes a duty of care only to his client. The relationship
+between a solicitor and his client is nearly always contractual, and the scope
+of the solicitor's duties will be set by the terms of his retainer; but a duty of
+care owed by a solicitor to his client will arise concurrently in contract and
+in tort (see Midland Bank Trust Co. Ltd. v. Hett, Stubbs & Kemp [1979] Ch.
+384, recently approved by your Lordships' House in Henderson v. Merrett
+Syndicates Ltd. [1994] 3 W.L.R. 761). But, when a solicitor is performing
+his duties to his client, he will generally owe no duty of care to third parties.
+Accordingly, as Sir Donald Nicholls L.C. pointed out in the present case, a
+solicitor acting for a seller of land does not generally owe a duty of care to
+the buyer: see Gran Gelato Ltd. v. Richcliff (Group) Ltd. [1982] Ch. 560.
+Nor, as a general rule, does a solicitor acting for a party in adversarial
+litigation owe a duty of care to that party's opponent: see Al-Kandari v. J.R.
+Brown & Co. [1988] Q.B. 665, 672, per Lord Donaldson of Lymington M.R.
+Further it has been held in a solicitor advising a client about a prospective
+dealing with his property in his lifetime owes no duty of care to a prospective
+beneficiary under the client's then will who may be prejudicially affected: see
+Clarke v. Bruce Lance & Co. [1988] 1 W.L.R. 881.
+
+As I have said, the scope of the solicitor's duties to his client are set
+by the terms of his retainer; and as a result it has been said that the content
+of his duties are entirely within the control of his client. The solicitor can,
+in theory at least, protect himself by the introduction of terms into his contract
+with his client; but, it is objected, he could not similarly protect himself
+against any third party to whom he might be held responsible, where there is
+no contract between him and the third party.
+
+In these circumstances, it is said, there can be no liability of the
+solicitor to a beneficiary under a will who has been disappointed by reason of
+negligent failure by the solicitor to give effect to the testator's intention.
+There can be no liability in contract, because there is no contract between the
+solicitor and the disappointed beneficiary; if any contractual claim was to be
+recognised, it could only be by way of a ius quaesitum tertio, and no such
+
+- 7 -
+claim is recognised in English law. Nor could there be liability in tort,
+because in the performance of his duties to his client a solicitor owes no duty
+of care in tort to a third party such as a disappointed beneficiary under his
+client's will.
+
+(2) A further reason is given which is said to reinforce the conclusion that
+duty of care is owed by the solicitor to the beneficiary in tort. Here, it is
+suggested, is one of those situations in which a plaintiff is entitled to damages
+if, and only if, he can establish a breach of contract by the defendant. First,
+the plaintiff's claim is one for purely financial loss; and as a general rule,
+apart from cases of assumption of responsibility arising under the principle in
+Hedley Byrne & Co. Ltd v. Heller & Partners Ltd. [1964] A.C. 465, no
+action will lie in respect of such loss in the tort of negligence. Furthermore,
+in particular, no claim will lie in tort for damages in respect of a mere loss
+of an expectation, as opposed to damages in respect of damage to an existing
+right or interest of the plaintiff. Such a claim falls within the exclusive zone
+of contractual liability; and it is contrary to principle the law of tort
+should be allowed to invade that zone. Of course, Parliament can create
+exceptions to that principle by extending contractual rights to persons who are
+not parties to a contract, as was done, for example, in the Bills of Lading Act
+1855 and the Carriage of Goods by Sea Act 1992. But as a matter of
+principle a step of this kind cannot be taken by the courts, though they can
+redefine the boundaries of the exclusive zone, as they did in Donoghue v.
+Stevenson [1932] A.C. 562.
+
+The present case, it is suggested, falls within that exclusive zone.
+Here, it is impossible to frame the suggested duty except by reference to the
+contract between the solicitor and the testator - a contract to which the
+disappointed beneficiary is not a party, and from which, therefore, he can
+derive no rights. Second, the loss suffered by the disappointed beneficiary is
+not in reality a loss at all; it is, more accurately, a failure to obtain a benefit.
+All that has happened is that what is sometimes called a spes successionis has
+failed to come to fruition. As a result, he is not become better off; but he
+is not made worse off. A claim in respect of such a loss of expectation falls,
+it is said, clearly within the exclusive zone of contractual liability.
+
+(3) A third, and distinct, objection is that, if liability in tort was
+recognised in cases such as Ross v. Caunters [1980] Ch. 297, it would be
+impossible to place any sensible bounds to cases in which such recovery was
+allowed. In particular, the same liability should logically be imposed in cases
+where an inter vivos transaction was ineffective, and the defect was not
+discovered until the donor was no longer able to repair it. Furthermore,
+liability could not logically be restricted to cases where a specific named
+beneficiary was disappointed, but would inevitably have to be extended to
+cases in which wide, even indeterminate, classes of persons could be said to
+have been adversely affected.
+
+- 8 -
+(4) Other miscellaneous objections were taken, though in my opinion they
+were without substance. In particular:
+
+(a) Since the testator himself owes no duty to the beneficiary, it
+would be illogical to impose any such duty on his solicitor. I
+myself cannot however see any force in this objection.
+
+(b) To enable the disappointed beneficiary to recover from the
+solicitor would have the undesirable, and indeed fortuitous,
+effect of substantially increasing the size of the testator's estate
+- even of doubling it in size; because it would not be possible
+to recover any part of the estate which had lawfully devolved
+upon others by an unrevoked will or on an intestacy, even
+though that was not in fact the testator's intention. I cannot
+however see what impact this has on the disappointed
+beneficiary's remedy. It simply reflects the fact that those who
+received the testator's estate, either under an unrevoked will or
+on an intestacy, were lucky enough to receive a windfall; and
+in consequence the estate is, so far as the testator and the
+disappointed beneficiary are concerned, irretrievably lost.
+
+(5) There is however another objection of a conceptual nature, which was
+not adumbrated in argument before the Appellate Committee. In the present
+case, unlike Ross v. Caunters itself, there was no act of the defendant solicitor
+which could be characterised as negligent. All that happened was that the
+solicitor did nothing at all for a period of time, with the result that the testator
+died before his new testamentary intentions could be implemented in place of
+the old. As a general rule, however, there is no liability in tortious
+negligence for an omission, unless the defendant is under some pre-existing
+duty. Once again, therefore, the question arises how liability can arise in the
+present case in the absence of a contract.
+
+Point (5) apart, such were the principal arguments addressed to the
+Appellate Committee by Mr. Matheson Q.C. on behalf of the appellants in the
+present case. In addition Professor Jolowicz Q.C. developed, on behalf of the
+appellants, the argument based upon the principle of an exclusive zone of
+contractual liability. I myself was much assisted by these arguments, as I was
+by the admirable argument addressed to the Committee by Mr. Mitting Q.C.
+on behalf of the respondents.
+
+Robertson v. Fleming
+
+There is undoubted force in the principal contentions advanced on
+behalf of the appellants. Moreover the appellants were able to rely, in support
+of their argument, on a decision of your Lordships' House, Robertson v.
+Fleming 1861 4 Macq. 167, which came before this House on appeal from the
+Court of Session. In that case, sureties were seeking to claim damages from
+a solicitor, instructed by the debtor "for behoof of" the sureties to prepare
+
+- 9 -
+
+documentation designed to enable the sureties to have the benefit of security
+in the form of leasehold property to which the debtor was entitled. The
+relevant document, which took the form of a bond of relief and assignation in
+favour of the sureties, failed to achieve the desired effect because, through the
+negligence of the solicitor, notice of the assignation was not given to the
+landlord. In the litigation the principal issue related to the meaning of the
+expression "for behoof of", the question being whether it meant "by authority
+of", so that it was effective to create the necessary privity between the sureties
+and the solicitor, or whether it simply meant "for the benefit of", in which
+case it did not have that effect. In the course of their speeches in the House
+some of their Lordships, when stating that the mere fact that the work was
+done for the benefit of the sureties was not sufficient to give rise to liability
+on the part of the solicitor to the sureties, referred to the example of a claim
+against a solicitor by a disappointed legatee as being so contrary to principle
+as to illustrate clearly why the claim in the case before them was unfounded:
+see p. 177, per Lord Campbell L.C.; p. 185, per Lord Cranworth; and pp.
+200-201, per Lord Wensleydale. Lord Campbell spoke in particularly strong
+terms, when he said of the sureties' argument (at p. 177):
+
+"If this were law a disappointed legatee might sue the solicitor
+employed by a testator to make a will in favour of a stranger, whom
+the solicitors never saw or before heard of, if the will were void for not
+being properly signed and attested. I am clearly of opinion that this
+is not the law of Scotland, nor of England, and it can hardly be the
+law of any country where jurisprudence has been cultivated as a
+science."
+
+Statements such as these no doubt represented the law as understood
+in this country over a century ago. Moreover, as I have already observed, the
+general rule today is that, subject to his duties to the court and the
+professional duties imposed upon his profession, a solicitor can acting for
+his client owes no duty to third parties. But the problem which arises in the
+present case relates to the particular position of an intended beneficiary under
+a will or proposed will to which the solicitor has negligently failed to give
+effect in accordance with the instructions of his client, the testator, and the
+question is whether exceptionally a duty of care should be held to be owed by
+the solicitor to the disappointed beneficiary in those circumstances. I myself
+do not consider that the existence of such a duty of care can simply be
+dismissed by reference to the sweeping statements made in Robertson v.
+Fleming. For the law has moved on from those days. Nowadays questions
+such as that in the present case have to be considered anew, and statements
+of the law, such as that of Lord Campbell, cannot be allowed to foreclose the
+argument of the plaintiffs in the present case; indeed, although they
+demonstrate the importance attached to the doctrine of privity of contract in
+1861, nevertheless they did not form part of the ratio decidendi of the case,
+in which the question at issue in the present case did not fall to be decided.
+It follows that, although the views expressed on the point in Robertson v.
+Fleming are still entitled to great respect, your Lordships are in my opinion
+
+- 10 -
+
+free to depart from them without having recourse to the Practice Direction of
+1966 for that purpose. Even so, they add force to the conceptual argument
+advanced on behalf of the appellants in the present case.
+
+The impulse to do practical justice
+
+Before addressing the legal questions which lie at the heart of the
+present case, it is, I consider, desirable to identify the reasons that which
+prompt judges and academic writers to conclude, like Megarry V-C. in Ross
+v. Caunters, that a duty should be owed by the testator's solicitor to a
+disappointed beneficiary. The principal reasons are, I believe, as follows.
+
+(1) In the forefront stands the extraordinary fact that, if such a duty is not
+recognised, the only persons who might have a valid claim (i.e., the testator
+and his estate) have suffered no loss, and the only person who has suffered a
+loss (i.e., the disappointed beneficiary) has no claim: see Ross v. Caunters
+[1980] Ch. 297, 303F, per Sir Robert Megarry V-C. It can therefore be said
+that, if the solicitor owes no duty to the intended beneficiaries, there is a
+lacuna in the law which needs to be filled. This I regard as being a point of
+cardinal importance in the present case.
+
+(2) The injustice of denying such a remedy is reinforced if one considers
+the importance of legacies in a society which recognises (subject only to the
+incidence of inheritance tax and statutory requirements for provision over
+relatives) the right of citizens to leave their assets to whom they please, and
+in which, as a result, legacies can be of great importance to individual
+citizens, providing very often the only opportunity for a citizen to acquire a
+significant capital sum; or to inherit a house, so providing a secure roof over
+his heads of himself and his family; or to make special provision for his or
+her old age. In the course of the hearing before the Appellate Committee
+Mr. Matheson Q.C. (who was instructed by the Law Society to represent the
+appellant solicitors) placed before the Committee a schedule of claims of the
+character that in the present case notified to the Solicitors' Indemnity Fund
+following the judgment of the Court of Appeal below. It is striking that,
+where the amount of the claim was known, it was, by today's standards, of
+a comparatively modest size. This perhaps indicates that it is where a testator
+instructs a small firm of solicitors that mistakes of this kind are most likely
+to occur, with the result that it tends to be people of modest means, who need
+the money so badly, who suffer.
+
+(3) There is a sense in which the solicitors' profession cannot complain if
+such a liability may be imposed upon their members. If one of them has been
+negligent in such a way as to defeat his client's testamentary intentions, he
+must regard himself as very lucky indeed if the effect of the law is that he is
+not liable to pay damages in the ordinary way. It can involve no injustice to
+render him subject to such a liability, even if the damages are payable not to
+his client's estate for distribution to the disappointed beneficiary (which might
+have been the preferred solution) but direct to the disappointed beneficiary.
+
+- 11 -
+
+(4) That such a conclusion is required is a matter of justice is reinforced
+by consideration of the role played by solicitors in society. The point was
+well made by Cooke J. in Gartside v. Sheffield, Young & Ellis [1983]
+N.Z.L.R. 37, 43, when he observed that:
+
+"To deny an effective remedy in a plan case would seem to imply a
+refusal to acknowledge the solicitor's professional role in the
+community. In practice the public relies on solicitors (or statutory
+officers with similar functions) to prepare effective wills."
+
+The question therefore arises whether it is possible to give effect in law
+to the strong impulse for practical justice which is the fruit of the foregoing
+considerations. For this to be achieved, I respectfully agree with the
+Sir Donald Nicholls V. C. when he said (see [1993] 3 W.L.R. 730, 739) that
+the court will have to fashion "an effective remedy for the solicitor's breach
+of his professional duty to his client" in such a way as to repair the injustice
+to the disappointed beneficiary.
+
+Ross v. Caunters and the conceptual problems
+
+In Ross v. Caunters [1980] 1 Ch. 297, Sir Robert Megarry V.-C.
+approached the problem as one arising under the ordinary principles of the
+tort of negligence. He found himself faced with two principal objections to the
+plaintiff's claim. The first, founded mainly upon the decision of the Court of
+Appeal in Groom v. Crocker [1939] 1 K.B. 194, was that a solicitor could not
+be liable in negligence in respect of his professional work to anyone except
+his client, his liability to his client arising only in contract and not in tort.
+This proposition Sir Robert rejected without difficulty, relying primarily upon
+the judgment of Oliver J. in Midland Bank Trust Co. Ltd. v. Hett, Stubbs &
+Kemp [1979] Ch. 384 (recently approved by this House in Henderson v.
+Merrett Syndicates Ltd. [1994] 3 W.L.R. 761). The second, and more
+fundamental, argument was that, apart from cases falling within the principle
+established in Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C.
+465, no action lay in the tort of negligence for pure economic loss. This
+argument Sir Robert approached following the path traced by Lord
+Wilberforce in Anns v. Merton London Borough Council [1978] A.C. 728,
+751-752, and on that basis, relying in particular on Ministry of Housing and
+Local Government v. Sharp [1970] 2 Q.B. 223 (which he regarded as
+conclusive of the point before him), he held that here liability could properly
+be imposed in negligence for pure economic loss, his preferred basis being by
+direct application of Donoghue v. Stevenson [1932] A.C. 562 itself.
+
+It will at once be seen that some of the conceptual problems raised by
+the appellants in argument before the Appellate Committee were not raised in
+Ross v. Caunters [1980] Ch. 297. Others which were raised plainly did not
+loom so large in argument as they have done in the present case. Thus the
+point founded on the fact that in cases of this kind the plaintiff is claiming
+
+- 12 -
+
+damages for the loss of an expectation was briefly touched upon by Sir Robert
+(at p. 322) and as briefly dismissed by him, but (no doubt for good reason,
+having regard to the manner in which the case was presented) there is no
+further analysis of the point. It is however my opinion that, these conceptual
+arguments having been squarely raised in argument in the present case, they
+cannot lightly be dismissed. They have to be faced; and it is immediately
+apparent that they raise the question whether the claim properly falls within
+the law of contract or the law of tort. This is because, although the plaintiffs'
+claim has been advanced, and indeed held by the Court of Appeal to be, in
+the tort of negligence, nevertheless the response of the appellants has been that
+the claim, if properly analysed, must necessarily have contractual features
+which cannot ordinarily exist in the case of an ordinary tortious claim. Here
+I refer not only to the fact that the claim is one for damages for pure
+economic loss, but also to the need to find the defendant solicitor to be entitled
+to invoke as against the disappointed beneficiary any terms of the contract
+with his client which may limit or exclude his liability; to the fact that the
+damages claimed are for the loss of an expectation, and also to the fact (not
+adverted to below) that the claim in the present case can be said to arise from,
+a pure omission, and as such will not (apart from special circumstances) give
+rise to a claim in tortious negligence. Faced with points such as these, the
+strict lawyer may well react by saying that the present claim can lie only in
+contract, and is not therefore open to a disappointed beneficiary as against the
+testator's solicitor. This was indeed the reaction of Lush and Mrphy JJ. in
+Seale v. Perry [1982] V.R. 193, and is one which is entitled to great respect.
+
+It must not be forgotten however that a solicitor who undertakes to
+perform services for his client may be liable to his client for failure to
+exercise due care and skill in relation to the performance of those services not
+only in contract, but also in negligence under the principle in Hedley Byrne
+& Co. Ltd. v. Heller & Partners Ltd. [1964] A.C. 465 (see Midland Bank
+Trust Co. Ltd. v. Hett, Stubbs & Kemp [1979] Ch. 384.) on the basis of
+assumption of responsibility by the solicitor towards his client. Even so there
+is great difficulty in holding, on ordinary principles, that the solicitor has
+assumed any responsibility towards an intended beneficiary under a will which
+he has undertaken to prepare on behalf of his client but which, through his
+negligence, has failed to take effect in accordance with his client's
+instructions. The relevant work is plainly performed by the solicitor for his
+client, but, in the absence of special circumstances, it cannot be said to have
+been undertaken for the intended beneficiary. Certainly, again in the absence
+of special circumstances, there will have been no reliance by the intended
+beneficiary on the exercise of by the solicitor of due care and skill; indeed, the
+intended beneficiary may not even have been aware that the solicitor was
+engaged on such a task, or that his position might be affected. Let me take
+the example of an inter vivos gift where, as a result of the solicitor's
+negligence, the instrument in question is for some reason not effective for its
+purpose. The mistake comes to light some time later during the lifetime of
+the donor, after the gift to the intended donee should have taken effect. The
+donor, having by then changed his mind, declines to perfect the imperfect gift.
+
+- 13 -
+in favour of the intended donee. The latter may be unable to obtain
+rectification of the instrument, because equity will not perfect an imperfect
+gift (though there is some authority which suggests that exceptionally it may
+do so if the donor has died or become incapacitated: see Lister v. Hodgson
+(1867) L.R. 4 Eq. 30, 34-35 per Romilly M.R.). I for my part do not think
+that the intended donee could in these circumstances have any claim against
+the solicitor. It is enough, as I see it, that the donor is able to do what he
+wishes to put matters right. From this it would appear to follow that the real
+reason for concern in cases such as the present lies in the extraordinary fact
+that, if a duty owed by the testator's solicitor to the disappointed beneficiary
+is not recognised, the only person who may have a valid claim has suffered
+no loss, and the only person who has suffered a loss has no claim. This is a
+point to which I will return later in this opinion, when I shall give further
+consideration to the application of the Hedley Byrne principle in circumstances
+such as those in the present case.
+
+The German experience
+
+The fact that the problems which arise in cases such as the present
+have troubled the courts in many jurisdictions, both common law and civil
+law, and have prompted a variety of reactions, indicates that they are of their
+very nature difficult to accommodate within the ordinary principles of the law
+of obligations. It is true that our law of contract is widely seen as deficient
+in the sense that it is perceived to be hampered by the presence of an
+unnecessary doctrine of consideration and (through a strict doctrine of privity
+of contract) stunted through a failure to recognise a jus quaesitum tertio. But
+even if we lacked the former and possessed the latter, the ordinary law could
+not provide a simple answer to the problems which arise in the present case,
+which appear at first sight to require the imposition of something like a
+contractual liability which is beyond the scope of the ordinary jus quaesitum
+tertio. In these circumstances, the effect of the special appearances of any
+particular system of law is likely to be, as indeed appears from the authorities
+I have cited, not so much that no remedy is recognised, but rather that the
+system in question will choose its own special means for granting a remedy
+notwithstanding the doctrinal difficulties involved.
+
+We can, I believe, see this most clearly if we compare the English and
+German reactions to problems of this kind. Strongly though I support the
+study of comparative law, I hesitate to embark in an opinion such as this upon
+a comparison, however brief, with a civil law system; because experience has
+taught me how very difficult, and indeed potentially misleading, such an
+exercise can be. Exceptionally however, in the present case, thanks to
+material published in our language by distinguished comparatists, German as
+well as English, we have direct access to publications which should
+sufficiently dispel our ignorance of German law and so by comparison
+illuminate our understanding of our own.
+
+- 14 -
+I have already referred to problems created in the English law of
+contract by the doctrines of consideration and of privity of contract. These,
+of course, encourage us to seek a solution to problems of this kind within our
+law of tortious negligence. In German law, on the other hand, in which the
+law of delict does not allow for the recovery of damages for pure economic
+loss in negligence, it is natural that the judges should extend the law of
+contract to meet the justice of the case. In a case such as the present, which
+is concerned with a breach of duty owed by a professional man (A) to his
+client (B), in circumstances in which practical justice requires that a third
+party (C) should have a remedy against the professional man (A) in respect
+of damage which he has suffered by reason of the breach, German law may
+have recourse to a doctrine called Vertrag mit Schutzwirkung für Dritte
+(contract with protective effect for third parties), the scope of which extends
+beyond that of an ordinary contract for the benefit of a third party. (See
+Professor Werner Lorenz in The Gradual Convergence, ed. Markesinis (OUP
+1994), pp. 65, 68-72.) This doctrine was invoked in the German Supreme
+Court in the Testamentfall case (BGH 6 July 1965, NJW 1965, 1955) which
+is similar to the present case in that the plaintiff (C), through the dilatoriness
+of a lawyer (A) (instructed by her father (B)) in making the necessary
+arrangements for the father's will, was deprived of a testamentary benefit
+which she would have received under the will if it had been duly made. The
+plaintiff (C) was held to be entitled to recover damages from the lawyer (A).
+Professor Lorenz has expressed the opinion (p. 70) that the ratio of that case
+would apply to the situation in Ross v. Caunters itself. In these cases, it
+appears that the court will examine "whether the contracting parties intended
+to create a duty of care in favour of" the third person (BGH NJW 1984 355,
+356), or whether there is to be inferred "a protective obligation . . . based on
+good faith . . ." (BGHZ 69, 82, 85 et seq.). (Quotations taken in each case
+from Professor Markesinis' article on "An Expanding Tort Law - the Price of
+a Rigid Contract Law" (1987) 103 L.Q.R. 354, 363, 366, 368.) But any such
+inference of intention would, in English law, be beyond the scope of our
+doctrine of implied terms; and it is legitimate to infer that the German
+judges, in creating this special doctrine, were extending the law of contract
+beyond orthodox contractual principles.
+
+I wish next to refer to another German doctrine known as
+Drittschadensliquidation, which is available in cases of transferred loss
+(Schadensverlagerung). In these cases, as a leading English comparatist has
+explained:
+
+". . . the person who has suffered the loss has no remedy while the
+person who has the remedy has suffered no loss. If such a situation
+is left unchallenged, the defaulting party may never face the
+consequences of his negligent conduct; his insurer may receive an
+unexpected (and undeserved) windfall; and the person on whom the
+loss has fallen may be left without any redress." See Markesinis, The
+German Law of Torts, 3rd ed., (1994) p. 56.
+
+- 15 -
+
+Under this doctrine, to take one example, the defendant (A), typically a
+carrier, may be held liable to the sender of goods (B) for the loss suffered by
+the buyer (C) to whom the risk but not the property in the goods has passed.
+In such circumstances the seller is held to have a contractual claim against the
+carrier in respect of the damage suffered by the buyer. This claim can be
+pursued by the seller against the carrier; but it can also be assigned by him
+to the buyer. If, exceptionally, the seller refuses either to exercise his right
+for the benefit of the buyer or to assign his claim to him, the seller can be
+compelled to make the assignment. (See Professor Werner Lorenz in Essays
+in Memory of Professor F.H. Lawson (1986) 86, 89-90, and in The Gradual
+Convergence (OUP 1994) ed. Markesinis, 65, 88-89, 92-93; and Professor
+Hein Kötz in (1990) 10 Tel Aviv University Studies in Law 195, 209.)
+Professor Lorenz (Essays at p. 89) has stated that it is at least arguable that
+the idea of Drittschadensliquidation might be "extended so as to cover" such
+cases as the Frachtunfall case, an observation which is consistent with the
+view expressed by the German Supreme Court that the two doctrines may
+overlap (BGH 19 January 1977, NJW 1977, 2073 = VersR 1977, 638;
+translated in Markesinis, German Law of Torts, 3rd ed., 293). At all events
+both doctrines have the effect of extending to the plaintiff the benefit of what
+is, in substance, a contractual cause of action; though, at least as seen
+through English eyes, this result is achieved not by orthodox contractual
+reasoning, but by the contractual remedy being made available by law in order
+to achieve practical justice.
+
+Transferred loss in English law
+
+I can deal with this topic briefly. The problem of transferred loss is
+arisen in particular in maritime law, when a buyer of goods seeks to enforce
+against a shipowner a remedy in tort in respect of loss of or damage to goods
+at his risk, when neither the rights under the contract nor the property in the
+goods has passed to him (see Leigh & Sullivan Ltd. v. Aliakmon Shipping Co.
+Ltd. [1985] Q.B. 350, 399, per Robert Goff L.J. and [1986] A.C. 785, 820,
+per Lord Brandon of Oakbrook). In cases such as these (with all respect to
+the view expressed by Lord Brandon in [1986] A.C. 785, 819) there was a
+serious lacuna in the law, as was revealed when all relevant interests in the
+city of London called for reform to make a remedy available to the buyers
+who under the existing law were without a direct remedy against the
+shipowners. The problem was solved, as a matter of urgency, by the Carriage
+of Goods by Sea Act 1992, I myself having the honour of introducing Bill
+into your Lordships' House (acting in its legislative capacity) on behalf of the
+Law Commission. The solution adopted by the Act was to extend the rights
+of suit available under section 1 of the Bills of Lading Act 1855 (there
+restricted to cases where the property in the goods had passed upon or by
+reason of the consignment or endorsement of the relevant bill of lading) to all
+holders of bills of lading (and indeed other documents): see section 2(1) of
+the Act of 1992. Here is a sweeping statutory reform, powered by the needs
+of commerce, which has the effect of enlarging the circumstances in which
+
+- 16 -
+contractual rights may be transferred by virtue of the transfer of certain
+documents. For present purposes, however, an important consequence is the
+solution in this context of a problem of transferred loss, the lacuna being filled
+by statute rather than by the common law. Moreover this result has been
+achieved, as in German law, by vesting in the plaintiff, who has suffered the
+relevant loss, the contractual rights of the person who has stipulated for the
+carrier's obligation but has suffered no loss.
+
+I turn next to English law in relation to cases such as the present.
+Here there is a lacuna in the law, in the sense that practical justice requires
+that the disappointed beneficiary should have a remedy against the testator's
+solicitor in circumstances in which neither the testator nor his estate has in law
+suffered a loss. Professor Lorenz (Essays in Memory of Professor F.H.
+Lawson, p.90) has said that "this is a situation which comes very close to the
+cases of 'transferred loss': the only difference being that the damage due to
+the solicitor's negligence could never have been caused to the testator or to his
+executor". In the case of the testator, he suffers no loss because (in contrast
+to a gift by an inter vivos settlor) a gift under a will cannot take effect until
+after the testator's death, and it follows that there can be no depletion of the
+testator's assets in his lifetime if the relevant asset is, through the solicitors'
+negligence, directed to a person other than the intended beneficiary. The
+situation is therefore not one in which events have subsequently occurred
+which have resulted in the loss falling on another. It is one in which the
+relevant loss could never fall on the testator to whom the solicitor owed a
+duty, but only on another; and the loss which is suffered by that other, i.e. an
+expectation loss, is of a character which in any event could never have been
+suffered by the testator. Strictly speaking, therefore, this is not a case of
+transferred loss.
+
+Even so, the analogy is very close. In practical terms, part or all of
+the testator's estate has been lost because it has been despatched to a
+destination unintended by the testator. Moreover, had a gift been similarly
+misdirected during the testator's lifetime, he would either have been able to
+recover it from the recipient or, if not, he could have recovered the full
+amount from the negligent solicitor as damages. In a case such as the present,
+no such remedies are available to the testator or his estate. The will cannot
+normally be rectified; the testator has of course no remedy; and his estate
+has suffered no loss because it has been distributed under the terms of a valid
+will. In these circumstances, there can be no injustice if the intended
+beneficiary has a remedy against the solicitor for the full amount which he
+should have received under the will, this being no greater than the damage for
+which the solicitor could have been liable to the donor if the loss had occurred
+in his lifetime.
+
+A contractual approach
+
+It may be suggested that, in cases such as the present, the simplest
+course would be to solve the problem by making available to the disappointed
+
+- 17 -
+beneficiary, by some means or another, the benefit of the contractual rights
+(such as they are) of the testator or his estate against the negligent solicitor,
+as is for example done in the German principle of Vertrag mit
+Schutzwirkung für Dritte. Indeed that course has been urged upon us by
+Professor Markesinis in (1987) 103 L.Q.R. 354, 396-397, echoing a view
+expressed by Professor Fleming in (1986) 4 O.J.L.S. 235, 241. Attractive
+though this solution is, there is unfortunately a serious difficulty in its way:
+the doctrine of consideration still forms part of our law of contract, as does
+the doctrine of privity of contract, which is considered to exclude the
+recognition of a jus quaesitum tertio. To proceed as Professor Markesinis has
+suggested may be acceptable in German law, but in this country could be open
+to criticism as an illegitimate circumvention of these long established
+doctrines; and this criticism could be reinforced by reference to the fact that
+in the case of carriage of goods by sea, a contractual solution to a particular
+problem of transferred loss, and to other cognate problems, was provided only
+by recourse to Parliament. Furthermore, I myself do not consider that the
+present case provides a suitable occasion for reconsideration of doctrines so
+fundamental as these.
+
+The Albazero principle
+
+Even so, I have considered whether the present problem might be
+solved by adding cases such as the present to the group of cases referred to
+by Lord Diplock in The Albazero [1977] A.C. 774, 846-847. In these cases,
+a person may exceptionally sue in his own name to recover a loss which he
+has not in fact suffered, being personally accountable for any damages so
+recovered to the person who has in fact suffered the loss. Lord Diplock was
+prepared to accommodate within this group the so-called rule in Dunlop v.
+Lambert (1839) 6 Cl. & F. 600, on the principle that:
+
+"... in a commercial contract concerning goods where it is in the
+contemplation of the parties that the proprietary interests in the goods
+may be transferred from one owner to another after the contract has
+been entered into and before the breach which causes loss or damage
+to the goods, an original party to the contract, if such be the intention
+of them both, is to be treated in law as having entered into the contract
+for the benefit of all persons who have or may acquire an interest in
+the goods before they are lost or damaged, and is entitled to recover
+by way of damages for breach of contract the actual loss sustained by
+those for whose benefit the contract is entered into." [Emphasis
+supplied].
+
+Furthermore, in Linden Gardens Trust Ltd. v. Lenesta Sludge
+Disposals Ltd. [1994] A.C. 85, your Lordships' House extended this group
+of cases to include a case in which work was done by the defendants under a
+contract with the first plaintiffs who, despite a contractual bar against
+assignment of their contractual rights without the consent of the defendants,
+had without consent assigned them to the second plaintiffs who suffered
+
+- 18 -
+
+damage by reason of defective work carried out by the defendants. It was
+held that, by analogy with the cases referred to in The Albazero, [1977] A.C.
+774 the first plaintiffs could recover the damages from the defendants for the
+benefit of the second plaintiffs. In so holding, your Lordships' House relied
+upon a passage in Lord Diplock's speech (at p. 847) that "there may still be
+occasional cases in which the rule [in Dunlop v. Lambert] would provide a
+remedy where no other would be available to a person sustaining loss which
+under a rational legal system ought to be compensated by the person who has
+caused it".
+
+The decision is noteworthy in a number of respects. First, this was a
+case of transferred loss; and Lord Diplock's dictum, as applied by your
+Lordships' House, reflects a clear need for the law to find a remedy in cases
+of this kind. Second, your Lordships' House felt able to do so in a case in
+which there was a contractual bar against assignment without consent - and as
+a result, unlike Lord Diplock, did not find it necessary to look for a common
+intention that the contract was entered into for the benefit of persons such as
+the second plaintiffs, which in this case, having regard to the prohibition
+against assignment, it plainly was not. Third, the consequence was that your
+Lordships' House simply made the remedy available to a matter of law in
+order to solve the problem of transferred loss in the case before them.
+
+Even so, the result was only to enable a person to recover damages in
+respect of loss which he himself had not suffered, for the benefit of a third
+party. In the present case, there is the difficulty that the third party (the
+intended beneficiary) is seeking to recover damages for a loss (expectation
+loss) which the contracting party (the testator) would not himself have
+suffered. In any event, under this principle, the third party who has suffered
+the loss is not able to compel the contracting party to sue for his benefit, or
+to transfer the right to action to him; still less, is he entitled to sue in his own
+name. In the last analysis, this is because any such right would be contrary
+to the doctrine of privity of contract. In consequence a principle such as this,
+if it could be extended to cases such as the present, would be of limited value
+because, quite apart from any other difficulties, the family relationship may
+be such that the executors may be unwilling to assist the disappointed
+beneficiary by pursuing a claim of this kind for his benefit. Certainly, it
+could not assist the plaintiff in the present case, who very understandably are
+proceeding against the solicitors in a direct action in their own name.
+
+The tortious solution
+
+I therefore return to the law of tort for a solution to the problem. For
+the reasons I have already given, an ordinary action in tortious negligence on
+the lines proposed by Sir Robert Megarry V.- C. in Ross v. Caunters, [1980]
+Ch. 297 must, with the greatest respect, be regarded as inappropriate,
+because it does not meet with any of the conceptual problems which have been
+raised. Furthermore, for the reasons I have previously given, the Hedley
+Byrne principle cannot, in the absence of special circumstances, give rise on
+
+- 19 -
+ordinary principles to an assumption of responsibility by the testator's solicitor
+towards an intended beneficiary. Even so it seems to me that it is open to
+your Lordships' House, as in the Lenesta Sludge case [1994] A.C. 85, to
+fashion a remedy to fill a lacuna in the law and so prevent the injustice which
+would otherwise occur on the facts of cases such as the present. In the
+Lenesta Sludge case [1994] A.C. 85, as I have said, the House made available
+a remedy as a matter of law to solve the problem of transferred loss in the
+case before them. The present case is, if anything, a fortiori, since the nature
+of the transaction was such that, if the solicitors were negligent and their
+negligence did not come to light until after the death of the testator, there
+would be no remedy for the ensuing loss unless the intended beneficiary could
+claim. In my opinion, therefore, your Lordships' House should in cases such
+as these extend to the intended beneficiary a remedy under the Hedley Byrne
+principle by holding that the assumption of responsibility by the solicitor
+towards his client should be held to law to extend to the intended beneficiary
+who (as the solicitor can reasonably foresee) may, as a result of the solicitor's
+negligence, be deprived of his intended legacy in circumstances in which
+neither the testator nor his estate will have a remedy against the solicitor.
+Such liability will not of course arise in cases in which the defect in the will
+comes to light before the death of the testator, and the testator either leaves
+the will as it is or otherwise continues to exclude the previously intended
+beneficiary from the relevant benefit. I only wish to add that, with the benefit
+of experience during the fifteen years in which Ross v. Caunters has been
+regularly applied, we can say with some confidence that a direct remedy by
+the intended beneficiary against the solicitor appears to create no problems in
+practice. That is therefore the solution which I would recommend to your
+Lordships.
+
+As I see it, not only does this conclusion produce practical justice as
+far as all parties are concerned, but it also has the following beneficial
+consequences:
+
+(1) There is no unacceptable circumvention of established
+principles of the law of contract.
+
+(2) No problem arises by reason of the loss being of a purely
+economic character.
+
+(3) Such assumption of responsibility of will of course be subject to
+any term of the contract between the solicitor and the testator
+which may exclude or restrict the solicitor's liability to the
+testator under the principle in Hedley Byrne. It is true that
+such a term would be most unlikely to exist in practice; but as
+a matter of principle it is right that this largely theoretical
+question should be addressed.
+
+(4) Since the Hedley Byrne principle is founded upon an
+assumption of responsibility, the solicitor is may be liable for
+
+- 20 -
+negligent omissions as well as negligent acts of commission:
+see the Midland Bank Trust Co. case [1979] Ch. 384, 416, per
+Oliver J., and Henderson v. Merrett Syndicates Ltd.
+[1994] 3 W.L.R. 761, 777, per Lord Goff of Chieveley. This
+conclusion provides justification for the decision of the Court
+of Appeal to reverse the decision of Turner J. in the present
+case, although this point was not in fact raised below or before
+your Lordships.
+
+(5) I do not consider that damages for loss of an expectation are
+excluded in cases of negligence arising under the principle in
+Hedley Byrne, simply because the cause of action is classified
+as tortious. Such damages may in principle be recoverable in
+cases of contractual negligence; and I cannot see that, for
+present purposes, any relevant distinction can be drawn
+between the two forms of action. In particular, an expectation
+loss may well occur in cases where a professional man, such as
+a solicitor, has assumed responsibility for the affairs of
+another; and I for my part can see no reason in principle why
+the professional man should not, in an appropriate case, be
+liable for such loss under the Hedley Byrne principle.
+
+In the result, all the conceptual problems, including those which so
+troubled Lush and Murphy JJ. in Seale v. Perry [1982] V.R. 193, can be seen
+to fade innocuously away. Let me emphasise that I can see no injustice in
+imposing liability upon a negligent solicitor in a case such as the present
+where, in the absence of a remedy in this form, neither the testator's estate
+nor the disappointed beneficiary will have a claim for the loss caused by his
+negligence. This is the injustice which, in my opinion, the judges of this
+country should address by recognising that cases such as these call for an
+appropriate remedy, and that the common law is not so sterile as to be
+incapable of supplying that remedy when it is required.
+
+Unlimited claims
+
+I come finally to the objection that, if liability is recognised in a case
+such as the present, it will be impossible to place any sensible limits to cases
+in which recovery is allowed. Before your Lordships, as before the Court of
+Appeal, Mr. Matheson conjured up the spectre of solicitors being liable to an
+indeterminate class, including persons unborn at the date of the testator's
+death. I must confess that my reaction to this kind of argument was very
+similar to that of Cooke J. in Gartside v. Sheffield, Young & Ellis [1983]
+N.Z.L.R. 37, 44, when he said that he was not "persuaded that we should
+decide a fairly straightforward case against the dictates of justice because of
+foreseeable troubles in more difficult cases". We are concerned here with a
+liability which is imposed by law to do practical justice in a particular type of
+case. There must be boundaries to the application of a remedy in such cases;
+but these will have to be worked out in the future, as practical problems come
+
+- 21 -
+
+before the courts. In the present case Sir Donald Nicholls V.-C. observed that, in cases of this kind, liability is not to an indeterminate class, but to the particular beneficiary or beneficiaries whom the client intended to benefit through the particular will. I respectfully agree, and I also agree with him that the ordinary case is one in which the intended beneficiaries are a small number of identified people. If by any chance a more complicated case should arise to test the precise boundaries of the principle in cases of this kind, that problem can await solution when such a case comes forward for decision.
+
+Conclusion
+
+For these reasons I would dismiss the appeal with costs.
+
+LORD BROWNE-WILKINSON
+
+My Lords,
+
+I have read the speech of my noble and learned friend Lord Goff of Chieveley and agree with him that this appeal should be dismissed. In particular, I agree that your Lordships should hold that the defendant solicitors were under a duty of care to the plaintiffs arising from an extension of the principle of assumption of responsibility explored in Hedley Byrne and Co. Ltd. v. Heller and Partners Ltd. [1964] A.C. 465. In my view, although the present case is not directly covered by the decided cases, it is legitimate to extend the law to the limited extent proposed using the incremental approach by way of analogy advanced in Caparo Industries Plc. v. Dickman [1990] 2 A.C. 605. To explain my reasons requires me to attempt an analysis of what is meant by "assumption of responsibility" in the law of negligence. To avoid misunderstanding I must emphasise that I am considering only whether some duty of care exists, not with the extent of that duty which will vary according to the circumstances.
+
+From that concept having been invented by your Lordships House in Hedley Byrne, its genesis is to be found in Nocton v. Lord Ashburton [1914] A.C. 932. It is impossible to analyse what is meant by "assumption of responsibility" or "the Hedley Byrne principle" without first having regard to Nocton's case. In that case, the plaintiff, Lord Ashburton, had relied on advice by his solicitor, Nocton, in relation to certain lending transactions. The determination of the case was bedevilled by questions of pleadings. The trial judge and the Court of Appeal took the view that on the pleadings the plaintiff could only succeed if he proved fraud. In their view Lord Ashburton could not succeed in negligence since it had not been pleaded. This House (whilst rejecting the finding of fraud against Nocton) held that the pleadings sufficiently alleged a fiduciary duty owed to Lord Ashburton by Nocton as his solicitor and held that Nocton had breached that fiduciary duty by giving
+
+- 22 -
+
+negligent advice. In rejecting the notion that Derry v. Peek (1889) 14 App. Cas. 337 precluded a finding of such liability, Viscount Haldane L.C. said, at p. 948:
+
+"Although liability for negligence in word has in material respects been developed in our law differently from liability for negligence in act, it is none the less true that a man may come under a special duty to exercise care in giving information or advice. I should accordingly be sorry to be thought to lend countenance to the idea that recent decisions have been intended to stereotype the cases in which people can be held to have assumed such a special duty. Whether such a duty has been assumed must depend on the relationship of the parties, and it is at least certain that there are a good many cases in which that relationship may be properly treated as giving rise to a special duty of care in statement."
+
+Lord Haldane reverted to the same point in Robinson v. National Bank of Scotland Ltd. 1916 S.C. (H.L.) 154, 157:
+
+"I wish emphatically to repeat what I said in advising this House in the case of Nocton v. Lord Ashburton, that it is a great mistake to suppose that, because the principle in Derry v. Peek clearly covers all cases of the class to which I have referred, therefore the freedom of action of the courts in recognising special duties arising out of other kinds of relationship which they find established by the evidence is in any way affected. I think, as I said in Nocton's case, that an exaggerated view was taken by a good many people of the scope of the decision in Derry v. Peek. The whole of the doctrine as to fiduciary relationships, as to the duty of care arising from implied as well as expressed contracts, as to the duty of care arising from other special relationships which the courts may find to exist in particular cases, still remains, and I should be very sorry if any word fell from me which should suggest that the courts are in any way hampered in recognising that the duty of care may be established when such cases really occur."
+
+In my judgment, there are three points relevant to the present case which should be gathered from Nocton. First, there can be special relationships between the parties which give rise to the law treating the defendant as having assumed a duty to be careful in circumstances where, apart from such relationship, no duty of care would exist. Second, a fiduciary relationship is one of those special relationships. Third, a fiduciary relationship is not the only such special relationship: other relationships may be held to give rise to the same duty.
+
+The second of those propositions merits further consideration, since if we can understand the nature of one "special relationship" it may cast light on when, by analogy, it is appropriate for the law to treat other relationships as
+
+- 23 -
+
+being "special". The paradigm of the circumstances in which equity will find a fiduciary relationship is where one party, A, has assumed and to act in relation to the property or affairs of another, B. A, having assumed responsibility, pro tanto, for B's affairs, is taken to have assumed certain duties in relation to the conduct of those affairs, including normally a duty of care. Thus, a trustee assumes responsibility for the management of the property of the beneficiary, a company director for the affairs of the company and an agent for those of his principal. By so assuming to act in B's affairs, A comes under fiduciary duties to B. Although the extent of those fiduciary duties (including duties of care) will vary from case to case some duties (including a duty of care) arise in each case. The importance of these considerations for present purposes is that the special relationship (i.e. a fiduciary relationship) giving rise to the assumption of responsibility and to a duty in Nocton does not depend on any mutual dealing between A and B, let alone on any relationship akin to contract. Although such factors may be present, equity imposes the obligation because A has assumed to act in B's affairs. Thus, a trustee is under a duty of care to his beneficiary whether or not he has had any dealing with him: indeed he may be as yet unborn or unascertained and therefore any direct dealing would be impossible.
+
+Moreover, this lack of mutuality in the typical fiduciary relationship indicates that it is not a necessary feature of all such special relationships that B must in fact rely on A's actions. If B is unaware of the fact that A has assumed to act in B's affairs (e.g. in the case of B being an unascertained beneficiary) B cannot possibly have relied on A. What is important is not that A knows that B is consciously relying on A, but A knows that B's economic well being is dependent upon A's careful conduct of B's affairs. Thus, in my judgment Nocton demonstrates that there is at least one special relationship giving rise to the imposition of a duty of care that is dependent neither upon mutuality of dealing nor upon actual reliance by the plaintiff on the defendants actions.
+
+I turn then to consider Hedley Byrne [1964] A.C. 465. In that case this House had to consider the circumstances in which there could be liability for negligent misstatement in the absence of either a contract or a fiduciary relationship between the parties. The first, and for present purposes perhaps the most important, point is that there is nothing in Hedley Byrne to cast doubt on the decision in Nocton. On the contrary, each of their Lordships treated Nocton as their starting point and asked the question "in the absence of any contractual or fiduciary duty, what circumstances give rise to a special relationship between the plaintiff and the defendant sufficient to justify the imposition of the duty of care in the making of statements?" The House was seeking to define a further special relationship in addition to, not in substitution for, fiduciary relationships: see per Lord Reid, p. 486; Lord Morris of Borth-y-Gest, p. 502; Lord Hodson, p. 511; Lord Devlin, p. 523; Lord Pearce, p. 539.
+
+- 24 -
+
+Second, since this House was concerned with cases of negligent
+misstatement or advice, it was inevitable that any test laid down required both
+that the plaintiff should rely on the statement or advice and that the defendant
+could reasonably foresee that he would do so. In the case of claims based on
+negligent statements (as opposed to negligent actions) the plaintiff will have
+no cause of action at all unless he can show damage and he can only have
+suffered damage if he has relied on the negligent statement. Nor will a
+defendant be shown to have satisfied the requirement that he should foresee
+damage to the plaintiff unless he foresees such reliance by the plaintiff as to
+give rise to the damage. Therefore, although reliance by the plaintiff is an
+essential ingredient in a case based on negligent misstatement or advice, it
+does not follow that in all cases based on negligent action or inaction by the
+defendant it is necessary in order to demonstrate a special relationship that the
+plaintiff has in fact relied on the defendant or the defendant has foreseen such
+reliance. If in such a case careless conduct can be foreseen as likely to cause
+and does in fact cause damage to the plaintiff that should be sufficient to
+found liability.
+
+Third, it is clear that the basis on which (apart from the disclaimer) the
+majority would have held the bank liable for negligently giving the reference
+was that, were it not for the disclaimer, the bank would have assumed
+responsibility for such reference. Although there are passages in the speeches
+which may point the other way, the reasoning of the majority in my judgment
+points clearly to the fact that the crucial element was that, by choosing to
+answer the enquiry, the bank had assumed to act, and thereby created the
+special relationship on which the necessary duty of care was founded. Thus
+Lord Reid, at p. 486, pointed out that a reasonable man knowing that he was
+being trusted, had three possible course open to him: to refuse to answer, to
+answer but with a disclaimer of responsibility, or simply to answer without
+such disclaimer. Lord Reid then said:
+
+"If he chooses to adopt the last course he must, I think, be held to
+have accepted some responsibility for his answer being given carefully,
+or to have accepted a responsibility with the inquirer which requires him
+to exercise such care as the circumstances require."
+
+Lord Morris of Borth-y-Gest, at p. 503:
+
+"Furthermore, if in a sphere in which a person is so placed that others
+could reasonably rely upon his judgment or his skill or upon his ability
+to make careful inquiry, a person takes it upon himself to give
+information or advice to, or allows his information or advice to be
+passed on to, another person who, as he knows or should know, will
+place reliance upon it, then a duty of care will arise."
+
+Lord Hodson, at p. 514, in agreeing with the formulation of Lord Morris
+referred to the maker of the careless statement being a person who "takes it
+upon himself to give information or advice to . . . another person." Although
+
+- 25 -
+
+Lord Devlin did not find it necessary for the decision of that case to go
+further than to hold that a special relationship giving rise to a duty of care
+would exist when the relationship was "equivalent to contract" he indicated (at
+p. 530) that he agreed with the formulation by the other members of the
+committee of the general rules giving rise to a "voluntary undertaking to
+assume responsibility". Moreover he had previously (at p. 526) referred to
+Candler v. Bernard [1703] 2 Ed. Raym. 909 (where Gould J. held a gratuitous
+bailee liable because of "the particular trust reposed in the defendant, to which
+he has concurred by his assumption, and in the executing which he has
+miscarried by his neglect") and the statement of Lord Finlay L.C. in Banbury
+v. Bank of Montreal [1918] A.C. 626, 654 "He is under no obligation to
+advise, but if he takes it upon himself to do so, he will incur liability if he
+does so negligently". Lord Devlin, at p. 530, drew a distinction between the
+case where there is a general relationship (such as solicitor and client or
+banker and customer) where the pre existing relationship is enough to create
+the special relationship necessary and a case such as that before the House
+where what is relied upon is a particular relationship created ad hoc. He said
+that in such a case it would be necessary to examine the particular facts to see
+whether there is an express or implied undertaking of responsibility. This and
+the other passages that I have quoted indicates that even in the case of an ad
+hoc special relationship the requirement is to show that the defendant has
+assumed to act by giving an answer.
+
+Just as in the case of fiduciary duties, the assumption of responsibility
+referred to is the defendants, assumption of responsibility for the task not the
+assumption of legal liability. Even in cases of ad hoc relationships, it is the
+undertaking to answer the question posed which creates the relationship. If
+the responsibility for the task is assumed by the defendant he thereby creates
+a special relationship between himself and the plaintiff in relation to which the
+law (not the defendant) attaches a duty to carry out carefully the task so
+assumed. If this be the right view, it does much to allay the doubts about the
+utility of the concept of assumption of responsibility voiced by Lord Griffiths
+in Smith v. Eric S. Bush [1990] 1 A.C. 831, 862 and by Lord Roskill in
+Caparo Industries Plc v. Dickman [1992] A.C. 605, 628; see also Barker
+Unreliable Assumptions in the Modern Law of Negligence (1993) 109 L.Q.R.
+461. As I read those judicial criticisms they proceed on the footing that the
+phrase "assumption of responsibility" refers to the defendant having assumed
+legal responsibility. I doubt whether the same criticisms would have been
+directed at the phrase if the words had been understood, as I think they should
+be, as referring to a conscious assumption of responsibility for the task rather
+than a conscious assumption of legal liability by the plaintiff for its careful
+performance. Certainly, the decision in both cases is consistent with the view
+I take.
+
+In Henderson v. Merrett Syndicates Ltd. [1994] 3 W.L.R. 761 your
+Lordships recently applied the concept of assumption of liability to cases
+where the defendants (the managing agents) had pursuant to a contract with
+a third party (the members' agents) undertaken the management of the
+
+- 26 -
+
+underwriting affairs of the plaintiffs. For the present purposes the case is
+important for two reasons. First, it shows (if it was previously in doubt) that
+the principle of a special relationship arising from the assumption of
+responsibility is as applicable to a case of negligent acts giving rise to pure
+economic loss as it is to negligent statement. Second, it demonstrates that the
+fact that the defendant assumed to act in the plaintiffs' affairs pursuant to a
+contract with a third party is not necessarily incompatible with the finding
+that, by so acting, the defendant also entered into a special relationship with
+the plaintiff with whom he had no contract. (I should add that I agree with
+my noble and learned friend Lord Mustill that this factor should not lead to
+the conclusion that a duty of care will necessarily be found to exist even
+where there is a contractual chain of obligations designed by the parties to
+regulate their dealings).
+
+Let me now seek to bring together these various strands so far as is
+necessary for the purposes of this case: I am not purporting to give any
+comprehensive statement of this aspect of the law. The law of England does
+not impose any general duty of care to avoid negligent misstatements or to
+avoid causing pure economic loss even if economic damage to the plaintiff
+was foreseeable. However, such a duty of care will arise if there is a special
+relationship between the parties. Although the categories of cases in which
+such special relationship can be held to exist are not closed, as yet only two
+categories have been identified, viz. (1) where there is a fiduciary relationship
+and (2) where the defendant has voluntarily answered a question or tenders
+skilled advice or services in circumstances where he knows or ought to know
+that an identified plaintiff will rely on his answers or advice. In both these
+categories the special relationship is created by the defendant voluntarily
+assuming to act in the matter by involving himself in the plaintiffs' affairs or
+by choosing to speak. If he does so assume to act or speak he is said to have
+assumed responsibility for carrying through the matter he has entered upon.
+In the words of Lord Reid in Hedley Byrne [1964] A.C. 465, 486 "he has
+accepted a relationship . . . which requires him to exercise such care as the
+circumstances require", i.e. although the extent of the duty will vary from
+category to category, some duty of care arises from the special relationship.
+Such relationship can arise even though the defendant has acted in the
+plaintiff's affairs pursuant to a contract with a third party.
+
+I turn then to apply those considerations to the case of a solicitor
+retained by a testator to draw in will in favour of an intended beneficiary. As
+a matter of contract, a solicitor owes a duty to the testator to use proper skill
+in the preparation and execution of the will and to act with due speed. But as
+the speech of Lord Goff demonstrates that contractual obligation is of little
+utility. Breach by the solicitor of such contractual duty gives rise to no
+damage suffered by the testator or his estate; under our existing law of
+contract, the intended beneficiary, who has suffered the damage, has no cause
+of action on the contract.
+
+- 27 -
+
+Has the intended beneficiary a cause of action based on breach of a duty of care owed by the solicitor to the beneficiary? The answer to that question is dependent upon whether there is a special relationship between the solicitor and the intended beneficiary to which the law attaches a duty of care. In my judgment the case does not fall within either of the two categories of special relationships so far recognised. There is no fiduciary duty owed by the solicitor to the intended beneficiary. Although the solicitor has assumed to act in a matter closely touching the economic wellbeing of the intended beneficiary, the intended beneficiary will often be ignorant of that fact and cannot therefore have relied upon the solicitor.
+
+However, it is clear that the law in this area has not ossified. Both Viscount Haldane L.C. (in the passage I have quoted [1914] A.C. 932, 948) and Lord Devlin (in Hedley Byrne [1964] A.C. 465, 530-531) envisage that there might be other sets of circumstances in which it would be appropriate to find a special relationship giving rise to a duty of care. In Caparo Lord Bridge of Harwich [1990] 2 A.C. 605, 618, recognised that the law will develop novel categories of negligence "incrementally and by analogy with established categories". In my judgment, this is a case where such development should take place since there is a close analogy with existing categories of special relationship giving rise to a duty of care to prevent economic loss.
+
+The solicitor who accepts instructions to draw a will knows that the future economic welfare of the intended beneficiary is dependent upon his careful execution of the task. It is true that the intended beneficiary (being ignorant of the instructions) may not rely on the particular solicitor's actions. But, as I have sought to demonstrate, in the case of a duty of care flowing from a fiduciary relationship liability is not dependent upon actual reliance by the plaintiff on the defendant's actions but on the fact that, as the fiduciary is well aware, the plaintiff's economic wellbeing is dependent upon the proper discharge by the fiduciary of his duty. Second, the solicitor by accepting the instructions has entered upon, and therefore assumed responsibility for, the task of procuring the execution of a skillfully drawn will knowing that the beneficiary is wholly dependent upon his carefully carrying out his function. That assumption of responsibility for the task is a feature of both the two categories of special relationship so far identified in the authorities. It is not to the point that the solicitor only entered on the task pursuant to a contract with the third party (i.e. the testator). There are therefore present many of the features which in the other categories of special relationship have been treated as sufficient to create a special relationship to which the law attaches a duty of care. In my judgment the analogy is close.
+
+Moreover there are more general factors which indicate that it is fair just and reasonable to impose liability on the solicitor. Save in the case of those rash testators who make their own wills, the proper transmission of property from one generation to the next is dependent upon the due discharge by solicitors of their duties. Although in any particular case it may not be
+
+- 28 -
+possible to demonstrate that the intended beneficiary relied upon the solicitor, society as a whole does rely on solicitors to carry out their will making functions carefully. To my mind it would be unacceptable if, because of some technical rules of law, the wishes and expectations of testators and beneficiaries generally could be defeated by the negligent actions of solicitors without there being any redress. It is only just that the intended beneficiary should be able to recover the benefits which he would otherwise have received.
+
+Further, negligence in the preparation and execution of a will has certain unique features. First, there can be no conflict of interest between the solicitor and client (the testator) and the intended beneficiary. There is therefore no objection to imposing on a solicitor a duty towards a third party there being no possible conflict of interest. Second, in transactions inter vivos the transaction takes immediate effect and the consequences of solicitors' negligence are immediately apparent. When discovered, they can either be rectified (by the parties) or damages recovered by the client. But in the case of a negligently drawn will, the will has no effect at all until the death. It will have been put away in the deed box not to surface until the testator either wishes to vary it or dies. In the majority of cases the negligence will lie hidden until it takes effect on the death of the testator, i.e. at the very point in time when normally the error will become incapable of remedy.
+
+In all these circumstances, I would hold that by accepting instructions to draw a will, a solicitor does come into a special relationship with those intended to benefit under it in consequence of which the law imposes a duty to the intended beneficiary to act with due expedition and care in relation to the task on which he has entered. For these and the other reasons given by my noble and learned friend Lord Goff of Chieveley, I would dismiss the appeal.
+
+LORD MUSTILL
+
+My Lords,
+
+The issues arising on this appeal have been fully developed in the judgments of the Court of Appeal by reference to the existing law of negligence, and in the speeches of my noble and learned friends Lords Goff of Chieveley and Browne-Wilkinson where new lines of departure are proposed. Taking advantage gratefully of the full exposure which the issues have already received I will proceed at once to explain why I have felt it difficult to join company with those who judges and commentators alike, have almost unanimously found it too plain to need elaboration that the plaintiffs' claims ought to succeed, if only an intellectually sustainable means can be found; and also that the proper route to such a conclusion passes through the law of tort. The soundness of these assumptions must, I believe, be
+
+- 29 -
+confronted at the start, because they dominate the landscape within which the whole enquiry takes place.
+
+The first assumption, which comes to this, that there must be something wrong with the law if the plaintiffs do not succeed, itself embodies two distinct propositions - that the plaintiffs' disappointment should be relieved by an award of money, and that the money should, if the law permits, come from the solicitor. I am sceptical on both counts. I do not of course ascribe to those who support the plaintiffs' claim the contemporary perception that all financial and other misfortunes suffered by one person should be put right at the expense of someone else. Nobody argues for this. Even under the most supportive of legal régimes there must be many situations in which the well-founded expectations of a potential beneficiary are defeated by an untoward turn of events and yet he or she is left without recourse. Nobody suggests otherwise. What is said is to take the present case out of the ordinary is that the plaintiffs' disappointment resulted, and resulted foreseeably, from what is called "fault". I add the qualification "what is called", to underline that I believe to be the central feature of the case. An illustration may show why. Imagine that the solicitor prepared the will in good time, but that whilst the testator was on his way to execute it he was fatally injured by a careless motorist. Undoubtedly the motorist would be guilty of fault in the legal sense, but his carelessness would be characterised as such because he owed a duty towards the testator, as towards other members of the public, to drive with sufficient care to avoid causing him physical injury. To this duty the added feature that the victim was about to execute a will would be wholly irrelevant. It is conceivable, although no doubt rather improbable, that the driver also committed an actionable fault vis-à-vis those who would have benefited under the will if the testator had lived long enough to execute it. If this were so, it would simply be that the law recognised the relationship between the driver and the beneficiaries as satisfying the requirements of a duty of care. The fact that the relationship between driver and testator also satisfied those requirements would add nothing, for each relationship has to be looked at on its own merits. If the driver incurred liability in both, the act which constituted the breach would in each case be the same, but the duties themselves, although existing at the same time would have different origins, and one would not depend on the existence of the other.
+
+So also here. I leave aside for the moment the question whether the intended beneficiaries might in theory have means to unite their undoubted loss with the testator's undoubted cause of no such as directly or indirectly to avail themselves of the testator's rights, for no such "parasitic" claim has been advanced. Throughout, the proposition has been that the solicitor owed to the intended beneficiaries a direct and free-standing duty to prepare a will and prepare it promptly, simply because he was doing a job which, if promptly done, and if the testator went through in his intentions, would produce a benefit to them from the estate after the testator's death. To test this proposition by introducing notions of fault is in my opinion liable to mislead, for legal fault cannot exist in a vacuum; and the person who complains
+
+- 30 -
+
+of it must do so by virtue of a legal right. In the present instance it is
+tempting to say that the solicitor failed to do his job properly; that it was all
+his fault that the plaintiffs are less well off than they should have been; and
+that the law ought to do something about it. This temptation should in my
+opinion be resisted. The assertion of fault is either tautologous or inaccurate,
+and the analysis is safer without it.
+
+Nor am I able to accept that the special feature of the present situation,
+that the solicitor's delay was a breach of his professional duty, adds any
+colour to the claim. In some of the many judgments and commentaries in
+which this question has been considered one finds traces of the idea that it
+would be unacceptable if the erring solicitor were to escape from the disaster
+scot-free. Whether in a given case he will so escape must depend on the rules
+of his profession and the rigour with which they are enforced. To my mind
+this is irrelevant. The purpose of the courts when recognising tortious acts
+and their consequences is to compensate those plaintiffs who suffer actionable
+breaches of duty, not to act as second-line disciplinary tribunals imposing
+punishment in the shape of damages.
+
+My Lords, I suggest another reason for caution. The real root of the
+present problem is the rule of law which, save in exceptional circumstances,
+prescribes that a disposition of property designed to take effect after death is
+ineffectual unless embodied in a valid will. From time to time this rule
+operates to defeat the intentions of the deceased and the expectations of those
+whom he wished to benefit, and to create what to many would appear an
+injustice. This is what has happened here. The intentions of the testator, as
+proved at the trial, have been frustrated. The beneficiaries under the new will
+have failed to receive what the testator wanted them to receive, and those who
+took under the old will have received moneys from the testator's estate which
+at the time of his death he did not want them to have. In a real sense, the
+amounts of the legacies have gone to the wrong people: a situation which
+many would feel to be unfair. In the present case this has happened because
+the solicitor was slow and the testator died when he did. But the position
+would have been just the same if the solicitor had been prompt, but the death
+had taken place sooner. Unless those who took under the old will were
+prepared to be magnanimous, the intended beneficiaries would have nothing
+to do except complain that the technicalities of the law had done them a
+disservice. I do not of course suggest that those who have fallen foul of a
+rule of law through a failure by persons whom they employ in a professional
+capacity are called upon to suffer in silence. But in a situation like the present
+the intended beneficiaries did not engage the solicitor, undertake to pay his
+fees or tell him what to do. Having promised him nothing he has broken no
+promise. They nevertheless fasten upon the circumstance that the solicitor
+broke his promise to someone else (the testator) so as to make him the source
+of a second fund, enabling both sets of parties to benefit: so that those taking
+under the old will can receive and retain money from the testator's estate
+which the testator did not want them to have, and the successful plaintiffs can
+receive amounts equal to those which the testator did want them to have, but
+- 31 -
+
+from a quite different source. This is undoubtedly a possible result, but I
+would wish to guard against assuming too readily that it so reflects the moral
+imperatives of the situation that the law of delict should be strained to bring
+it about.
+
+This leads at once to the second of the two assumptions underlying the
+claim, namely that if a remedy is to be conferred and if the solicitor is the
+appropriate target, the source of the remedy must be found in the law of tort.
+I have from the outset felt much anxiety about this assumption, and will take
+a little time to explain why.
+
+If one asks how the solicitor came to be involved in the case the
+answer is that by accepting the retainer he promised to draw the will with care
+and diligence. It is therefore proper to enquire whether this source of
+involvement, and this alone, should create whatever remedies may be given
+to the plaintiffs for his failure to do what he said. I do not here refer to the
+argument, forcefully addressed by Professor Jolowicz Q.C., to the effect that
+so far from the existence of a contract between the testator and the solicitor
+supporting a tortious cause of action in the plaintiffs, it operates to exclude it.
+This posits that contractual and tortious responsibilities occupy exclusive
+domains, and that where the complaint is of a failure to do a promised job of
+work the law of delict must necessarily be the wrong domain. The argument
+was advanced before your Lordships gave judgment in Henderson v. Merrett
+Syndicates Ltd. [1994] 3 W.L.R. 761, and in the light of the conclusions there
+expressed cannot I think be any longer sustained. This is certainly not to deny
+that where the act or omission complained of occurs between persons who
+have deliberately involved themselves in a network of commercial or
+professional contractual relations, such for example as may exist between the
+numerous parties involved in contracts for large building or engineering
+works, the contractual framework may be so strong, so complex and so
+detailed as to exclude the recognition of delictual duties between parties who
+are not already connected by contractual links: see for example Pacific
+Associates Inc. v. Baxter [1990] 1 Q.B. 993. This aspect of the law is far
+from being fully developed and I need not explore it here. Wherever
+rationalisation is preferred as a means of justifying tortious liability for a
+failure to act causing pure financial loss - whether a voluntary assumption of
+an obligation, or the existence of a special situation, or the simple filling of
+an unacceptable gap - there may be situations where the parties have erected
+a structure which leaves no room for any obligations other than those which
+they have expressly chosen to create. On this view, the express and implied
+terms of the various contracts amount between them to an exhaustive
+codification of the parties' mutual duties. This particular problem does not
+arise here, for there is no consciously created framework of contractual
+relationships between the three parties principally concerned. There was only
+one contract.
+
+The existence of the contract is, however, material in a rather different
+way. The complaint made by the plaintiffs, and it is the only possible
+- 32 -
+
+complaint, is that they failed to receive a benefit from the testator (via his
+estate) which they would have received if the solicitor had done his job. If
+the solicitor had not promised to do the job he could not have been liable to
+the testator for failing to do it. And if he was not liable to the testator for
+failing to do it I am quite unable to see how he could be liable to the plaintiffs
+in respect of the same failure. Thus, the existence of the contract of retainer
+between the testator and the solicitor, and of the promise to draw the will with
+reasonable despatch which this entailed, is not simply a piece of history which
+explains how the parties came into a position of conflict (as were the various
+contracts of sale in Donoghue v. Stevenson [1932] A.C. 562), but is the origin
+of the task whose non-performance founds the plaintiff's claim. This feature
+could not be expressed more clearly than in the written formulation of the
+proposed duty of care, which Mr. Mittings Q.C. tendered on behalf of the
+plaintiffs in the course of argument:
+
+"If a professional person undertakes (to another) to perform work in
+order to enable [permit] that other to confer a benefit on an identifiable
+third party, then he owes a duty to that third party to perform that
+work with the care, skill and despatch reasonably to be expected of a
+man of his calling."
+
+I believe that this formulation accurately reflects the facts of the
+present case. It has two features. First, that the undertaking is said to have
+been given to the testator, not to the plaintiff. (I pause to observe that the
+word "undertakes" has the sense here of "agrees to", not "sets about" or
+"tackles". I must return to this point later). Secondly, that the conferring of
+the benefit on the plaintiff was to be done by the testator, not by the solicitor
+himself. The undertaking to do the work and the intended conferring of the
+benefit were therefore directed along two sides of a triangle. Before
+considering whether it is necessary to make new law in order to sustain a
+direct tortious and free-standing claim by the plaintiff against the solicitor
+along the third side, should one not first scrutinise the legal effects of the
+relationship to which the solicitor undoubtedly was a party, to see whether
+whatever rights the plaintiff may possess can be derived in one way or another
+from that relationship; to make sure that, in other words, that by concentrating on
+the direct claim in tort all concerned have not been looking in the wrong
+direction?
+
+I proceed therefore to a tentative examination of the way in which the
+claim for disappointed expectations might be referred to the contract whose
+non-performance caused the disappointment. Such an enquiry must
+necessarily be provisional. No claim in contract has been advanced and no
+direct argument has been addressed upon it. Nevertheless, even a superficial
+survey may give an idea of how the land lies.
+
+For the purpose of testing the principles involved I will take the most
+generalised case. This posits that there was no personal contact between the
+solicitor and the intended beneficiary; and that the latter is not only does not
+- 33 -
+
+know of the benefit which the testator intends to confer upon him, but has
+never heard of the testator. This will be so with many charitable bequests.
+At a later stage I will touch on the question whether there is anything special
+in the facts of the present case which might enable the plaintiff to succeed,
+where in the general the claim would fail, but on the example given in the case
+in contract might be put in two quite different ways.
+
+In the first place, the intended beneficiary might sue in his or her own
+name, to enforce a direct contractual relationship with the solicitor. It is hard
+to see how any such relationship could emerge from conventional contract
+law. One approach would be to treat the testator as an agent for the intended
+beneficiary to make a contract between the solicitor and the beneficiary, with
+subsequent ratification supplying the want of actual authority inevitable where
+the beneficiary knew nothing of the testator, or of the solicitor, or of the
+contract being made by the testator on his behalf. This seems an impossible
+reading of the facts. If one new beneficiary was an undisclosed principal they
+must all have been. All would be liable under the retainer for the solicitor's
+fees, and the rights of each would be contingent on the testator's not changing
+his mind. There is no reason to suppose that either the solicitor or the testator
+intended any such result when the retainer was offered and accepted. Nor is
+the proposition improved by implying into the contract of retainer an auxiliary
+promise by the solicitor to give the beneficiaries the rights which the testator
+had by contract secured for himself. English law may be inching towards the
+direct enforcement of contracts, or benefits intended to be conferred under
+them, by persons standing outside the agreement but the mutual obligations created by the
+bargain. How far the courts will be able to go remains to be seen. This is
+not the occasion to find out, for no claim in contract is before the court. But
+even under a much expanded law of contract it is hard to see an answer to the
+objection that what the testator intended to confer on the new beneficiaries
+was the benefit of his assets after his death; not the benefit of the solicitor's
+promise to draft the will.
+
+The alternative route would be for the estate to enforce the contractual
+cause of action undoubtedly possessed by the testator during his lifetime in
+respect of the solicitor's delay, and to hold the damages for the account of the
+beneficiaries. This claim has a distinctly odd look, since the executors
+appointed to carry out the wishes of the testator expressed in the old will
+would be enforcing a contract which, if the solicitor had performed it, would
+have led to those wishes being superseded by the provisions of the new will.
+The further curiosity, that in practice the testator's assets will, post mortem,
+be doubled at the expense of the solicitor, is of course also a feature of the
+claim in tort, but it is the more curious in the doubling takes place through the
+medium of an action brought by the persons whose duties are to distribute
+them once only, in accordance with the old will.
+
+Let it be assumed however that the executor volunteered, or could by
+some form of legal process be compelled, to sue the solicitor on the testator's
+cause of action. The obvious problem is that if the testator himself had sued
+
+- 34 -
+
+"I agree . . . that if in a sphere where a person is so placed that others
+could reasonably rely upon his judgment or his skill or upon ability to
+make careful inquiry such person takes it upon himself to give
+information or advice to, or allows his information or advice to be
+passed on to, another person who, as he knows, or should know, will
+place reliance upon it, then a duty of care will arise."
+
+Turning last to the concept of an undertaking of responsibility, most
+of the relevant passages have already been cited. In addition I would draw
+attention to the following:
+
+"There must be something more than the mere misstatement. I
+therefore turn to the authorities to see what more is required. The
+most natural requirement would be that expressly or by implication
+from the circumstances the speaker or writer has undertaken some
+responsibility . . ."
+
+"A reasonable man, knowing that he was being trusted with his skill
+and judgment were being relied on, would, I think, have three courses
+open to him. He could keep silent and decline to give the information
+or advice sought: or he could give an answer with a clear qualification
+that he accepted no responsibility for it or that it was given without
+that reflection or inquiry which a careful answer would require: or he
+could simply answer without any such qualification. If he chooses to
+adopt the last course he must, I think, be held to have accepted some
+responsibility for his answer being given carefully, or to have accepted
+a relationship with the inquirer which requires him to exercise such
+care as the circumstances inquire."
+
+(per Lord Reid at pp. 483 and 486).
+
+". . . it seems to me that if A assumes a responsibility to B to tender
+him deliberate advice, there could be a liability if the advice is
+negligently given."
+
+". . . there may be many situations in which one person voluntarily or
+gratuitously undertakes to do something for another person and
+becomes under a duty to exercise reasonable care. . . . But apart from
+cases where there is some direct dealing there may be cases where one
+person issues a document which should be the result of an exercise of
+the skill and judgment required by him in his calling and where he
+knows and intends that its accuracy will be relied upon by another."
+
+(per Lord Morris of Borth-y-Gest, at pp. 494 and 497).
+
+Lord Devlin expressed with particular clarity the concept of a
+voluntary assumption of responsibility. In addition to the passages already
+cited he said this, at p. 529:
+
+- 40 -
+"I have had the advantage of reading all the opinions prepared by your
+Lordships and of studying the terms which your Lordships have
+framed by way of definition of the sort of relationship which gives rise
+to a responsibility towards those who act upon information or advice
+and so creates a duty of care towards them. I do not understand any
+of your Lordships to hold that it is a responsibility imposed by law
+upon certain types of persons or in certain sorts of situations. It is a
+responsibility that is voluntarily accepted or undertaken, either
+generally where a general relationship, such as that of solicitor and
+client or banker and customer, is created, or specifically in relation to
+a particular transaction."
+
+From this extensive quotation I collect the following picture of Hedley
+Byrne. First that the case was not seen by the House as being in a direct line
+from Donoghue v. Stevenson. The situations were far removed, and the
+solutions adopted by the House in the two cases were not at all the same. In
+Donoghue v. Stevenson the liability was derived by the court from the position
+in which the parties found themselves. It was imposed externally. In Hedley
+Byrne all the members of the House envisaged, perhaps in slightly different
+ways, that the liability arose internally from the relationship in which the
+parties had together chosen to place themselves. The House nevertheless
+attached great importance to Donoghue v. Stevenson for a reason most
+forcefully expressed by Lord Devlin ([1964] A.C. 465, 524 where, after
+discussing the concept of proximity, he said-"What Lord Atkin did was to use
+his general conception to open up a new category of cases giving rise to a special
+duty."
+
+Liberated therefore by Donoghue v. Stevenson from the need to force
+new situations into old categories the House was free to analyse the special
+relationship which the parties had created for themselves. I use this
+description, because I believe that the element of what I have called mutuality
+was central to the decision. I think it clear from the passage at p. 529 quoted
+above (a passage in which Lord Devlin summed up not only his own opinion
+but also his understanding of those expressed by the other members of the
+House) that the legal responsibility accepted or undertaken by the person in
+question was one where the acceptance or undertaking was a reflection of the
+relationship in question. On the facts of Hedley Byrne this relationship was
+bilateral, being created on the one hand by the acts of the plaintiffs in first
+asking for a reference in circumstances which showed that the bankers' skill
+and care would be relied upon and then subsequently relying on it; and on the
+other hand by the bankers' compliance with the request. What conclusion the
+House would have reached if the element of mutuality had been absent if, for
+example, the defendants had for some reason despatched the reference
+spontaneously, without prior request cannot be ascertained from the speeches.
+But even if a claim had been upheld the reasoning must, I believe, have been
+fundamentally different.
+
+- 41 -
+Two further aspects of the decision call for mention. First, the use of
+the word "undertaking". There is a degree of ambiguity about this. In
+context however I think it clear that the word was not used in the sense of
+taking on or tackling a job. The passages quoted show that the defendants
+were held liable because the relationship was such that to show that they took
+upon themselves a legal duty to give with reasonable care whatever reference
+they chose to furnish.
+
+Secondly, there was the element of reliance, to which great attention
+has been directed in the present case. This element was of course crucial to
+the success of the claim in Hedley Byrne; for without reliance there could be
+no damage, and without damage there could be no cause of action in
+negligence. But so far as the duty of care was concerned, the reliance merely
+consummated the relationship already initiated by the plaintiffs' request and
+the defendants' response. To my mind therefore Hedley Byrne says nothing
+one way or the other, about reliance or the anticipation of reliance as either
+necessary or sufficient for the recognition of a duty of care differently
+conceived.
+
+I turn now to Henderson v. Merrett Syndicate Ltd. [1994] 3 W.L.R.
+761. Your Lordships will recall that as a matter of some urgency both the
+argument and the delivery of the speeches in that case took place after the
+close of the argument of the present appeal. Your Lordships therefore have
+not had the advantage of submissions on the impact of those speeches on the
+related issues now before the House. I believe however that five features
+material to the present case may be identified without controversy. First,
+there is the resolution of a long-standing controversy about the co-existence
+of liabilities in contract and in tort. Since the House recognised the possibility
+of concurrent liabilities even as between immediate parties, it would be as
+impossible now to contend that the mere presence of a contract or contracts
+linking participants in the transaction is an absolute bar to liability in
+negligence for pure financial loss. Secondly, at a time when the courts had
+for some years been wrestling with the problems of the general law of
+negligence exemplified by the line of cases, which extends from Anns v.
+Merton London Borough Council [1978] A.C. 728 to Caparo Industries Plc
+v. Dickman, [1990] 2 A.C. 605 and beyond, the speeches in Henderson
+brought back to prominence Hedley Byrne and Nocton v. Ashburton [1914]
+A.C. 932, and gave them new life as a growing point for the law of
+negligence. Third, the House took the law one stage further by recognising
+a new type of situation in which there could be a duty of care to avoid pure
+financial loss. Fourth, the House acknowledged (perhaps for the first time)
+the possibility that liability might attach to careless or dilatory omissions as
+well as to careless acts. Finally, of course, there was the identification of the
+facts which led the House to conclude that the managing agents owed a duty
+of care to the indirect names. These were summarised by Lord Goff of
+Chieveley [1994] 3 W.L.R. 761, 777-778, as follows:
+
+- 42 -
+
+"The managing agents have accepted the names as members of
+a syndicate under their management. They obviously hold
+themselves out as possessing a special expertise to advise the
+Names on the suitability of risks to be underwritten; and on the
+circumstances in which, and the extent to which, reinsurance
+should be taken out and claims should be settled. The Names,
+as the managing agents well knew, placed implicit reliance on
+that expertise, in that they gave authority to the managing
+agents to bind them to contracts of insurance and reinsurance
+and to the settlement of claims."
+
+On these facts, once the other theoretical difficulties had been
+overcome, the case fell squarely within the concept of the undertaking of legal
+responsibility for careful and diligent performance in the context of a mutual
+relationship which in my opinion was the essence of the decision in Hedley
+Byrne.
+
+Can the principles thus formulated and applied be sufficient in
+themselves to yield a duty of care owed to an intended beneficiary? The
+proposition may conveniently be tested by reference to a will and intended to be
+executed in favour of a charity. It often happens that the charity will not only
+have no knowledge of the testator's intention, but will never even have heard
+of the testator and his solicitor. In such a situation I can find no trace of a
+special relationship such as was contemplated by Hedley Byrne, and which
+actually existed in the two leading cases. The charity does nothing. It neither
+invites the solicitor to prepare the will, nor determines its conduct on the
+assumption that it will be skilfully and diligently prepared. There is no
+mutual relationship. Indeed I find it hard to see that there is a relationship at
+all, in any ordinary sense, between parties who are linked only by the fact that
+if the solicitor does his job, and if the testator executes the will and does not
+revoke it, the charity will be better off. Nor in my opinion is the claim
+advanced by looking for an assumption of undertaking of liability. The
+solicitor does of course undertake the task of preparing the will, in the sense
+of agreeing to take it on. But this is between himself and his client. By
+virtue of his response to the testator's instructions the solicitor does assume
+or undertake a legal liability for doing it properly. But he undertakes nothing
+towards the charity in the sense of doing something on its behalf. So far as
+he is concerned the charity is no more than an item in the testator's
+instructions. My Lords, I am obliged to say that in my opinion the reasoning
+of Hedley Byrne and Henderson does not apply to such a case. If a cause of
+action exists at all it must fall into the first, not the second, of the two
+categories recognised by Lord Devlin. It is not a responsibility voluntarily
+accepted or undertaken, but is "imposed by law upon certain types of person
+in certain situations."
+
+For these reasons therefore I conclude that the judgment in favour of
+the plaintiffs cannot be sustained by the direct application of the existing
+authorities. There still remains however the question whether a new rule
+- 43 -
+should be devised to encompass the present situation. This could happen in
+either of two ways. First, the court might start with an established principle,
+and by the incremental process recognised and adopted in cases from Caparo
+Industries Plc. v. Dickman [1990] 2 A.C. 605 onwards extend the law to
+encompass the new situation. Secondly, the court might proceed directly to
+the recognition of a duty, without using any of the existing law as a starting-
+point.
+
+Taking these methods in turn, it is plain that Hedley Byrne and
+Henderson together represent the only solid basis for an accretive process
+which could yield a recovery to disappointed beneficiaries. Even though the
+elements of request and reliance conspicuous in those two cases are absent
+from the situation now under review, it is no great step, so the argument would
+run, to build upon the crucial fact, common to all the cases, that the defendant
+undertook the task in question, and to treat Hedley Byrne, Henderson and the
+present as being fundamentally the same. Whilst acknowledging the
+attractions of this proposition I am unable to accept it, for it is not to my mind
+the application of Hedley Byrne by enlargement - in consimili casu, as it were
+- but the enunciation of something quite different. True it is that the solicitor
+undertook the task of drawing a will which would be for the advantage of the
+beneficiaries but he did not draw it for the beneficiaries, he drew it for the
+testator. Take the simple case where A, knowing that B would like to have
+a gift delivered to C, undertakes to convert it for him - imagine that A
+receives the gift from B, but does absolutely nothing. Would he be liable in
+damages to C? There are ways in which, given the right circumstances, the
+answer might be affirmative. For instance, if the carriage was for reward it
+might be possible to find that B contracted with A as agent for C. Again, if
+the delivery to A amounted to a completed gift by B to C, the latter might
+have a proprietary claim against A. But in the absence of such special
+considerations, is it possible for C to sue A in negligence for his failure to
+perform the undertaking which he gave to B? I know of nothing in the long
+history of the law governing the carriage of goods to suggest the existence of
+any such remedy, and I cannot see how such a novelty could be derived by
+extension from Hedley Byrne or any other established law. As I see it, the
+position is precisely the same in the present case. If I am wrong in the
+analysis of Hedley Byrne suggested above, the cardinal feature was
+undoubtedly that the defendants undertook the job for the plaintiffs. The
+absence of this feature from the instant appeal destroys, in my judgement, the
+possibility of using Hedley Byrne as a stepping stone towards the recognition
+of the cause of action sued upon.
+
+There remains, however, the very important consideration that
+although Donoghue v. Stevenson [1932] A.C. 562 does not lead directly to a
+duty in a case such as the present, any more than it did in Hedley Byrne, it
+opened up the possibility of inferring a quite new duty in new types of special
+relationships far distant from those which existed in Donoghue v. Stevenson
+itself: and this is just what happened in Hedley Byrne and, at one remove, in
+- 44 -
+Henderson. It must therefore be asked, starting the inquiry entirely afresh,
+whether there existed between the solicitor and the intended beneficiary a
+relationship of the kind which, in the general and distinct from any special
+facts, a duty of care should be inferred.
+
+My Lords, even though I have already acknowledged my inability to
+share with others the view that a negative answer will leave a wholly
+unacceptable gap in the law, I must recognise the attractions of a solution
+which could repair the consequences of the solicitor's fault, without in practice
+opening the way to liabilities so broad as to be socially harmful. I have
+therefore considered whether it would be possible simply to create a specialist
+pocket of tort law, with a special type of proximity, distinct from the main
+body of doctrine, sufficient to provide a remedy in the present case. Whether
+this would be consistent with a policy of enlarging the law of negligence by
+the process of accretion, now firmly established since the decision in Caparo
+Industries Plc. v. Dickman [1990] 2 A.C. 605, I venture to doubt. A broad
+new type of claim may properly be met by a broad new type of
+rationalisation, as happened in Hedley Byrne; but rationalisation must then
+be, and it does not conduce to the orderly development of the law, or to the
+certainty which practical convenience demands, if duties are simply conjured
+up as a matter of positive law, to answer the apparent justice of an individual
+case. Be that as it may, the present case does not as it seems to me concern
+a unique and limited situation, where a remedy might be granted on an ad hoc
+basis without causing serious harm to the general structure of the law; for I
+cannot see anything sufficiently special about the calling of a solicitor to
+distinguish him from others in a much broader category. If the claim in the
+present case is sound, for any reasons other than those given by my noble and
+learned friends, it must be sound in every instance of the general situation
+which I have already identified, namely, where A promises B for reward to
+perform a service for B, in circumstances where it is foreseeable that
+performance of the service with care will cause C to receive a benefit, and
+that failure to perform it may cause C not to receive that benefit. To hold that
+a duty exists, even prima facie, in such a situation would be to go far beyond
+anything so far contemplated by the law of negligence. I must emphasise that
+the purpose here is not to conjure up the spectre of "opening the floodgates".
+It is simply that I cannot discern a principled reasoning which could lead to
+the recognition of such an extensive new area of potential liability.
+
+In these circumstances I cannot see my way to join all those judges and
+commentators who have acknowledged a general right for disappointed
+beneficiaries to recover a solatium from an errant solicitor in tort. This is
+not, however, necessarily the end of this appeal, for it may be said to have
+special features. The solicitor, the testator and the intended beneficiaries were
+not strangers. When the division within the family had healed the testator
+conveyed a meeting at which he indicated his wish that the plaintiffs should
+benefit from his will, and he instructed the first plaintiff to telephone the solicitor
+and tell him that the will should be changed. This is what the first plaintiff in fact
+did. Some weeks later the first plaintiff made an appointment for the solicitor
+- 45 -
+
+to see the testator after his return from holiday. This appointment was
+frustrated by the testator's illness and death. My Lords, I was for a time
+attracted by the possibility that a judgment in favour of the plaintiffs could be
+upheld on these particular facts on the ground that there existed a special
+relationship not very far distant from Hedley Byrne, even if for the reasons
+given I am unable to recognise a general duty of care towards intended
+beneficiaries. On reflection however I am satisfied that this would be
+inappropriate. The case has been conducted throughout on the basis of a stark
+choice between a duty of general application or no duty at all, and it cannot
+I believe be right to admit of an intermediate solution which has never been
+investigated on either the facts or the law.
+
+My Lords, I have two final observations. The first concerns the
+marked contrast between the scores of authorities cited in argument, and the
+very few reported cases which I have culled up. This may seem discouraging
+to those who with great skill and labour have gathered together and analysed
+all this diverse material. Such a feeling would be understandable but
+mistaken. The extensive citation has been indispensable as a means of placing
+before your Lordships the interplay of ideas so copiously developed by jurists
+here and abroad. The whole of the landscape has been exposed. Yet when
+it comes to reaching a decision and explaining the grounds for it there is a
+possibility of surfeit. The construction of an intelligible mosaic becomes
+impossible if there are too many pieces. Many of them will not fit. A full
+account of all the previous decisions would be endless and useless. Ultimately
+it is the broad shape of the principles which matters, and to obscure them in
+a fog of citation would not in my opinion advance the development of the law
+of negligence, so important to everyday life.
+
+Secondly, the judgment of Steyn L.J. remarked on the sparseness of
+reference to academic writings in the argument before the Court of Appeal.
+No such complaint could be made of the proceedings in this House. There
+can be few branches of contemporary law on which the commentators have
+had so much to say. Citation has been copious, and of great value. If I refer
+to none of the writings it is only because, as with the reported cases, the
+volume is too large to permit accurate and economical exposition; and the
+selection of some in preference to others would be invidious. It is the practice
+in official law reports to record not only the cases referred to in the
+judgments, but also those brought forward to argument. This is an invaluable
+feature for those who follow behind. A similar record of the doctrinal
+materials brought forth in argument would, I believe, greatly help to place in
+perspective the views which your Lordships have expressed.
+
+For the reasons stated, I would allow the appeal.
+
+- 46 -
+LORD NOLAN
+
+My Lords,
+
+I would dismiss these appeals. I would do so because, on the basis of
+the simple facts found by the Court of Appeal - namely that each of the
+respondents lost at least £9,000 in consequence of the appellants' inexcusable
+delay in drawing up a fresh Will for Mr. Barratt - the respondents' claim
+appears to me to satisfy the criteria laid down by the decisions of your
+Lordships' House in Caparo Industries Plc. v. Dickman [1990] 2 A.C. 605
+and Murphy v. Brentwood District Council [1991] 1 A.C. 398.
+
+The facts did not seem to simple to the judge. He felt that any damage
+suffered by the respondents was too speculative and uncertain to be
+recoverable. There must be many cases of the present kind which would
+justify such a conclusion, because of, for example, the possibility of a further
+change of mind by the testator or doubts about the sufficiency of funds to
+meet his wishes. The respondents are fortunate in having been able to
+establish that the final intentions of the testator in the present case were firm,
+clear and attainable.
+
+This is not the only respect in which fortune has played a part. If Mr.
+Barratt had suffered his fall and subsequent heart attack in late July rather than
+in September of 1986 - that is to say, before any undue delay on the part of
+the appellants had occurred - the loss to the respondents would have been the
+same, but they would have had no remedy. The residuary legatees under the
+unrevoked will have been even more fortunate. They have received much
+more than Mr. Barratt intended. The failure of these appeals will spare them
+from the need to consider whether, in conscience, they should observe Mr.
+Barratt's known wishes rather than the terms of the will. That is a reflection
+of the fact that the remedy provided by the law produces a curious
+asymmetry. If it gave effect to Mr. Barratt's wishes, it would result in a
+revised distribution of his estate. Instead, it effectively increases the size of
+his estate by the sum of £18,000, free, I understand, of inheritance tax. No
+one can tell precisely how Mr. Barratt would have wished to dispose of an
+estate thus augmented. What is plain is that the family as a whole are better
+off because of the appellants' negligence.
+
+These considerations led me to wonder initially whether a decision in
+favour of the respondents would represent a departure from accepted
+principles of compensation. I have, however, concluded that they should not
+stand in the way of the simple justice of the respondents' claim against the
+appellants. On the facts before your Lordships' House the respondents have
+suffered damage because of the appellants' breach of their professional duty,
+and they are therefore entitled to the remedy - the only remedy - which the
+law can offer, notwithstanding the fortuitous aspects of the case and its
+unusual consequences.
+
+- 47 -
+I reach this conclusion the more readily because the decision in Ross
+v. Caunters [1980] Ch. 297 has stood unchallenged for 15 years and has
+achieved a substantial measure of international and academic support. The
+moral that solicitors, when preparing a will, owe a duty to intended legatees
+as well as to the testator must by now have become familiar to them and to
+their insurers. To reverse the decision in Ross v. Caunters at this stage would
+be, in my judgment, a disservice to the law. I agree with the views
+expressed in the unanimous judgments of the Court of Appeal.
+
+There are, however certain aspects of the case upon which I would
+wish to add a word of my own. Them stem from the appellants' argument that
+the decision under appeal extends tortious liability into what should be the
+exclusive domain of contract. The force of this argument has of course been
+substantially diminished by the intervening decision of your Lordships' House
+in Henderson v. Merrett Syndicates Ltd. [1994] 3 W.L.R. 761 which shows
+that a contractual duty of care owed by the defendant to A may perfectly well
+co-exist with an equivalent tortious duty of care to B. Both duties depend
+upon an assumption of responsibility by the defendant. In the former case the
+responsibility is assumed by the making of the contract and is defined by its
+terms. In the latter the responsibility is assumed by the defendant embarking
+upon a potentially harmful activity and is defined by the general law. If the
+defendant drives his car on the highway, he impliedly assumes a responsibility
+towards other road users, and they in turn implicitly rely on him to discharge
+that responsibility. By taking his car on to the road, he holds himself out as
+a reasonably careful driver.
+
+In the same way, as it seems to me, a professional man or an artisan
+who undertakes to exercise his skill in a manner which, to his knowledge
+may cause loss to others if carelessly performed, may thereby implicitly
+assume a legal responsibility towards them. The fact that he is doing so in
+pursuance of a contractual duty or a statutory function cannot of itself exclude
+that responsibility. The most that can be said is that it may be one of the
+circumstances to be taken into account in determining the nature and extent
+of the responsibility. Thus in Voli v. Inglewood Shire Council (1963) 110
+C.L.R. 64, in which the architect of the Shire Hall was held to have owed a
+duty to visitors to the Hall to make the stage safe for the burden reasonably
+expected to be placed on it. Windeyer J. said, at p. 84:
+
+"Whatever might have been thought to be the position before the broad
+principles of the law of negligence have been stated in modern form in
+Donoghue v. Stevenson, it is now beyond doubt that, for the
+reasonably foreseeable consequences of careless or unskilful conduct,
+an architect is liable to anyone whom he could reasonably have been
+expected might be injured as a result of his negligence. To such a
+person he owes a duty of care quite independently of his contract of
+employment."
+
+- 48 -
+
+He continued, at p. 85:
+
+"..., neither the terms of the architect's engagement, nor the terms of
+the building contract, can operate to discharge the architect from a
+duty of care to persons who are strangers to those contracts. Nor can
+they directly determine what he must do to satisfy his duty to such
+persons. That duty is cast upon him by law, not because he made a
+contract, but because he entered upon the work. Nevertheless his
+contract with the building owner is not an irrelevant circumstance. It
+determines what was the task upon which he entered, If, for example,
+it was to design a stage to bear only some specified weight, he would
+not be liable for the consequences of someone thereafter negligently
+permitting a greater weight to be put upon it."
+
+Volt was, of course, a case of physical injury rather than economic
+loss. I would for my part leave open the question whether, in either type of
+case, the defendant who engages in the relevant activity pursuant to a contract
+can exclude or limit his liability to third parties by some provision in the
+contract. I would prefer to say that the existence and terms of the contract
+may be relevant in determining what the law of tort may reasonably require
+of the defendant in all the circumstances.
+
+No such difficulty arises in the present case. Here, as in Merrett, it
+would be highly artificial to treat the appellants' responsibility to Mr. Barratt
+in contract as excluding their responsibility to the respondents in the law
+of tort. The appellants were acting in the role of family solicitors. As is
+commonly the case the contract was with the head of the family, but it would
+be astonishing if, as a result, they owed a duty of care to him alone, to the
+exclusion of the other members of the family. In the particular circumstances
+of the case, the degree of proximity to the plaintiffs could hardly have been
+closer. Carol White, the first plaintiff, had spoken to Mr. Jones about the
+revised wishes of Mr. Barratt and the letter setting out those wishes was
+written by Mr. Barratt to Mr. Heath, the husband of the second plaintiff. It
+would be absurd to suggest that they placed no reliance upon the appellants
+to carry out the instructions given to them. I do not say that other potential
+legatees, less intimately concerned with the carrying out of the testator's
+wishes, would necessarily be deprived of a remedy: I simply point to the
+facts as being relevant to the pragmatic, case-by-case approach which the law
+now adopts towards negligence claims.
+
+It was argued that the failure by the appellants in the present case was
+a failure of omission, and that omission is not as a rule a ground upon which
+liability in negligence can be based. That argument cannot, to my mind, have
+any force where the omission occurs after the duty of care has been assumed
+by the defendant. Once the duty exists, it can make no difference whether its
+breach occurs by way of omission or of positive act.
+
+- 49 -
+It is for these reasons, as well as those given by my noble and learned
+friends Lord Goff of Chieveley and Lord Browne-Wilkinson, that I would
+dismiss the appeal.
+
+- 50 -
+White and another (Respondents)
+V.
+Jones and others (Appellants)
+
+JUDGMENT
+
+Die Jovis 16° Februarii 1995
+
+Upon Report from the Appellate Committee to whom was
+referred the Cause White and another against Jones and others,
+That the Committee had heard Counsel as well on Monday the 7th
+as on Tuesday the 8th, Wednesday the 9th, Thursday the 10th and
+Monday the 14th days of March last upon the Petition and Appeal
+of John Brynmor Jones of 37 Manor Road, Sutton Coalfield, West
+Midlands, David John King of 606 Bromford Lane, Ward End,
+Birmingham B8 2DP and Giles Horton Peppercom of The Citadel, 190
+Corporation Street, Birmingham B4 6TU praying that the matter
+of the Order set forth in the Schedule thereto, namely an Order
+of Her Majesty's Court of Appeal of the 3rd day of March 1993,
+might be reviewed before Her Majesty the Queen in Her Court of
+Parliament and that the said Order might be reversed, varied or
+altered or that the Petitioners might have such other relief in
+the premises as to Her Majesty the Queen in Her Court of
+Parliament might seem meet; as upon the case of Carol Brenda
+White and Pauline Elizabeth Heath lodged in answer to the said
+Appeal; and due consideration had this day of what was offered
+on either side in this Cause:
+
+It is Ordered and Adjudged, by the Lords Spiritual and
+Temporal in the Court of Parliament of Her Majesty the Queen
+assembled, That the said Order of Her Majesty's Court of Appeal
+of the 3rd day of March 1993 complained of in the said Appeal be,
+and the same is hereby, Affirmed and that the said Petition and
+Appeal be, and the same is hereby, dismissed this House: And it
+is further Ordered, That the Appellants do pay or cause to be
+paid to the said Respondents the Costs incurred by them in
+respect of the said Appeal, the amount thereof to be certified
+by the Clerk of the Parliaments if not agreed between the
+parties.
+
+Cler: Parliamentor:

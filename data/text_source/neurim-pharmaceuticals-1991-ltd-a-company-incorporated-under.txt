@@ -1,0 +1,1724 @@
+Neutral Citation [2020] EWHC 1362 (Pat)
+Claim No: HP-2020-000005
+
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+INTELLECTUAL PROPERTY LIST (Pat)
+PATENTS COURT
+Royal Courts of Justice
+Rolls Building
+7 Rolls Buildings
+Fetter Lane
+London EC4A 1NL
+
+Date: 3 June 2020
+
+Before:
+
+THE HONOURABLE MR JUSTICE MARCUS SMITH
+
+BETWEEN:
+(1) NEURIM PHARMACEUTICALS (1991) LIMITED
+(a company incorporated under the laws of Israel)
+(2) FLYNN PHARMA LIMITED
+(a company incorporated under the laws of the Republic of Ireland)
+Claimants
+
+(1) GENERICS UK LIMITED (trading as MYLAN)
+(2) MYLAN UK HEALTHCARE LIMITED
+Defendants
+
+- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - -
+
+Mr Andrew Waugh, QC and Ms Katherine Moggridge (instructed by Gowling WLG (UK)
+LLP) for the First Claimant
+Mr Andrew Waugh, QC and Ms Katherine Moggridge (instructed by Pinsent Masons LLP)
+for the Second Claimant
+Mr Mark Vanhegan, QC and Mr Adam Gamsa (instructed by Taylor Wessing LLP) for the
+Defendants
+
+Hearing dates: 20 May and 3 June 2020
+- - - - - - - - - - - - - - - - - - - - -
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 2
+Approved Judgment
+
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 3
+Mr Justice Marcus Smith:
+
+A.
+THE CLAIMANTS AND THE PATENT
+1.
+The First Claimant – Neurim Pharmaceuticals (1991) Limited (Neurim1) – is the
+registered proprietor of a patent, EP(UK) 1,441,702 B1 (the Patent). The Second
+Claimant – Flynn Pharma Limited (Flynn) – is the registered exclusive licensee under
+the Patent in the UK.
+2.
+The Patent2 claims prolonged release pharmaceutical formulations concerning the active
+ingredient melatonin to improve the restorative quality of sleep in a patient suffering
+from primary insomnia characterised by non-restorative sleep.
+3.
+The pharmaceutical formulation claimed by the Patent is sold under the brand name
+Circadin. More recently, Neurim has developed a paediatric version of prolonged release
+melatonin, Slenyto.
+4.
+The Patent was filed on 12 August 2002 and claims priority from 14 August 2001. The
+Patent is a “second medical use” patent. If not revoked sooner, the Patent will expire on
+12 August 2022, i.e. in some two years and three months’ time.
+5.
+Pharmaceuticals like Circadin receive protection from competition in the shape of a
+monopoly derived from the patent under which they are produced. This serves as a form
+of negative protection against competitors. However, in order actually to sell such a
+pharmaceutical (at least in the UK), regulatory approval is also required. In very general
+terms:
+(1)
+Regulatory approval to sell a pharmaceutical will typically require considerable
+(and expensive) testing in order to be assured that the pharmaceutical provides
+clinical benefits with an acceptable level of side effects.
+(2)
+If approval is granted, the pharmaceutical’s label will indicate its intended use.
+Normally, this use is closely tied to the claims in the patent. However, at least in
+this jurisdiction, it is possible for there to be an off-label use for which the
+pharmaceutical may be sold and used. As the term implies, off-label refers to a use
+that is not described in the label.
+6.
+There are often, therefore, two markets for pharmaceuticals: the on-label market, which
+is generally closely tied to the claims in the patent (if there is a patent in relation to the
+pharmaceutical); and an off-label market, which involves prescribing or selling for uses
+that are not specified in the label. It will be necessary to consider the on-label and off-
+label uses of Circadin in the course of this judgment. For the present, it is simply worth
+noting that Circadin’s label indicates a use for the short-term treatment of primary
+insomnia in patients aged 55 or over, which is a narrower use than the claims in the Patent
+(which have no age limitations as to use). There is, therefore, unsurprisingly an off-label
+
+1 Annex 1 hereto lists the terms and abbreviations used in this judgment.
+2 Specifically, independent claims 1 and 4 of the Patent, which are set out in paragraph 59 below.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 4
+market for Circadin for insomnia in patients under the age of 55. There are also off-label
+uses for Circadin in relation to treatments for non-insomnia symptoms.
+7.
+Slenyto received regulatory approval in October 2018. Slenyto is for insomnia in
+children. There is obviously going to be competition between Circadin and Slenyto, with
+the latter taking sales away from the former, as well as bringing in new sales in those
+cases where Circadin would not previously have been prescribed.
+8.
+The Patent was granted by the European Patent Office (the EPO) on 10 May 2017. It
+was subject to opposition by – amongst others – the First Defendant, Generics UK
+Limited. I shall refer to the First Defendant and to the Second Defendant, Mylan UK
+Healthcare Limited, collectively as Mylan. At an oral hearing on 20 November 2019, the
+Patent was revoked by the EPO Opposition Division. It was held to be invalid as having
+been anticipated by certain prior art that I need not describe. The EPO Opposition
+Division published its written decision on 2 January 2020. That decision has been
+appealed, but it is unlikely that a final decision on the appeal will be made before 2022
+at the earliest. It is perfectly possible that there will be no decision until the Patent has
+expired which, as I have said, will be on 12 August 2022.
+B.
+MYLAN
+9.
+Mylan propose to release a “generic” rival to Circadin. Mylan’s precise launch plans are
+confidential, and I am going to proceed on the basis that that launch is “fairly imminent”,
+without being any more specific than that. I have confidential evidence before me
+providing some greater specificity on this point: but I do not consider this to be material
+to this judgment. I shall refer to this rival pharmaceutical as the Generic Product.
+10.
+Mylan obtained a marketing authorisation for their Generic Product in about December
+2019. This marketing authorisation “piggy backs” on Neurim’s own marketing
+authorisation for Circadin. Unless restrained by this court, Mylan proposes to sell the
+Generic Product in the UK as soon as it can.
+C.
+THESE PROCEEDINGS
+11.
+In these proceedings – commenced by Neurim and Flynn – Neurim and Flynn contend
+that Mylan intends to infringe the Patent. They seek a declaration of infringement and
+injunctive and other relief. Mylan counterclaims for revocation of the Patent on grounds
+of anticipation, obviousness and insufficiency.
+12.
+“Interim” interim protection has been obtained by Neurim and Flynn in the form of an
+undertaking from Mylan that “holds the ring” until 20 May 2020, the date of the hearing
+before me. This was the date of Neurim and Flynn’s application for an interim injunction
+until trial. Because the hearing before me overran, and argument continued until the early
+evening,3 that undertaking was, helpfully, extended by Mylan to 3 June 2020, when this
+judgment is formally to be handed down.
+
+3 That is no criticism of any of the counsel. The hearing, which was conducted remotely, was affected by many
+interruptions in the connection. Although I am satisfied that all points were properly laid out before me, there was
+a distinct lack of flow, and it seemed to me important to re-visit the transcript before giving judgment.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 5
+13.
+For the purpose of this judgment, the question before me is, therefore, whether interim
+injunctive relief should be provided until after final judgment in these proceedings or
+further order.
+14.
+An expedited trial had been ordered, which is due to take place in a 5-day window
+floating from 26 October 2020.
+D.
+THE LAW AS STATED IN AMERICAN CYANAMID
+15.
+The relevant law – or at least the starting point for considering the relevant law – remains
+the speech of Lord Diplock in American Cyanamid Co v. Ethicon Ltd.4 Given the
+arguments that were put before me, it is appropriate – despite the well-known nature of
+the test propounded by Lord Diplock – to set out the reasoning in some detail.
+16.
+In general terms, the object of interlocutory relief is as follows:5
+“The object of the interlocutory injunction is to protect the plaintiff against injury by violation of
+his right for which he could not be adequately compensated in damages recoverable in the action
+if the uncertainty were resolved in his favour at the trial; but the plaintiff’s need for protection
+must be weighed against the corresponding need of the defendant to be protected against injury
+resulting from his having been prevented from exercising his own legal rights for which he could
+not be adequately compensated under the plaintiff’s undertaking in damages if the uncertainty
+were resolved in the defendant’s favour at the trial. The court must weigh one need against
+another and determine where “the balance of convenience” lies.”
+17.
+Ascertaining the balance of convenience involves a number of steps:
+(1)
+Stage 1: A serious issue to be tried? The applicant for interim relief, the claimant,
+must show that there is a “serious issue to be tried”:6
+“The court no doubt must be satisfied that the claim is not frivolous or vexatious; in other
+words, that there is a serious issue to be tried...So unless the material available to the court
+at the hearing of the application for an interlocutory injunction fails to disclose that the
+plaintiff has any real prospect of succeeding in his claim for a permanent injunction at the
+trial, the court should go on to consider whether the balance of convenience lies in favour
+of granting or refusing the interlocutory relief that is sought…”.
+The whole point of this test is to avoid conducting a “trial within a trial”. If it were
+possible to correctly anticipate the outcome of a trial at an interlocutory stage, trials
+would become redundant and matters would be resolved finally (subject to any
+appeal) at what would no doubt no longer be known as an “interlocutory” hearing.
+Lord Diplock’s point – which has as much force today as it had in 1975 – was that
+trials served an essential purpose, and that because there was inevitably a time-lag
+between the joining of issue on a legal dispute and the resolution of that issue at
+trial, interim protection between joinder of issue and trial needed to be based on
+criteria very different to those operating at the trial itself:7
+
+4 [1975] AC 396.
+5 American Cyanamid at 406.
+6 American Cyanamid at 407-408.
+7 American Cyanamid at 407.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 6
+“It is no part of the court’s function at this stage of the litigation to try to resolve conflicts
+of evidence on affidavit as to facts on which the claims of either party may ultimately
+depend nor to decide difficult questions of law which call for detailed agreement and
+mature consideration…”
+Thus, the requirement that there be a serious issue to be tried is no more than a
+roughly-meshed filter, intended to remove from the court’s consideration the
+obviously unsustainable.
+(2)
+Stage 2: Are damages an adequate remedy to the claimant? Lord Diplock’s
+position was that provided damages were an adequate remedy, a claimant should
+not obtain an interim injunction, even if the claim was very strong:8
+“If damages in the measure recoverable at common law would be an adequate remedy and
+the defendant would be in a financial position to pay them, no interlocutory injunction
+should normally be granted, however strong the plaintiff’s claim appeared to be at that
+stage…”
+Significantly, Lord Diplock did not merely focus on the theoretical adequacy of
+damages as a remedy, but on the practical aspects as well. Thus, if a defendant were
+not in a financial position to pay damages – even if, theoretically speaking,
+damages would be adequate, if only the defendant had money to pay – that would
+militate in favour of granting interim relief. Although not mentioned by Lord
+Diplock, it seems to me that other practical aspects – for example, the length of
+time it might take for a claimant to obtain an order for damages, and the procedural
+difficulties that might bedevil the route to damages – are relevant factors to take
+into account in the particular case.
+In assessing whether damages are going to be an adequate remedy, it is essential
+that the court identify those aspects in which damages will not be an adequate
+remedy. Matters are rarely black and white, and it is implicit in Lord Diplock’s use
+of the word “adequate” that an injunction may nevertheless be refused if damages
+are not a “perfect” remedy; but that there comes a point when damages as a remedy
+falls so far short of the perfect, that the remedy of damages can no longer be
+described as adequate.
+(3)
+Stage 3: If damages are not an adequate remedy to the claimant, consider the
+adequacy of the undertaking in damages to the defendant? If damages are an
+adequate remedy to the claimant, then the inquiry stops at Stage 2. However, the
+converse does not hold good. An injunction will not lie automatically, even if
+damages are an inadequate remedy to the claimant and the requirements of Stage 2
+are satisfied:9
+“If, on the other hand, damages would not provide an adequate remedy for the plaintiff…,
+the court should then consider whether, on the contrary hypothesis that the defendant were
+to succeed at the trial…he would be adequately compensated under the plaintiff’s
+undertaking as to damages for the loss he would have sustained by being prevented from
+doing so between the time of the application and the time of the trial. If damages in the
+measure recoverable under such an undertaking would be an adequate remedy and the
+
+8 American Cyanamid at 408.
+9 American Cyanamid at 408.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 7
+plaintiff would be in a financial position to pay them, there would be no reason upon this
+ground to refuse an interlocutory injunction…”
+It is trite that an injunction will not normally be granted unless the claimant offers
+to hold the defendant harmless against any losses sustained by the defendant in
+being enjoined by the injunction in the event that the outcome at trial proves that
+the interim injunction should not have been granted (because the claims that would
+justify the making of a final injunction fail). It will be necessary to consider the
+ambit of this undertaking later on in this judgment, but (for the present) it is enough
+to note that if the undertaking in damages will adequately10 protect the defendant
+an interim injunction will, in the ordinary course, be granted.
+(4)
+Stage 4: no adequate remedy for either side. Of course, a court must consider all
+relevant factors when granting a discretionary remedy like an interim injunction.
+But it is where both parties can plausibly contend that damages (whether granted
+as a remedy at law or through the cross-undertaking) will not be adequate that a
+balancing exercise as to whether or not to grant relief arises for careful
+consideration:11
+“It is where there is doubt as to the adequacy of the respective remedies in damages
+available to either party or to both, that the question of balance of convenience arises. It
+would be unwise to attempt even to list all the various matters which may need to be taken
+into consideration in deciding where the balance lies, let alone to suggest the relative
+weight to be attached to them. These will vary from case to case…”
+As Lord Diplock noted, it is not possible to enumerate the factors that a court
+should take into account at this stage. However, Lord Diplock did identify two
+factors which might be taken into account:
+(a)
+The first of these was the significance of the status quo:12
+“Where other factors appear to be evenly balanced it is a counsel of prudence to
+take such measures as are calculated to preserve the status quo…”
+(b)
+The second was a residual role for the merits of the claim. Lord Diplock put
+the matter thus:13
+“If the extent of the uncompensatable disadvantage to each party would not differ
+widely, it may not be improper to take into account in tipping the balance the
+relative strength of each party’s case as revealed by the affidavit evidence adduced
+on the hearing of the application. This however should be done only where it is
+apparent upon the facts disclosed by evidence as to which there is no credible
+dispute that the strength of one party's case is disproportionate to that of the other
+party…”
+It is important to be aware of the limits that apply when taking into account
+the merits. Not only does the appropriateness of a merits analysis arise at a
+very late stage in the American Cyanamid assessment process; it is also the
+case that the court should not be sucked into a merits analysis unless the
+facts are so clear that “there is no credible dispute” in relation to them.
+
+10 All that was said about “adequacy” in paragraph 17(3) above is equally true here.
+11 American Cyanamid at 408.
+12 American Cyanamid at 408.
+13 American Cyanamid at 409 (emphasis added).
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 8
+E.
+“TRIALS WITHIN TRIALS” ON INTERLOCUTORY MATTERS
+18.
+Hard fought and financially significant applications for interim relief will often involve
+hotly contested matters of fact that will not, or at least not in that form, be the subject of
+resolution at trial. In this case, there was (quite rightly and entirely unsurprisingly)
+considerable debate about the question of “adequacy” of damages at both Stages 2 and 3
+of the process described above. By way of example, both parties adduced some evidence
+as to what would happen to the market for Circadin (and Slenyto, although the market
+for this pharmaceutical is less well developed) were an interim injunction not to be
+granted. Neurim and Flynn contended:
+(1)
+That Mylan’s Generic Product would enter the market at a price significantly lower
+than the prices that Neurim and Flynn could otherwise charge for Circadin (and
+Slenyto).
+(2)
+That the market price for Circadin and Slenyto would materially fall for that reason,
+and that Neurim and Flynn would either have to follow the market price down (in
+an attempt to maintain market share) or else lose a significant amount of market
+share whilst maintaining pre-existing prices. Either way, their revenue would fall,
+and would fall materially.14
+(3)
+That the fall in market price would not be capable of being recovered by Neurim
+and Flynn. Thus, supposing an imminent entry into the market by Mylan, and
+assuming victory at trial in October by Neurim and Flynn, these 6 months between
+the beginning of June and the end of November (which is when I shall assume
+judgment would be handed down) would be sufficient to suppress the price of
+Circadin and Slenyto irretrievably for the remaining duration of the Patent when
+compared to pre-June 2020 levels.
+19.
+Thus, according to Neurim and Flynn, if an interim injunction were not granted, their
+losses would fall to be categorised under two broad heads, which I shall call Period 1
+and Period 2:
+(1)
+Losses in Period 1. Neurim and Flynn’s losses in Period 1 would arise because of
+direct competition between Circadin/Slenyto and Mylan’s Generic Product. That
+direct competition would – according to Neurim and Flynn – result in lower
+revenues as a result of a combination of lower volume of sales at lower prices.
+(2)
+Losses in Period 2. The outcome of the trial in October is, of course, unknown.
+However, assuming Neurim and Flynn were to be successful at trial, it is likely (as
+it seems to me) that Neurim and Flynn would successfully be able to argue that
+(even if no injunction had been granted at the interlocutory stage) they should,
+having won on the merits, obtain a permanent injunction on the handing down of
+judgment in their favour. Neurim and Flynn contended that even if this occurred,
+and Mylan’s Generic Product was excluded from the market at that point, their
+losses would still continue. Neurim and Flynn would not simply be able to increase
+their prices to the levels they were at before the commencement of Period 1. Instead
+
+14 The extent to which there would or might be a fall in price – and in respect of which markets (the on-label
+market, the off-label market or both) – was itself contested. Indeed, even the scope of these markets was not
+agreed. Neurim and Flynn, to be clear, contended that there would be a “dramatic” fall in the price. The use of the
+more neutral word “material” is mine.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 9
+– throughout Period 2, which I shall take to be from the imposing of a final
+injunction at the conclusion of the trial, to the expiry of the Patent in August 2022
+– Neurim and Flynn would continue to suffer loss, even whilst doing their utmost
+to rebuild the market for Circadin and Slenyto.
+20.
+These points were contested by Mylan. In particular, it was suggested that the market
+would recover if Neurim and Flynn succeeded at trial and obtained a permanent
+injunction.
+21.
+It is impossible to reach a conclusion “on the merits” as to what would happen to the
+market for Circadin and Slenyto if an interim injunction were not granted. Although I
+have read the evidence adduced by both parties with great care, there has been no
+disclosure; no expert evidence; and no oral evidence. None of this is a criticism of the
+parties. To conduct a trial in order to establish whether Stages 2, 3 and 4 of Lord
+Diplock’s process are met or not met would be entirely to subvert the purpose of Stage
+1, which enjoins a trial on the merits on the matters due to be heard at trial in favour of a
+“balance of convenience” approach.
+22.
+Accordingly, when considering contentious questions of fact such as these, I have taken
+the view that American Cyanamid provides an order in which material factors going to
+my discretion should be considered. In short, I have a structured discretion, within which
+certain factually contentious factors arise. These are matters on which I cannot reach a
+finally concluded view: I can only weigh them in the manner suggested by Lord Diplock
+at Stage 1 – namely, is there a “serious issue” to be tried? As Gee notes, the process for
+the grant of an interim injunction is essentially a discretionary one, and not a fact-finding
+one:15
+“The discretion whether to grant or refuse an interim injunction is that of the first instance judge,
+and will not be interfered with by an appellate court, unless the judge took into account something
+he should not have taken into account, failed to take into account something which he should
+have taken into account, was wrong in law, misunderstood the evidence, or was plainly wrong,
+or if there has been further evidence which shows that the judge proceeded on a mistaken view
+of the facts, or there has been, since the decision at first instance, a material change of
+circumstances.”
+F.
+THE
+DIRECTIVE
+ON
+THE
+ENFORCEMENT
+OF
+INTELLECTUAL
+PROPERTY RIGHTS
+23.
+Mylan referred me to article 3 of Directive 2004/48/EC of the European Parliament and
+of the Council of 29 April 2004 on the enforcement of intellectual property rights (the IP
+Enforcement Directive).16 Article 3 provides:
+“(1)
+Member States shall provide for the measures, procedures and remedies necessary to
+ensure the enforcement of the intellectual property rights covered by this Directive.
+Those measures, procedures and remedies shall be fair and equitable and shall not be
+unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted
+delays.
+
+15 Gee, Commercial Injunctions, 6th ed (2016) at [2-29].
+16 Paragraph 12 of Mylan’s written submissions.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 10
+(2)
+Those measures, procedures and remedies shall also be effective, proportionate and
+dissuasive and shall be applied in such a manner as to avoid the creation of barriers to
+legitimate trade and to provide for safeguards against their abuse.”
+24.
+I am grateful to Mylan for reminding me of this provision. It seems to me that the
+American Cyanamid regime that I have described seeks to achieve the ends described in
+article 3 of the IP Enforcement Directive.
+G.
+APPROACH
+25.
+I propose to consider Neurim and Flynn’s application for an interim injunction essentially
+in accordance with the schema laid down by Lord Diplock. Thus, Sections H to K engage
+with Stages 1 to 4 as I have described them in Section D above.
+H.
+STAGE 1: A SERIOUS ISSUE TO BE TRIED
+(1)
+The merits (again)
+26.
+The American Cyanamid test is extremely clear as to the role of the merits. There is a
+threshold test of a “serious issue to be tried”; and the possibility of taking the merits into
+account at Stage 4, provided the facts are unequivocal – and that is it.
+27.
+Nevertheless, there have been attempts to allow the merits to intrude more, notably by
+Laddie J in Series 5 Software Ltd v. Philip Clarke.17 In Re Brickvest Ltd,18 I was invited
+to take this course in relation to the merits of the case:
+“9.
+Mr Hornett did seek to tempt me into applying a different test to the “serious question to
+be tried” in American Cyanamid. In Series 5 Software Ltd v. Philip Clarke, [1996] FSR
+273 at 286, Laddie J suggested that it was possible to shortcut the later stages of American
+Cyanamid by focussing on the merits. The approach of Laddie J was that, in a clear-cut
+case, one could grant an injunction independently of the American Cyanamid criteria. I
+must say I have my doubts. As is well-known, in American Cyanamid, Lord Diplock
+sought to avoid the difficulties of conducting a “trial within a trial” at an interlocutory
+stage by articulating the “serious question to be tried” test.
+10.
+It seems to me that Laddie J’s approach is one that is redolent with danger, in that it seeks
+to re-incorporate into the test for the granting of an interlocutory injunction precisely
+those elements that Lord Diplock was at pains to remove. Apart from the case where the
+court can conclude that it appropriate to order summary judgment in favour of the
+applicant for an injunction, it seems to me that the test to be applied – when considering
+the merits – is whether there is a serious issue to be tried.”
+There is always a temptation to try to achieve at an earlier stage than trial the certainty
+that a trial is intended to achieve. But there is a reason we have trials: it is because many
+questions cannot be determined without consideration of all the evidence in light of the
+material available at trial. Whilst the appeals process from trials shows that the certainty
+of outcome at the conclusion of a trial may be fractured on a successful appeal, that
+
+17 [1996] FSR 273 at 286. Mylan sought to suggest that there were other indicators of a more aggressive role for
+the merits in National Commercial Bank Jamaica v. Olint, [2009] UKPC 16 at [17] and Warner-Lambert v.
+Actavis, [2015] EWHC 72 (Pat) at [90]. Looking at these passages, it seems to me that Lord Hoffmann and Arnold
+J, respectively, were doing no more than articulate the American Cyanamid principles.
+18 [2019] EWHC 2662 (Ch).
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 11
+merely underlines how dangerous it is to anticipate the outcome of a trial. There is good
+reason why Lord Diplock expressed the hurdle as lowly as he did – “serious issue to be
+tried”. Whilst I have no doubt that there are means, apart from a successful application
+for summary judgment, for showing that there is no serious issue to be tried, I equally
+have no doubt that they are limited and that they do not permit very much scope for a
+“merits” approach. Unless and until the Supreme Court articulates a different test, it is
+Lord Diplock’s approach that governs.19
+(2)
+Serious issue to be tried
+28.
+Looking simply at the issues in the proceedings, it is difficult to see how it could be said
+that there was no serious issue to be tried as to the validity of the Patent. In his oral
+submissions before me, Mr Vanhegan, QC, for Mylan, accepted that there was a serious
+issue to be tried.20 He was correct to make that concession in light of the evidence before
+me, and it follows that there is no need for me to consider further the issues of validity
+that will trouble this court at the trial of these proceedings.
+(3)
+The proceedings before the EPO
+29.
+Mylan did seek to rely on the fact that the Patent had been revoked by the EPO Opposition
+Division in support of its contention that there was no serious issue to be tried.21 I was
+also referred to certain decisions in other jurisdictions: in particular, I was referred to the
+refusal by the Patent and Market Court of Stockholm to grant an interim injunction in
+favour of the Patent against Orifarm in Sweden.22
+30.
+It being conceded that there is – on the face of these proceedings – a serious issue to be
+tried, neither of these points can, in my judgment, alter that conclusion. In some cases,
+the decisions of courts of foreign jurisdictions are entitled to great weight. This is not one
+of those cases. I have no idea what evidence was adduced before the Swedish (and other)
+courts; more to the point, I have no idea what test for the granting of interim relief these
+courts applied.
+31.
+In these circumstances, the fact that an interim injunction was refused in these other
+jurisdictions is a matter of no moment. It might be that, if an exhaustive comparative
+analysis were carried out, embracing both the legal test applied by such courts and the
+evidence adduced before them, some light might be cast on the question of serious issue
+to be tried. But the benefit is so marginal, and cost in legal expense and court time so
+great, that such a course cannot be encouraged. The question of serious issue to be tried
+must be considered through the prism of the proceedings being tried in this jurisdiction.
+32.
+The same goes for the proceedings before the EPO. If it were the case that the conclusion
+of the EPO Opposition Division were binding on this court, then the question of whether
+there was a serious issue to be tried would not even arise: the merits of the matter would
+
+19 Cephalon v. Orchid, [2010] EWHC 2945 (Pat) at [43] to [45], where Floyd J articulated precisely the approach
+I have described.
+20 Transcript/p.94 (submissions of Mr Vanhegan, QC).
+21 Mylan’s written submissions at paragraphs 31 and 32.
+22 Mylan’s written submissions at paragraph 32.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 12
+already have been determined. But that is not the status of an EPO Opposition Division
+decision.
+33.
+In Buehler AG v. Chronos Richardson Ltd,23 the Court of Appeal held that under article
+138 of the European Patent Convention 1973, the validity of a patent was a matter to be
+determined in revocation proceedings in the national courts. The Convention was given
+effect by the Patents Act 1977 and the power to revoke a patent on specified grounds was
+given to courts and the Comptroller under section 72. The jurisdiction under section 72
+extended further than that exercised by the Opposition Division under article 100 of the
+Convention and the grounds for revocation under section 72 were different to the grounds
+for opposition. Accordingly, a party who had unsuccessfully opposed the grant of a patent
+before the EPO was not precluded from advancing substantially the same point in the
+English courts. A decision of the Opposition Division was not a final judicial decision as
+to the validity of a patent and therefore was no bar to revocation proceedings under
+section 72.
+34.
+Terrell, citing Buehler, says this:24
+“An opponent who unsuccessfully opposes the grant of a European patent in the EPO is not
+estopped from alleging invalidity by way of a defence to a subsequent allegation of infringement
+in proceedings on the European patent (UK) in this country. There is no cause of action estoppel
+because the causes of action are not identical and, more fundamentally, the decision of the
+Opposition Division is not a final and conclusive judicial decision to the validity of the patent,
+validity being finally decided in revocation proceedings by the courts of the contracting states.
+Similarly, there can be no issue estoppel in the absence of a final decision.”
+35.
+Buehler and Terrell are, of course, considering the case where an attack on a patent in
+the EPO fails, and the same (or similar) attack is mounted again in the English courts.
+The present case is the exact converse: the EPO Opposition Division has found the Patent
+to be invalid: Neurim and Flynn have nevertheless commenced proceedings for
+infringement in this jurisdiction, on the basis that the Patent is valid (which is being
+contested by Mylan). Neurim and Flynn are perfectly entitled to take this course. It seems
+to me that either the decision of the EPO is binding on the English courts – in which case,
+there is no serious issue to be tried and all that needs to be considered is whether an
+injunction should lie pending the appeal from the EPO’s decision – or the decision of the
+EPO is not binding, in which case I am at a loss to understand why the EPO’s decision
+should have any more or less weight than that of a court of any other foreign jurisdiction.
+36.
+Since it is clear that the EPO’s decision is not binding on the English courts, I repeat the
+point made in paragraph 31 above: the question of serious issue to be tried must be
+considered through the prism of the proceedings being tried in this jurisdiction.
+37.
+Both parties adduced evidence before me as to whether the EPO Opposition Division’s
+decision would or might be overturned on appeal. Since I find the decision of the EPO
+Opposition Division to be, essentially, irrelevant to the question of serious issue to be
+tried, it follows that what might happen on an appeal, and why the EPO Opposition
+Division decided the matter in the way that it did, are also essentially irrelevant questions.
+
+23 [1998] RPC 609 at 616.
+24 Birss et al, Terrell on the Law of Patents, 18th ed (2016) (Terrell) at [19-188].
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 13
+I.
+STAGE 2: ARE DAMAGES AN ADEQUATE REMEDY TO NEURIM AND
+FLYNN?
+(1)
+Mylan’s financial position
+38.
+I do not understand it to be disputed that Mylan have the assets to pay damages of any
+amount that Neurim and Flynn may recover. Nor is it suggested that there would be any
+enforcement issues, were an order for payment of damages to be made.
+39.
+Thus, the question before me boils down to the adequacy of a remedy (damages) that can
+clearly be provided by Mylan if ordered by the court.
+(2)
+The harm anticipated
+(a)
+General nature and likely duration
+40.
+It is best to begin with the harm that Neurim and Flynn anticipate. That harm is as I
+described it in paragraphs 18 and 19 above. My starting point must be that unless
+enjoined, Mylan will do what they are threatening, and cause the Generic Product to enter
+the market. It seems to me inconceivable that Mylan would not cause the Generic Product
+to be priced at a level substantially lower than the price for Circadin and Slenyto. Whilst,
+of course, it is possible that there is such brand loyalty to Circadin, or such inelasticity in
+the system,25 such that Neurim and Flynn could maintain their market at the prices they
+currently sell, I consider this to be highly unlikely. The whole point about generic
+pharmaceuticals is that they do what the patented product says it does on the box, only
+without the name of the patented product. It seems to me that the mere fact that Mylan
+are contemplating an entry into the market is sufficient to provide a strong indicator that
+Neurim and Flynn will suffer a combination of loss of sales and lower sales prices for
+Circadin and Slenyto.
+41.
+The likely duration of this harm is a matter that I must consider. As I have noted, there
+are two aspects to this. First, assuming no interim injunction is granted by me on this
+application, for how long will Neurim and Flynn be faced with competition from the
+Generic Product? Secondly, even if, at some point before the Patent’s expiry, Neurim
+and Flynn succeed in excluding Mylan’s product from the market – for example, by
+establishing at trial or on appeal that the Patent is, indeed, infringed – whether Neurim
+and Flynn will succeed in re-establishing the status quo ante? I have referred to these two
+aspects as Period 1 and Period 2.26
+(b)
+Duration of competition between Circadin/Slenyto and the Generic Product: Period 1
+42.
+Turning to the first of these questions, assuming no interim injunction were to be granted
+on this application, Mylan would be free to compete until at least judgment in the
+proceedings was handed down. If Neurim and Flynn were successful at trial, and the trial
+judge found that the Patent was valid and infringed, then I consider that there would be
+a relatively high chance of an injunction being imposed by the trial judge: Neurim and
+Flynn would, after all, have established infringement of their Patent rather than simply a
+
+25 For instance, in the databases to pharmacies and general practitioners, in terms of the available drugs. It is
+possible that such systems are so unresponsive to new pharmaceuticals that pharmaceuticals in the system are
+effectively immune from competition.
+26 See paragraph 19 above.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 14
+serious issue to be tried as to the question of infringement. Even if there was an appeal
+by Mylan, it seems to me quite likely that a permanent injunction would be granted.
+43.
+If, on the other hand, Neurim and Flynn were unsuccessful at trial, it seems to me unlikely
+that an interim injunction would be imposed pending their appeal to the Court of Appeal.
+Obviously, this question would be considered in light of all the material facts prevailing
+at the time, and on the basis of the test that applies for interim relief pending an appeal
+from a trial on the merits.27 But it seems to me unlikely that an interim injunction would
+be granted at this stage given: (i) that it was not granted before trial (that is the assumption
+I am making); and (ii) that Neurim and Flynn would have been unsuccessful at trial. On
+this basis, therefore, there would be no injunction at all unless, at the end of the process,
+Neurim and Flynn succeeded on appeal.
+44.
+Considering matters in the round, it seems to me that I must proceed on the assumption
+that, were I to grant the interim injunction sought by Neurim and Flynn, that decision
+would ultimately be justified by the outcome of the trial of these proceedings. In other
+words, I must assume that (in hindsight) the correct decision would be for me to grant
+the interim injunction. On this basis, were I not to grant the injunction, harm that ought
+not to have occurred to Neurim and Flynn will have occurred by reason of my failure to
+grant the interim injunction. Per contra, assuming that Neurim and Flynn fail at trial only
+underlines the fact that they will have obtained an interim remedy that – with hindsight
+– they ought not to have obtained. Proceeding on this basis, it is clear that were I not to
+grant the interim injunction sought, the period in which Neurim and Flynn would be
+exposed to competition from the Generic Product would be until judgment at first
+instance was handed down in these proceedings. That period (Period 1) begins
+imminently – when, exactly, would depend on when Mylan could begin selling the
+Generic Product – and would end with the handing down of judgment in, say, late
+November 2020, a period of around 6 months.
+(c)
+Effects after cessation of direct competition: Period 2
+45.
+Assuming, then, that the period of direct competition between Circadin/Slenyto and the
+Generic Product would be limited to a period of no more than 6 months, can it safely be
+said that if – in November 2020, Neurim and Flynn having been successful in the
+proceedings and having obtained a final injunction against Mylan – competition between
+Circadin/Slenyto and the Generic Product ceases, Neurim and Flynn would be able to
+resume their status quo ante in terms of price level and volumes of Circadin and Slenyto
+sold?
+46.
+The evidence before me, unsurprisingly, went both ways, with Mylan contending that the
+status quo ante could easily be restored, and with Neurim and Flynn contending that it
+would simply not be possible to restore prices to their previous levels. Their point was
+that, once fractured, the effects of the monopoly deriving from the Patent simply could
+not be restored without more.
+47.
+In order to reach a concluded view on such a point, a great deal of evidence would be
+required from independent market experts and economists. Whilst I accept that each side
+
+27 Novartis v. Hospira, [2013] EWCA Civ 583 at [41].
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 15
+had a degree of expertise in this market, all persons giving evidence on this point were
+parti pris and I found their evidence on this point substantially valueless.
+48.
+One might say that removing a competitor from the market would enable the market
+situation pertaining under the earlier monopoly to revive without more. I cannot accept
+that that would seamlessly be the case. I do not see how Neurim and Flynn could hope –
+in a single jump – to restore monopoly prices without alienating substantial parts of their
+market. I consider that, in the 6 months of price reduction due to competition in Period
+1, purchasers of Circadin and Slenyto would re-evaluate the values and benefits of the
+product in light of the new price, and factor in that new price into their budgets and
+calculations. They would be very hostile to a dramatic attempt to restore the status quo
+in terms of price.
+49.
+Whilst I do not say that Neurim and Flynn could not, over time, claw their way back to
+the present position, it would require careful consideration by them of the market
+circumstances in Period 2, and certainly that object could not be achieved at once. I
+consider that, in the limited time remaining to the Patent in Period 2 (some 20 months),
+during much of that period Neurim and Flynn would suffer a combination of lower sales
+of Circadin and Slenyto, and lower prices for those sales, than exists at present. In short,
+there would be losses to Neurim and Flynn during most, if not all, of Period 2.
+(3)
+Damages an adequate remedy?
+(a)
+Points taken by Mylan
+50.
+Mylan contended that – even if, as I have found for the purposes of this application, the
+harm to Neurim and Flynn would extend beyond the period of competition between
+Circadin/Slenyto and the Generic Product in Period 1 – damages would nevertheless be
+an adequate remedy.
+51.
+This, to my mind, is the critical question, which I consider below. However, Mylan took
+a number of other points which must be considered in advance of this critical question,
+because they affect its parameters. These points are as follows:
+(1)
+Whether Flynn has standing to bring this claim?
+(2)
+Whether all of the damages anticipated by Neurim and Flynn can be attributed to
+an infringement of the Patent?
+52.
+It is necessary to consider these points in turn, before considering the question of the
+adequacy of damages.
+(b)
+Flynn’s standing
+53.
+Section 67 of the Patents Act 1977 provides as follows:
+“(1)
+Subject to the provisions of this section, the holder of an exclusive licence under a patent
+shall have the same right as the proprietor of the patent to bring proceedings in respect
+of any infringement of the patent committed after the date of the licence; and references
+to the proprietor of the patent in the provisions of this Act relating to infringement shall
+be construed accordingly.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 16
+(2)
+In awarding damages or granting any other relief in any such proceedings the court or
+the comptroller shall take into consideration any loss suffered or likely to be suffered by
+the exclusive licensee as such as a result of the infringement, or, as the case may be, the
+profits derived from the infringement, so far as it constitutes an infringement of the rights
+of the exclusive licensee as such.
+(3)
+In any proceedings taken by an exclusive licensee by virtue of this section the proprietor
+of the patent shall be made a party to the proceedings, but if made a defendant or defender
+shall not be liable for any costs or expenses unless he enters an appearance and takes part
+in the proceedings.”
+54.
+Thus, only the holder of the patent and an exclusive licensee of the holder have standing
+to bring an action for the infringement of that patent.
+55.
+Mr Vanhegan, QC’s submissions raised a number of interesting points as to the nature of
+an “exclusive” licence, and the manner in which the rights under a patent may be sliced
+and divided between different licensees, each of whom is or may be (within its sphere)
+exclusive. Neurim and Flynn did themselves no favours in relation to this point by
+disclosing only an aggressively redacted licence agreement, which was then varied at the
+last minute. It seems to me – for much the same reasons as were stated in Promontoria
+(Oak) Ltd v. Emanuel28 – that where what is at issue in proceedings is the nature and
+effect of a written instrument, the whole of that instrument must be disclosed. Of course,
+I appreciate that such documents may be highly confidential, but there are procedures
+whereby the whole of the document can be produced whilst maintaining confidentiality.
+The fact is that contracts and other instruments are construed as a whole; and redactions
+such as those which occurred in the present case cannot possibly be justified on the
+grounds of irrelevance.
+56.
+Nevertheless, it seems to me that to decide that Flynn is not an exclusive licensee in the
+absence of an application to strike Flynn out of the proceedings would be to do precisely
+what American Cyanamid enjoins me not to do, which is to conduct a “trial within a
+trial”. The question of whether Flynn is an exclusive licensee is by no means
+straightforward, and by no means purely and simply a question of law. The agreement
+between Neurim and Flynn needs to be construed in light of the entire factual matrix –
+which is not before me – and it seems to me that the questions of legal construction that
+will arise are going to be coloured by such questions of fact.
+57.
+More to the point, even if Flynn were to be treated by me as a non-exclusive licensee –
+and so without standing in these proceedings – it seems to me clear that Neurim (whose
+standing is rightly unchallenged) would itself nevertheless suffer loss through the
+competition between Flynn and Mylan in the United Kingdom. The notion that I should,
+on an application for interim relief, seek to ascertain what the loss to Neurim alone would
+be, assuming Flynn had no standing to claim damages, seems to me to stretch the
+interlocutory process too far. I cannot possibly reach any kind of determination of this
+point save to say that it is clear that if Flynn’s sales of Circadin and Slenyto suffer, in
+terms of either quantity or price, the royalties payable to Neurim would fall as a result.
+That is so, whether Flynn is a party to these proceedings or not.
+
+28 [2020] EWHC 104 (Ch).
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 17
+58.
+In short, I find that on this application the question of Flynn’s status as exclusive licensee
+is an irrelevant factor.
+(c)
+The damages flowing from the infringement
+59.
+The two relevant claims in the Patent are:
+(1)
+Claim 1. Claim 1 provides:
+“Use of a prolonged release fomulation comprising melatonin in unit dosage form, each
+unit dosage comprising 0.025 to 10mg of melatonin, in the manufacture of a medicament
+for improving the restorative quality of sleep in a patient suffering from primary insomnia
+characterised by non-restorative sleep, wherein the medicament comprises also at least one
+pharmaceutically acceptable diluent, preservative, antioxidant, solubilizer, emulsifiers,
+adjuvant or carrier.”
+(2)
+Claim 4. Claim 4 provides:
+“A medicament for use in improving the restorative quality of sleep in a patient suffering
+from primary insomnia characterised by non-restorative sleep, which comprises a
+prolonged release formulation comprising melatonin in unit dosage form, each unit dosage
+comprising 0.025 to 10mg of melatonin, and at least one pharmaceutically acceptable
+diluent, preservative, antioxidant, solubilizer, emulsifiers, adjuvant or carrier.”
+60.
+It is to be noted that patented medical use concerns improving the restorative quality of
+sleep in a patient suffering from primary insomnia characterised by non-restorative sleep
+without reference to the age of the patient.
+61.
+The label for Circadin specifies the following therapeutic indications for Circadin:29
+“Circadin is indicated as monotherapy for the short-term treatment of primary insomnia
+characterised by poor quality of sleep in patients who are aged 55 or over.”
+The scope of the label is thus narrower than the patented medical use.
+62.
+In terms of the actual use of Circadin, data in the period 2017 to 2019 shows a number
+of prescribed uses of Circadin that are both off-label and outwith the claims of the Patent.
+Thus, for instance, in excess of 2.5 million units were prescribed for prescription code
+F840, which is for “childhood autism”. Mylan contended that sales of Circadin for its
+patented use accounted for only about 2% of all prescriptions.30
+63.
+This data was disputed by Neurim and Flynn, but even Neurim and Flynn accepted that
+there were three classes of medical use for Circadin, which I shall refer to as Medical
+Use 1, Medical Use 2 and Medical Use 3:
+(1)
+Medical Use 1: Use within the label and within the Patent. This would be for the
+short-term treatment of primary insomnia characterised by poor quality of sleep in
+patients who are aged 55 or over.
+
+29 See the Summary of Product Characteristics for Circadin. Emphasis added.
+30 See paragraph 52 of Mylan’s written submissions.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 18
+(2)
+Medical Use 2: Use outside the label but within the Patent. This would be for use
+in improving the restorative quality of sleep in a patient suffering from primary
+insomnia characterised by non-restorative sleep, where the patient’s age is below
+55.
+(3)
+Medical Use 3: Use outside the label and outside the Patent. The range of use
+outside the label and outside the Patent would include – for example – prescriptions
+for childhood autism.
+64.
+Neurim and Flynn accepted the principle, but contended that Mylan’s data as to quantities
+of use falling into each category was unreliable:31
+“While I agree with Ms Britton's comment in paragraph 3.4 that a significant part of the Circadin
+market comprises unlicensed use, and that this use is complex and growing, I disagree with the
+statement that growth in the market for Circadin is “not due to the patented indication but from
+off-label use”. It seems that Ms Britton is eliding two different points – unlicensed use (i.e. use
+outside the scope of the marketing authorisation and approved label) on the one hand and use
+outside of the scope of the claims of the patent in the other. The first is relatively easy to discern
+from prescribing data given that any use in patients under the age of 55 is unlicensed (albeit
+within the scope of the Patent). The second is not straightforward, and relies on consideration of
+the disease state. Reliable data in relation to this point are hard to find as it relies on prescribers
+including details of the proposed use of Circadin in individual patients. I deal with the data Ms
+Britton has put forward below.”
+65.
+Again, it seems to me that I cannot possibly resolve, on an interim application, the
+quantity of sales falling within each of these three classes. Whilst the evidence would
+appear to suggest that possibly quite substantial sales of Circadin fall within Medical
+Uses 2 and 3, the critical question is whether this should affect the view I take as to the
+loss that Neurim and Flynn will suffer if an interim injunction were not to be granted. It
+was Mylan’s contention that Neurim and Flynn could only properly recover damages for
+losses in relation to Use 1; and that this was a relatively stable market, that would be
+unaffected by the introduction of the Generic Product. Not granting an injunction would,
+therefore, not result in any great loss to Neurim or Flynn at all.
+66.
+Leaving on one side the rather considerable number of questions that this assertion on
+the part of Mylan begs – I consider that there was no sufficient evidence before me to
+reach any such conclusion safely – the point seems to me an essentially bad one, at least
+on an application such as this:
+(1)
+The damages that are recoverable by the owner of a patent or an exclusive licensee
+are essentially assessed according to the ordinary rules. In Gerber Garments
+Technology Inc v. Lectra Systems,32 Staughton LJ stated:
+“Infringement of a patent is a statutory tort; and in the ordinary way one would expect the
+damages recoverable to be governed by the same rules as with many or most other torts.
+We were referred to Halsbury’s Laws of England (4th ed.),Vol.12, para. 1128 and
+following, to establish the elementary rules (i) that the overriding principle is that the
+victim should be restored to the position he would have been in if no wrong had been done,
+and (2) that the victim can recover loss which was (i) foreseeable, (ii) caused by the wrong,
+
+31 Second statement of Dr Fakes at paragraph 15.
+32 [1997] RPC 443 at 452.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 19
+and (iii) not excluded from recovery by public or social policy. The requirement of
+causation is sometimes confused with foreseeability, which is remoteness. The two are
+different—see Halsbury, para.1141:
+“1141. Causation in tort Subject to foreseeability and the principles of public policy it
+is prima facie necessary and sufficient for a plaintiff to prove that a defendant’s
+wrongdoing was a cause and not necessarily the sole or dominant cause of his injuries,
+as a matter of physical consequences or common sense, but subsidiary principles
+associating foreseeability and causation have been evolved in certain categories of
+concurrent or intervening causes.”
+It is not enough that the loss would not have occurred but for the tort; the tort must (for
+present purposes at any rate) be, as a matter of common sense, a cause of the loss.
+There is no dispute about foreseeability or causation in the present case. It is conceded that
+both requirements (if there are two) are satisfied. What is said is that either the general
+rules in Halsbury do not apply to the Patents Act, or else there is now a fourth limitation
+which must be satisfied. That fourth limit is to be derived from the speech of Lord
+Hoffmann in South Australia Asset Management Corp v. York Montague Ltd, [1996] 3
+WLR 87 (aka the Banque Bruxelles case) at pp.92–l94:
+“…”
+My answer would be, at first impression, that the Patents Act is aimed at protecting
+patentees from commercial loss resulting from the wrongful infringement of their rights.
+That is only a slight gloss upon the wording of the statute itself. In my judgment, again as
+a matter of first impression, it does not distinguish between profit on the sale of patented
+articles and profit on the sale of convoyed goods. So I must look to see whether any such
+distinction emerges from the case law…”
+This statement of the law was endorsed by the Court of Appeal in SmithKline
+Beecham plc v. Apotex Europe Ltd.33
+(2)
+The question, therefore, is whether Neurim and/or Flynn could properly claim
+damages for loss of sales falling within Medical Use 3 (to take the clearest case34).
+It seems to me that this, too, is a matter that I cannot decide conclusively one way
+or the other. Whether losses under Medical Use 3 can properly be recovered or
+whether they fall outside the scope of recoverable damages is obviously a matter
+for trial. But, given the relationship between the Patent and the label for Circadin
+(and Slenyto), and the fact that Mylan copies the label for Ciradin as a means of
+avoiding the cost of obtaining its own label, the point is clearly an arguable one.
+The point was explored in the course of Mr Vanhegan, QC’s submissions:35
+Mr Vanhegan, QC
+My Lord, in effect, there is a regulatory hurdle to get a product
+into the UK market. The regulatory hurdle is the marketing
+authorisation. In a normal patent, a pharmaceutical case, the
+marketing authorisation indicates what the product is going to
+be used for, and in the normal case that product is prescribed
+for that use, in the vast majority of cases, 90%/95%. There may
+be a little bit of off-label prescribing. Therefore, normally, if
+
+33 [2003] EWCA Civ 137 at [8] and [9].
+34 The position in relation to Medical Use 2 is a fortiori.
+35 Transcript/pp.117ff (submissions of Mr Vanhegan, QC).
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 20
+you have a patent for that pharmaceutical, your relief is
+coterminous, if you like, with the market. This is not that case.
+This is in fact the complete inverse of this case.
+Here the claimants knew, or they have a marketing
+authorisation, which they have had since 2007, the core market
+for the protection is a tiny percentage of the market. What they
+have done is use that marketing authorisation and know that it
+is going to be prescribed off-label for a variety of other
+conditions. As you have seen, what seems to be growing are the
+conditions, certainly recently, are the childhood autism and
+ADHD-type illnesses. They know that, and as a result they are
+making a lot of sales on the back of that. No-one is criticising
+them for doing that, but when it comes to patent infringement,
+what their patent protects is only a very, very small sub-set of
+the actual market for which this product is being prescribed in
+the UK.
+Marcus Smith J
+All that I understand. But let us be clear. Your clients are well-
+informed players in this market. What I am trying to tease out
+is the extent to which there is a nexus between the patent and
+the off-label use. In a sense, as you say, in most cases this will
+not be an issue, in that if your on-label use is broadly speaking
+coterminous with the scope of the patent, then you have to
+infringe in order to sell.
+Here you say, in most cases, where the market is valuable, you
+do not infringe in order to sell, but you have the problem that
+the label you have adopted from Mr Waugh, QC’s clients
+[Neurim and Flynn] includes the patent protected market as
+well. My question is simply this: if there was such a fragile
+nexus between the marketing authorisation and the patent, why
+do you no just say, yes, they obviously have a label that
+embraces the patented market, for obvious reasons, because it
+is their patent. You should have a label that is quite clear that it
+does not apply to the patented market, and then we do not have
+to be here at all, on your case.
+Mr Vanhegan, QC
+My Lord, you are absolutely right, and we would not be; but we
+are. The practical reality is, the reason that this happens is that
+it is much faster for any further entrant into the marketplace to
+adopt an existing, if you like, marketing label or marketing
+authorisation, than to go through the whole process of
+establishing a new marketing authorisation, even though it is
+common practice in the field that 90% odd of the prescriptions
+are for that other field. You would have to demonstrate all the
+tests for safety and so forth in relation to those other
+prescriptions. That is a practical reality. So there is a regulatory
+hurdle, which would take some time for someone, like my
+clients, to overcome. However, that is not coterminous with,
+and it is wrong to consider it to be, the same as the patented
+protection.
+One can also stand back and just think about it. The marketing
+authorisation was granted, as I recall, to Neurim, I think about
+2007. The claims of the Patent had not even been properly
+formulated then. It was going up and down through the
+European Patent Office. The Patent was not granted until 2017.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 21
+So the marketing authorisation has no nexus with the patent per
+se. It is almost happenchance, this is evergreening. This I, I
+think, their third patent…They are trying to use the Patent to
+seek to stop people coming into the marketplace altogether. On
+the facts of this case, there is no legal nexus between the actual
+market, in 98% of prescriptions, and the patent which they now
+have still outstanding some validity, because they have
+appealed from the European Patent Office.
+Marcus Smith J
+I see. What you are saying, and I am trying to frame the
+question, rather than frame the answer to the question, but what
+you are saying is, actually, the claimants are treating the
+marketing authorisation as the intellectual property right?
+Mr Vanhegan, QC
+Absolutely. They are saying, exactly, you are infringing
+because that is effectively our patent. That is what my learned
+friend is saying, that is absolutely right, and that is the wrong
+way to look at it.
+Marcus Smith J
+Even though they have devoted a great deal of time to obtaining
+the authorisation, and you are effectively piggy-backing on that,
+because, as you said a moment ago…
+Mr Vanhegan, QC
+…Absolutely. There is no wrong in piggy-backing on
+someone’s authorisation.
+Marcus Smith J
+I am not in any way seeking to identify the rights and wrongs, I
+am trying to understand the intellectual argument. What you are
+saying is, we may very well be piggy-backing on the marketing
+authorisation, indeed, we are, you just said that.
+Mr Vanhegan, QC
+True.
+Marcus Smith J
+But that is a perfectly efficient way of…getting to the
+marketplace quicker, and avoiding the expense of getting your
+own label, but the price that you pay is that you have a label
+which enables someone properly to sell the product to someone
+whose need falls within the scope of the patent?
+Mr Vanhegan, QC
+Absolutely right, my Lord. You are absolutely right.
+Marcus Smith J
+And you cannot stop that, because to do so would be to go right
+back to the beginning and to rewrite the label.
+Mr Vanhegan, QC
+Absolutely right.
+Marcus Smith J
+I have been a little slow.
+(3)
+This is a very interesting point, not without its difficulties on either side of the
+argument. It is, however, not a point for this application. It is precisely the sort of
+difficult point of law which, as well as being enormously dependent on the facts,
+calls for detailed argument and mature consideration at trial.36 For the present, I
+need only say that I consider that Neurim and Flynn can contend (as a serious issue
+to be tried) that the losses flowing from Mylan’s (likely to be limited) infringements
+
+36 See paragraph 17(1) above.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 22
+in the case of Medical Uses 1 and 2 can arguably include lost sales where the
+medical use was Medical Use 3.37
+(d)
+Adequacy of damages
+(i)
+The general position
+67.
+Mylan’s attempts to suggest that Neurim and/or Flynn would not suffer loss, or not losses
+of the sort contended for by Neurim and Flynn, were an interim injunction not to be
+granted thus fail. There is, in my judgment, a clear argument that significant losses will
+be sustained by Neurim and/or Flynn if Mylan’s Generic Product is permitted to compete,
+even during the limited period between now and the determination (at first instance) of
+these proceedings.
+68.
+These losses will be two-fold:
+(1)
+First, there will be the losses arising out of direct competition between Circadin
+and Slenyto and the Generic Product. This will be in the form of diminished volume
+of sales at a diminished price. These will occur in the period between now and the
+end of November (Period 1).
+(2)
+Secondly, recovery by Neurim and Flynn in the period after November 2020
+(Period 2). In my judgment, whilst there will be a recovery of some price and some
+volume, it cannot be said that Neurim and Flynn will recover their former position
+either at once or at all.
+69.
+Generally speaking, damages are an adequate remedy for a tort, including an
+infringement of a patent. Terrell says this:
+“19-227Many patent cases are not appropriate ones for the grant of an interim injunction because
+damages would be an adequate remedy for the patentee. Where the infringement causes
+the patentee to lose sales, provided the defendant keeps proper records of the sales they
+have made, the court can award damages based upon its assessment of the proportion of
+the defendant’s sales that the patentee would have made and the patentee’s usual profit
+margin.
+19-228 However, there is a well-established line of patent cases in which interim injunctions are
+commonly granted. These all concern the launch of a generic pharmaceutical product.
+Although each case turns on its own facts, the court has shown itself to be ready to accept
+an argument that the launch of a generic pharmaceutical product will cause substantial
+and unquantifiable loss to the patentee because it will permanently depress the patentee’s
+price. The argument goes that entry of the generic product(s) will result in a downwards
+spiral in the price of the product and that even if the patentee were to be successful at
+trial and remove the generic products from the market, they will not be able to put the
+price back to previous levels. Examples of cases where this argument has been accepted
+are listed in the footnote. An exception to this general principle was Cephalon v. Orchid.
+
+37 Another potentially interesting question that might have arisen in this case was whether the interim injunction
+sought by Neurim and Flynn should be limited to sales actually infringing the Patent – that is, sales by Mylan
+relating to Medical Use 1 and Medical Use 2. Given my conclusion on Stage 2 of American Cyanamid below,
+that is not a matter I have had to consider, and I should be clear that this question has not formed a part of my
+reasoning in this judgment. Had I concluded that damages was not an adequate remedy to Neurim and Flynn, then
+I accept difficult questions regarding the scope of the interim relief would have arisen. These were considered by
+Birss J in [51]ff of Novartis Pharmaceuticals Ltd v. Dr Reddy’s Laboratories (UK) Ltd, [2019] EWHC 92 (Pat).
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 23
+However, that was a case where the infringement claim only just passed the serious issue
+hurdle, the invalidity arguments looked strong and, most importantly, there was evidence
+that the patentee had been able to raise the price of the product after temporarily lowering
+it to compete with competition from parallel imports. Another case in which a patentee’s
+argument of unquantifiable loss by reason of a permanent price depression was rejected
+was Actavis v. Icos. In that case, an injunction pending an appeal to the Supreme Court
+was sought after the patent was found invalid by the Court of Appeal. There were several
+aspects of the case that were different from other cases. First, if the appeal to the Supreme
+Court was successful, the patent would only have a short period before it expired. There
+would therefore be only a very short period in which the price could be raised. Secondly,
+the patentee’s price was fixed. The court would therefore know on a damages inquiry the
+price at which it would have sold any product during the next few years. Thirdly, the
+market for the product in question was flat and not growing in terms of either volume of
+packs sold or price. Finally, the defendants accepted that every sale made by them would
+be a sale lost to the patentee.”
+70.
+Unsurprisingly, Neurim and Flynn contended that this was a case falling within the
+“norm” discussed in [19-228] of Terrell – where an interim injunction ought to be granted
+– whereas Mylan contended that this was a case like Cephalon v. Orchid – where an
+interim injunction was inappropriate. I am not attracted to a course whereby I seek to
+categorise this case into either camp by comparing and contrasting its facts with the facts
+of other cases. It seems to me that the legal principles are clear, and that – as Terrell says
+– each case turns on its own facts. In short, recognising that this is an area where interim
+injunctions have in the past been granted, I must consider whether, on the facts of this
+case, a similar conclusion should pertain.
+71.
+In this case, it seems to me that damages will prove to be an adequate remedy to both
+Neurim and Flynn. I have reached this conclusion for the following reasons:
+(1)
+The general measure of damages in a patent infringement case is clearly stated. It
+is the standard tortious measure, the calculation of which was articulated in
+Livingstone v. The Rawyards Coal Company:38
+“…where any injury is to be compensated by damages, in settling the sum of money to be
+given for reparation of damages you should as nearly as possible get at that sum of money
+which will put the party who has been injured, or who has suffered, in the same position
+as he would have been in if he had not sustained the wrong for which he is now getting his
+compensation or reparation…”
+(2)
+In the present case, I can see no reason why Neurim and/or Flynn’s losses during
+both Period 1 and Period 2 cannot properly be calculated, whether it is necessary
+to calculate lost revenues by reference to all three Medical Uses or individually by
+reference to each particular Medical Use.39 Clearly, Neurim and Flynn will have
+records of their sales to date of Circadin and Slenyto, and they will continue to keep
+such records. Equally, there is no difficulty in Mylan maintaining and (for the
+purposes of trial) providing to Neurim and Flynn records of its sales of the Generic
+Product, differentiating as far as can be done between Medical Use, and providing
+information as to the price at which the Generic Product sold. (It should be clear
+
+38 (1880) 5 App Cas 25 at 39. See also, Buckley LJ in Catnic Components v. Stressline, [1976] FSR 157 at 162.
+39 That process will depend on the answer to the question that I framed – but did not resolve – in paragraph 66
+above.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 24
+that, to the extent necessary, I am minded to set out in the order consequential on
+this application the sort of information that Mylan must keep.)
+(3)
+Thus, in Period 1, Neurim and Flynn will have sales figures (including as to price)
+for the sale of Circadin and Slenyto as at the beginning of Period 1 and will be able
+to show how those figures vary over the course of Period 1. Prima facie, as it seems
+to me, Neurim and Flynn’s loss will be calculated by reference to the difference
+between volume of sales and sales prices at the beginning of Period 1 and the lower
+volumes of sales, at lower prices, during the course of Period 1.
+(4)
+It may be that during Period 1, but for the intervention into the market of Mylan,
+Neurim and Flynn were anticipating an increase in the volume of sales and/or an
+increase in the price of individual units sold. I can see no reason why evidence on
+such points cannot be adduced, and why such increases cannot inform the losses
+that Neurim and Flynn claim.
+(5)
+All of these losses can – in my judgment – be calculated by reference to information
+that is or will be in the hands of Neurim and Flynn. But, as I say, it would be
+appropriate to ensure that proper figures were maintained and disclosed by Mylan
+for the purposes of the trial of these proceedings.
+(6)
+I turn, then, to the adequacy of damages for any losses sustained by Neurim and
+Flynn during the course of Period 2. As Terrell notes, there have been a number of
+cases, superficially at least similar to the present, where an interim injunction has
+been granted in order to prevent unquantifiable damage to holder of the patent. For
+that reason, I have devoted particular thought as to whether Neurim and Flynn’s
+losses during the course of Period 2 are such that damages would not be an adequate
+remedy. As to this:
+(a)
+I am proceeding on the basis that the effect of Mylan’s entry into the market
+during Period 1 has consequences that are not reversible by Neurim or Flynn
+– or, at least, not immediately so.
+(b)
+That being the case, Neurim and Flynn’s losses, commencing in Period 1,
+will continue into (and quite possibly throughout) Period 2. In short, I am
+prepared to accept that the damage done to Neurim and Flynn’s market may
+be irretrievable.
+(c)
+If, therefore, the avoidance of irretrievable harm to the market position of a
+patent-holder was the test for an interim injunction, this would be an
+appropriate case for the granting of such an injunction.
+(d)
+But that is not the test. The question is whether that irretrievable harm to
+market position cannot be compensated for in damages. I can see no reason
+why the process of quantification of loss for Period 2 will not be very similar
+to that for Period 1. Indeed, the process of quantification of loss for Period
+2 will be an extension of or extrapolation from the process undertaken in
+relation to Period 1.
+(e)
+As I have noted, Neurim and Flynn will have an absolutely clear idea of
+their present market position. It may well be that they have views as to how
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 25
+that market will develop between now and August 2022. Obviously, such
+projections will have to be proved on a loss of chance basis, but I see no
+reason why Neurim and Flynn cannot recover the difference between these
+projections and what they in fact make in the period between the end of
+November 2020 and August 2022 (Period 2). Period 2 is actually very
+limited in duration – Periods 1 and 2 together amount to just over two years
+– and, as I have noted, there will be considerable market data in the hands
+of Neurim, Flynn and Mylan to enable the losses in Periods 1 and 2 to be
+quantified.
+72.
+In short, assuming (as I do) that Neurim and Flynn will be unable to recover their former
+market position, even if Mylan is injuncted from the end of November 2020, I consider
+that Neurim and Flynn’s losses can adequately be compensated for in damages.
+(ii)
+Two special cases
+73.
+There are two further points which I must consider in this regard:
+(1)
+Mylan is unlikely to be the only producer of generic pharmaceuticals entering the
+market for Circadin and Slenyto. Mylan is likely to be the “first mover”, but not
+the only “mover”. Although the period between now and the end of November
+2020 is a short period of time, it seems to me that I must consider whether the entry
+of a yet further competitor to Neurim and Flynn, in addition to Mylan, would make
+a difference to the conclusion as to the adequacy of damages that I have reached.
+(2)
+In paragraph 68 of their written submissions, Neurim and Flynn set out a number
+of “compelling” reasons as to why damages would not be an adequate remedy.
+Although a number of these have been considered in the course of my analysis so
+far, it is necessary for me to ensure that all of the adverse consequences to Neurim
+and Flynn that have been articulated by them are taken into account.
+(iii) The first special case: entry of other competitors
+74.
+As I have stated, I proceed on the basis that Neurim and Flynn will succeed at trial, and
+that they will obtain from the trial judge a permanent injunction against Mylan, even if
+they fail to obtain an interim injunction from me on this application. That gives Mylan a
+“first mover” advantage from the date of this judgment, and other generic manufacturers
+only a limited time period within which to follow Mylan into the market. As I have noted,
+Period 1 is a period of only six months.
+75.
+Nevertheless, it seems to me that I ought to proceed on the basis that, whilst Mylan is the
+first mover, the rest of the generic herd is not going to be far behind, and that one effect
+or consequence of not granting an interim injunction against Mylan will be to open the
+door to competitors in addition to Mylan.
+76.
+I was provided with some evidence on this. There was some debate as to whether another
+manufacturer of generic pharmaceuticals – Teva – could enter this market and compete
+with both Mylan and Flynn. The debate centred on whether a settlement agreement
+between Neurim and Teva precluded Teva’s entry.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 26
+77.
+Once again, it seems to me that the parties were seeking to tempt me down a path of
+making specific findings of fact when (i) the material before me was entirely insufficient
+for the purpose of making such findings and (ii) where the process itself was in any event
+unsuited to making findings of fact.
+78.
+It seems to me that Mylan’s interest in the Circadin/Slenyto market is one that is likely
+to be replicated in other manufacturers of generic drugs, and that I should not presume
+that Mylan’s “first mover” advantage is so great as to preclude the entry into the market
+of yet another competitor.
+79.
+Were another competitor to enter the market in Period 1, then I anticipate that whilst
+Neurim/Flynn’s volume of sales and sales prices would diminish to a similar extent as if
+there were only a single competitor (i.e., Mylan), the cause of Neurim/Flynn’s losses
+would not (in this case) necessarily be attributable only to Mylan. Mylan might very well
+be able to argue that it was the actions of another competitor that caused loss to Neurim
+and Flynn. I say nothing about the merits of such an argument, but I can certainly see
+causation of loss in Period 1 as being an issue that may (depending on the facts) cause
+Neurim and/or Flynn additional difficulties in terms of the recovery of their losses. It
+goes without saying that the extent of these losses will be heavily fact dependant; and
+this is one reason why Mylan’s own sales figures during Period 1 may be of importance.
+80.
+Period 2, as it seems to me, gives rise to rather different questions. Clearly, if Mylan is
+injuncted at the end of November 2020, so too will any other entrant onto the market. In
+Period 2, Neurim and Flynn will, once again, be alone in the Circadin/Slenyto market,
+but that market will – as I have described – have been damaged by Mylan’s first entry
+into that market in Period 1. It seems to me that, as a matter of causation, the damage to
+Neurim and Flynn’s market in Period 2 will be entirely attributable to Mylan.
+81.
+In these circumstances, whilst I recognise that the entry of competitors additional to
+Mylan into the market will cause additional complications to the damages claim of
+Neurim and Flynn, these additional complications are not sufficient to persuade me that
+damages are not an adequate remedy.
+(iv) The second special case: “consequential effects”
+82.
+Paragraph 68 of Neurim and Flynn’s written submissions states:
+“There are compelling reasons why damages would not be an adequate remedy for the Claimants,
+including the following:
+(1)
+the inevitable and rapid price depression;
+(2)
+the need for Flynn Pharma to cut its prices to meet that competition;
+(3)
+the fact that prices are easy to cut but far harder to restore (impossible in practice);
+(4)
+the green light which Mylan’s activities would give to other generics which would then
+compound (1), (2) and (3); and
+(5)
+the numerous consequential effects of (1) – (4) including:
+(a)
+the impact on the Claimants’ investment in research and development largely
+funded by Circadin;
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 27
+(b)
+the impact on the market development Slenyto;
+(c)
+the effect on Flynn's other fledgling products and co-market products;
+(d)
+the impact on Neurim's manufacturing and distribution networks;
+(e)
+the potential loss of or reduction in medical educational programs that both
+Neurim and Flynn support;
+(f)
+the risk to ongoing and planned clinical trials on several products; and
+(g)
+the prospect of redundancies in both Neurim and Flynn, which are debilitating
+to small companies and their futures.”
+83.
+I have considered points (1) to (4) already: points (1) to (3) were considered in paragraphs
+67-73 above; and point (4) was considered in paragraphs 74-81 above. For the reasons I
+have given in those paragraphs, I consider that damages are an adequate remedy, and that
+Stage 2 of the American Cyanamid process has not been met.
+84.
+Point (5) – the “consequential effects” – has not (yet) been considered by me. But for the
+fact that Neurim is obviously a company of some substance (albeit of at least an order of
+magnitude less in size than Mylan) and well able to fund these matters in the interim,
+these points might have been relevant. But the fact is that Neurim sits on cash of a
+significant amount and can – in the six months of Period 1 that we are speaking of – fund
+these activities.40
+85.
+I also bear in mind that these consequential losses were always going to arise in the
+relatively near future, on the expiry of the Patent in August 2022. All that my failure to
+grant an interim injunction does is to cause these consequences to vest early and
+(assuming the Patent is indeed infringed) for the limited period of Period 1. Such
+consequential losses as are inflicted on Neurim and on Flynn will be recoverable by them
+as damages and all I am considering is Neurim and Flynn’s ability to fund these losses
+pending an assessment of damages. Since Neurim and Flynn are able to do so, my
+conclusion that damages are an adequate remedy is unaffected.
+86.
+It follows that Neurim and Flynn’s application for an interim injunction fails at Stage 2
+of the American Cyanamid process. Mylan additionally contended that, under Stage 3 of
+this analysis, the undertaking in damages that Neurim and Flynn would be obliged to
+give as the “price” for the injunction would not adequately compensate them. Out of
+deference to the arguments that I heard, I propose briefly to address this point.
+J.
+STAGE 3: ARE DAMAGES (PURSUANT TO THE UNDERTAKING) AN
+ADEQUATE REMEDY TO MYLAN?
+87.
+I do not understand there to be any issue but that Neurim and Flynn are prepared to offer
+the undertaking in damages; and that Neurim and Flynn are in a financial position to
+make good on that undertaking if called upon to do so.
+
+40 This material was confidential to Neurim and therefore I do not specifically reference it in this judgment.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 28
+88.
+The question, therefore, as was the case with Neurim and Flynn’s losses at Stage 2, is
+whether Mylan’s loss, in being deprived of the opportunity of competing in the market
+for Circadin and Slenyto, is capable of being adequately compensated for in damages.
+89.
+At first sight, just as in the case of Neurim and Flynn, this appears to be simply a case
+where damages can adequately be assessed. Instead of calculating what Neurim and
+Flynn lose by reason of Mylan’s competition, it is necessary in Mylan’s case to calculate
+what Mylan has failed to gain in being deprived of this opportunity. That said, there are
+a number of factors that render this assessment of damages more difficult:
+(1)
+Neurim and Flynn know the market in which they are selling. If Mylan compete
+with Neurim and Flynn through the Generic Product, and Neurim’s and Flynn’s
+volume of sales and unit price falls, the inference that this has been caused by the
+new entrant to the market will be an obvious one.
+(2)
+Whilst no doubt Mylan have plans as to how to enter the market, and have made
+forecasts as to what sales revenues they might hope to generate from the sale of the
+Generic Product, these will be projections of an altogether more uncertain nature
+compared to the assessment of Neurim’s and Flynn’s losses in Period 1.
+(3)
+More to the point, if enjoined, Mylan will lose the advantage of the “first mover”.
+As I have noted, Mylan’s interest in the Circadin/Slenyto market is one that is likely
+to be replicated in other manufacturers of generic drugs. The effect of an interim
+injunction would be to remove or diminish Mylan’s “first mover” advantage. Thus,
+were an interim injunction to be granted, but the Patent to be invalidated at trial,
+Mylan would lose its advantage and start on an equal footing with its rivals. The
+“first mover” advantage, Mylan contended, was impossible to quantify in damages.
+Although I do not accept that damages would be “impossible” to quantify, I have
+some sympathy with this submission.
+90.
+My conclusion is that it would be materially harder to assess Mylan’s loss than that of
+Neurim or Flynn. I do not say that it could not be done, but the uncertainties inherent in
+the process would be formidable, and considerably more difficult in my judgment than
+would be the case with the losses sustained by Neurim and Flynn were the interim
+injunction not to be granted.
+K.
+STAGE 4: THE BALANCE OF CONVENIENCE
+91.
+Given the conclusions that I have reached, it is again strictly unnecessary to consider this
+stage. Again, however, because these factors were addressed in submissions, I should
+briefly set out my views:
+(1)
+No adequate remedy on either side. I have concluded that damages would be an
+adequate remedy for Neurim and Flynn, and a less adequate remedy for Mylan. I
+would hesitate to conclude that an award of damages for Mylan would be
+inadequate. I would merely go so far as to say that any award of damages to Mylan
+would be materially more uncertain than calculating Neurim and Flynn’s loss.
+(2)
+David against Goliath. On behalf of Neurim and Flynn, Mr Waugh, QC pointed
+out that Mylan is at least an order of magnitude larger and more powerful than
+Neurim and Flynn, who are much smaller players in the pharmaceutical market.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 29
+Mr Waugh also made the point that Circadin and Slenyto, as products, are far more
+important to Neurim and Flynn than the Generic Product is to Mylan. In other
+words, the Generic Product is just another pharmaceutical in a vast range of
+pharmaceuticals being sold and developed by Mylan, whereas Circadin and
+Slenyto are “flagship” products for both Neurim and Flynn. To an extent, I have
+taken this into account. More particularly:
+(a)
+It seems to me that a difference in economic size per se is irrelevant. The
+fact that a claimant is economically huge and defendant economically
+insignificant (or vice versa) is not a matter that a court should take into
+account when such parties come before a court, unless this mismatch in
+economic power can be shown to be relevant to some factor that the court
+should take into account.
+(b)
+Thus, were it the case (which is not the case here) that Neurim and Flynn
+would not be able to continue their business, through lack of funds, were I
+not to grant the injunction, then that would militate strongly in favour of
+granting the injunction. That, obviously, is a factor that goes to the adequacy
+of damages. To take an entirely hypothetical example, it would obviously
+be material to the granting of an injunction were a failure to do so to drive
+the party seeking interlocutory relief out of business. This is not a factor that
+is in play in this case.
+(3)
+Clearing the way. In SmithKline Beecham plc v. Apotex Europe Ltd,41 Aldous LJ
+considered whether the manufacturer of generic drugs ought to “clear the way” to
+market by commencing proceedings to achieve clarity as regards any patents that
+might operate as a barrier to selling a particular generic product in that market:42
+“Apotex rightly submitted that there was no obligation on a potential defendant to start
+proceedings. However this was a case where Apotex intended to come on to the market
+with their product and they must have realised, back in November 2001, that SB would be
+likely to seek an interlocutory injunction if there was an arguable case of infringement. It
+was Apotex who knew the process that was to be used and when they intended to launch
+their product, but they refrained from telling SB until the late autumn of 2002. If they had
+wanted to they could have had the issue of infringement and validity decided before launch.
+They chose not to do so with the result that there was potential injustice whichever way
+the court decides.”
+As to this:
+(a)
+In my judgment, “clearing the way” is a relevant factor to take into account
+when considering whether the party opposing the grant of an interim
+injunction would adequately be compensated for in damages awarded
+pursuant to the undertaking in damages.
+(b)
+If, by failing to take steps that could sensibly have been taken, a party has
+put itself into a position where damages are going to be inadequate or less
+
+41 [2003] EWCA Civ 137 at [8] and [9].
+42 At [39].
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 30
+adequate than they otherwise would be, then that is a factor that must be
+taken into account.
+(c)
+In the present case, the Patent was granted on 10 May 2017, but that grant
+was opposed by Mylan and – in November 2019 – it became clear that the
+opposition would be successful (albeit that the written decision of the EPO
+Opposition Division was not published until 2 January 2020). It is certainly
+true that Mylan could have commenced proceedings in this jurisdiction for
+a declaration that the Patent was invalid; and Mylan did not do so. I do not
+consider Mylan’s point that a grant of a patent by the EPO spans all of the
+jurisdictions of the EU and that it would be a waste of resource to challenge
+the Patent in each of those jurisdictions. Obviously, the “clearing the way”
+point applies to those jurisdictions where the generic manufacturer intends
+to market, and it is clear (given the size of the UK market) that Mylan
+intended to launch its Generic Product in the UK in particular.
+(d)
+Given that Mylan has been assiduous in obtaining a marketing
+authorisation, it seems to me that there is no proper reason why Mylan could
+not have taken the initiative in relation to the Patent’s validity. That Mylan
+did not do so is, as it seems to me, a factor that I should take into account
+when considering the extent to which damages are an inadequate remedy.
+In short, I consider that this point narrows the difference between Neurim and
+Flynn on the one hand, and Mylan on the other, in terms of how adequate damages
+would be as a remedy. However, since I have concluded that damages would be an
+adequate remedy for Neurim and Flynn, this point makes no difference to my
+decision.
+(4)
+Status quo. I accept that the status quo points towards the granting of an injunction:
+but this is not, in this case, a particularly strong factor and in any event cannot
+affect my conclusions as to the adequacy of damages.
+(5)
+Third party interests. Shortly before the hearing, I received a communication from
+solicitors for the Secretary of State for Health, writing on behalf of the National
+Health Service in England. That communication referred to the application being
+made by Neurim and Flynn and stated:
+“If the injunction is granted and/or continued on an interim basis, but later discharged, the
+NHS may well suffer substantial losses as a consequence of the delayed generic entry
+(since in those circumstances, but for the interim injunction, generic entry would be
+achieved sooner and the prices for Circadin would likewise decrease sooner).
+It is for this reason that the Court of Appeal has accepted that it is current practice in the
+Patents Court when an application for an interim injunction in respect of a pharmaceutical
+is sought to require the patentee to give notice to the Department of Health of the
+application in case it too wishes to seek a cross-undertaking in damages in addition to the
+usual cross-undertaking provided in favour of the respondent (see SmithKline Beecham plc
+and others v. Apotex Europe Ltd and others, [2006] EWCA Civ 658 at [77] per Jacob LJ).
+The same rationale is applicable in relation to the NHS in Wales, Scotland, and Northern
+Ireland. It is also for that reason that section 10 of the Patents Court Guide requires the
+applicant to provide notice to the Department of Health.
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 31
+The position of third parties, such as the NHS, is one that the Court can properly take
+account of in exercising its discretion when deciding whether or not to grant the injunction
+(see SmithKline Beecham above, [27]). The unique position of the NHS in such matters,
+recognised by the courts, is such that it is just and convenient for it to benefit from a cross-
+undertaking in damages, should the Court grant the Claimants’ application.
+Accordingly, if the injunction is granted and/or continued at the hearing tomorrow, our
+clients respectfully request that the following cross-undertaking is provided…”
+The precise terms of the cross-undertaking sought are not important. Mr Waugh,
+QC, on behalf of Neurim and Flynn indicated to me that his clients would have no
+difficulty in principle in providing such an undertaking. As it is, for the reasons that
+I have given, the question of a cross-undertaking does not arise. However, it does
+seem to me that the interests of participants in a market where the market price is
+likely to be materially affected by the entry of a generic product are interests that
+ought to be considered by the court not merely when framing a cross-undertaking
+in damages where an interim injunction is going to be granted, but also when
+considering whether the injunction ought to be granted at all:
+(a)
+In SmithKline Beecham plc v. Apotex Europe Ltd, Jacobs LJ noted that “the
+position of third parties or the public who may be affected by the injunction
+is a matter which the court can take into account in exercising its
+discretion”.43
+(b)
+Here, the granting of an interim injunction would have had the effect of
+protecting not merely the sales price of Circadin for its patented purpose,
+but also the price in those cases where Circadin was sold for other medical
+uses (i.e. Medical Use 3).
+(c)
+Had I been minded to grant an interim injunction, I would have wanted to
+have heard further submissions on whether, in these circumstances, the
+granting of an injunction would be appropriate.
+L.
+DISPOSITION
+92.
+For the reasons that I have given, I decline to make an interim injunction in this case.
+
+43 [2006] EWCA Civ 658 at [77].
+
+Approved judgment
+
+(1) Neurim Pharma (2) Flynn Pharma v. Mylan
+Marcus Smith J
+ 32
+ANNEX 1
+(footnote 1)
+LIST OF TERMS AND ABBREVIATIONS USED IN THE JUDGMENT
+
+TERM/ABBREVIATION
+FIRST USE IN THE JUDGMENT
+Circadin
+Paragraph 3
+EPO
+Paragraph 8
+Flynn
+Paragraph 1
+Generic Product
+Paragraph 9
+IP Enforcement Directive
+Paragraph 23
+label
+Paragraph 5(2)
+Medical Use 1
+Paragraph 63
+Medical Use 2
+Paragraph 63
+Medical Use 3
+Paragraph 63
+Mylan
+Paragraph 8
+Neurim
+Paragraph 1
+off-label
+Paragraph 5(2)
+Patent
+Paragraph 1
+Period 1
+Paragraph 19
+Period 2
+Paragraph 19
+Slenyto
+Paragraph 3
+Terrell
+Paragraph 34 footnote 23

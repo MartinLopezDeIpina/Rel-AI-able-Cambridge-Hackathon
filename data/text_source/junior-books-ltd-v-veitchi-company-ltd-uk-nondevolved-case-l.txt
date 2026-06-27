@@ -1,0 +1,872 @@
+Junior Books Limited (Respondents)
+
+v.
+
+Veitchi Company Limited (Appellants)
+(Scotland)
+
+JUDGMENT
+
+Die Jovis 15° Julii 1982
+
+Upon Report from the Appellate Committee to whom was
+referred the cause Junior Books Limited against Veitchi
+Company Limited, That the Committee had heard Counsel as
+well on Tuesday the 20th as on Wednesday the 21st,
+Thursday the 22nd and Thursday the 29th days of April last
+upon the Petition and Appeal of the Veitchi Company
+Limited, 15 Bouverie Street, Rutherglen, Glasgow praying
+that the matter of the Interlocutor set forth in the
+Schedule thereto, namely an Interlocutor of the Lords of
+Session in Scotland of the Second Division of the 1st day
+of September 1980 so far as therein stated to be appealed
+against might be reviewed before Her Majesty the Queen in
+Her Court of Parliament and that the said Interlocutor so
+far as aforesaid might be reversed, varied or altered or
+that the Petitioners might have such other relief in the
+premises as to Her Majesty the Queen in Her Court of
+Parliament might seem meet; as also upon the Case of
+Junior Books Limited lodged in answer to the said Appeal;
+and due consideration had this day of what was offered on
+either side in this Cause:
+
+It is Ordered and Adjudged, by the Lords Spiritual
+and Temporal in the Court of Parliament of Her Majesty the
+Queen assembled, That the said Interlocutor of the 1st day
+of September 1980 in part complained of in the said Appeal
+be, and the same is hereby, Affirmed and that the said
+Petition and Appeal be, and the same is hereby, dismissed
+this House: And it is further Ordered, That the
+Appellants do pay or cause to be paid to the said
+Respondents the Costs incurred by them in respect of the
+said Appeal, the amount thereof to be certified by the
+Clerk of the Parliaments unless agreed between the
+Parties: And it is also further Ordered, That unless the
+Costs certified as aforesaid shall be paid to the
+Respondents entitled to the same within one calendar month
+from the date of the Certificate thereof, the cause shall
+be, and the same is hereby, remitted back to the Court of
+Session in Scotland or to the Judge acting as Vacation
+Judge to issue such Summary Process or Diligence for the
+recovery of such Costs as shall be lawful and necessary.
+
+Cler: Parliamentor:
+
+HOUSE OF LORDS
+
+JUNIOR BOOKS LIMITED (RESPONDENTS)
+
+v.
+
+VEITCHI COMPANY LIMITED (APPELLANTS)
+(SCOTLAND)
+
+Lord Fraser of Tullybelton
+
+MY LORDS,
+
+Lord Fraser
+of Tullybelton
+Lord Russell
+of Killowen
+Lord Keith
+of Kinkel
+Lord Roskill
+Lord Brandon
+of Oakbrook
+
+I have had the advantage of reading in draft the speech of my noble and
+learned friend, Lord Roskill, and I am in full agreement with his conclusion
+and with the reasons on which he bases it. I also gratefully adopt his
+summary of the facts. It is enough for me to say that the appellants
+(defenders) are specialist sub-contractors who laid composition flooring in
+a factory that was built for the respondents (pursuers) at Grangemouth
+between September 1969 and May 1970. The respondents aver that the
+floor is defective, owing to failure by the appellants to take reasonable
+care in laying it, and that it will have to be replaced. There was no
+contractual relationship between the appellants and the respondents, and
+for some reason that has not been explained the respondents have not
+taken legal proceedings against the main contractors with whom they did
+have a contractual relationship. The respondents have raised this action
+against the appellants, claiming damages which consist mainly of the
+direct and indirect cost of replacing the floor, the action being founded
+on averments that the appellants were negligent in laying the floor. At
+the present stage of relevancy these averments must be taken as true. The
+appeal raises an important question on the law of delict or, strictly speaking,
+quasi-delict, which is not precisely covered by authority. The question is
+whether the appellants having (as must at this stage be assumed) negligently
+laid a floor which is defective but which has not caused danger to the
+health or safety of any person nor risk of damage to any other property
+belonging to the owner of the floor, may in the circumstances averred by
+the respondents be liable for the economic loss caused to them by having
+to replace the floor.
+
+The Lord Ordinary (Lord Grieve) and the Second Division answered
+that question in the affirmative, and they have allowed to the respondents
+a proof before answer. The appellants maintain that the question should
+be answered in the negative and that the action should be dismissed as
+irrelevant. As I agree with my noble and learned friend, Lord Roskill,
+that the appeal fails I only add to his speech in order to deal in my own
+words with two important matters that arise.
+
+The first is the concern which has been repeatedly expressed by judges
+in the United Kingdom and elsewhere that the effect of relaxing strict
+limitations upon the area of liability for delict (tort) would be, in the
+words of Cardozo J. to introduce " liability in an indeterminate amount
+" for an indeterminate time to an indeterminate class ". This is the flood-
+gates argument, as I may use the expression as a convenient description,
+and not in any dismissive or question-begging sense. The argument appears
+to me unattractive, especially if it leads, as I think it would in this case,
+to drawing an arbitrary and illogical line just because to do so has to be
+drawn somewhere. But it has to be considered, because it has had a
+significant influence in leading judges to reject claims for economic loss
+which were not consequent upon physical danger to persons or other
+property of the pursuer/plaintiff. It was the main reason for rejecting the
+claim in the Scottish case of Dynamco Ltd. v. Holland & Hannen & Cubitts
+(Scotland) Ltd. 1971 S.C. 257, which has recently been followed and with some
+apparent reluctance by the Lord Ordinary (Lord Maxwell) in Wimpey
+Construction (U.K.) Ltd. v. Martin Black & Co. 1982 S.L.T. 239. The
+
+3141794-3
+
+A
+
+4
+
+floodgates argument was much discussed by the High Court of Australia
+in Caltex Oil (Australia) Pty. Ltd v. The Dredge " Willemstad " (1976) 136
+C.L.R. 529, where the majority of the court held that there was sufficient
+proximity between the parties to justify a claim for economic loss because
+the defendant knew (in the words of the headnote) " that a particular
+" person, not merely as a member of an unascertained class, [would] be
+" likely to suffer economic loss as a consequence of his negligence ".
+Whether the defenders' knowledge of the identity of the person likely to
+suffer from his negligence is relevant for the present purpose may with
+respect be doubtful, and it seems to be contrary to the views expressed in
+Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C. 465 by
+Lord Reid at 482 and by Lord Morris of Borth-y-Gest at 494. But it is
+necessary to decide the question in this appeal because the appellants
+certainly knew, or had the means of knowing, the identity of the respon-
+dents for whom the factory was being built. So if knowledge of the
+respondents' identity is a relevant test, it is one that the appellants can
+satisfy. They can also satisfy most, if not all, of the other tests that have
+been suggested as safeguards against opening the floodgates. The proximity
+between the parties is extremely close, falling only just short of a direct
+contractual relationship. The injury to the respondents was a direct and
+foreseeable result of negligence by the appellants. The respondents, or
+their architects, nominated the appellants as specialist sub-contractors and
+they must therefore have relied upon their skill and knowledge. It would
+surely be wrong to exclude from probation a claim which is so strongly
+based, merely because of anxiety about the possible effect of the decision
+upon other cases which the proximity may be less strong. If and when
+such other cases arise they will have to be decided by applying sound
+principles to their particular facts. The present case seems to me to fall
+well within limits already recognised in principle for this type of claim,
+and I would decide this appeal strictly on its own facts. I rely particularly
+on the adhesive proximity in the parties which in my view distin-
+guishes this case from the case of producers of goods to be offered for sale
+to the public.
+
+The second matter which might be thought to justify rejecting the
+respondents' claim is an irrelevant is the difficulty of ascertaining the standard
+of duty owed by the appellants to the respondents. A manufacturer's duty
+to take care not to make a product that is dangerous sets a standard which
+is, in principle, easy to ascertain. The duty is owed to all who are his
+" neighbours ". It is imposed upon him by the general law and is in
+addition to his contractual duties to other parties to the contract. It cannot
+be discharged by simply by pleading that it conflicts with his contractual
+duty. But a duty not to produce a defective article sets a standard which
+is less easily ascertainable, because it has to be judged largely by reference
+to the contract. As Wineycr J. said in Voli v. Inglewood Shire Council
+(1963) 110 C.L.R. 74, 85 if an architect undertakes " to design a stage
+" to bear only some specified weight, he would not be liable for the
+" consequences of someone thereafter negligently permitting a greater weight
+" to be put upon it ". Similarly a builder, constructed in fulfilment of a
+contract for a price of £100,000 might justly be regarded as defective,
+although the same building constructed in fulfilment of a contract for a
+price of £50,000 might not. Where a building is erected under a contract
+with a purchaser, then provided the building, or part of it, is not dangerous
+to persons or to other property and subject to the law against misrepresenta-
+tion, I see no reason why the builder should not be free to make with the
+purchaser whatever contractual arrangements about the quality of the
+product the purchaser wishes. However, jury-built the product, the
+purchaser would not be entitled to damages from the builder if it came
+up to the contractual standard. I do not think a subsequent owner could
+be in any better position, but in most cases he would not know the details
+of the contractual arrangements and, without such knowledge, he might
+well be unable to judge whether the product was defective or not. But in
+this case the respondents, although not a party to the contract with the
+appellants, had full knowledge of the appellants' contractual duties, and
+
+this difficulty does not arise. What the position might have been if the action had been brought by a subsequent owner is a matter which does not have to be decided now.
+
+For the reasons given by my noble and learned friend, Lord Roskill, and for the additional reasons which I have stated, I would dismiss this appeal.
+
+Lord Russell of Killowen
+
+MY LORDS,
+
+I have had the advantage of reading in draft the speeches prepared by my noble and learned friends, Lords Fraser of Tullybelton and Roskill. I agree with them and with their conclusion that this appeal fails. In my respectful opinion the view of my noble and learned friend, Lord Brandon of Oakbrook, unnecessarily confines the relevant principles of delict to exclude cases of such immediate proximity as the present.
+
+Lord Keith of Kinkel
+
+MY LORDS,
+
+The respondents own and occupy a factory in Grangemouth. This factory was constructed for them over a period in 1969 and 1970, under a contract between them and a company called Ogilvie (Builders) Ltd, which I shall call " the main contractors ". The respondents' architects nominated the appellants as specialist sub-contractors for the purpose of laying a floor in the main production area of the factory. The appellants entered into a contract with the main contractors for the carrying out of this work.
+
+According to the respondents' averments the appellants' workmanship was seriously defective in a number of respects, with the result that after two years the floor began to develop cracks over the whole of its surface. They say that it requires replacement in order to avoid the necessity for continual maintenance which would be more expensive in the long run. They claim against the appellants for the cost of such replacement, together with certain consequential loss which they say they will suffer while the work of replacement is being carried out. The claim is founded in delict, the respondents pleading that they have suffered loss through the appellants' negligence and are entitled to reparation therefor.
+
+The appellants plead that the respondents' averments are irrelevant. The Lord Ordinary (Lord Grieve) after debate, refused to sustain this plea and allowed a proof before answer. The Second Division (Lord Justice Clerk Wheatley, Lord Kissen and Lord Robertson) refused a reclaiming motion against the Lord Ordinary's interlocutor. The appellants now appeal to your Lordships' House.
+
+It is a notable feature of the respondents' pleadings that they contain no averment that the defective nature of flooring has led or is likely to lead to any danger of physical injury to work people or of damage to property, moveable or immoveable, other than the floor surface itself, or even of economic loss through interruption of production processes. The only type of pecuniary consequential loss claimed for is that arising out of the need to replace the flooring. Had there been an averment of any such apprehended danger, I am of opinion that the respondents' case would have been clearly relevant. There undoubtedly existed, between the appellants and the respondents such proximity of relationship, within the well-known principle of Donoghue v. Stevenson [1932] A.C. 562, as to give rise to duty of care owed by the former to the latter. As formulated in Donoghue v. Stevenson, the duty extended to the avoidance of acts or omissions which might reasonably have been anticipated as likely to cause physical injury to persons or property. The scope of the duty has, however, been developed so as to cover in the situation where pure economic loss is to be foreseen as
+
+3141794—3 B*
+4
+likely to be suffered by one standing in the requisite degree of proximity: Hedley Byrne & Co. Ltd v. Heller & Partners Ltd [1964] A.C. 465. That case was concerned with a negligent statement made in response to an inquiry about the financial standing of a particular company, reliance on the accuracy of which the plaintiffs had acted to their detriment. So the case is not in point here except in so far as it established that reasonable anticipation of physical injury to person or property is not a sine qua non for the existence of a duty of care. It has also been established that where a duty of care exists through the presence of such reasonable anticipation, and it is breached, then even though no such injury has actually been caused because the person to whom the duty is owed has incurred expenditure in averting the danger, that person is entitled to damages measured by the averting of that expenditure: Anns v. Merton London Borough Council [1978] A.C. 728, per Lord Wilberforce at p.758. That is the principle which in my view underlies Dutton v. Bognor Regis U.D.C. [1972] 1 Q.B. 373 and Batty v. Metropolitan Realisations Ltd [1978] 1 Q.B. 554. Is the present case I am of opinion that the appellants in the laying of the floor owed to the respondents a duty to take reasonable care to avoid acts or omissions which they ought to have known would be likely to cause the respondents, not only physical damage to person or property, but also pure economic loss. Economic loss could be caused to the respondents if the condition of the floor, in the course of its normal life, came to be such as to prevent the respondents from carrying out ordinary production processes on it, or, short of that, to cause the production process to be more costly than it would otherwise have been. In that situation the respondents would have been entitled to recover from the appellants expenditure incurred in relaying the floor so as to avert or mitigate their loss. The real question in the appeal, as I see it, is whether the respondents' averments reveal such a state of affairs as, under the principles I have outlined, gives them a complete right of action. I am of opinion that they have relevantly averred a duty of care owed to them by the appellants, though I think their averments in this respect might have been more precise and better related to the true legal position. It is the averments of loss which cause me some trouble. On the face of it, their averments might be read as meaning no more than that the respondents have got a bad floor instead of a good one and that their loss is represented by the cost of replacing the floor. But they do also aver that the cost of maintaining the floor which they have got is heavy, and that it would be cheaper to take up the floor surface and lay a new one. If the cost of maintaining the defective floor is substantially greater than it would have been in respect of a sound one, it must necessarily follow that their manufacturing operations are being carried on at a less profitable level than would otherwise have been the case, and that they are therefore suffering economic loss. That is the sort of loss which the appellants, standing in the relationship to the respondents which they did, ought reasonably to have anticipated as likely to occur if their workmanship was faulty. They must have been aware of the nature of the respondents' business, the purpose for which the floor was required and the part it was to play in their operations. The appellants accordingly owed the respondents a duty to take reasonable care to see that their workmanship was not faulty and was liable for the foreseeable consequences, sounding in economic loss, of their failure to do so. These consequences may properly be held to include less profitable operation due to the heavy cost of maintenance. In so far as the respondents, in order to avert or mitigate such loss, incur expenditure on relaying the floor surface, that expenditure becomes the measure of the appellants' liability. Upon that analysis of the situation, I am of opinion that the respondents have stated a proper case for inquiry into the facts, and that the Lord Ordinary and the Second Division were therefore right to allow a proof before answer. I would accordingly dismiss the appeal.
+
+Having thus reached a conclusion in favour of the respondents upon the somewhat narrow ground which I have indicated, I do not consider this to be an appropriate case for seeking to advance the frontiers of the law of negligence upon the lines favoured by certain of your Lordships. There are
+a number of reasons why such an extension would, in my view, be wrong in principle. In the first place, I am unable to regard the deterioration of the flooring which is alleged in this case as being damage to the respondents' property such as to give rise to a liability falling directly within the principle of Donoghue v. Stevenson (supra). The flooring had an inherent defect in it from the start. The appellants did not in any sense consistent with the ordinary use of language or contemplated by the plaintiffs in Donoghue v. Stevenson, damage the respondents' property. They supplied them with a defective floor. Such an act can, in accordance with the views I have expressed above, give rise to liability in negligence in certain circumstances. But it does not do so merely because the flooring is defective or valueless or useless and requires to be replaced. So to hold would raise very difficult and delicate issues of principle, having a wide potential application. I think it would necessarily follow that any manufacturer of products would become liable to the ultimate purchaser if the product, owing to negligence in manufacture, was without being harmful in any way useless or worthless or defective in quality so that the purchaser wasted the money he spent on it. One instance mentioned in argument and adverted to by Stamp L.J. in Dutton v. Bognor Regis U.D.C. (supra) at p.315, was a product purchased as ginger beer which turned out to be only water, and many others may be figured. To introduce a general liability covering such situations would be disruptive of commercial practice, under which manufacturers of products commonly provide the ultimate purchaser with limited guarantees usually undertaking only to replace parts exhibiting defective workmanship and excluding any consequential loss. There being no contractual relationship between manufacturer and ultimate consumer, no room would exist, if the suggested principle were accepted, for limiting the manufacturer's liability. The policy considerations which would be involved in introducing such a state of affairs appear to me to be such as a court of law cannot properly assess, and the question whether or not it would be in the interests of commerce and the public generally is, in my view, much better left for the legislature. The purchaser of a defective product normally can proceed for breach of contract against the seller who can bring his own supplier into the proceedings by third party procedure. So it cannot be said that the present state of the law is unsatisfactory from the point of view of available remedies. I refer to Young & Marten Ltd v. McManus Childs Ltd [1969] 1 A.C. 454. In the second place I can foresee that very considerable difficulties might arise in assessing the standards of quality by which the allegedly defective product is to be judged. This aspect is more fully developed in the speech to be delivered by my noble and learned friend Lord Brandon of Oakbrook with whose views on the matter I respectfully agree.
+
+My Lords, for the reasons which I have given I will concur in the dismissal of the appeal.
+
+Lord Roskill
+
+MY LORDS,
+
+This appeal against an interlocutor of the Second Division of the Court of Session (the Lord Justice Clerk, Lord Kissen and Lord Robertson) dated 1st September 1980 refusing a reclaiming motion against an interlocutor of the Lord Ordinary (Lord Grieve) dated 22nd November 1979 raises a question of fundamental importance in the law of delict. Since it was accepted in the course below and in argument before your Lordships' House that there was no relevant difference between the Scots law of delict and the English law of negligence, it follows that this appeal equally raises a question of fundamental importance in the law of negligence. It follows that this appeal equally raises a question of fundamental importance in the English law of negligence. The defenders, the appellants before your Lordships' House, tabled a general plea to the relevance of the pursuer's averments and it was that plea which was debated in both courts below. The appellants contended
+
+3141794—3
+
+that there was no averment in the pursuers' pleadings relevant to found an action against the defenders in delict and that therefore the action should be dismissed as irrelevant. The respondents, on the other hand, contended that proof before answer should be allowed. Both courts below allowed proof before answer. The learned Lord Ordinary started his opinion by stating that there was no Scottish authority directly in point and while in argument before your Lordships. Have much Scottish, English and indeed Commonwealth authority was cited, it remains the fact that no decision in any court that was cited to your Lordships conclusively shows the correct route to be taken though many may be said generally to illuminate that route.
+
+My Lords, since the appeal comes before your Lordships' House in the manner I have just stated, it follows that the respondents' averments, alleged not to state a relevant case, must be assumed for present purposes to be correct. Those averments are fully set out in the record and in the opinion of the Lord Ordinary and, to avoid repetition, I gratefully borrow his statement of them. I need only summarise the bare essentials. The appellants are specialist contractors in the laying of flooring. They were nominated subcontractors under a main building contract concluded between the respondents and some main contractors. There was no privity of contract between the appellants and the respondents. The appellants laid flooring in the production area of a factory which was being built for the respondents at Grangemouth as long ago as 1969 and 1970. In 1972 it is averred that that flooring showed defects allegedly due either to bad workmanship or bad materials or both. At the time the pleadings were prepared no repair work had been carried out but it was averred that the cost of repairs would be some £50,000 to which added certain figures which, as the Lord Ordinary said, might reasonably be described as items of economic or financial loss. The total sum claimed by the respondents was over £200,000.
+
+My Lords, your Lordships are thus invited to deal with events which happened long ago. It is difficult to believe that in the intervening period some work has not been done to this flooring that no information was vouchsafed as to the course of subsequent events. The main building contract was not exhibited in the courts below. Your Lordships were not told whether that contract included as between the main contractors and the respondents any relevant exemption clause, nor whether if there were such an exemption clause it might be available for the benefit of the appellants. Nor were your Lordships told why the respondents had chosen to proceed in delict against the appellants rather than against the main contractors in contract, nor indeed why the main contractors had not been joined as parties to these proceedings. This economy of fact is in stark contrast to the wealth of citation of authority of which your Lordships have had the benefit. Thus the bare point of law has to be decided upon an assumption of the truth of the facts pleaded. But I cannot but suspect that the truth regarding the supposed deficiencies of this flooring at Grangemouth has long since been either established or disproved. Of these matters however your Lordships know and have been told nothing. Half a century ago your Lordships' House decided Donoghue v. Stevenson 1932 A.C. 562 upon a similar plea of irrelevancy. In that case however some three and three quarter years only had elapsed between the purchase of the allegedly offending bottle of ginger beer and the decision of your Lordships' House.
+
+My Lords, there was much discussion before your Lordships' House as to the effect of the pleadings. I see no need to discuss them in detail. They seem to me clearly to contain no allegation that the flooring was in a dangerous state or that its condition was such as to cause danger to life or limb or to other property of other persons or that repairs were urgently or imminently required to avoid any such danger, or that any economic or financial loss had been, or would be, suffered save as would be consequential upon the ultimate replacement of the flooring; the necessity of which was averred in Condescendence VII. The essential feature of the respondents' pleading was that it advanced a claim for the cost of remedying the alleged defects in the flooring itself by replacement together with resulting or economic or financial loss consequential upon that replacement.
+
+2
+
+My Lords, that it was some of the respondents' pleading and that that pleading was limited in this way that the appellants were able to mount their main attack upon these pleadings and to contend that they were at least in the absence of amendment, for which no leave has been sought at any stage, irrelevant since the law neither of Scotland nor of England made the appellants liable in delict or in negligence for the cost of replacing this flooring or for the economic or financial loss consequent upon that replacement. It was strenuously argued for the appellants that for your Lordships' House now to hold that in those circumstances which I have just outlined the appellants were liable to the respondents would be to extend the duty of care owed by a manufacturer and others, to which the principles firs enumerated in Donoghue v. Stevenson have since been extended during the last half century, far beyond the limits to which the courts have hitherto extended them. The familiar "floodgates" argument was once again brought fully into play. My Lords, although it cannot be denied that police considerations have from time to time been allowed to play their part in the consideration of the present either in limiting or in extending the scope of the tort of negligence since it first developed as it were to its own right in the course of the last century, yet today I think its scope is best determined by considerations of principle rather than of policy. The "floodgates" argument is very familiar. It still may on occasion have its proper place but a principle suggests that the law should develop along a particular route and if the adoption of that particular route will accord a remedy where that remedy has been hitherto denied, I see no reason why, if it be just that the law should henceforth accord that remedy, that it need should be denied simply because it will in consequence of that particular development become available to many rather than to few.
+
+My Lords, I think there is no doubt that Donoghue v. Stevenson by its insistence upon proximity, in the sense in which Lord Atkin used that word, as the foundation of the duty of care which was there enunciated, marked a great development in the law of delict and of negligence alike. In passing it should be noted that Lord Atkin emphasised at page 579 of the report that the laws of Scotland and of England were in that case, as is agreed in the present, identical. But that advance having been thus made in 1932, the doctrine then enunciated was at first confined by judicial decision within relatively narrow limits. The gradual development of the law will be found discussed by the learned editor of Salmond on Torts (17th edition 1981) at pages 289 et seq. Though initially there is no doubt that because of Lord Atkin's phraseology at page 599 of the report in Donoghue v. Stevenson, "Injury to the consumer's life or property" it was thought that the duty of care did not extend beyond avoiding physical injury or physical damage to the person to whom the property of the person to whom the duty of care was owed, that limitation has long since ceased as Professor Heuston points out in the passage to which I have just referred.
+
+My Lords, in discussion upon the later developments of the law the decision of your Lordships' House (albeit by a majority) in Morrison Steamship Co. v. Greystoke Castle (Cargo Owners) [1947] A.C. 265, is sometimes overlooked. The facts were essentially simple. Two ships collided. For simplicity I will call them A and B. Both ships were to blame albeit in unequal proportions. The owners of the cargo on ship A became liable to contribution in general average to the owners of ship A. The cargo owners then sued ship B to recover the relevant proportion of that liability for general average contribution. They succeeded in that claim. My Lords, I shall not quote extensively from the speeches as either the majority of the minority, suffice it to say that were the recovery of economic loss was allowed and I do not think that the decision is to be explained simply upon some supposed esoteric mystery appertaining to the law regarding general average contribution. It is true that there seems to be little discussion in the speeches regarding the extent of the duty of care but the very direction by the majority of the views expressed by Lord Simonds in his dissenting speech that "nothing would justify me in holding that the cargo owner can recover "damages from the wrong doing ship nor because his cargo has suffered
+
+3141794-3
+c 6
+
+3
+
+"damage but because he has been placed under an obligation to make a general average contribution" (see page 307) shows that Lord Simonds at least was appreciating the consequences of the step forward which the majority were then taking. The decision is indeed far from the previously limited application of the doctrine enunciated in Donoghue v. Stevenson.
+
+Fifteen years later in Hedley Byrne & Co. Ltd v. Heller & Partners Ltd (1964) A.C. 465, your Lordships' House made plain that the duty of care was not limited in the manner in which the respondents in that appeal had contended. Your Lordships' House held without doubt the economic loss was recoverable without physical damage having been suffered provided that the relevant duty of care had existed and that that duty existed when the party to whom the allegedly negligent advice was given, relied upon the "judgment" or "skill" of take those two words from the speech of Lord Morris of Borth-y-Gest at page 503 of him who gave the advice. I draw attention without citation to a passage of Lord Hodson at page 509 where he refers to the Greystoke Castle case: two passages in the speech of Lord Devlin at page 529 however demand quotation in full. The noble and learned Lord said this:
+
+"I have had the advantage of reading all the opinions prepared by "your Lordships and of studying the terms which your Lordships have "framed by way of definition of the sort of relationship which gives "rise to a responsibility towards those who act upon information or "advice and so creates a duty of care towards them. I do not under- "stand any of your Lordships to hold that it is a responsibility imposed "by law upon certain types of persons or in certain sorts of situations. "It is a responsibility that is voluntarily accepted or undertaken, either "generally, when a general relationship, such as that of solicitor and "client or banker and customer, is created, or specifically in relation "to a particular transaction . . . ."
+
+Later at page 530 Lord Devlin said:
+
+"I shall therefore content myself with the proposition that wherever "there is a relationship equivalent to contract, there is a duty of care. "Such a relationship may be either general or particular. . . . I "regard this proposition as an application of the general conception "of proximity. Cases may arise in the future in which a new and "wider proposition quite independent of any notion of contract, will "be needed. There may, for example, be cases in which a statement "is not supplied for the use of any particular person, any more than "in Donoghue v. Stevenson the ginger beer was supplied for consumers "not by any particular person; and it will then be necessary to return "to the general conception of proximity and to see whether there can "be evolved from it, as was done in Donoghue v. Stevenson, a specific "proposition to fit the case . . . ."
+
+My Lords, it was, as I think, this development of the law which led Lord Reid in Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004 at pages 1026/7 to say:
+
+"In later years there has been a steady trend towards regarding the "law of negligence as depending on principle so that when a new "point emerges, one should not ask whether it is covered by authority "but whether recognised principles apply to it. Donoghue v. Stevenson "may be regarded as a milestone, and the well-known passage in "Lord Atkin's speech should I think be regarded as a statement of "principle. It is not to be treated as if it were a statutory definition. "It will require qualification in new circumstances. But I think that "the time has come when we can and should say that it ought to "apply unless there is some justification or valid explanation for its "exclusion. . . . But where negligence is involved there tendency has "been to apply principles analogous to those stated by Lord Atkin.
+
+2
+
+Similarly in Anns v. Merton London Borough Council [1978] A.C. 728,
+Lord Wilberforce approving the earlier decisions of the Court of Appeal
+in Dutton v. Bognor Regis Urban District Council [1972] 1 Q.B. 373 and
+Sparham-Souter v. Town and Country Developments (Essex) Ltd. [1976]
+Q.B. 858, said of the trilogy of cases, Donoghue v. Stevenson, Hedley Byrne,
+and Dorset Yacht at pages 751/2:
+
+“ . . . the position has now been held that in order to establish that
+“ a duty of care arises in a particular situation, it is not necessary to
+“ bring the facts of that situation within those of previous situations
+“ in which a duty of care has been held to exist. Rather the question
+“ has to be approached in two stages. First one has to ask whether,
+“ as between the alleged wrongdoer and the person who has suffered
+“ damage there is a sufficient relationship of proximity or neighbour-
+“ hood such that, in the reasonable contemplation of the former,
+“ carelessness on his part may be likely to cause damage to the latter
+“ – in which case a prima facie duty of care arises. Secondly, if the
+“ first question is answered affirmatively, it is necessary to consider
+“ whether there are any considerations which ought to negative, or to
+“ reduce or limit the scope of the duty or the class of person to whom
+“ it is owed or the damages to which a breach of it may give rise. . . .”
+
+Applying those statements of general principle as your Lordships have
+been enjoined to do both by Lord Reid and by Lord Wilberforce rather
+than to ask whether the particular situation which has arisen here or does
+not resemble some earlier and different situation where a duty of care
+has been held or has not been held to exist, I look for the reasons why,
+it being conceded that the appellants owed a duty of care to others not
+to construct the flooring so that those others were in peril of suffering
+loss or damage to their persons or their property, that duty of care should
+not be equally owed to the respondents who, though not in direct contractual
+relationship with the appellants, were as nominated sub-contractors in
+almost as close a commercial relationship with the appellants as it is
+possible to envisage short of privity of contract, so as not to expose the
+respondents to a possible liability to financial loss for repairing the flooring
+should it prove that that flooring had been negligently constructed. It is
+conceded that if the flooring had been so badly constructed that to avoid
+imminent danger the respondents had expended money upon renewing it
+the respondents could have recovered the cost of so doing. It seems
+curious that if the appellants’ work had been so bad that to avoid imminent
+danger expenditure had been incurred the respondents could recover that
+expenditure but that if the work was less badly done so that remedial
+work could be postponed they cannot do so. Yet this is seemingly the
+result of the appellants’ contentions.
+
+My Lords, I have already said that there is no decided case which
+clearly points the way. But it is, I think, of assistance to see how far the
+various decisions have gone. I shall restrict my citation to the more
+important decisions both in this country and overseas. In Dutton, which
+as already stated, your Lordships’ House expressly approved in Anns, the
+Court of Appeal held that the plaintiff, who bought the house in question
+long after it had been built and its foundations inadequately inspected by
+the defendants’ staff, was entitled to recover from the defendants inter alia
+the estimated cost of repairing the foundation as well as other items of loss
+including diminution in value. There was in that case physical damage
+to the house. It was argued that the defendants were not liable for the
+cost of repairs or diminution in value. This argument was expressly
+rejected by Lord Denning M.R. at page 396 and by Sachs L.J. at pages
+403/4. Stamp L.J. at pages 414/5 was however more sympathetic to this
+argument:
+
+“ It is pointed out that in the past a distinction has been drawn
+“ between constructing a dangerous article and constructing one which
+“ is defective or of inferior quality. I may be liable to one who
+“ purchases in the market a bottle of ginger beer which I have
+3141794–3 C *2
+
+“ carelessly manufactured and which is dangerous and causes injury
+“ to person or property but it is not the law that I am liable to him
+“ for the loss he suffers because what is found inside the bottle and
+“ for which he has paid money is not ginger beer but water. I do
+“ not warrant, except to an immediate purchaser and then by contract
+“ and not in tort, that the thing I manufacture is reasonably fit for
+“ its purpose.
+
+“ The submission is, I think, a formidable one and in my view raises
+“ the most difficult point for decision in this case. Nor can I see any
+“ valid distinction between these cases of a builder who carelessly builds
+“ a house which, though not a source of danger to person or property,
+“ nevertheless, owing to a concealed defect in its foundations starts to
+“ settle and crack and becomes valueless and the case of a manufacturer
+“ who carelessly manufactures an article which, though not a source of
+“ danger to a subsequent owner or to his other property, nevertheless
+“ owing to a hidden defect quickly disintegrates. To hold that either
+“ the builder or the manufacturer was liable except in contract would
+“ be to open up a new field of liability the extent of which could not,
+“ I think, be logically controlled, and since it is not in my judgment
+“ necessary to do so for the purposes of this case I do not, more
+“ particularly because of the absence of the builder, express an opinion
+“ whether the builder has a higher or lower duty than the manufacturer.
+“ But the distinction between the case of a manufacturer of a dangerous
+“ thing which causes damage and that of a thing which turns out to be
+“ defective and valueless lies, I think, not in the nature of the injury
+“ but in the character of the duty. I have a duty not carelessly to put
+“ out a dangerous thing which may cause damage to one who may
+“ purchase it; but the duty does not extend to putting out carelessly a
+“ defective or useless or valueless thing. So again one goes back to
+“ consider what was the character of the duty, if any, owed to the
+“ plaintiff, and one finds on authority that the injury which is one of the
+“ essential elements of the tort of negligence is not confined to physical
+“ damage to personal property but may embrace economic damage
+“ which the plaintiff suffers through buying a worthless thing, as is
+“ shown by the Hedley Byrne case.”
+
+Thus it was upon the character of the duty that the learned Lord Justice
+founded and was able to agree with the other members of the Court of
+Appeal in that case.
+
+My Lords, a similar question arose some years later in Batty v.
+Metropolitan Realisations, Ltd. [1978] 1 Q.B. 559. By the date of this
+decision the Court of Appeal had the benefit of the decision of your
+Lordships’ House in Anns. Megaw L.J., see page 570, regarded the doubts
+raised by Stamp L.J. as resolved by Lord Wilberforce’s speech in Anns.
+Once again the argument based upon absence of physical damage was
+advanced as it had been in Dutton. Once again it was rejected on both
+the basis that there was in this case as in Dutton the requisite degree of
+physical damage. Bridge L.J. (as he then was) at page 573 however seems
+to me to use somewhat wider language and he indeed refers to two sentences
+at the end of Lord Wilberforce’s speech in Anns [1977] 2 W.L.R. 1039 where
+my noble and learned friend said “subject always to adequate proof of
+“ causation, these damages may include damages for personal injury and
+“ damage to property. In my opinion they may also include damage to
+“ the dwelling house itself.”
+
+My Lords I am inclined to think that that last sentence which directed
+to the facts in Anns where there was, as in the other cases to which I have
+referred, the element of physical damage present due to trouble with the
+foundations, rather than directed to the full breadth of the proposition for
+which the respondents in the present appeal contended. Nonetheless the
+three decisions, Dutton, Anns and Batty seem to me to demonstrate how
+far the law has been in the moment in which in recent years.
+
+My Lords I turn next to the three main Commonwealth decisions. They
+are Rivtow Marine Ltd. v. Washington Iron Works [1973] 40 D.L.R. (3d) a
+decision of the Supreme Court of Canada, Caltex Oil (Australia) Pty. Ltd.
+v. The Dredge “Willemstad” (1975–6) 136 C.L.R. 529, a decision of the
+High Court of Australia, and Bowen v. Paramount Builders (Hamilton) Ltd.
+[1977] 1 N.Z.L.R. 394, a decision of the Court of Appeal of New Zealand.
+All three of these cases were decided before Anns reached your Lordships’
+House.
+
+My Lords, in the first of this trilogy, the Supreme Court by a majority
+held that the manufacturer of a dangerously defective article is not liable
+in tort to an ultimate consumer or user of that article for the cost of
+repairing damage arising in the article itself nor for such economic loss to
+repair. But there was, if I may respectfully say so, a powerful dissenting
+judgment by Laskin J. (as he then was) with which Hall J. concurred. The
+learned judge posed as the first question (page 549) whether the defendants’
+liability for negligence should embrace economic loss where there has been
+no physical harm in fact. He gave an affirmative answer. After pointing
+out (at page 551) that the judicial limitation on liability was founded upon
+what I have called “the floodgates” argument rather than upon principle,
+he adopted the view that economic loss resulting from threatened physical
+loss from a negligently designed or manufactured product was recoverable.
+It was this judgment which my noble and learned friend Lord Wilberforce
+described in his speech in Anns as of strong persuasive force—see page
+759/60. In the Caltex case, the High Court of Australia elaborately
+reviewed all the relevant English authorities and indeed others as well.
+My Lords, I hope I shall not be thought lacking in respect for those elaborate
+judgments or failing to acknowledge the help which I have derived from
+them if I do not cite from them but to some extent certain of the difficulties
+there discussed have been subsequently resolved by the decision of this
+House in Anns. In Bowen, to which Lord Wilberforce also referred in
+Anns as having afforded him much assistance, the Court of Appeal in New
+Zealand followed the Court of Appeal decision in Dutton. Cooke J. took
+the view that it was enough for the purpose of the case to question to say
+that the damage was basically physical. But as the passage at page 393
+of the report shows, he would have been prepared to agreement with the
+judgments of Lord Denning M.R. and of Sachs L.J. in Dutton to go
+further.
+
+My Lords, to my mind in the instant case there is no physical damage
+to the flooring in the sense in which that phrase was used in Dutton, Batty
+and Bowen and some of the other cases. As my noble and learned friend,
+Lord Russell of Killowen, said during the argument, the question which your
+Lordship’s House now has to decide is whether the relevant Scots and
+English law today extends the duty of care beyond a duty to prevent harm
+being done by faulty work to a duty to avoid such faults being present in
+the work itself. It was powerfully urged on behalf of the appellants that
+were your Lordships so to extend the law a pursuit in the position of the
+pursuer in Donoghue v. Stevenson could in addition to recovering for any
+personal injury suffered have been allowed for the diminished value of the
+offending bottle of ginger beer. Any remedy of that kind is was argued
+must lie in contract and not in delict or tort. My Lords, I seem to detect
+in that able argument reflections of the previous judicial approach to
+comparable problems before Donoghue v. Stevenson was decided. That
+approach, as I have resulted, in the conclusion that in principle the proper
+remedy lay in contract and not outside it. But that approach and its
+concomitant philosophy ended in 1932 and for my part I should
+be reluctant to countenance its re-emergence 50 years later in the just
+instant case. I think today the proper control lies not in asking whether the
+proper remedy should lie in contract or instead in delict or tort nor in
+somewhat capricious judicial determination whether a particular case falls
+on one side of the line or the other, not in somewhat artificial distinctions
+between physical and economic or financial loss when the two sometimes
+
+go together and sometimes do not—it is one sometimes overlooked that virtually
+all damage including physical damage is in one sense financial or economic
+for it is compensated by an award of damages—but in the first instance
+establishing the relevant principles, and then in deciding whether the
+particular case falls within or without those principles. To state this is to
+do no more than to restate what Lord Reid said in the *Dorset Yacht* case
+and Lord Wilberforce in *Anns*. Lord Wilberforce in the passage I have
+already quoted enunciated the two tests which have to be satisfied. The first
+is “sufficient relationship of proximity”. The second any considerations
+negativing, reducing or limiting the scope of the duty or the class of person
+to whom it is owed or the damages to which a breach of the duty may
+give rise. My Lords, it is I think in the application of these two principles
+that the ability to control the extent of liability in delict or in negligence
+lies. The history of the development of the law in the last 50 years shows
+that fears aroused by the “floodgates” argument have been unfounded.
+Cooke L. J. *Bowen* (page 472) described the “floodgates” argument as
+specious and the argument against allowing a cause of action such as was
+allowed in *Dutton, Anns* and *Bowen* as “in terrorem or doctrinaire”.
+
+Turning back to the present appeal I therefore ask first whether
+there was the requisite degree of proximity so as to give rise to the
+relevant duty of care relied on by the respondents. I regard the following
+facts as of crucial importance in requiring an affirmative answer to that
+question.
+
+(1) The appellants were nominated sub-contractors.
+
+(2) The appellants were specialists in flooring.
+
+(3) The appellants knew what products were produced by the appellants
+and their main contractors and specialised in the production of those
+products.
+
+(4) The appellants alone were responsible for the composition and
+construction of the flooring.
+
+(5) The respondents relied upon the appellants’ skill and experience.
+
+(6) The appellants as nominated sub-contractors must have known
+that the respondents relied upon their skill and experience.
+
+(7) The relationship between the parties was as close as it could be
+short of actual privity of contract.
+
+(8) The appellants must be taken to have known that if they did the
+work negligently (as it must be assumed that they did) the resulting
+defects would at some time require remedying by the respondents
+expending money upon the remedial measures as a consequence of which
+the respondents would suffer financial or economic loss.
+
+My Lords, reverting to Lord Devlin’s speech in *Hedley Byrne*, it seems
+to me that all the conditions existed which give rise to the relevant duty of
+care owed by the appellants to the respondents.
+
+I then turn to Lord Wilberforce’s second proposition. On the facts I
+have just stated I see nothing whatever to restrict the duty of care arising
+from the proximity of which I have spoken. During the argument it was
+asked what the position would be in a case where there was a relevant
+exclusion clause in the main contract. My Lords, that question does not
+arise for decision in the instant appeal, but in principle I would venture the
+view that such a clause according to the manner in which it was worded
+might in some circumstances limit the duty of care just as in the
+*Hedley Byrne* case the plaintiffs were ultimately defeated by the defendants’
+disclaimer of responsibility. But in the present case the only suggested
+reason for limiting the damage (ex hypothesi economic or financial) only
+recoverable for the breach of the duty of care just enunciated is that hitherto
+the law has not allowed such recovery and therefore ought not in the future
+to do so. My Lords, with all respect to those who find this a sufficient
+answer I do not. I think this is the next logical step forward in the
+development of this branch of the law. I see no reason why what was
+
+13
+
+called during the argument “damage to the pocket” simpliciter should be
+disallowed when “damage to the pocket” coupled with physical damage
+has hitherto always been allowed. I do not think that this development if
+development it be, will lead to untoward consequences. The concept of
+proximity must always involve, at least in most cases, some degree of
+reliance—I have already mentioned the words “skill” and “judgment” in
+the speech of Lord Morris of Borth-y-Gest in *Hedley Byrne*. These words
+seem to me to be an echo, be it conscious or unconscious, of the language
+of section 14(1) of the Sale of Goods Act 1893. My Lords, although the
+analogy is not exact, I do not find it unhelpful for I think the concept of
+proximity of which I have spoken and the reasoning of Lord Devlin in the
+*Hedley Byrne* case involve factual considerations not unlike those involved
+in a claim under section 14(1) and as between an ultimate purchaser and a
+manufacturer would not easily be found to exist in the ordinary day to day
+transaction of purchasing chattels when it is obvious that in truth the
+real reliance was upon the immediate vendor and not upon the
+manufacturer.
+
+My Lords, I have not thought it necessary to review all the cases cited in
+argument. If my conclusion be correct, certain of them can no longer be
+regarded as good law and others may have to be considered afresh hereafter.
+For example, whether the decision of the majority of the Court of Appeal
+in *Sparham-Souter v. L.B. of Merton & Co. (Contractors) Ltd.* is correct or
+whether the reasoning of Edmund-Davies L.J. (as he then was) in his
+dissenting judgment is to be preferred, and whether the decision of the First
+Division in *Dynamco Ltd. v. Holland & Hannen & Cubitts (Scotland) Ltd.*
+1971 S.C. 257, a decision given after the *Dorset Yacht* case but before *Anns*,
+but seemingly without reference to the *Dorset Yacht* case, is correct.
+
+My Lords, for all these reasons I would dismiss this appeal and allow this
+action to proceed to proof before answer.
+
+My Lords, I would add two further observations. First, since preparing
+this speech I have had the advantage of reading in draft the speech of
+Lord Fraser of Tullybelton, with which I agree. Secondly, my attention has
+been drawn to the decision of the Court of Appeal in New Zealand in
+*Mount Albert Borough Council v. Johnson* [1979] N.Z.L.R. 234. The
+judgment of Cooke and Somers J.J. in which the decision in *Bowen* is stated
+to reflect the present law in New Zealand (see pp. 238–9) is consonant with
+the views I have expressed in this speech.
+
+Lord Brandon of Oakbrook
+
+MY LORDS,
+
+This appeal arises in an action in which Junior Books Limited are the
+pursuers and The Veitchi Company Limited are the defenders. In that
+action, which purports to be founded in delict, the pursuers seek reparation
+from the defenders for loss and damage which they claim to have suffered
+by reason of the want of care of the defenders in laying flooring at the
+pursuers’ factory in Grangemouth.
+
+The defenders made a general challenge to the relevance of the averments
+contained in the pursuers’ Condescendence at Procedure Roll. The question
+of law raised by that challenge came first before the Lord Ordinary (Lord
+Grieve). He decided that the question in favour of the pursuers, and by an
+Interlocutor of 22nd November 1979 allowed them a proof before answer
+of all their averments. The defenders reclaimed to the Inner House, and by
+an Interlocutor of 1st September 1980 the Second Division, consisting of the
+Lord Justice Clerk (Lord Wheatley), Lord Kissen and Lord Robertson,
+refused the reclaiming motion and affirmed the Interlocutor of the Lord
+Ordinary. The defenders now appeal from that decision to your Lordships’
+House.
+
+Avoiding all matters of detail, the averments contained in the
+Condescendence can be summarised as follows. 1. In 1969–70 the pursuers
+had built for them by main contractors a factory in Grangemouth.
+
+14
+
+2. Earlier, in July 1968, the pursuers’ architects had nominated the defenders
+as sub-contractors to lay flooring, consisting of a magnesium oxychloride
+composition, in the production area of the factory. 3. The pursuers’
+architects, in so nominating the defenders, had relied on the fact that the
+defenders were specialists in the laying of flooring. 4. The defenders had
+accepted the nomination and, after entering into a contract with the main
+contractors, laid flooring of the specified composition in the specified area.
+5. It was the duty of the defenders to mix and lay the flooring with reasonable
+care. 6. The defenders were in breach of that duty in that they failed, in a
+number of respects, to mix and lay the flooring with reasonable care. 7. In
+consequence of that breach of duty by the defenders the flooring began to
+develop cracks in 1972 and had gone on cracking more and more ever since.
+8. As a result of the cracking of the flooring the pursuers suffered the
+following items of damage or loss: necessary relaying or replacement of the
+flooring £50,000; storage of books during the carrying out of the work £1,000;
+removal of machinery to enable the work to be done £3,000; loss of profits
+due to disturbance of business £25,000; wages of employees thrown away
+£900,000; overheads thrown away £16,000; investigation of necessary treatment
+of flooring £3,000. The total of these items was pleaded as £206,000; it is
+in fact, although the point is not material, £207,000.
+
+For the purpose of considering the relevancy of the pursuers’ averments
+of fact, it is necessary to make the assumption that all such averments are
+true. On the basis of that assumption, the dispute between the parties is
+not whether the defenders owed a duty of care to the pursuers in connection
+with the laying of the flooring—the existence of some duty arising from
+the proximity of the parties is, rightly in my view, admitted by the
+defenders. The dispute is rather concerned with the scope of that admitted
+duty of care.
+
+For the defenders, on the one hand, it was contended that the duty was
+limited to a duty to exercise reasonable care so to mix and lay the flooring
+as to ensure that it was not a danger to persons or property, excluding for
+this purpose the property brought into being by the work and labour done,
+that is to say the flooring itself. For the pursuers, on the other hand, it
+was contended that the duty was a duty to exercise reasonable care so to
+mix and lay the flooring as to ensure that it was free of any defects,
+whether dangerous to persons or property or not; alternatively, if the
+duty was in principle that put forward by the defenders, the relevant
+property, damage to which the defenders were under a duty to exercise
+reasonable care to avoid, included the property brought into being by the
+work and labour done, that is to say the flooring itself.
+
+In relation to that dispute it is common ground that, so far as the
+present case is concerned, there are no material differences between the
+Scottish law of delict and the English law of negligence, so that authorities
+relating to the latter are properly to be taken into account in relation to
+the former. It is further common ground that authorities in Commonwealth
+countries, the law of which, in so far as they are not statutory, are
+derived from the English common law, may usefully be considered, although
+their value is necessarily persuasive only.
+
+My Lords, it appears to me clear beyond doubt that, there being no
+contractual relationship between the pursuers and the defenders in the
+present case, the foundation, and the only foundation, for the existence
+of a duty of care owed by the defenders to the pursuers, is the principle
+laid down in the decision of your Lordships’ House in *Donoghue v.
+Stevenson* [1932] A.C. 562. The actual decision in that case related only
+to the duty owed by a manufacturer of goods to their ultimate user or
+consumer, and can be summarised in this way: a person who manufactures
+goods which he intends to be used or consumed by others, is under a duty
+to exercise such reasonable care in their manufacture as to ensure that they
+can be used or consumed in the manner intended without causing physical
+damage to persons or their property.
+
+15
+
+While that was the actual decision in Donoghue v. Stevenson, it was
+based on a much wider principle embodied in passages in the speech of
+Lord Atkin, which have been quoted so often that I do not find it
+necessary to quote them again here. Put shortly, that wider principle is
+that, when a person can or ought to appreciate that a careless act or
+omission on his part may result in physical injury to other persons or their
+property, he owes a duty to all such persons to exercise reasonable care to
+avoid such careless act or omission.
+
+It is, however, of fundamental importance to observe that the duty of
+care laid down in Donoghue v. Stevenson was based on the existence of
+a danger of physical injury to persons or their property. That this is so,
+is clear from the observations made by Lord Atkin at pp.581-2 with
+regard to the statements of law of Lord Esher (then Sir Baliol Brett M.R.)
+in Heaven v. Pender [1883] 11 Q.B.D. 503 at p.509. It has further, until
+the present case, never been doubted, so far as I know, that the relevant
+property for the purpose of the wider principle on which the decision in
+Donoghue v. Stevenson was based, was property other than the very
+property which gave rise to the danger of physical damage concerned.
+
+My Lords, I have already indicated my opinion that the wider principle
+on which the decision in Donoghue v. Stevenson was based applies to the
+present case. The effect of its application is that the defenders owed a
+duty to the pursuers to exercise reasonable care so to mix and lay the
+flooring as to ensure that it did not, when completed and put to its
+contemplated use, constitute a danger of physical damage to persons or
+their property, other than the flooring itself.
+
+The averments contained in the Condescendence in the present case do
+not include any averment that the defects in the flooring complained of
+by the pursuers either constitute presently, or might reasonably be expected
+to constitute in the future, a danger of physical damage to persons or their
+property, other than the flooring itself. In the absence of any averment
+of that kind, I am of opinion that the averments contained in the Condescen-
+dence disclose no cause of action in delict and are accordingly irrelevant.
+
+My Lords, a good deal of the argument presented to your Lordships
+during the hearing of this appeal was directed to the question whether a
+person can recover in an action founded on delict alone, purely pecuniary
+loss which is independent of any physical damage to persons or their
+property. If this were the question to be decided in the present case, I
+should have no hesitation in holding that in principle and depending on
+the facts of a particular case, purely pecuniary loss may be recoverable
+in an action founded on delict alone. Two examples can be given of such
+cases. First, there is the type of case where a person suffers purely
+pecuniary loss as a result of relying on another person's negligent misstate-
+ments. Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C. 465.
+Secondly, there may be a type of case where a person, who has a cause
+of action based on Donoghue v. Stevenson, reasonably incurs pecuniary
+loss in order to prevent or mitigate imminent danger of damage to the
+persons or property exposed to that danger: see the dissenting judgment
+of Lordkin J. in the Canadian Supreme Court case of Rivtow Marine Ltd.
+v. Washington Iron Works [1973] 6 W.W.R.692, referred to with approval
+in the speech of Lord Wilberforce in Anns v. Merton London Borough
+Council [1978] A.C. 728 at p.760.
+
+I do not, however, consider that the question of law for decision in
+this case is whether a person can, in an action founded in delict alone,
+recover for purely pecuniary loss. On the contrary, I adhere to the
+nature of the question of law to be decided which I formulated earlier,
+namely, what is the scope of the duty of care owed by the defenders to
+the pursuers in the assumed facts of the present case.
+
+My Lords, in support of their contentions the pursuers placed reliance
+on the broad statements relating to liability in negligence contained in the
+speech of Lord Wilberforce in Anns v. Merton London Borough Council,
+supra, at pp.751-2 Lord Wilberforce there said:
+
+16
+
+"Through the trilogy of cases in this House—Donoghue v. Stevenson
+[1932] A.C. 562, Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd.
+[1964] A.C. 465 and Dorset Yacht Co. Ltd. v. Home Office [1970]
+A.C. 1004, the position has now been reached that in order to
+establish that a duty of care arises in a particular situation, it is not
+"necessary to bring the facts of that situation within those of previous
+"situations in which a duty of care has been held to exist. Rather
+"the question has to be approached in two stages. First one has to
+"ask whether, between the alleged wrongdoer and the person who
+"has suffered damage, there is a sufficient relationship of proximity
+"or neighbourhood such that, in the reasonable contemplation of the
+"former, carelessness on his part may be likely to cause damage to
+"the latter—in which case a prima facie duty of care arises. Secondly,
+"if the first question is answered affirmatively, it is necessary to consider
+"whether there are any considerations which ought to negative, or to
+"reduce or limit the scope of the duty or the class of person to whom
+"it is owed or the damages to which breach of it may give rise . . ."
+
+Applying that general statement of principle to the present case, it is,
+as I indicated earlier, common ground that the first question which Lord
+Wilberforce said one should ask oneself, namely, whether there is sufficient
+proximity between the parties to give rise to the existence of a duty of
+care owed by the one to the other, falls to be answered in the affirmative.
+Indeed, it is difficult to imagine a greater degree of proximity in the
+absence of a direct contractual relationship, than that which, under the
+modern type of building contract, exists between a building owner and a
+sub-contractor nominated by him or his architect.
+
+That first question having been answered in the affirmative, however, it
+is necessary, according to the views expressed by Lord Wilberforce in the
+passage from his speech in Anns v. Merton London Borough Council
+quoted above, to ask oneself a second question, namely, whether there are
+any considerations which ought, inter alia, to limit the scope of the duty
+which exists.
+
+To that second question I would answer that there are two important
+considerations which ought to limit the scope of the duty of care which it
+is common ground was owed by the defenders to the pursuers on the assumed
+facts of the present case.
+
+The first consideration is that, in Donoghue v. Stevenson itself and in
+all the numerous cases in which the principle of that decision has been
+applied to different but analogous factual situations, it has always been
+either stated expressly, or taken for granted, that an essential ingredient
+in the cause of action relied on was the existence of danger, or the threat
+of danger, of physical damage to persons or their property, excluding for
+this purpose the very piece of property from the defective condition of
+which such danger, or threat of danger, arises. To dispense with that
+essential ingredient in a cause of action of the kind conceived in the present
+case would, in my view, involve a radical departure from long-established
+authority.
+
+The second consideration is that there is no sound policy reason for
+substituting the wider scope of the duty of care put forward by the pursuers
+for the more restricted scope of such duty put forward by the defenders. The
+effect of accepting the pursuers' contention with regard to the scope of the
+duty of care involved would be, in substance, to create, as between two
+persons who are not in any contractual relationship with each other,
+obligations of one of those two persons to the other which are only really
+appropriate as between persons who do have such a relationship between
+them.
+
+In the case of a manufacturer or distributor of goods, the position would be
+that he warranted to the ultimate user or consumer of such goods that they
+were as well designed, as merchantable and as fit for their contemplated
+purpose as the exercise of reasonable care could make them.
+
+17
+
+In the case of sub-contractors such as those concerned in the present case,
+the position would be that they warranted to the building owner that the
+flooring, when laid, would be as well designed, as free from defects of any
+kind and as fit for its contemplated purpose as the exercise of reasonable care
+could make it.
+
+In my view, the imposition of warranties of this kind on one person in
+favour of another, when there is no contractual relationship between them,
+is contrary to any sound policy requirement.
+
+It is, I think, just worth while to consider the difficulties which would arise
+if the wider scope of the duty of care put forward by the pursuers were
+accepted. In any case where complaint was made by an ultimate consumer
+that a product made by some persons with whom he himself had no contract
+was defective, by what standard or standards of quality would the question of
+defectiveness fall to be decided? In the case of goods bought from a
+retailer, it could hardly be the standard prescribed by the contract between the
+retailer and the wholesaler, or between the wholesaler and the distributor, or
+between the distributor and the manufacturer, for the terms of such contracts
+would not even be known to the ultimate buyer. In the case of sub-
+contractors such as the defenders in the present case, it could hardly be the
+standard prescribed by the contract between the sub-contractors and the
+main contractors, for, although the building owner would probably be aware
+of those terms, he could not, since he was not a party to such contract, rely
+on any standard or standards prescribed in it. It follows that the question by
+what standard or standards alleged defects in a product complained of by
+its ultimate user or consumer are to be judged remains entirely at large and
+cannot be given any just or satisfactory answer.
+
+If, contrary to the views expressed above, the relevant contract or
+contracts can be regarded, in order to establish the standard or standards of
+quality by which the question of defectiveness falls to be judged, and if such
+contract or contracts happen to include provisions excluding or limiting
+liability for defective products or defective work, or for negligence generally,
+it seems that the party sued in delict should in justice be entitled to rely on
+such provisions. This illustrates with especial force the inherent difficulty of
+seeking to impose what are really contractual obligations, by unprecedented
+and, as I think, wholly undesirable extensions of the existing law of delict.
+
+By contrast, if the scope of the duty of care contended for by the defenders
+is accepted, the standard of defectiveness presents no problem at all. The
+sole question is whether the product is so defective that, when used or
+consumed in the way in which it was intended to be, it gives rise to a danger
+of physical damage to persons or their property, other than the product
+concerned itself.
+
+My Lords, for the reasons which I have given, I would decide the
+question of relevancy in favour of the defenders and allow the appeal
+accordingly.
+
+3141794—3 DD 8209971 C2 7/82

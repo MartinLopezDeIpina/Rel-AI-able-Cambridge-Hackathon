@@ -1,0 +1,1076 @@
+1
+
+Neutral citation number: [2021] EWHC 1172 (Ch)
+
+Case No: IL-2020-000109
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+INTELLECTUAL PROPERTY LIST (ChD)
+
+Royal Courts of Justice, Rolls Building
+Fetter Lane, London, EC4A 1NL
+
+11 May 2021
+
+Before:
+
+DEPUTY MASTER BRIGHTWELL
+- - - - - - - - - - - - - - - - - - - - -
+Between:
+
+(1) CRYPTON DIGITAL ASSETS LIMITED
+(2) CRYPTON PARTNER MANAGEMENT
+LIMITED
+
+Claimants
+
+- and –
+
+(1) BLOCKCHAIN LUXEMBOURG SA
+(2) BLOCKCHAIN (GB) LIMITED
+(3) STEPHEN JONES
+(4) PETROS-ALEXANDROS KOUMPAS
+(5) MARK CURTIS
+(6) CASTRAMET LIMITED
+Defendants
+
+- - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - -
+
+James Sheehan (instructed by Ashurst LLP) for the Claimants
+Sa’ad Hossain QC and Niranjan Venkatesan (instructed by Goodwin Procter (UK) LLP)
+for the First and Second Defendants
+
+Hearing date: 25 March 2021
+
+2
+
+Approved Judgment
+
+I direct that this approved judgment, sent to the parties by email on 11 May 2021, shall
+deemed to be handed down on that date, and copies of this version as handed down may be
+treated as authentic.
+
+.............................
+
+3
+
+Deputy Master Brightwell:
+1.
+By this application, the first and second defendants, Blockchain Luxembourg
+SA and Blockchain (GB) Ltd (together, “Blockchain”) apply pursuant to CPR
+Part 3.4 to strike out stated parts of the particulars of claim with the effect that
+the causes of action in inducing breach of contract, dishonest assistance,
+knowing or unconscionable receipt and unlawful means conspiracy be struck
+out.
+2.
+The other defendants are not parties to the application, and have filed and
+served defences to the claims against them (and, in the case of the sixth
+defendant, Castramet Ltd, a counterclaim against the first claimant for services
+provided). The other defendants were not represented at the hearing of the
+application.
+Background
+3.
+The claimants, Crypton Digital Assets Ltd and Crypton Partner Management
+Ltd (together, “Crypton”), are described in the particulars of claim as
+technology and research companies who have used a combination of
+quantitative data science and artificial intelligence to develop what is itself
+described at paragraph 9 (and elaborated further later in the document) as “a
+valuable bespoke institutional-grade multi-asset high-frequency, low latency
+trading platform using artificial intelligence, with a focus on digital assets,
+specifically cryptocurrencies (the ‘Crypton Platform’)”. Given the nature of
+the application, Blockchain has not yet filed a defence to the claim, but I note
+that the other defendants all take significant issue with paragraph 9.
+4.
+In the particulars of claim, Crypton then summarises the claim. That summary
+reads as follows:
+“10. From August 2019 onwards, Crypton engaged in discussions and
+negotiations with a number of third parties with a view to attracting
+investment into Crypton. One such third party was Blockchain SA.
+In late 2019 the negotiations between Crypton and Blockchain SA
+developed into a proposed acquisition by Blockchain SA of the
+entire share capital, business and assets of Crypton, including the
+Crypton Platform.
+11.
+However, instead of seeing through the negotiations with Crypton to
+a concluded acquisition, Blockchain instead entered into a wrongful
+combination with Mr Jones, Mr Koumpas and Mr Curtis (and/or
+Castramet) pursuant to which these individuals simply purported to
+resign from Crypton and were engaged by Blockchain almost
+immediately thereafter.
+
+4
+
+12.
+Blockchain and the individual Defendants referred to above then
+proceeded to solicit other key staff from Crypton, and (it is to be
+inferred) Blockchain is now exploiting the Crypton Platform, using
+Crypton’s intellectual property, and/or seeking to rebuild that
+platform using the ideas and concepts used to create it, and the skill,
+expertise and know-how of those of its employees and contractors
+who had contributed to its development.
+13.
+Blockchain has made no payment of any kind to Crypton in return.
+14.
+As set out in more detail below, the wrongful combination between
+the Defendants first involved Mr Jones, Mr Koumpas and Mr Curtis
+seeking to take control of the process of negotiation between
+Crypton and Blockchain SA, and of Crypton’s technology assets
+and data. They did so:
+14.1. With a view to ensuring that they were able to decide on
+whether and (if so) on what terms the acquisition took place,
+purporting in breach of duty to agree terms which were
+contrary to Crypton’s interests and instead favoured
+Blockchain SA and these individuals. Blockchain SA had
+offered a bonus pool to transferring employees and, as Mr
+Jones explained at the time, he wanted to “keep the head count
+down” so that there was “more money in the pot for us”. Mr
+Jones and Mr Koumpas used these negotiations with
+Blockchain SA to secure an increase in the salary to be paid to
+them personally after the acquisition.
+14.2. Later, in order to enable them to exploit the opportunity
+presented by Blockchain SA’s interest in Crypton’s business,
+but without Blockchain SA having to acquire that business
+from Crypton for value.
+15.
+In February 2020 this conduct culminated in the collapse of the
+acquisition negotiations and in:
+15.1. The near-simultaneous resignation from Crypton of Mr Jones,
+Mr Koumpas and Mr Curtis, together with a number of more
+junior members of staff who had been solicited by Mr Jones,
+Mr Koumpas and Blockchain itself;
+15.2. The Defendants’ pursuit of Crypton’s essential business
+through Blockchain without any payment to Crypton;
+
+5
+
+15.3. The Defendants gaining control over the code on which the
+Crypton Platform was built, and Crypton’s access to that code
+and other valuable data being cut off; and
+15.4. The resultant destruction of the entire value of Crypton’s
+business.
+16.
+Crypton accordingly claims against each of the Defendants for
+breach of fiduciary duty, breach of contract, infringement of
+copyright, breach of confidence, inducing breach of contract,
+dishonest assistance, unconscionable receipt and unlawful means
+conspiracy, as set out in more detail below.”
+5.
+The particulars of claim then proceed to set out Crypton’s pleaded contentions
+as to the fiduciary and contractual duties owed to Crypton by the defendants
+(other than Blockchain) and third parties, and their pleaded contentions as to
+the role of parties other than Blockchain in the development of a trading
+platform for cryptocurrencies and as to the negotiations that took place
+between Blockchain and Crypton for the acquisition by the former of
+Crypton’s share capital (and, thus, assets).
+6.
+It is the section of the particulars of claim from paragraph 62 onwards, headed
+“The Defendants’ wrongful appropriation of the Crypton Platform
+Opportunity”, which was the main focus of the parties’ submissions at the
+hearing, together with the pleaded statements of the elements of the various
+causes of action relied on by Crypton. Each cause of action, set out from
+paragraph 83 onwards, is particularised by a process of cross-reference back to
+earlier pleaded allegations of fact. The extent of the reliance on cross-
+referencing was one of Blockchain’s principal criticisms of the particulars of
+claim.
+7.
+The particulars of claim were settled by Mr Brian Nicholson QC, leading Mr
+James Sheehan. Mr Sheehan appeared for Crypton at the hearing of the
+application. Blockchain was represented by Mr Sa’ad Hossain QC, together
+with Mr Niranjan Venkatesan. I have been assisted by lucid submissions on
+both sides.
+8.
+As I have noted, Blockchain applies to strike out those parts of the particulars
+of claim which plead claims against Blockchain in inducing breach of
+contract, dishonest assistance, (knowing or) unconscionable receipt and
+unlawful means conspiracy. Blockchain therefore accepts that the claim that it
+has infringed, and continues to infringe, Crypton’s intellectual property rights
+(defined in paragraphs 38 to 44 as copyright works, at least some of which
+also contained confidential information) should proceed.
+
+6
+
+Power to strike out statements of case: principles
+9.
+CPR Part 3.4(2)(a) provides as follows:
+“(2) The court may strike out a statement of case if it appears to the court
+–
+(a) that the statement of case discloses no reasonable grounds for bringing
+or defending the claim.”
+10.
+Blockchain also relies on paragraph 1.4 of Practice Direction 3A (and,
+particularly, on sub-paragraphs (2) and (3)):
+“The following are examples of cases where the court may conclude that
+particulars of claim (whether contained in a claim form or filed
+separately) fall within rule 3.4(2)(a):
+(1) those which set out no facts indicating what the claim is about, for
+example ‘Money owed £5000’,
+(2) those which are incoherent and make no sense,
+(3) those which contain a coherent set of facts but those facts, even if true,
+do not disclose any legally recognisable claim against the defendant.”
+11.
+I should record that at the hearing Blockchain also put its application on the
+footing that the applicable causes of action may be struck out pursuant to CPR
+Part 3.4(2)(b), which refers to the court’s power to strike out statements of
+case which are an abuse of the court’s process or are otherwise likely to
+obstruct the just disposal of the proceedings. Mr Hossain clarified that this was
+with particular regard to the way in which the particulars of claim are cross-
+referenced. I have in considering the document taken care to ascertain the
+allegations that are made in relation to each cause of action through this
+process of cross-referencing, and I state my views on them below.
+12.
+It does seem to me that, to the extent that an allegation is clearly made through
+a process of cross-referencing, it cannot be an abuse of process or obstruct the
+just disposal of the proceedings and I do not discern a contrary view in Kaplan
+v Super PCS LLP [2017] EWHC 1165 (Ch), relied on by Blockchain. Rose J
+at [38] expressed the view that unnecessarily prolix particulars of claim that
+failed fairly to identify the claims in a way that could be reasonably
+understood, and where counsel for the claimant there accepted that they “still
+needed quite a bit of surgery”, would fall foul of CPR Part 3.4(2)(b). The
+central question is whether the claims, and their proper particulars, are fully
+ascertainable. If not, the court should not allow them to proceed in their
+current form.
+
+7
+
+13.
+I consider this application on the assumption that the facts averred in the
+particulars of claim are true, as I am bound to do: see Marsh v Chief Constable
+of Lancashire [2003] EWCA Civ 284 at [2], per Potter LJ. Blockchain has
+made clear its position that if the claims proceed they will be denied, and that
+it alleges among other things that it was deliberately misled about various
+aspects of Crypton’s corporate structure and business. That, however, is not
+relevant to the instant application.
+14.
+I was addressed by Mr Hossain on the footing that the adequacy of Crypton’s
+pleading is to be assessed by an essentially granular consideration of the
+elements of each cause of action relied upon, and of the contents of the
+particulars of claim, in order to determine whether each cause of action is
+supported by pleadings of fact which, if established at trial, would enable each
+element of each claim to succeed. Mr Sheehan did not demur from this
+approach which is replicated, particularly, in his skeleton argument. He did,
+however, urge against a formalistic approach, submitting that the claim in
+conspiracy was unusually compelling, given the (alleged) concealment by
+Blockchain and the other defendants of the appropriation of Crypton’s
+business.
+15.
+The function of pleadings is, of course, to give the party opposite sufficient
+notice of the case which is being made against it: Three Rivers District
+Council v Bank of England (No.3) [2003] 2 AC 1 at [185]. Furthermore, each
+of the claims which are the subject of the present application involve serious
+allegations of wrongdoing, including claims of dishonesty. It is essential to
+bear in mind the requirements of a pleading of dishonesty.
+16.
+In the Three Rivers case, Lord Millett, having described the function of
+pleadings as the first principle, went on as follows, at [186]:
+“The second principle, which is quite distinct, is that an allegation of fraud
+or dishonesty must be sufficiently particularised, and that particulars of
+facts which are consistent with honesty are not sufficient. This is only
+partly a matter of pleading. It is also a matter of substance. As I have said,
+the defendant is entitled to know the case he has to meet. But since
+dishonesty is usually a matter of inference from primary facts, this
+involves knowing not only that he is alleged to have acted dishonestly, but
+also the primary facts which will be relied upon at trial to justify the
+inference. At trial the court will not normally allow proof of primary facts
+which have not been pleaded, and will not do so in a case of fraud. It is
+not open to the court to infer dishonesty from facts which have not been
+pleaded, or from facts which have been pleaded but are consistent with
+honesty. There must be some fact which tilts the balance and justifies an
+inference of dishonesty, and this fact must be both pleaded and proved.”
+
+8
+
+17.
+The requirements of a plea of dishonesty have recently been summarised in
+the following way, in Sofer v Swissindependent Trustees SA [2020] EWCA
+Civ 699 at [23], per Arnold LJ:
+“i) Fraud or dishonesty must be specifically alleged and sufficiently
+particularised, and will not be sufficiently particularised if the facts
+alleged are consistent with innocence: Three Rivers.
+
+ii) Dishonesty can be inferred from primary facts, provided that those
+primary facts are themselves pleaded. There must be some fact which
+tilts the balance and justifies an inference of dishonesty, and this fact
+must be pleaded: Three Rivers at [186] (Lord Millett).
+
+iii) The claimant does not have to plead primary facts which are only
+consistent with dishonesty. The correct test is whether or not, on the
+basis of the primary facts pleaded, an inference of dishonesty is more
+likely than one of innocence or negligence: JSC Bank of Moscow v
+Kekhman [2015] EWHC 3073 (Comm) at [20]-[23] (Flaux J, as he then
+was).
+
+iv) Particulars of dishonesty must be read as a whole and in
+context: Walker v Stones [2001] QB 902 at 944B (Sir Christopher
+Slade).”
+18.
+Arnold LJ then made two further points at [24]. First, when giving particulars,
+no more than a concise statement of the facts relied upon is required.
+Secondly, unless there is some obvious purpose to be served by fighting over
+the precise terms of a pleading, contests over their terms are to be discouraged.
+See McPhilemy v Times Newspapers Ltd [1999] 3 All ER 775 at 793B (Lord
+Woolf MR).
+19.
+Furthermore, it seems to me that the question whether a statement of case
+discloses a coherent set of facts in support of a legally recognised cause of
+action is something to be ascertained from the four corners of the document
+itself. Information available elsewhere, for instance in a witness statement,
+may justify giving a party the opportunity to apply to amend a deficient
+statement of case, but it cannot suffice to save a statement of case that would
+otherwise fall to be struck out. Crypton has served a witness statement, of Mr
+Neil Staunton, the CEO of the first claimant, in response to the application. Mr
+Sheehan did not at the hearing refer to Mr Staunton’s evidence (although he
+did refer to a separate claim brought by Blockchain against Mr Staunton,
+exhibited to his statement). There are three references to the witness statement
+in Mr Sheehan’s skeleton argument, but he explicitly eschews reliance on
+them in saying that it is unnecessary for those points to be pleaded, asserting
+
+9
+
+instead that they illustrate the dangers of striking out a claim where the
+defendants are alleged to be concealing relevant facts. I do not consider that
+point to justify the reliance on facts which could have been, but have not been,
+pleaded. I have accordingly not further considered Mr Staunton’s witness
+statement.
+The particulars of claim
+20.
+Blockchain’s complaint in this application is that, in particular given the way
+in which the particulars of claim have been prepared, with the facts set out
+first and the causes of action against the various defendants pleaded by cross-
+reference back to the facts, four of the five claims brought by Crypton against
+Blockchain do not disclose any legally recognised cause of action.
+21.
+Blockchain contends that the allegations relating to the Blockchain companies,
+as opposed to the other defendants, are unclear such that there has been a
+disregard of the rules governing the pleading of dishonesty and of the
+economic torts, both of which are serious allegations. That overarching
+contention must be assessed by reference to each cause of action broken down
+into its constituent elements. Before turning to do so, I have considered the
+factual allegations in the particulars of claim in detail.
+22.
+The most relevant section, where the factual allegations of wrongdoing are set
+out, and by reference to which the various causes are then pleaded, begins at
+paragraph 62, with the allegation (focused on the claim in unlawful means
+conspiracy, considered last below) that:
+“62 On a date or dates prior to 14 February 2020, which Crypton is
+presently unable to particularise further (but in respect of which it will
+seek to plead further as appropriate upon provision of further information
+upon disclosure or otherwise), Mr Jones and Mr Koumpas entered into a
+combination or agreement to act in their own interests and against
+Crypton’s interests with regard to the Crypton Platform Opportunity and
+the proposed Blockchain SA acquisition. Mr Curtis (and/or Castramet)
+and Blockchain were also party to the said combination or agreement….”
+23.
+The allegations in paragraphs 63 to 82 of the particulars of claim develop in
+the following way, as far as Blockchain is concerned (i.e. without setting out
+all the allegations against the other defendants, especially Messrs Jones and
+Koumpas, which are more fully particularised in the document), as I
+summarise below:
+i)
+The third to sixth defendants sought to take control of the negotiations
+with Blockchain, by taking over negotiations with Blockchain on
+Crypton’s behalf (paragraph 66), seeking to oust members of the board
+
+10
+
+of the first claimant (paragraph 67), and gaining control of Crypton’s
+assets (paragraph 70), all in the interests of Blockchain. The third and
+fourth defendants were directors of both claimant companies until 14
+February 2020, and the fifth defendant resigned from the first claimant
+on the same date.
+ii)
+The combination or agreement evolved into one pursuant to which the
+Crypton Platform opportunity would be pursued through Blockchain,
+without any payment to Crypton in return (paragraph 64). Crypton
+believe that this evolution took place between 10 and 14 February 2020
+(paragraph 72).
+iii)
+Mr Peter Smith, of Blockchain, made a statement on 13 February 2020
+that Blockchain would not accept a board which was not controlled by
+individuals moving to Blockchain, which matter was of no genuine or
+commercial relevance to Blockchain, as the first defendant was
+proposing to acquire the entire issued share capital of the first claimant
+(paragraphs 67.4 and 68).
+iv)
+The attempts of the other defendants to gain control of the negotiations
+and to gain control of the board of the first claimant, were supported by
+Blockchain, and the motivation behind these actions was to act in the
+interests of, inter alios, Blockchain. The reasons put forward by Mr
+Smith were not genuine or legitimate (paragraph 69 and 69.1).
+v)
+Mr Koumpas purported on 10 February 2020 to terminate the contract
+of a Mr Sewell (the nature of whose employment with Crypton is not
+explained), a step taken in the interests of Blockchain and/or those of
+Mr Jones and Mr Koumpas personally (paragraph 69.4).
+vi)
+Mr Jones and Mr Koumpas falsely represented to Mr Charlie
+McGarraugh of Blockchain on 10 February 2020 that Mr Staunton had
+agreed with them that he (Mr Staunton) would not join Blockchain
+(paragraph 69.5.4).
+vii)
+Mr Jones signed a term sheet on behalf of the first claimant but without
+its authority, at or shortly after a meeting attended by him and Mr
+Koumpas at Blockchain’s London offices on 10 February 2020
+(paragraph 69.6).
+viii)
+Blockchain solicited the resignation of key Crypton staff, Messrs
+Tomáš Jirman, Giuseppe Calvi and Ilya Kisil, who are now employed
+by Blockchain. The resignations of the third to fifth defendants, on 14
+February 2020, “were obviously coordinated with Blockchain itself”
+(paragraphs 73 to 75).
+
+11
+
+ix)
+Blockchain, after the resignation from Crypton of the said individuals,
+purported to create the impression of innocently withdrawing from
+negotiations. The reasons put forward by Mr McGarraugh for
+withdrawing from negotiations were, it is to be inferred, a false pretext
+proffered in an attempt to justify its wrongful conduct (paragraph 78).
+x)
+The defendants are now exploiting the Crypton Platform opportunity
+through Blockchain, and are making use of Crypton’s intellectual
+property (paragraphs 80 to 82).
+xi)
+As a result of these matters (and others pleaded as against the other
+defendants) Crypton is unable to exploit the Crypton Platform and its
+existing business has effectively been destroyed (paragraph 82).
+24.
+While the adequacy of these allegations falls to be considered together with
+the additional averments in relation to each individual cause of action, I would
+at the outset comment that it would not be accurate to say that Blockchain’s
+own involvement in the events said to constitute the combination or agreement
+relied on are wholly unpleaded.
+Inducing breach of contract
+25.
+The requirements of the tort of inducing breach of contract were set out by
+Arden LJ (as she then was) in Meretz Investments NV v ACP Ltd [2008] Ch
+244 at [114], by reference to the then recent decision of the House of Lords in
+OBG Ltd v Allan [2008] 1 AC 1:
+“For inducing breach of contract the essential elements were knowledge
+of the contract, intention to induce a breach of the contract and actual
+breach of contract. Accordingly, to be liable, a person must know that his
+action will result in a breach of contract….The defendant’s conduct must
+actually have caused a breach of that contract.”
+26.
+The breaches of contract which it is alleged that Blockchain has induced in
+relation to Mr Jones and Mr Koumpas are pleaded at paragraph 85.6 to 85.8
+(the inducement allegations against Blockchain are then found at paragraphs
+94 to 96). These refer to the misuse of and failure to deliver up Crypton’s
+intellectual property, a breach of the non-competition clauses in the
+employment contracts of Mr Jones and Mr Koumpas, and a breach of the non-
+solicitation and related clauses in those contracts concerning the solicitation of
+other employees. There is then a separate allegation that Mr Jirman, Mr Calvi
+and Mr Kisil all breached their service contracts in resigning without notice,
+and that Blockchain intentionally induced these breaches of contract (see
+paragraphs 97 to 99).
+27.
+Mr Hossain makes three objections to the pleading of this cause of action.
+
+12
+
+i)
+First, it is said that Crypton has not properly pleaded the conduct said
+to constitute inducement.
+ii)
+Secondly, there is no averment that Blockchain knew the acts it
+allegedly induced constituted breaches of contract.
+iii)
+Thirdly, it is not properly pleaded that Blockchain intended to induce
+the pleaded breaches of contract.
+28.
+It is established that, for conduct to be capable of constituting inducement,
+there must be some conduct by A amounting to persuasion, encouragement or
+assistance of B to break the contract with C. As a matter of causation, A’s
+conduct must also be capable of influencing B’s choice whether or not to
+break the contract: Kawasaki Kishen Kaisha Ltd v James Kemball Ltd [2021]
+EWCA Civ 33 at [32]–[33], per Popplewell LJ.
+29.
+Mr Hossain submits that it is difficult if not impossible to discern from the
+particulars of claim what conduct of Blockchain is said to constitute the
+inducement of the breaches of contract pleaded at paragraph 85.6 to 85.8. Mr
+Sheehan responds by saying that Crypton is not able to particularise in detail
+all the acts of inducement, as they are particularly within the knowledge of the
+defendants, but that the whole scheme has involved inducement of the pleaded
+breaches of contract by Mr Jones and Mr Koumpas. He relies on Blockchain
+allegedly having had dealings with Mr Jones and Mr Koumpas that
+Blockchain knew to be inconsistent with their contracts with Crypton.
+30.
+In the Kawasaki Kishen Kaisha case, at [42], Popplewell LJ said that such
+inconsistent dealings may be capable of constituting inducement because they
+amount to the requisite persuasion, encouragement or assistance. He cited and
+approved the judgment of Lord Hodge (sitting in the Outer House) in Global
+Resources Group v Mackay [2008] SLT 104 at [13]:
+“Fourthly, A must induce B to break his contract with C by persuading,
+encouraging or assisting him to do so….It is clear from BMTA v
+Salvadori and BMTA v Gray that the tort or delict is not confined to
+circumstances where A has to persuade B to break his contract but can
+also be committed where A has dealings with B which A knows are
+inconsistent with the contract between B and C. In either event A induces
+or assists B to do something (or to refrain from doing something) which
+involves B breaking his contract with C.”
+31.
+It is in fact expressly pleaded that Blockchain coordinated the resignations of
+Messrs Jones, Koumpas and Curtis (paragraph 74.2), and that Blockchain
+solicited the resignation of the other named employees. As a matter of plain
+language, I consider the allegation that resignations were coordinated or
+
+13
+
+solicited by Blockchain to constitute a pleading that Blockchain persuaded,
+encouraged or assisted the relevant resignations in breach of contract. I
+therefore consider that Crypton has pleaded the conduct on the part of
+Blockchain said to constitute an inducement to commit the breaches
+particularised at paragraph 85.7 and 85.8.
+32.
+To the extent that such conduct is not further particularised and as far as
+paragraph 85.6, the alleged misuse of Crypton’s intellectual property, is
+concerned, I consider that Crypton must rely and is entitled to rely on the
+allegation of inconsistent dealings, as explained above. Crypton has pleaded a
+course of conduct in the days around 14 February 2020 according to which
+Blockchain collaborated with the other defendants in procuring the resignation
+from Crypton and employment with Blockchain of the various named actors,
+following which the use of the Crypton Platform, including identified
+intellectual property rights, would be pursued through Blockchain. Crypton
+pleads at paragraph 74.2 that none of the individuals concerned would have
+sought to resign from Crypton without an assurance of future employment
+from Blockchain, on beneficial terms. I consider these offers of employment,
+and the use of Crypton’s intellectual property, to be a pleaded inconsistent
+dealing such that Crypton has sufficiently pleaded that Blockchain persuaded,
+encouraged or assisted the relevant breaches of contract.
+33.
+Secondly, Blockchain submits that, while Crypton’s knowledge of the relevant
+contractual terms is pleaded, its knowledge that the conduct in question was in
+breach of contract is not alleged. I disagree. The suggestion, that the plea of
+knowledge of the contractual terms, together with the acts alleged, does not
+comprise an allegation that there was also subjective knowledge that the
+conduct allegedly induced constituted a breach of those obligations, seems to
+me to be wholly unrealistic. As Lord Nicholls of Birkenhead said in OBG Ltd
+v Allan [2008] 1 AC 1 at [192], intentional interference presupposes
+knowledge of the contract and that the defendant induced the other contracting
+party to act in a way the defendant knew was a breach of that party’s
+obligations under the contract. There is such a plea of intentional inducement
+at paragraph 96 of the particulars of claim.
+34.
+Thirdly, it is objected that Crypton does not plead that Blockchain intended to
+induce the breaches of contract pleaded at paragraph 85.6 to 85.8. It is said
+that the plea of intentional inducement does not suffice because the specific
+facts relied on in support of the allegation must be pleaded. What is alleged is
+that Blockchain coordinated and solicited the resignations of employees,
+knowing the terms of their contracts with Crypton, which would be breached
+by such action. It is further alleged that Blockchain engaged in a course of
+dealing inconsistent with these contracts, as I have already mentioned.
+Standing back and considering the pleaded allegation of intentional
+
+14
+
+inducement in the light of these allegations, read in the context of the
+particulars of claim as a whole, I cannot agree that Crypton has failed to plead
+the facts upon which they rely in support of their allegation of intention.
+35.
+Mr Sheehan refers also to CF Partners (UK) LLP v Barclays Bank plc [2014]
+EWHC 3049 (Ch) at [869], per Hildyard J, where he said (citing Clerk &
+Lindsell on Torts, 20th edn, at 24–15) that, “where knowledge is proved on the
+part of a defendant who induces one party to break [a contract] intention will
+readily be inferred”. As a separate point it seems to me properly arguable that
+intention may be inferred from the primary fact of knowledge, which I
+consider to be adequately pleaded for reasons I have already given. Put
+simply, it is hard to imagine any plausible factual scenario where Blockchain
+acted as alleged, with the knowledge of the contracts alleged, without having
+intended to bring about a breach of contract.
+36.
+I am equally satisfied that the claim is sufficiently pleaded in relation to the
+alleged breaches by Messrs Jirman, Calvi and Kisil. The objections taken by
+Blockchain are essentially the same.
+37.
+Paragraph 75 of the particulars of claim pleads that they all purported to resign
+from Crypton between 14 and 16 February 2020 after solicitation from Mr
+Jones, Mr Koumpas and Blockchain. Paragraph 75.6 pleads that none of them
+would have resigned without an assurance of future employment by
+Blockchain. The conduct that is alleged to constitute inducement is, therefore,
+pleaded. Paragraph 99 pleads that in so soliciting them, Mr Jones, Mr
+Koumpas and Blockchain intentionally induced the alleged breaches of
+contract. I do not agree that this leaves Blockchain unclear whether each of the
+named defendants induced all the breaches while others induced only some –
+it is plainly alleged that Blockchain solicited all three, including by making an
+offer of employment to all of them, which they each accepted.
+38.
+To the extent that the second and third objections raised against paragraph
+85.6 to 85.8 are repeated in relation to the alleged breaches by Messrs Jirman,
+Calvi and Kisil, I reject them for the reasons given at paragraphs 33 to 35
+above.
+39.
+Accordingly, I consider that the particulars of claim disclose reasonable
+grounds for bringing the claim against Blockchain for inducing breach of
+contract and I decline to strike it out.
+Dishonest assistance
+40.
+Crypton also pursues a claim for dishonest assistance in the breaches of
+fiduciary duty pleaded against Mr Jones and Mr Koumpas. There must be a
+breach of trust for this cause of action, but it is well established that the breach
+
+15
+
+of his fiduciary duties by a company director will cause him to be a
+constructive trustee of the company’s property for these purposes: see Lewin
+on Trusts, 20th edn, at 43–026. The claimant must also plead and prove that
+the defendant induced or assisted the relevant breach or breaches of trust and
+that it was dishonest in doing so.
+41.
+Crypton again pleads this cause of action by cross-reference, at paragraphs
+100 to 102 of the particulars of claim. The breaches of fiduciary duty on which
+Crypton relies are set out at paragraph 83. The conduct relied on as
+constituting inducement or assistance is then pleaded, by reference, at
+paragraphs 72 to 81.
+42.
+Blockchain submits first that this element of the claim is not properly pleaded
+because the particulars of claim do not identify which of the alleged breaches
+Crypton can properly contend that Blockchain assisted.
+43.
+Paragraph 83 pleads three categories of alleged breach of fiduciary duty. It is
+said that Mr Jones and Mr Koumpas acted in breach of these duties in:
+i)
+Seeking to oust other members of the board of the first claimant, and to
+gain control of Crypton’s technology and assets and data, as pleaded in
+paragraphs 66 to 71.
+ii)
+Soliciting Mr Jirman, Mr Calvi and Mr Kisil to join Blockchain, as
+pleaded in paragraph 75.
+iii)
+Generally, in pursuing the Crypton Platform opportunity, as pleaded in
+paragraphs 72 to 81.
+44.
+There are allegations of Blockchain’s actual involvement in the matters
+pleaded at paragraphs 66 to 71: see the summary at paragraph 23(iii) to (iv)
+above. Mr Sheehan relies on these allegations in this respect. However, I agree
+with Mr Hossain that paragraph 101 explicitly refers only to paragraphs 72 to
+81 for the acts of assistance relied on, and this does not obviously refer to any
+assistance with the matters pleaded at paragraphs 66 to 71. I also agree with
+him that Crypton has not pleaded that Blockchain induced the breaches of
+contract alleged at paragraph 85.1, which reflect the relevant alleged breaches
+of fiduciary duty. Whilst it is possible for a defendant to assist in a breach of
+fiduciary duty without inducing it, it is far from clear to me that this is what
+Crypton has sought to allege, as far as paragraphs 66 to 71 are concerned.
+45.
+As to the next allegation, that Mr Jones and Mr Koumpas breached their
+fiduciary duties in soliciting Mr Jirman, Mr Calvi and Mr Kisil to join
+Blockchain, I consider that Blockchain’s inducement or assistance is properly
+pleaded. Paragraph 75 itself alleges that Blockchain itself solicited these
+employees, and that it provided them with an assurance of future employment.
+
+16
+
+The allegation that this was all done as part of a combination also supports the
+claim that Blockchain was assisting Mr Jones and Mr Koumpas in the
+breaches of fiduciary duty alleged against them.
+46.
+This leaves the final alleged breach of fiduciary duty, whereby it is claimed
+that Blockchain generally assisted Mr Jones and Mr Koumpas in pursuing the
+Crypton Platform opportunity (as set out in paragraph 72 and particularised in
+the following paragraphs). In this regard, I consider that the acts summarised
+at paragraph 23(viii) to (x) above are capable of constituting assistance with
+the alleged breaches of fiduciary duty. These acts are the solicitation of the
+resignation of other members of staff, and the ongoing use of Crypton’s assets
+and intellectual property. The latter breach of fiduciary duty is alleged by
+paragraph 83.2 to be ongoing.
+47.
+Accordingly, before considering Blockchain’s further objection, that
+dishonesty is not sufficiently pleaded, I record that I consider that no acts of
+assistance are properly pleaded in relation to the first category of alleged
+breach of fiduciary duty, at paragraphs 66 to 71 of the particulars of claim. As
+I indicate at the conclusion of this judgment, I consider that Crypton should if
+it is so advised have an opportunity to seek to amend in this regard. If need be,
+however, the striking out of the relevant allegation of assistance cannot be
+achieved merely by deleting some words from the particulars of claim,
+because of the process of cross-referencing adopted.
+48.
+Blockchain then contends that the allegation of dishonesty is not properly
+pleaded, with regard to the principles concerning pleadings of dishonest
+conduct, as set out at paragraphs 15 to 18 above. The relevant allegations of
+dishonesty are found at paragraph 102, as follows:
+“102 [The conduct of Blockchain pleaded in paragraphs 72 to 81] was
+dishonest by ordinary standards. In support of that contention Crypton
+relies on the following:
+102.1
+Blockchain had knowledge of, alternatively was reckless as to,
+the non-solicitation, non-competition and notice obligations to
+which Mr Jones and Mr Koumpas were subject and the notice
+obligations under the Contracts for Services.
+102.2
+Blockchain (including in particular Mr McGarraugh) must
+have known that it was wrong for Mr Jones and Mr Koumpas as
+directors of Crypton DA and Crypton PM, having spent
+significant time and effort developing the Crypton Platform (and
+overseeing its development by others) and thus creating the
+Crypton Platform Opportunity, instead to exploit that opportunity
+outside of Crypton.
+
+17
+
+102.3
+It was in any event dishonest by ordinary standards for
+Blockchain (acting in particular through Mr McGarraugh), having
+pursued negotiations for an acquisition of Crypton in return for
+payments of significant value, for several months and to an
+advanced stage, to decide instead to exploit the Crypton Platform
+Opportunity for itself, having been involved in the solicitation of
+Crypton’s staff as pleaded in paragraph 75 above, and without
+any payment to Crypton.
+102.4
+Blockchain SA put forward reasons for withdrawing from the
+negotiations with Crypton which were not genuine commercial
+reasons but a false pretext put forward in an attempt to justify its
+conduct, as set out in paragraph 78 above.”
+49.
+I remind myself that as dishonesty is usually inferred the claimants must plead
+primary facts from which such an inference is more likely than an inference of
+innocence or negligence.
+50.
+I consider that each of the allegations set out at paragraph 102 are allegations
+which are, read as a whole and in context and if all the factual averments made
+by Crypton are true, more likely to lead to an inference of dishonesty than an
+inference of innocence or negligence:
+i)
+The allegation that Blockchain knew or was reckless as to the relevant
+contractual obligations of Mr Jones and Mr Koumpas (and the other
+relevant employees) is not made in vacuo. It is made in the context of
+an allegation that Blockchain combined to procure breaches of others’
+employment contracts and to compete with Crypton. I do not agree that
+this could be read as an allegation that Blockchain merely knew the
+terms of the employees’ previous contracts of employment.
+ii)
+The first allegation must be read together with paragraph 102.2, which
+is an allegation that Blockchain knew that it was wrong for Mr Jones
+and Mr Koumpas as directors (i.e. as fiduciaries) to exploit an
+opportunity belonging to Crypton outside of Crypton.
+iii)
+The allegation at paragraph 102.3, which is a plain plea of dishonesty,
+is placed squarely in the context of the alleged assistance of Mr Jones
+and Mr Koumpas in soliciting staff, and in exploiting the Crypton
+Platform opportunity together with them. It is not just a plea of primary
+wrongdoing.
+iv)
+The allegation that Blockchain put forward a false pretextual
+explanation might not justify a finding of dishonesty when divorced
+from all other allegations, but it is expressly linked to a plea that
+
+18
+
+Blockchain was not innocently withdrawing from negotiations. If
+found to be true, that plea would justify an inference of dishonesty not
+least as it thus clearly refers back to the allegation (pleaded
+immediately before, in paragraphs 73 to 77) that Blockchain assisted
+Mr Jones and Mr Koumpas in soliciting the resignation and re-
+employment by Blockchain of other employees, in what is said to be a
+breach of fiduciary duty on their part.
+51.
+I therefore consider that the claim in dishonest assistance is sufficiently
+pleaded in relation to the second and third categories of alleged breach of
+fiduciary duty set out at paragraph 43 above.
+Knowing or unconscionable receipt
+52.
+Paragraph 103 of the particulars of claim reads as follows:
+“Insofar as Blockchain has received any of Crypton’s assets (including,
+without limitation, Crypton’s Intellectual Property) by reason of the
+breaches of fiduciary duty of Mr Jones and Mr Koumpas pleaded in
+paragraph 83 above, in the circumstances pleaded above such receipt was
+unconscionable. Crypton reserves the right to seek to plead further in this
+respect upon disclosure or otherwise.”
+53.
+This is the extent of the plea for relief for Blockchain’s alleged knowing or
+unconscionable receipt. When I first read this paragraph, I did not understand
+it to pursue a remedy at present, but to reserve the right to do so in the event
+that Crypton later became aware that they were able to do so. Mr Sheehan has,
+however, indicated that this is a claim which is presently maintained.
+54.
+It is clear that one of the elements of this cause of action, which must be
+pleaded and proved by a claimant, is that the defendants have received
+property subject to a trust. This may include property owned by a company but
+subject to the fiduciary duties of the directors: see Lewin on Trusts, 20th edn,
+at 42–036.
+55.
+I do not consider that paragraph 103 of the particulars of claim contains a plea
+that property subject to a trust in this sense has been received by Blockchain.
+Furthermore, the absence of any such pleading means that it is not possible, by
+reference to allegations elsewhere in the document, to identify whether it is
+alleged that any receipts are sufficiently connected to the pleaded breaches of
+fiduciary duty and to Blockchain’s knowledge of them.
+56.
+Accordingly, paragraph 103 as pleaded does not disclose reasonable grounds
+for bringing a claim in knowing or unconscionable receipt.
+
+19
+
+Unlawful means conspiracy
+57.
+A conspiracy to injure by unlawful means is actionable where the claimant
+proves that it has suffered loss or damage as a result of unlawful action taken
+pursuant to a combination or agreement between the defendant and another
+person or persons to injure it by unlawful means, whether or not it is the
+predominant purpose of the defendant to do so: Kuwait Oil Tanker SAK v Al
+Bader [2000] 2 All ER (Comm) 271 at [108], per Nourse LJ. Mr Hossain
+submits by reference to this test that Crypton must plead (a) a combination or
+agreement between a defendant and others, (b) an intention of injuring the
+claimants by the use of unlawful means, (c) the use of unlawful means
+pursuant to the combination or agreement, and (d) loss caused accordingly. I
+agree with this statement of the elements of the cause of action. It is now clear,
+following the very recent decision of the Court of Appeal in Racing
+Partnership Ltd v Done Bros (Cash Betting) Ltd [2021] 2 WLR 469, that a
+claimant in an unlawful means conspiracy claim does not need to plead and
+prove that the defendant knew that the means used were unlawful.
+58.
+Crypton’s pleading as to unlawful means conspiracy is contained within
+paragraphs 104 to 106 of the particulars of claim, which cross-refer back to
+paragraphs 62 to 81 as to the combination or agreement and the acts carried
+out pursuant to it, and to paragraphs 69.5 and 83 to 103 as to the unlawful acts
+alleged to have been carried out. There is also the following plea at paragraph
+105:
+“The Defendants intended by such combination or agreement to injure
+Crypton, in particular in that such injury was the obverse side of the coin
+to the financial gain which they sought for themselves by the exploitation
+of the Crypton Platform Opportunity.”
+59.
+Blockchain submits that there are five essential flaws in this plea of unlawful
+means conspiracy:
+i)
+First, it says that there is no proper plea that Blockchain was party to a
+combination.
+ii)
+Secondly, there is no proper plea that Blockchain shared the two
+alleged objects of the combination.
+iii)
+Thirdly, it is not alleged that it was an object of the combination to
+injure Crypton by the use of unlawful means.
+iv)
+Fourthly, it is not alleged that Blockchain knew of and agreed to the
+use of the unlawful means, or that it knew of the facts that rendered the
+use of those means unlawful.
+
+20
+
+v)
+Finally, it is said that the unlawful acts themselves are not properly
+pleaded or particularised.
+60.
+The adequacy of the pleading of this cause of action needs to be considered
+with particular reference to the underlying facts that are alleged. I have set out
+at paragraph 23 above what I consider to be the most pertinent factual
+allegations relating particularly to Blockchain in connection with the alleged
+combination or agreement.
+61.
+The acts said to be unlawful means are then pleaded as follows:
+i)
+Those pleaded at paragraph 69.5 are false representations allegedly
+made by Mr Jones and Mr Koumpas. It appears from the opening
+words of paragraph 69 that Blockchain is alleged to have supported the
+attempts of Mr Jones and Mr Koumpas to gain control of negotiations,
+and that paragraph 69.5 contains some of the particulars made in
+support of this allegation.
+ii)
+Mr Jones and Mr Koumpas are alleged to have breached their fiduciary
+duties to the claimant companies (paragraph 83). Blockchain had
+knowledge of at least some of the fiduciary obligations to which they
+were subjected (paragraph 102.1 and 102.2).
+iii)
+It is alleged that Mr Jones and Mr Koumpas acted in breach of their
+contracts of employment (paragraphs 17 to 21, 84 and 85), likewise Mr
+Curtis (or Castramet Ltd) (paragraphs 23 and 24, 86 to 89). There is a
+plea that their wrongful actions were done in combination with
+Blockchain. Blockchain had knowledge of the said contractual
+obligations and/or was reckless as to whether they existed (paragraphs
+95 and 98).
+iv)
+It is then alleged that the defendants have individually and/or as part of
+a common design infringed Crypton’s intellectual property rights.
+v)
+Crypton then rely on the other causes of action pleaded against
+Blockchain, namely inducing breach of contract, dishonest assistance
+and unconscionable receipt (as discussed above).
+62.
+Returning to Blockchain’s five objections to the pleading of unlawful means
+conspiracy, the first was that there is no proper plea that Blockchain was party
+to a combination. When considering the pleaded allegations that I have
+summarised at paragraph 23 above, I cannot accept Blockchain’s submission
+that it is wholly unparticularised beyond the mere allegation that there was a
+combination or agreement.
+
+21
+
+63.
+Mr Sheehan refers me to the judgment of Nourse LJ in the Kuwait Oil Tanker
+case, at [111], where he said that the very existence of an agreement can only
+be inferred from overt acts. Furthermore, the judge said that, for there to be an
+actionable conspiracy, “the parties to [the combination or agreement] must be
+sufficiently aware of the surrounding circumstances and share the same object
+for it properly to be said that they were acting in concert at the time of the acts
+complained of”. I consider that the overt acts which it is alleged Blockchain
+carried out before and after 14 February 2020 are acts from which a
+combination involving Blockchain could be inferred. It is pleaded that at least
+some of the relevant pleaded acts were coordinated with Blockchain. I further
+consider that a trial judge could find that the matters pleaded by Crypton as to
+Blockchain’s involvement lead, in the absence of satisfactory explanation, to
+the necessary inference that Blockchain was a member of the combination: see
+Bird v O’Neal [1960] AC 907 at 920–921.
+64.
+The second objection taken by Blockchain is that it is not pleaded that it
+shared the alleged objects of the combination. The pleaded common ends are
+in relation to a combination or agreement “to act in [Mr Jones’ and Mr
+Koumpas’] interests and against Crypton’s interests with regard to the Crypton
+Platform Opportunity and the proposed Blockchain SA acquisition”. It is
+pleaded in the particulars of claim at paragraphs 63 onwards that Blockchain
+in several ways supported Mr Jones and Mr Koumpas (and to a lesser extent
+the other defendants) in taking steps which led to Blockchain acquiring
+Crypton’s assets and business value, and then giving spurious reasons for
+breaking off negotiations a few days after several key employees had taken up
+employment with Blockchain. I consider that a court could find that these
+facts, if proven at trial, are consistent only with a shared object as pleaded at
+paragraph 62. Indeed, this would be a far more likely inference than one of
+innocent involvement when one considers the circumstances as pleaded in the
+particulars of claim as a whole.
+65.
+Blockchain’s third objection is that there is no plea that there was an intention
+on the part of Blockchain to injure Crypton by unlawful means. I tend to agree
+with Mr Hossain that the pleading on this point does not emerge as clearly as
+it might or, indeed, as it should. Nonetheless, I do not consider that the reader
+of the particulars of claim could be left in any sensible doubt on this point. In
+particular, the plea at paragraphs 72 to 74 is that the combination sought to
+achieve the ends of the third to fifth defendants and others leaving Crypton for
+Blockchain and the pursuit of the Crypton Platform opportunity without
+payment to Crypton, and was coordinated with Blockchain. When coupled
+with the pleas as to infringement of intellectual property rights, and as to
+Blockchain’s knowledge of the employment contracts and of the fiduciary
+duties owed by Mr Jones and Mr Koumpas (the breaches of which it is alleged
+
+22
+
+that Blockchain induced or dishonestly assisted), the intention to injure
+Crypton by the use of unlawful means is, in my view, adequately pleaded.
+66.
+There was some discussion at the hearing about the theoretical possibility of a
+combination forming initially to carry out some object by lawful means, with
+the proposed use of unlawful means later being introduced into the equation.
+In such circumstances, it would have to be pleaded that each defendant was a
+party to the combination, with the relevant knowledge, at a time when the use
+of unlawful means was proposed. In this case, it is clearly pleaded that
+Blockchain was a part of the alleged combination in the form into which it
+evolved by around 10 to 14 February 2020, when it was alleged to be
+coordinating resignations. I accept that it is understandable that Crypton is in
+no position to plead a precise date.
+67.
+The fourth objection raised is that it is not alleged that Blockchain knew of
+and agreed to the use of unlawful means, or that it knew of the facts that
+rendered the use of those means unlawful. I reject this submission for the
+reasons I have given in relation to the third objection. Whilst it is not expressly
+pleaded in terms that Blockchain knew that there was to be an infringement of
+Crypton’s intellectual property rights, it is so implicit in the pleading (at
+paragraph 90) that Blockchain entered into a common design to exploit the
+Crypton Platform opportunity, that it must have known and agreed to the
+matters that rendered the alleged intellectual property infringements unlawful.
+I consider that it would defy all reason to suggest otherwise.
+68.
+Blockchain’s knowledge of the contractual obligations relating to Crypton’s
+intellectual property rights, and of the non-competition and non-solicitation
+clauses in the employment contracts of Mr Jones and Mr Koumpas, is pleaded
+in the particulars of claim at paragraph 95. Furthermore, Blockchain’s
+knowledge of the fiduciary duties said to be owed by them to the claimants,
+including the fundamental duty to avoid conflicts of interest (see Companies
+Act 2006, s.175) is pleaded at paragraph 102.2.
+69.
+I consider that the explicit pleas as to Blockchain’s knowledge of the pleaded
+employment contracts and fiduciary duties, and its pleaded involvement in the
+breach of those duties, constitute a plea that Blockchain knew of and agreed to
+a combination to use breaches of those contracts and duties in furtherance of
+the objects of that combination. This is a far cry from the position in TCP
+Europe Ltd v Perry [2012] EWHC 1940 (QB), on which Blockchain relied,
+where it was not alleged that certain defendants were aware of any certain
+fiduciary or contractual obligation at all, see at [38].
+70.
+Furthermore, as Mr Sheehan submitted, a plea of knowledge of the unlawful
+means (which now means knowledge of the means rather than of their
+unlawfulness) can hardly be necessary in relation to acts which it is alleged
+
+23
+
+that the defendant in question has itself committed. It is alleged that
+Blockchain has itself unlawfully infringed Crypton’s intellectual property
+rights and that it has induced breaches of contract and dishonestly assisted in
+breaches of fiduciary duty. I also agree with Mr Sheehan that once it is
+pleaded that the relevant defendants were part of the combination to use
+whatever means might present themselves (to include sufficiently identified
+unlawful means known to the relevant defendants), it does not need to be
+pleaded that they were fully aware of the circumstances of each act, as long as
+it is pleaded that the acts of the other defendants were within the scope of the
+combination: see Kuwait Oil Tanker SAK v Al Bader [2000] 2 All ER (Comm)
+271 at [133].
+71.
+The final objection taken by Blockchain is that the allegedly unlawful acts
+carried out pursuant to the combination are not properly pleaded or
+particularised. As noted above, paragraph 106 of the particulars of claim
+cross-refers to paragraph 69.5, which refers to a number of alleged false
+representations made by Mr Jones and Mr Koumpas (including one to
+Blockchain as representee) and to paragraphs 83 to 103, where the other
+causes of action are enumerated and pleaded.
+72.
+As to paragraph 69.5, Mr Hossain submits that no actionable wrong is
+pleaded, but merely bare fraudulent representations on which nobody relied.
+He submits that Stocznia Gdanska SA v Latvian Shipping Co [2001] 1 Lloyd’s
+Rep 537 at [304], per Thomas J, is authority for the proposition that a false
+statement which is not itself actionable is not a relevant unlawful act. Mr
+Sheehan responds with reliance on the decision of Andrew Smith J in Fiona
+Trust & Holding Corp v Privalov [2010] EWHC 3199 (Comm), at [69], where
+he said that the law does not require that the unlawful means should
+themselves be actionable at the suit of the claimant, commenting that the
+means may be, inter alia, a fraud. It seems to me that both parties’ positions
+are properly arguable and that, where the law appears to be unclear, it would
+be inappropriate to strike the allegation out.
+73.
+Mr Hossain submits finally that, from the other paragraphs cross-referenced in
+the particulars of claim at paragraph 106, it is difficult if not impossible to
+identify precisely which acts are relied upon as the unlawful means. Whilst I
+again agree that the particulars of claim could perhaps have benefited from
+clearer signposting, if not less cross-referencing, I do not on analysis find it
+unduly difficult to identify the relevant unlawful means. They are the breaches
+of contract and fiduciary duty, to which the other defendants have pleaded a
+defence, and the causes of action which I have already indicated are
+sufficiently pleaded, plus the alleged intellectual property infringements which
+Blockchain does not seek to strike out.
+
+24
+
+Conclusion
+74.
+For the reasons I have given above, I conclude that the claim in dishonest
+assistance is not sufficiently particularised to the extent that it does not allege
+acts of assistance with the breaches of fiduciary duty pleaded at paragraphs 66
+to 71 of the particulars of claim, and that the claim in knowing or
+unconscionable receipt is unsustainable as pleaded. Otherwise, I consider the
+disputed causes of action to be adequately pleaded. The application therefore
+succeeds to only a limited extent.
+75.
+I have paid regard in considering the particulars of claim to the principles
+relating to pleading, especially those concerning the pleading of allegations of
+dishonest conduct. I agree that the lack of signposting in the document, and
+the way in which it is cross-referenced, mean that it may not be quite as easy
+to navigate as it could be. However, I consider that the constituent elements of
+those causes of action that I permit to continue as they are pleaded do, on a
+careful reading, emerge with some clarity such that reasonable grounds for
+pursuing them are disclosed. The particulars of claim are a very long way from
+being likely to obstruct the just disposal of the proceedings.
+76.
+As far as those elements of the claim which are not sufficiently pleaded are
+concerned, Crypton should have an opportunity to amend. Where a defect in a
+statement of case is capable of being cured by amendment, the court should
+generally refrain from striking out without giving such an opportunity: Bord
+Na Mona Horticulture Ltd v British Polythene Industries plc [2012] EWHC
+3346 (Comm) at [29]. If Crypton wishes to avail itself of this opportunity, any
+proposed amendments should be served on Blockchain within 14 days of the
+handing down of this judgment, for its agreement or objection.
+77.
+Finally, I would note that I received submissions, by reference to the Bord Na
+Mona Horticulture case and the decisions cited within it, on the question
+whether the more generous ambit given to claimants in claims for
+infringements of competition law by cartels, which are by their nature
+clandestine, applies more generally to claims in conspiracy. For the avoidance
+of doubt, I have not considered it necessary to decide this point in order to
+determine the application. The unlawful means conspiracy claim is sufficiently
+pleaded without the need for separate reliance on this principle.

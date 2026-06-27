@@ -1,0 +1,2550 @@
+Neutral Citation Number: [2008] EWCA Civ 1086
+Case No: A3/2008/0080
+IN THE SUPREME COURT OF JUDICATURE
+COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE HIGH COURT OF JUSTICE
+(CHANCERY DIVISION)
+LEWISON J
+[2007] EWHC 2394 (Ch)
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+Date: 14/10/2008
+Before :
+
+LORD JUSTICE TUCKEY
+LADY JUSTICE ARDEN
+and
+LORD JUSTICE LONGMORE
+- - - - - - - - - - - - - - - - - - - - -
+Between :
+
+DEVENISH NUTRITION LIMITED
+Appellant
+
+- and -
+
+SANOFI-AVENTIS SA (FRANCE) & ORS
+Respondents
+
+- - - - - - - - - - - - - - - - - - - - -
+(Transcript of the Handed Down Judgment of
+WordWave International Limited
+A Merrill Communications Company
+190 Fleet Street, London EC4A 2AG
+Tel No: 020 7404 1400, Fax No: 020 7831 8838
+Official Shorthand Writers to the Court)
+- - - - - - - -
+Mr Christopher Vajda QC & Mr Andrew Burrows QC (instructed by Messrs Irwin
+Mitchell) for the Appellant;Mr Tom de la Mare & Mr Brian Kennelly (instructed by
+Messrs Ashurst) for the 1st, 2nd & 3rd Respondents;Mr Mark Hoskins (instructed by
+Messrs Freshfield Bruckhaus Deringer) for the 4th & 5th Respondents;Mr Mark
+Brealey QC & Mr Stephen Brown (instructed by Messrs Mayer Brown International
+LLP) for the 6th, 7th & 8th Respondents.
+
+Hearing dates : 17-18 June 2008
+- - - - - - - - - - - - - - - - - - - - -
+Judgment
+
+Lady Justice Arden :
+
+Introduction
+1.
+On this appeal, Devenish Nutrition Ltd ("Devenish") seeks to set aside the
+decision of Lewison J ([2008] 2 WLR 637) on a preliminary point of law and to
+establish the principle that in an action for breach of statutory duty the court can in
+appropriate circumstances make a restitutionary award, that is, a sum of money
+assessed by reference to the gain which the wrongdoer has made as a result of the
+wrong, in place of compensatory damages, that is, damages which compensate the
+claimant for loss suffered as a result of the wrongdoing.
+2.
+This appeal involves a fundamental issue for the purposes of the law of tort, which
+may be summarised as follows. The aim of the law of tort is to compensate for
+loss suffered. The courts have exceptionally also awarded damages (commonly
+called "user damages") by reference to the fair value of a right of which the
+defendant has wrongly deprived the claimant, and these awards have been made
+even if the claimant would not himself have sought to use that right and so
+incurred no loss. However, there is no question in this case of Devenish having
+been deprived of a proprietary right, that is, a right arising from property, to which
+such awards were formerly confined. Devenish relies on the recent case of
+Attorney General v Blake [2001] AC 268, in which a remedy of the type that it
+seeks in this case was awarded for a breach of contract not involving the
+deprivation of any property. It contends that compensatory damages will not be an
+adequate remedy. The respondents contend that this court cannot apply the
+principle established in Blake to a purely personal tortious claim, and in particular
+that this court is precluded by precedent, namely the decisions of this court in
+Stoke-on-Trent City Council v W & J Wass Ltd and Halifax Building Society v
+Thomas, from holding otherwise. The respondents accept that a restitutionary
+award could be made for a proprietary tort. (By a “proprietary” tort I mean a tort
+for which a claimant entitled to property or a property right is entitled to sue for
+interference on the basis discussed by Lord Nicholls in Blake. Thus the
+expression includes trespass to land or wrongful interference with goods. It is not
+necessary to be more precise than this. The only further point to be noted is that
+Devenish’s claim is not on any basis a proprietary claim.) The respondents also
+contend that compensatory damages will be an adequate remedy.
+3.
+I will call the issue, summarised above, “the Blake issue”. I will refer below to a
+restitutionary award, compensatory damages and user damages in the sense
+already given, which is based on the meanings used by the judge ([14]). These
+meanings are not to be treated like statutory definitions. They are not terms of art.
+They are more like labels for concepts, which I will have to explain in more detail
+below. These meanings are not therefore comprehensive, and it will be seen that
+the various types of damages identified by these meanings are in certain respects
+overlapping. Moreover, the concepts which they reflect are in some respects
+fluid. Additionally, the term "restitutionary award" covers the case where the
+purpose of the award of damages is to strip the defendant of his profit and the case
+where its purpose is simply to cause the reversal of a benefit conferred by the
+claimant. In some cases, such as breach of confidence (an example of the former)
+
+or trespass (an example of the latter), this distinction is clear. In this case,
+although the point has not been fully argued, the purpose of the award sought is
+largely the former purpose as opposed to the latter. Different considerations may
+apply where the purpose of the order is one, rather than the other, purpose.
+4.
+My essential conclusion on the Blake issue is this. The overall holding in Blake is
+that the law on remedies for interference with property, damages in lieu of an
+injunction, damages for breach of fiduciary duty and breach of contract should be
+coherent and that the same remedies should be available in the same
+circumstances, even if the cause of action is different. On that basis, a
+restitutionary award is available in tort unless it is precluded by Wass or Halifax.
+In my judgment, it is precluded by Wass. However, if I am wrong in that
+conclusion, it is a condition of a restitutionary award that exceptional
+circumstances of the kind described in Blake should be shown. That condition is
+not satisfied in this case, principally because on the assumed facts damages would
+be an adequate remedy.
+5.
+Devenish also has alternative arguments based on Community law, which I will
+call the Community law issues. The respondents contend that Community law
+does not require a claim for a restitutionary award to be recognised. For the
+reasons given below, I consider that Community law neither prevents nor requires
+the recognition in domestic law of a restitutionary award as a remedy for breach of
+statutory duty for a breach of competition law.
+6.
+Accordingly, for the detailed reasons given below, I would dismiss this appeal.
+Background to the present case
+7.
+The issue of principle identified above arises in the context of competition law, in
+which domestic law and Community law are interwoven. Art 81 of the EC Treaty
+prohibits cartels and other agreements or concerted practices that restrict
+competition. The European Commission has power to impose substantial fines on
+cartelists for breaches of art 81. In addition, victims of the cartel have a right to
+damages for breaches of art 81 (see C-453/99 Courage Ltd v Crehan [2002] QB
+507). Under s 47A of the Competition Act 1998 as amended by the Enterprise
+Act 2002, a victim of a cartel may bring a follow-on action to claim personal
+relief. He may do so by relying on the findings of the Commission.
+8.
+As to the facts, in 2001, the Commission found that certain vitamin
+manufacturers, including some of the respondents, had participated in eight cartels
+relating to the supply of various vitamin products, and imposed fines totalling
+€855.22 million (though the fines imposed on one cartelist, BASF AG, the sixth
+respondent, were subsequently reduced on appeal to the Court of First Instance).
+The decision of the Commission was published in 2003 OJ L 6/1 dated 10 January
+2003 (“the 2001 decision”). The size of these fines is an indication of the
+seriousness of the cartels in this case.
+9.
+During the cartels’ existence, Devenish purchased vitamins, or products
+containing vitamins, from the respondents. In general it mixed these vitamins
+with other ingredients to make animal feedstuffs which it then sold on to
+customers. In these follow-on proceedings, Devenish seeks damages or a
+
+restitutionary award. Devenish’s case is that the restitutionary award should be in
+a sum equal to the “overcharge” or amount of the respondents’ wrongful net
+profit. (Thus, Devenish claims the amount by which the prices it was charged for
+vitamins exceeded the price that would lawfully have been charged if there had
+been no cartels.) There is no issue about the availability (subject to proof of loss
+at trial) of a claim for damages. Moreover, notwithstanding the form of its
+pleading Devenish does not rely on any claim for restitution otherwise than arising
+out of the respondents’ wrongful conduct.
+10.
+The following preliminary issue was ordered by Master Moncaster on 2 October
+2006:
+'on the facts as pleaded in the Particulars of Claim and as
+found in the Commission Decision of 21st November 2001
+(OJ 2003 L6, p.1) . . . whether the Claimants would be
+entitled to all or any of the following heads of relief as
+pleaded in the Particulars of Claim (including any
+subsequent amendments thereto):
+a) an account of profits
+b) restitution of unjust enrichment
+c) exemplary damages.'
+11.
+This was the preliminary issue heard by the judge. The facts assumed for the
+purposes of the trial of this issue are those pleaded in the particulars of claim and
+are found in the 2001 decision. The parties also made reference to further
+information supplied pursuant to part 18 of the CPR and to the expert economist’s
+reports of Dr Cento Veljanovski. We are not, of course, concerned with whether
+the facts were proved. Devenish contends that a restitutionary award is available
+in law on the assumed facts and that it should be left open to the trial judge to
+decide whether a restitutionary award is in fact available in the light of matters
+that emerge in the course of the trial.
+The judgment of the judge
+12.
+The judge gave a lengthy and lucid judgment. The points on which this judgment
+will need to focus are as follows.
+13.
+With respect to Devenish’s claim for damages, the judge cited the dictum of Lord
+Shaw in Watson Laidlaw & Co Ltd v Pott, Cassells and Williamson (1914) 31
+RPC 104 at 117-118 that “[t]he restoration by way of compensation is therefore
+accomplished to a large extent by the exercise of a sound imagination and the
+practice of the broad axe.” ([27]) He took the view that the difficulties of
+calculation will not be insuperable:
+“[32] I am not therefore persuaded that evidential
+difficulties of exact proof are insuperable difficulties to
+effective compensation as a matter of domestic law. Nor am
+I persuaded that the usual techniques by which the courts
+
+award damages in domestic cases are inadequate to produce
+a fair result.”
+14.
+The judge considered the circumstances in which a restitutionary award is made in
+English law. He considered Blake and subsequent cases. The judge notes that
+Lord Nicholls deals with the cases on user damages in tort and held that such
+damages were compensatory in character:
+“In the price or hire cases, the damages have been assessed as user
+damages. This is an objective measure and is awarded where, in financial
+terms, the claimant has suffered no loss. It is not a case of a claimant
+having suffered financial loss but having evidential difficulties in proving
+it. It is precisely because he has suffered no loss that the law's response is to
+seek a different way to compensate him for the invasion of his rights.”
+([81])
+
+15.
+The judge likewise characterised damages for loss of the opportunity to negotiate
+a fee for releasing a covenant (sometimes called “Wrotham Park damages”) in the
+same way, but adding (without comment) that Lord Nicholls had also treated them
+as damages measured by the gain obtained by the defendant:
+“He then considered the cases in which damages had been awarded in lieu
+of an injunction, including the Wrotham Park case. He said of these cases
+that:
+
+'The measure of damages awarded in this type of case is often
+analysed as damages for loss of a bargaining opportunity or,
+which comes to the same, the price payable for the compulsory
+acquisition of a right. This analysis is correct.' (See [2001] AC
+268 at 281.)
+
+…If analysed in the way that Lord Nicholls approved, these cases can be
+seen as cases in which the claimant is compensated for what he has lost,
+rather than cases in which the defendant is stripped of his gains. However,
+Lord Nicholls also said of these cases that:
+
+'In a suitable case damages for breach of contract may be
+measured by the benefit gained by the wrongdoer from the
+breach. The defendant must make a reasonable payment in
+respect of the benefit he has gained.' (See [2001] AC 268 at
+283–284.)” ([83]-[84])
+
+16.
+The judge concluded that it was only available for proprietary torts. He held that
+the court was precluded by two decisions of this court from granting a
+restitutionary award or an account of profits:
+“[106] Stoke-on-Trent City Council v W & J Wass Ltd and
+Halifax Building Society v Thomas do, in my judgment,
+show that a restitutionary award is not yet generally
+
+available in all cases of tort. Both these cases are decisions
+of the Court of Appeal and hence binding on me. Stoke-on-
+Trent City Council v W & J Wass Ltd was not cited or
+referred to in A-G v Blake but since Lord Nicholls
+participated in Stoke-on-Trent City Council v W & J Wass
+Ltd (as Nicholls LJ) and gave the leading speech in A-G v
+Blake it would be odd if he had undergone a Damascene
+conversion about the availability of restitutionary awards
+across the board in tort cases and yet had not referred to his
+earlier judgment.
+…
+[108] On the basis of the decisions of the Court of Appeal
+in Stoke-on-Trent City Council v W & J Wass Ltd and
+Halifax Building Society v Thomas I conclude that whatever
+the law ought to be, it is not (yet) the law that a
+restitutionary award is available in all cases of tort. In my
+judgment a restitutionary award is not an available remedy
+in an antitrust case. If the law is to be changed, it must be
+done by a higher court than this one. Moreover, even where
+a restitutionary award is available, it is generally awarded
+where an award of more traditionally-based compensatory
+damages would be inadequate to compensate the claimant
+for the invasion of his rights. Yet in the present case, Dr
+Veljanovski says that the measure of restitutionary damages
+is the same as the measure of compensatory damages. If
+that is so, then on the assumed facts compensatory damages
+would be an adequate remedy.
+[109] I conclude therefore that, on the assumptions I am
+required to make, a restitutionary award is not available in
+the present case.
+ACCOUNT OF PROFITS
+
+[110] The defendants' primary position is that Stoke-on-Trent City
+Council v W & J Wass Ltd precludes an account of profits just as it
+precludes a restitutionary award. For the reasons I have given I
+consider that they are right.”
+
+17.
+He therefore held that Devenish could not claim a restitutionary award in this
+case.
+18.
+He also held that there was a problem of multiple claimants, which prevented the
+award of a restitutionary award:
+“[107] In addition there is (once again) the problem that there are
+multiple claimants and that the claimants before the court are only
+
+part of the class of persons injured by the tort. Goff & Jones,
+discussing the hypothetical case of a factory that creates a nuisance to
+a neighbourhood say (p 814 (para. 36-008)):
+
+'The difficulties confronting a court in measuring and valuing the
+benefit gained by the factory owner at the expense of the
+individual householder (possibly the value of an individual
+licence) in this example persuade us that, in some situations, where
+there may well be multiple claimants who suffer loss from a
+tortious act, a restitutionary claim should be denied. Legal
+problems apart, any judicial inquiry, with the possibly complex
+attendant evidence which will have to be introduced, may well be
+inefficient in economic terms.’”
+
+19.
+Moreover, the judge was concerned about the procedural problems of a collective
+action and the potential unfairness if some cartel victims chose a restitutionary
+remedy and some an award of compensatory damages:
+“[114] Second, the representative claimants (Moy Park and
+Devenish) occupy different levels in the supply chain. Each
+of them has downstream customers, and in the case of Moy
+Park upstream suppliers as well. But unless all relevant
+claimants are before the court, how is the profit made by the
+defendants to be allocated? There is no clear answer to that
+question. If no account is taken of whether a particular
+claimant passed through price increases to a downstream
+customer, then that claimant might itself be unjustly
+enriched. An avoidance of unjust enrichment of a claimant
+is a factor to which the ECJ drew attention in Courage Ltd v
+Crehan [2002] QB 507. But if account is taken of 'pass
+through', then an account of profits hardly differs from the
+measure of compensatory damages which the claimants
+advocate (and which I must assume will succeed).
+Moreover, if the two measures differ one cannot exclude
+the possibility that, if an account of profits were to be
+available, some claimants with better evidence might
+choose an award of compensatory damages, while other
+claimants with worse evidence might choose an account of
+profits. I do not think that it would be fair for remedies to
+be mixed and matched.”
+
+20.
+He said that was a further difficulty. The fines would have to be taken into
+account. Roche had sold its business and therefore there were difficulties in
+disclosure. He held:
+“[115] Third, if an account of profits were available, the
+fact that all the defendants have been fined (even though the
+fine imposed upon Aventis has been commuted) would
+
+have to be taken into account. Mr Layton argues that part of
+the rationale for the award of an account of profits is
+deterrence. But as I see it the question of deterrence has
+already been dealt with by the imposition of fines and not to
+take those fines into account would be double punishment.
+[116] Finally, the scale of the inquiry that would be
+required in the case of these defendants all of which are or
+are parts of multi-national groups must be taken into
+account. The evidence about this is contained in the witness
+statements of Mr McDougall, Mr Lawrence, Mr Brown and
+Dr Baechli. It is very likely that disclosure of documents
+would be both enormous and multi-lingual, would require
+consideration of taxation and accounting methods in
+differing jurisdictions and a difficult exercise in allocating
+profits as between vitamins that formed part of the cartels
+and other products. In addition in the case of the Roche
+defendants, the relevant vitamin businesses have been sold
+to a third party with the result that the Roche defendants no
+longer have access to the relevant documents. Mr Layton
+said that these concerns could be met by limiting the scope
+of the account, but no concrete suggestion was advanced.”
+
+21.
+The judge also rejected Devenish’s claim for exemplary damages. There is no
+appeal from his ruling on the point and I need say no more about it.
+Submissions
+22.
+Mr Christopher Vajda QC, for Devenish, puts forward five basic propositions.
+First, he submits that English law recognises that in certain circumstances a
+wrongdoer should not profit from his wrong, whether the wrong is a breach of
+contract, tort or equitable wrong. In support of this proposition, he relies on the
+decision in Blake. Mr Vajda submits that Blake demonstrates that the existence
+and scope of a restitutionary award is a product of historical development and of
+the different approaches of common law and equity. In Blake this remedy is put
+upon a general principled basis, that is, whether compensatory damages are
+adequate, and whether in the circumstances the wrongdoer should be unable to
+retain profits from his breach. Mr Vajda submits that it makes no difference in
+principle whether the wrong relied on involves the invasion of a proprietary right
+or a personal right. Mr Vajda also relies on Experience Hendrix LLP v PPX
+Enterprises Inc [2003] 1 All ER (Com) 830 and Esso Petroleum Co Ltd v Niad
+[2001] EWHC 6 (Ch). Mr Vajda’s second proposition is that in the light of Blake
+this case is one where a restitutionary award should be available as a matter of
+English law. The relevant factors are (1) the fact that compensatory damages are
+not an adequate response to the wrong in this case and (2) the conduct of the
+respondents. As to (1), it is sufficient to show on this application that it is
+arguable that damages are inadequate. The respondents allege that the overcharge
+was passed on, but this has to be shown and in any event, one of the motives of
+the secret cartel was to squeeze companies like Devenish out. As to (2), Mr Vajda
+
+relies on the fact that the conduct of the respondents was criminal and was
+cynically carried out in order to make a profit for the respondents at the expense
+of their customers. The cartels were kept secret from Devenish. The wrongs
+complained of were committed in a contractual context. The wrong affected the
+respondents’ contractual performance to Devenish. The gain consisted of a
+payment by Devenish out of its assets to the respondents. Devenish has a
+legitimate interest in preventing their unlawful profit making activity. Mr Vajda
+submits that the wrongdoers should not be left with their ill-gotten gains. He
+submits that there will plainly be evidential difficulties in proving the cartel, given
+that it was a secret cartel.
+23.
+Mr Vajda’s third proposition is that English law does not preclude a remedy in
+terms of a restitutionary award in these circumstances. He distinguishes the
+decisions of this court in Stoke-on-Trent Council v Wass, Halifax Building Society
+v Thomas and Forsyth-Grant v Allen [2008] EWCA Civ 505 (which applied
+Wass). Again, I shall need to refer to these decisions below. Mr Vajda submits
+that Wass does not concern a proprietary tort and that in any event it must be taken
+to have been overruled by Blake. Halifax turns on an election made by the
+building society which meant that they could not pursue a claim for the surplus on
+realisation of the property. Mr Vajda submits that if the court reaches the
+conclusion that as a matter of principle a restitutionary award should be available
+to a single claimant, the answer should be no different simply because there are
+multiple claimants in this kind of case. Such problems can be dealt with by case
+management, and, after judgment, directions for accounts and enquiries. He
+further submits that there are no other claimants in fact, and that the limitation
+period has expired.
+24.
+Mr Vajda’s fourth and fifth propositions relate to Community law. His fourth
+proposition is that there is nothing in Community law to prevent a restitutionary
+award in this case. His fifth proposition is that Community law positively requires
+a restitutionary award to be given in the circumstances of this case, and he draws
+the court’s attention to the possibility of making a reference to the Court of Justice
+for a preliminary ruling on this point.
+25.
+Mr Mark Hoskins, for the fourth and fifth respondents, submits that this court is
+bound by Wass to hold that there is no remedy for breach of statutory duty save in
+damages. Likewise, he submits that Halifax shows that the restitutionary remedy
+is not available for every wrong. Blake on his submission concerns an account of
+profits for a breach of contract. There was no suggestion that the House of Lords
+was developing the law across the board for tort. The information in question,
+which was contained in Mr Blake’s autobiography, would have constituted
+confidential information in respect of which a fiduciary obligation was owed had
+it not been for the publication of information prior to the publication of the book.
+Mr Hoskins submits that likewise, Esso and Experience Hendrix were breach of
+contract cases. In any event, the guiding principle for the purpose of determining
+when a restitutionary award was available were those set out by Lord Nicholls in
+Blake. A restitutionary award would only be made in an exceptional case, and
+where the remedies were inadequate.
+26.
+Mr Hoskins also submits that in the light of the 2001 decision it is not open to the
+court to say that there has not been imposed a sufficient deterrent and that the
+
+same applies to the restitution of profits. He submits that the margin squeeze
+claim is not incapable of calculation using the approach of the "broad axe”
+principle applicable to the assessment of damages and referred to by the judge.
+Mr Hoskins further submits that there can be no account of profits because the
+Commission’s fines have already taken into account the conduct of his client. He
+submits that it is not shown that compensatory damages will be inadequate, and
+that Dr Veljanovoski has been able to calculate the compensatory claim of
+Devenish. Mr Vajda seeks to limit the claim to the amount of the overcharge. Mr
+Hoskins submits that this is not a true account of profits claim.
+27.
+Mr Hoskins submits that the requirements of Community law are satisfied by an
+award of compensatory damages. In von Colson, the point was that the
+compensation had to be adequate in respect of the damages claimed. To the
+extent that Devenish seeks to obtain a restitutionary award when it passed the
+overcharge on to its customers, it is going beyond obtaining compensatory
+damages for its loss.
+28.
+Mr Hoskins submits that, even if the court takes the view that a restitutionary
+award is open in law to Devenish, it should not take that step in this case for the
+reason given by the judge at [114] of his judgment, namely that it might lead some
+claimants to claim a restitutionary award, and others to claim compensatory
+damages. The resulting mix would not be fair to the respondents. It could lead to
+double liability or inconsistent determinations. Devenish makes no submission as
+to how the problems of multiple claimants could be dealt with. A restitutionary
+award should not be made where there are multiple claimants: see Goff & Jones,
+The Law of Restitution, (7 ed) (2007) para. 36-008.
+29.
+Mr Mark Brealey QC, for the sixth to eighth respondents, including BASF,
+submits that damages on the Wrotham Park principle (so called after the decision
+of Brightman J. in Wrotham Park Estate Co v Parkside Homes Ltd [1974] 1 WLR
+798) compensate the claimant for a loss of a bargaining opportunity. This was
+held to be the position by Sir Thomas Bingham MR in Jaggard v Sawyer [1995] 1
+WLR 269. He submits that this type of award is by reference to the gains made,
+but it is not gains-based. Mr Brealey accepts that the margin squeeze claim is an
+additional claim. He submits that the calculation of damages is not so difficult as
+to make it impossible. He submits that in WWF-World Wide Fund for Nature
+(formerly World Wildlife Fund) and another v World Wrestling Federation
+Entertainment Inc [2008] 1 All ER 74 this court decided that Wrotham Park
+damages were compensatory and not gains-based.
+30.
+As to the impact of Blake on Wass, Mr Brealey submits that there is a distinction
+between the expropriation of a person's right and the mere interference with it. In
+Wass, there could not be a notional bargain where the right in question is the right
+to hold the market.
+31.
+Mr Tom de la Mare, for the first to third respondents, submits that Devenish is
+seeking the restitutionary award in order to avoid the passing-on defence. The
+contractual relationship of the parties was in reality irrelevant in the present case.
+Mr de la Mare makes a number of submissions on Community law to which I
+refer below. He goes so far as to say that for the courts to declare that a
+restitutionary award should be available in competition cases would “conflict with
+
+basic notions of legal certainty”. That submission must be rejected at the outset as
+inconsistent with the common law system.
+32.
+I have referred to counsel in the order in which they made their submissions. I
+have not set out all the submissions, and, in particular, I have not referred to
+arguments made by them that had already been put forward in other submissions.
+In the result, the submissions attributed by me to counsel give a disproportionate
+impression of their considerable contribution in this case, for which, together with
+the appellant’s submissions, I would express my gratitude and admiration.
+DISCUSSION AND CONCLUSIONS
+(A) THE BLAKE ISSUE
+1. Introduction
+33.
+The Blake issue involves a number of sub-issues:
+i)
+Was the judge correct to hold that a restitutionary award
+cannot be made for a non-proprietary tort?
+ii)
+Would a restitutionary remedy be available in the
+circumstances of this case? In particular, was the judge
+correct to hold that a restitutionary remedy would not be
+available because compensatory damages would have been
+adequate?
+iii)
+Was the judge right to hold that a further difficulty,
+precluding the grant of a restitutionary award was that not
+all potential claimants were before the court?
+34.
+Before I explain my reasoning on these issues, I need to say more about the nature
+of the concepts of compensatory damages, user damages and restitutionary
+awards, and about the nature of the account of profits sought in this case.
+35.
+Each of these concepts describes a remedy for a wrong, be it a breach of contract,
+a tort or an equitable wrong. The remedies are not, however necessarily to be
+attributed to a single type of wrong. This point was graphically made by the late
+Professor Peter Birks in an article dealing with a proposed redraft of the American
+Law Institute’s Restatement of Restitution:
+“Usurping the Claims of Unjust Enrichment
+Scott and Seavey, writing about Restatement in the 1930s,
+spoke of ‘the tripartite division of the law into contracts,
+torts and restitution’. That is, by any standards, a horrible
+division. On the same level would be a division of animals
+between carnivores, herbivores and amphibians. The third
+term tells you the habitat, the first two the eating habit. It
+follows that the terms must cut across each other.
+Alligators are carnivorous and amphibious. In the same
+way restitution cuts across contracts and torts. If you
+
+promise to repay a sum which I gave you, I have a
+contractual right to restitution. Again, for many wrongs, be
+they torts or breaches of equitable duty or breaches of
+contract, I can get restitution (gain-based recovery).” (A
+Letter to America: The New Restatement of Restitution
+(2003) 3 GJF 1 at 13)”
+36.
+In general, the common golden thread that runs through each of these three
+categories of remedy mentioned above is that the claimant has suffered loss. But
+that is not always the case (see, for example, user damages discussed below).
+Similarly, in an action for breach of fiduciary duty, an account of profits can be
+awarded in circumstances where the claimant has suffered no loss, as in Regal
+(Hastings) v Gulliver [1967] 2 AC 134 (and a claim for an account of profits
+consequent on a breach of duty could arise even though there is no misuse of a
+property right, as where a director uses a power to make calls on shares for a
+collateral purpose). Moreover, user damages are not always assessed by reference
+to the fair price for what has been taken from the claimant. They may be assessed
+by reference to the profit that the defendant has made (see, for example, Ministry
+of Defence v Ashman [1993] EGLR 102). Wrotham Park damages likewise may
+be awarded even though there is no loss. But the user damages and Wrotham
+Park damages still have an element of compensation within them in this sense,
+that while there may be no actual loss they are clearly cases where the law takes
+the view as a matter of policy that the claimants if they prove their claims are
+entitled to substantial compensation for the mere invasion of their rights.
+37.
+It follows that the categories of damages identified above are not mutually
+exclusive. User damages can be restitutionary: they can be awarded where the
+claimant has suffered no loss and on the basis that the defendant is ordered to pay
+a sum by reference to the gain he would otherwise make. Damages for trespass to
+property, for instance, are awarded on the basis of market rent even if the claimant
+would not have let the property if vacant (see Swordheath Properties Ltd v Tabet
+[1979] 1 WLR 285). At the same time they can be described as compensatory.
+The view that they combine elements of both compensatory and restitutionary
+awards is supported by the decision of the Privy Council in Inverugie Investments
+Ltd v Hackett [1995] 1 WLR 713 at 718B. Damages for trespass to land, for
+instance, are intended to compensate the claimant for being kept out of his land on
+whatever basis they are assessed. I do not therefore agree with the judge that user
+damages or Wrotham Park damages are necessarily compensatory. Nor do I
+consider that Lord Nicholls so held. Lord Nicholls considered that user damages
+were probably best regarded as exceptions to the general rule that damages are
+assessed on the basis that they compensate the claimant for his loss or injury (page
+279E). He also regarded Wrotham Park damages as “payment [by the defendant]
+in respect of the benefit he has gained” (page 284A). If user damages and
+Wrotham Park damages were purely compensatory, they would not have been
+stepping stones to the conclusion that the court could grant an account of profits
+for a breach of contract.
+38.
+What, however, does distinguish user damages from other compensatory damages
+is the fact that they are in general awarded because the defendant has made
+improper use of an asset of the claimant. In economic terms, there has been a
+
+transfer of value for which the wrongdoer must account. But that is also a feature
+of the present case. Devenish seeks in economic terms, by means of its claim for
+an account of profits for breach of statutory duty, to recover the amount of the
+overcharge that it has paid to the respondents out of its assets and in diminution of
+its net worth. Not all non-proprietary torts share this feature: for example, this
+feature is not present in claims for damages for defamation or personal injury. It
+is, however, often present in claims for breach of contract and for invasion of a
+statutory right where rights of property in the broadest sense are invaded for the
+benefit of the wrongdoer. A contractual right is a form of property (though it
+lacks some of the qualities of a property right). If the law of remedies were to be
+required to be coherent in economic terms, and this were the critical factor, the
+same remedies ought to be provided in each of these situations. However, even
+so, they would under Blake be subject to strict judicial control through the
+requirement for exceptional circumstances.
+39.
+Devenish claims an account of profits. Following Blake, it is clear that this can be
+made in claims for breach of contract as well as in the case of proprietary torts.
+There is no reason why an order that the defendant accounts for his profits to the
+claimant should necessarily be of the gross profit or of 100% of the profit: see,
+for example, Hendrix, considered below and Ministry of Defence v Ashman, per
+Hoffmann LJ. Where an account of profits is granted instead of an award of
+compensatory damages, and is compensatory in its objective, there is flexibility in
+the percentage of the profit that is awarded and in its calculation.
+40.
+I bear in mind that in the recent case of WWF-World Wide Fund for Nature
+(formerly World Wildlife Fund) and another v World Wrestling Federation
+Entertainment Inc, this court had to consider whether the dismissal of an earlier
+claim for an “account of profits” (made on the Blake basis) in an action for breach
+of contract rendered res judicata a later claim for Wrotham Park damages. The
+contention was that the earlier claim was “gains-based”, which was the basis on
+which the application for dismissal of the later claim had been made. As I read
+the judgment, this was taken to mean solely or substantially gains-based. In the
+alternative it was contended that the later claim was a juridically highly similar
+remedy to a gains-based claim. Chadwick LJ, with whom Maurice Kay and
+Wilson LJJ agreed, considered a large number of authorities, including Blake, in
+which the juridical basis of Wrotham Park damages has been considered. This
+examination shows there have been different views on this over time. At all
+events, Chadwick LJ recognised that the labels “compensatory” and “gains-based”
+did not really describe the basis on which the court acted, and he went on to
+accept that the account sought in that case was in any event a “juridically highly
+similar remedy” to a gains-based claim:
+“59….To label an award of damages on the Wrotham Park basis as a
+'compensatory' remedy and an order for an account of profits as a
+'gains-based' remedy does not assist an understanding of the
+principles on which the court acts. The two remedies should, I think,
+each be seen as a flexible response to the need to compensate the
+claimant for the wrong which has been done to him.
+60. It follows therefore that, although I would reject the premise on
+which the contentions in para. 4 of the amended application notice
+
+are based—that an award of damages on the Wrotham Park basis is
+not an award of compensatory damages, but it is properly to be
+characterised as a gains-based award—I would accept that, on a true
+analysis, the allegation in sub-para. (d)—that the remedy now sought
+by the Fund (an award of damages on the Wrotham Park basis) is 'a
+juridically highly similar remedy to, the relief [an account of profits]
+previously sought'—is well-founded.”
+41.
+This is, I accept, a difficult case but I do not consider that the decision in this case
+affects the point that I have been making about user damages and Wrotham Park
+damages. I have proceeded on the basis that Wrotham Park damages are assessed
+on a basis that affords compensation to the claimant. That does not mean that
+such damages do not also deprive the defendant of a benefit that he has received,
+and that is clearly stated by Lord Nicholls. The judge, in my judgment, was in
+error to assume otherwise ([97]-[98]). Chadwick LJ, clearly recognized that the
+labels "compensatory" and “gains-based" did not comprehensively describe the
+basis of assessment of damages in the circumstances where a restitutionary award
+is made. I do not, therefore, consider that the WWF decision removes the point I
+have made. I am, in any event, supported in my conclusion by the fact that
+Chadwick LJ considered that Wrotham Park damages were "essentially” (not
+necessarily entirely) compensatory and that they were a juridically highly similar
+remedy to a gains-based remedy. If I am wrong on what I have said about
+Wrotham Park damages, the conclusion I have reached on user damages is not
+affected.
+2. The first sub-issue: was the judge correct to hold that a restitutionary award cannot
+be made for a non-proprietary tort?
+42.
+To answer this sub-issue, I consider under separate sub-headings the general basis
+for assessing damages in tort, the decision of the House of Lords in Blake, the
+cases applying Blake, and earlier decisions of this court relied by the respondents
+as constituting binding precedent precluding this court from holding that Blake
+applies to non-proprietary torts. I conclude on this sub-issue that it is consistent
+with Blake for a restitutionary award to be available in the case of a non-
+proprietary tort (see [58] below), but that the decision of this court in Wass
+precludes this court from reaching that conclusion (see [76] below).
+3. General basis for assessing damages in tort
+43.
+As Lord Nicholls explains in Blake, the basic principle is that the remedy for a tort
+is compensatory damages: Livingstone v Raywards Coal Company (1880) 5 App
+Cas 25. Lord Blackburn held that the general rule was that:
+“where any injury is to be compensated by damages, in
+settling the sum of money to be given to reparation of
+damages you should as nearly as possible get at that sum of
+money which will put the party who has been injured or
+how has suffered, in the same position as he would have
+been in if he had not sustained the wrong for which he is
+now getting his compensation or reparation. That must be
+qualified by a great many things which may arise –such, for
+
+instance, as by the consideration, whether the damage has
+been maliciously done…”
+44.
+ In that case, user damages were awarded for the unauthorised removal of coal
+from beneath the appellant’s land, even though the site was too small for the
+appellant to have mined the coal himself. The appellant was also awarded
+damages for the damage done to the houses on the surface.
+45.
+But the rule about compensation for loss suffered is not an absolute one. It is
+noteworthy in the present context that a majority of the House would have made a
+different and by implication a higher award if the conduct had been deliberate:
+see per Lord Hatherley at 34, per Lord Blackburn at 39 and 42. Lord Hatherley
+obiter considered, however, that no damages should be awarded for the use that
+the respondents had made of the appellant’s land by travelling across for in doing
+this they caused him no loss (at 38). This contrasts with the point made by Lord
+Halsbury in The Mediana and by Lord Shaw in Watson Laidlaw, considered by
+Lord Nicholls in Blake, as set out below.
+4. The decision of the House of Lords in Attorney General v Blake
+46.
+I shall need to consider this decision in detail, but the bottom line is that this case
+establishes that a restitutionary award is available for breach of contract. The
+leading speech was that of Lord Nicholls, with whom the three other members of
+the House agreed.
+47.
+The facts are well known. Indeed, Lord Nicholls begins his speech with the
+memorable words:
+"My Lords, George Blake is a notorious, self-confessed
+traitor."
+48.
+George Blake was a former member of the secret intelligence service, and he had
+agreed not to divulge any official information gained as a result of his
+employment. He was convicted of disclosing valuable secret information to the
+Soviet Union and sentenced to forty-two years imprisonment. He escaped and
+lived in Moscow. He wrote an autobiography, using information obtained in the
+course of his employment. This information was no longer confidential and no
+measurable loss was suffered by the disclosure. However, the Attorney General
+brought an action against the defendant claiming damages for breach of fiduciary
+duty and the payment of all monies received or to be received by him from his
+publisher with a view to ensuring that he should not enjoy the fruits of his
+treachery. The information was no longer secret or confidential, and so no
+substantial damages would be awarded for breach of confidence. There had,
+however, been a gross invasion of the Crown’s rights. The House, by a majority,
+held that in exceptional cases where the normal remedies of damages, specific
+performance and injunction were inadequate compensation for breach of contract,
+the court could, if justice demanded it, grant a restitutionary award.
+49.
+There are four sub-headings in part of Lord Nicholls’ speech which contains his
+general analysis of the law: interference with rights of property, breach of trust
+and fiduciary duty, damages under the Chancery Amendment Act 1858 (referred
+
+to below as Lord Cairns’ Act) and breach of contract. There is therefore no
+passage dealing with non-proprietary torts. Lord Nicholls uses the first three
+topics as stepping stones to his conclusion about breach of contract. His reasoning
+is analogical. The methodology is to expose the similarities and differences
+between torts and other wrongs and the differences between law and equity, with
+the aim of understanding those differences, identifying the underlying principles
+and ensuring where appropriate coherence in the law of remedies. The theme is
+thus coherence in the law of remedies. He makes it clear at several points that he
+is concerned with the principles that lie behind the case law. His conclusion on
+breach of contract claims is that no distinction can be drawn between the topics
+covered by the earlier subheadings and, there being no policy reason for not
+having an account of profits as a remedy for a breach of contract, that remedy was
+available for a breach of contract too.
+50.
+Examples of the methodology which I have described can be found throughout
+Lord Nicholls' speech. For example, at 278D, Lord Nicholls compares the general
+approach regarding assessment of damages in contract and for proprietary torts.
+At 279D, he seeks to identify a way of aligning user damages within the basic
+compensatory measure. He concludes that where the claimant has suffered no
+loss but user damages are awarded, "[s]uch awards, are probably best regarded as
+an exception to the general rule.” At 279E, Lord Nicholls concludes that courts of
+equity went further than common law courts. At 280D, Lord Nicholls concludes
+that it is difficult to see why equity required a wrongdoer to account for all his
+profits whereas the common law required a wrongdoer merely to pay a reasonable
+fee the use of another's property. He concludes that the difference arose simply as
+an accident of history. At 281E, Lord Nicholls compares damages at common law
+from violation of a property right and damages in lieu of an injunction. At 282, he
+turns to consider the remedies available for breach of contract "[a]gainst this
+background". At 282H, he considers Wrotham Park damages under the heading
+of breach of contract. At 285D, Lord Nicholls concludes that there is no good
+reason why an account of profits should be available for a breach of confidence
+but not for a breach of the contract that governs the parties’ relationship.
+51.
+At the outset of his discussion of the law, Lord Nicholls noted that the basic
+principle regarding assessment of damages is that they are compensatory for loss
+or injury:
+“So I turn to established, basic principles. I shall first set the
+scene by noting how the court approaches the question of
+financial recompense for interference with rights of
+property. As with breaches of contract, so with tort, the
+general principle regarding assessment of damages is that
+they are compensatory for loss or injury. The general rule is
+that, in the oft quoted words of Lord Blackburn, the
+measure of damages is to be, as far as possible, that amount
+of money which will put the injured party in the same
+position he would have been in had he not sustained the
+wrong: Livingstone v Rawyards Coal Co (1880) 5 App
+Cas 25, 39. Damages are measured by the plaintiff's loss,
+not the defendant's gain. But the common law, pragmatic as
+
+ever, has long recognised that there are many commonplace
+situations where a strict application of this principle would
+not do justice between the parties. Then compensation for
+the wrong done to the plaintiff is measured by a different
+yardstick. A trespasser who enters another's land may cause
+the landowner no financial loss. In such a case damages are
+measured by the benefit received by the trespasser, namely,
+by his use of the land. The same principle is applied where
+the wrong consists of use of another's land for depositing
+waste, or by using a path across the land or using passages
+in an underground mine. In this type of case the damages
+recoverable will be, in short, the price a reasonable person
+would pay for the right of user: see Whitwham v
+Westminster Brymbo Coal and Coke Co [1896] 2 Ch 528,
+and the "wayleave" cases such as Martin v Porter (1839) 5
+M & W 351 and Jegon v Vivian (1871) 6 Ch App 742. A
+more recent example was the non-removal of a floating
+dock, in Penarth Dock Engineering Co Ltd v Pounds.
+[1963] 1 Lloyd’s Rep 359.
+The same principle is applied to the wrongful detention of
+goods. An instance is the much cited decision of the Court
+of Appeal in Strand Electric and Engineering Co Ltd v
+Brisford Entertainments Ltd [1952] 2 QB 246, concerning
+portable switchboards. But the principle has a distinguished
+ancestry. The Earl of Halsbury LC famously asked in The
+Mediana [1900] AC 113, 117, that if a person took away a
+chair from his room and kept it for 12 months, could
+anybody say you had a right to diminish the damages by
+showing that I did not usually sit in that chair, or that there
+were plenty of other chairs in the room? To the same effect
+was Lord Shaw's telling example in Watson, Laidlaw & Co
+Ltd v Pott, Cassels and Williamson (1914) 31 RPC 104,
+119. It bears repetition:
+"If A, being a liveryman, keeps his horse standing idle in
+the stable, and B, against his wish or without his
+knowledge, rides or drives it out, it is no answer to A for B
+to say: 'Against what loss do you want to be restored? I
+restore the horse. There is no loss. The horse is none the
+worse; it is the better for the exercise.'"
+Lord Shaw prefaced this observation with a statement of
+general principle:
+"wherever an abstraction or invasion of property has
+occurred, then, unless such abstraction or invasion were to
+be sanctioned by law, the law ought to yield a recompense
+under the category or principle … either of price or of hire."
+
+That was a patent infringement case. The House of Lords
+held that damages should be assessed on the footing of a
+royalty for every infringing article.
+This principle is established and not controversial. More
+difficult is the alignment of this measure of damages within
+the basic compensatory measure. Recently there has been a
+move towards applying the label of restitution to awards of
+this character: see, for instance, Ministry of Defence v
+Ashman, [1993] 2 EGLR 102105 and Ministry of Defence v
+Thompson [1993] 2 EGLR 107. However that may be, these
+awards cannot be regarded as conforming to the strictly
+compensatory measure of damage for the injured person's
+loss unless loss is given a strained and artificial meaning.
+The reality is that the injured person's rights were invaded
+but, in financial terms, he suffered no loss. Nevertheless the
+common law has found a means to award him a sensibly
+calculated amount of money. Such awards are probably best
+regarded as an exception to the general rule.” (pages 278-9)
+52.
+Lord Nicholls noted that, in some cases, the wrongdoer had to yield up all his
+gains, as in a patent infringement case. He held that in this type of case equity
+considered that the appropriate response to the violation of the plaintiff’s right was
+that the defendant should surrender all his gains and that he should do so
+irrespective of whether the violation had caused the plaintiff any financial
+immeasurable loss. Gains were to be disgorged even though they were not shown
+to correspond with a disadvantage suffered by the other party.
+“Considered as a matter of principle, it is difficult to see why equity
+required the wrongdoer to account for all his profits in these cases,
+whereas the common law's response was to require a wrongdoer
+merely to pay a reasonable fee for use of another's land or goods. In
+all these cases rights of property were infringed. This difference in
+remedial response appears to have arisen simply as an accident of
+history.” (page 280)
+
+53.
+Lord Nicholls referred to damages for breach of fiduciary duty and damages under
+Lord Cairns’ Act and successor Acts, where damages are awarded in lieu of an
+injunction:
+“The measure of damages awarded in this type of case is
+often analysed as damages for loss of a bargaining
+opportunity or, which comes to the same, the price payable
+for the compulsory acquisition of a right. This analysis is
+correct. The court's refusal to grant an injunction means that
+in practice the defendant is thereby permitted to perpetuate
+the wrongful state of affairs he has brought about. But this
+analysis takes the matter now under discussion no further
+forward. A property right has value to the extent only that
+
+the court will enforce it or award damages for its
+infringement. The question under discussion is whether the
+court will award substantial damages for an infringement
+when no financial loss flows from the infringement and,
+moreover, in a suitable case will assess the damages by
+reference to the defendant's profit obtained from the
+infringement. The cases mentioned above show that the
+courts habitually do that very thing.” (page 281)
+
+54.
+Lord Nicholls referred to Wrotham Park Estate Co Ltd v Parkside Homes Ltd
+[1974] 1 WLR 789, where Brightman J awarded damages in lieu of an injunction
+for development of land in breach of a restrictive covenant based on the amount
+which the owner of the land could reasonably have demanded if he had been
+asked and agreed to release of the covenant. This award was made even though
+there was no diminution in value of the land due to the development. Lord
+Nicholls approved this case, observing:
+“In reaching his conclusion the judge applied by analogy the cases
+mentioned above concerning the assessment of damages when a
+defendant has invaded another's property rights but without
+diminishing the value of the property. I consider he was right to do
+so. Property rights are superior to contractual rights in that, unlike
+contractual rights, property rights may survive against an indefinite
+class of persons. However, it is not easy to see why, as between the
+parties to a contract, a violation of a party's contractual rights
+should attract a lesser degree of remedy than a violation of his
+property rights. As Lionel D Smith has pointed out in his article
+"Disgorgement of the profits of Breach of Contract: Property,
+Contract and 'Efficient Breach'" (1995) 24 Can BLJ 121, it is not
+clear why it should be any more permissible to expropriate
+personal rights than it is permissible to expropriate property rights.
+…
+The Wrotham Park case, therefore, still shines, rather as a
+solitary beacon, showing that in contract as well as tort
+damages are not always narrowly confined to recoupment
+of financial loss. In a suitable case damages for breach of
+contract may be measured by the benefit gained by the
+wrongdoer from the breach. The defendant must make a
+reasonable payment in respect of the benefit he has gained.
+” (pages 283-4)
+55.
+Lord Nicholls’ conclusions were expressed in the following passage:
+“My conclusion is that there seems to be no reason, in
+principle, why the court must in all circumstances rule out
+an account of profits as a remedy for breach of contract. I
+prefer to avoid the unhappy expression "restitutionary
+damages". Remedies are the law's response to a wrong (or,
+
+more precisely, to a cause of action). When, exceptionally,
+a just response to a breach of contract so requires, the court
+should be able to grant the discretionary remedy of
+requiring a defendant to account to the plaintiff for the
+benefits he has received from his breach of contract. In the
+same way as a plaintiff's interest in performance of a
+contract may render it just and equitable for the court to
+make an order for specific performance or grant an
+injunction, so the plaintiff's interest in performance may
+make it just and equitable that the defendant should retain
+no benefit from his breach of contract.
+The state of the authorities encourages me to reach this
+conclusion, rather than the reverse. The law recognises that
+damages are not always a sufficient remedy for breach of
+contract. This is the foundation of the court's jurisdiction to
+grant the remedies of specific performance and injunction.
+Even when awarding damages, the law does not adhere
+slavishly to the concept of compensation for financially
+measurable loss. When the circumstances require, damages
+are measured by reference to the benefit obtained by the
+wrongdoer. This applies to interference with property
+rights. Recently, the like approach has been adopted to
+breach of contract. Further, in certain circumstances an
+account of profits is ordered in preference to an award of
+damages. Sometimes the injured party is given the choice:
+either compensatory damages or an account of the
+wrongdoer's profits. Breach of confidence is an instance of
+this. If confidential information is wrongfully divulged in
+breach of a non-disclosure agreement, it would be nothing
+short of sophistry to say that an account of profits may be
+ordered in respect of the equitable wrong but not in respect
+of the breach of contract which governs the relationship
+between the parties. With the established authorities going
+thus far, I consider it would be only a modest step for the
+law to recognise openly that, exceptionally, an account of
+profits may be the most appropriate remedy for breach of
+contract. It is not as though this step would contradict some
+recognised principle applied consistently throughout the
+law to the grant or withholding of the remedy of an account
+of profits. No such principle is discernible.
+The main argument against the availability of an account of
+profits as a remedy for breach of contract is that the
+circumstances where this remedy may be granted will be
+uncertain. This will have an unsettling effect on commercial
+contracts where certainty is important. I do not think these
+fears are well founded. I see no reason why, in practice, the
+availability of the remedy of an account of profits need
+disturb settled expectations in the commercial or consumer
+
+world. An account of profits will be appropriate only in
+exceptional circumstances. Normally the remedies of
+damages, specific performance and injunction, coupled with
+the characterisation of some contractual obligations as
+fiduciary, will provide an adequate response to a breach of
+contract. It will be only in exceptional cases, where those
+remedies are inadequate, that any question of accounting
+for profits will arise. No fixed rules can be prescribed. The
+court will have regard to all the circumstances, including
+the subject matter of the contract, the purpose of the
+contractual provision which has been breached, the
+circumstances
+in
+which
+the
+breach
+occurred,
+the
+consequences of the breach and the circumstances in which
+relief is being sought. A useful general guide, although not
+exhaustive, is whether the plaintiff had a legitimate interest
+in preventing the defendant's profit-making activity and,
+hence, in depriving him of his profit.” (page 284-5)
+
+56.
+Lord Goff and Lord Browne-Wilkinson agreed with Lord Nicholls. Lord Steyn
+gave a concurring judgment. He considered that practical justice strongly
+militated in favour of granting an order for disgorgement of profits against Blake
+([292D).
+57.
+The House by a majority (Lord Hobhouse dissenting) proceeded to grant an
+account of profits for the amounts due to George Blake from his publisher under
+his publishing agreement.
+58.
+As I read the speech of Lord Nicholls, the making of a restitutionary award does
+not depend on whether a property right has been infringed or whether the award is
+compensatory for loss or not. Rather, it depends on whether damages alone would
+be a sufficient remedy in the eyes of the law for the wrong that has occurred. If
+this is right, and moreover an account of profits can be ordered for a breach of
+contract that, as in Blake, does not involve interference with a proprietary right, it
+would not, in my judgment, be inconsistent with the reasoning of Lord Nicholls in
+the passages cited above if it were also available in the case of non-proprietary
+tort. This point can be supported by pointing to the fact that a claim for damages
+under Lord Cairns’ Act may also be available for a non-proprietary tort. Lord
+Nicholls’ speech does not suggest that an account of profits is not available on a
+like basis in the case of a non-proprietary tort. He draws on cases in which
+damages are assessed by reference to the benefit obtained by the wrongdoer.
+This can occur in cases in tort. However, this is not a line of thought which I can
+pursue if as the respondents submit this court has held that such an award can only
+be made in the case of a proprietary tort in a manner binding on, this court on this
+appeal. Therefore, I need to consider the decisions of this court in Wass and
+Halifax to which I turn below. Before I do so I offer some other observations on
+Blake and consider two cases that have followed.
+59.
+In Blake, Lord Nicholls treats a restitutionary award as another arrow in the
+court’s quiver of remedies. Lord Nicholls emphasises that this particular arrow in
+
+the court’s quiver of remedies is only pulled out in exceptional circumstances.
+This harks back to a remark which he made earlier in his judgment:
+“The broad proposition that a wrongdoer should not be
+allowed to profit from his wrong has an obvious attraction.
+The corollary is that the person wronged may recover the
+amount of this profit when he has suffered no financially
+measurable loss. As Glidewell LJ observed in Halifax
+Building Society v Thomas [1996] Ch 217, 229, the
+corollary is not so obviously persuasive.” (page 278)
+60.
+ Lord Nicholls offers a general test, namely that the claimant has a legitimate
+interest in stripping the wrongdoer of his profit. There was no single feature which
+was requisite for the purpose of ordering an account of profits: it was the
+combination of the fact that the contract was clearly drafted with a view to
+protecting national security, the facts that the information in question had
+originally been confidential to the Crown and that Blake had been in breach of
+fiduciary duty in misusing it, the deliberate nature of the breach of contract, the
+fact that Blake intended to benefit from earlier treacherous conduct, and the
+absence of an appropriate remedy in compensatory damages that led the House to
+order an account.
+61.
+Before I turn to Wass and Halifax, I will first consider two cases that have applied
+Blake. In each case, the claim was based on a breach of contract.
+5. Cases applying Blake
+5.1 Experience Hendrix v PPX Enterprises Inc [2003] 1 All ER (Comm) 830
+62.
+The issue in this case was whether an account of profits or damages could be
+awarded for a breach of a settlement agreement between the two parties relating to
+the exploitation of musical recordings. The agreement did not permit the use of
+certain recordings that the defendant had in fact exploited. This had resulted in no
+loss to the claimant who was not the owner of the recordings, and indeed in
+certain circumstances envisaged the destruction of those recordings. The
+appellant amended its case to claim damages on the basis of what could
+reasonably have been demanded for a release of the contractual prohibition. In the
+alternative, the claimant claimed an account of profits. The judge had refused to
+award either form of relief.
+63.
+The leading judgment was given by Mance LJ with whom Peter Gibson LJ (who
+delivered a concurring judgment) and Hooper J agreed. Mance LJ held:
+“[16] The inspiration for the appellant's amendment of its case was
+the House of Lords decision in A-G v Blake (Jonathan Cape Ltd, third
+party) [2001] 1 AC 268. This marks a new start in this area of law.
+The exposition by counsel before us of prior authority threw light on
+considerations which may still be relevant to its future development.
+But, as I see the decision in Blake's case, it freed us from some
+constraints that prior authority in this court (particularly Surrey CC v
+Bredero Homes Ltd, [1993] 1 WLR 1361 and some of the reasoning
+
+in Jaggard v Sawyer [1995] 1 WLR 269) would have imposed. To
+apply Lord Steyn's words, Blake's case leaves future courts with the
+task of 'hammering out on the anvil of decided cases' when and how
+far remedies such as the appellant now seeks should be available. The
+original Nibelungen produced a powerful image of restitution. The
+appellant invites us to fashion a modern and more deliberate
+equivalent on Jimi Hendrix's legacy.”
+64.
+The case had certain similarities to Blake For instance:
+“As in Blake, we are concerned with a breach of a negative
+obligation, and PPX did do the very thing it had contracted
+not to do.” (per Mance LJ at [36])
+
+65.
+Mance LJ observed that it would be anomalous and unjust if the defendant could
+avoid paying royalties for the recordings in question when it had to pay royalties
+in respect of other recordings which they were permitted to exploit. However, the
+case itself did not justify the imposition of a full Blake account of profits as:
+“…the breaches, though deliberate, took place in a
+commercial
+context.
+PPX,
+though
+knowingly
+and
+deliberately breaching its contract, acted as it did in the
+course of a business, to which it no doubt gave some
+expenditure of time and effort and probably the use of
+connections and some skill …An account of profits would
+involve a detailed assessment of such matters, which, as is
+very clear from Blake, should not lightly be ordered… I
+would confine any financial remedy to an order that [the
+defendant] pay a reasonable sum for its use of material in
+breach of the settlement agreement. That sum can properly
+be described as being "such some as might reasonably have
+been demanded" by [the appellant] as a quid pro quo for
+agreeing to permit the two licences into which [the
+defendant] entered in breach of the settlement agreement,
+which was the approach adopted by Brightman J. in the
+Wrotham Park case.” ([44], [45])
+66.
+This court was only concerned with questions of principle, but Mance LJ added
+that he would be surprised if the appropriate rate of royalty was less than twice
+that agreed in respect of the recordings for which permission to exploit had been
+given.
+67.
+In his concurring judgment, Peter Gibson J. observed that:
+“Although the Wrotham Park case related to an
+infringement of a property right, there having been a breach
+of a restrictive covenant imposed for the benefit of an
+estate, it is noticeable that Lord Nicholls did not treat the
+significance of the case as so limited. He discussed the case
+
+in the section of his judgment (commencing at [2001] 1 AC
+268 at 282) dealing with breach of contract. It is apparent
+that he regarded the case as a guiding authority on
+compensation for breach of a contractual obligation. True it
+is that the action was brought against the successor in title
+of the original covenantor; but it could hardly be suggested
+that the result would have been different if the parties had
+been the original contracting parties.”
+
+68.
+Accordingly, the court directed that the damages for breach of contract should be
+assessed by reference to a notional fee for permission to exploit the recordings in
+question. This would represent all or some of the profits which the defendant had
+wrongfully earned. But the significance for this case of Hendrix goes beyond this
+point. I said in [2] of this judgment that the courts have awarded damages
+(commonly called "user damages") by reference to the fair value of a right of
+which the defendant has wrongly deprived the claimant, and these awards have
+been made even if the claimant would not himself have sought to use that right
+and so incurred no loss. It is now clear that the principle underlying user damages
+does not depend on there being some misuse of a property right of the claimant. It
+was awarded in the Hendrix case on the basis of a breach of a contractual
+obligation. This is an important point. It is paradigmatic of a cultural change in
+the law in favour of the classification of remedies on a coherent basis rather than
+on the basis of some formulaic division between different wrongs. As Lord
+Nicholls observed in Blake, in the context of contractual rights, “it is not clear
+why it should be any more permissible to expropriate personal rights than it is
+permissible to expropriate property rights.”
+
+5.2 Esso Petroleum Co Ltd v Niad Ltd [2001] 1 All ER (D) 324
+69.
+The defendant (“Niad”) had entered into a five year exclusive agreement with
+Esso, requiring Niad to buy all its requirements of motor fuels from Esso. A
+further agreement was entered into under a “Pricewatch” scheme whereby Niad
+agreed to match the fuel prices by charging the same as its lowest priced
+competitor in the area and Esso agreed to compensate it for doing so. In breach of
+this agreement Niad charged higher prices. The judge, Sir Andrew Morritt VC,
+held that if Esso so elected an account of profits should be made in this case. His
+reasons were as follows:
+“[63] In my judgment the remedy of an account of profits should be
+available for breaches of contract such as these. First, damages is an
+inadequate remedy. It is almost impossible to attribute lost sales to a
+breach by one out of several hundred dealers who operated Pricewatch.
+Second, the obligation to implement and maintain the recommended pump
+prices was fundamental to Pricewatch. Failure to observe it gives the lie to
+the advertising campaign by which it was publicised and therefore
+undermines the effectiveness of Pricewatch in achieving the benefits
+intended for both Esso and all its dealers within Pricewatch. Third,
+
+complaint was made of Niad on four occasions. On all of them Niad
+appeared to comply without demur. It now appears that the breaches of its
+obligation were much more extensive than Esso at first thought. Fourth,
+Esso undoubtedly has a legitimate interest in preventing Niad from
+profiting from its breach of obligation.
+[64] I turn then to the restitutionary remedy. It is undoubted that Niad
+obtained a benefit, in the form of the price support, to which it was only
+entitled if it complied with its obligation to implement and maintain the
+recommended pump prices to be supported. In these circumstances it can
+hardly be denied that Niad was enriched to the extent that it charged pump
+prices in excess of the recommended prices. The enrichment was unjust
+because it was obtained in breach of contract. It was obtained at the
+expense of Esso because Esso was providing price support for a lower
+price than that charged by Niad. I can see no reason why this remedy
+should be unavailable to Esso if it wishes to pursue it. Indeed it appears to
+me to be the most appropriate remedy in that it matches most closely the
+reality of the case, namely that Niad took an extra benefit to which it was
+not entitled. It is just that it should be made to restore it to its effective
+source.”
+
+70.
+Accordingly an account of profits was awarded in circumstances where the
+remedy of damages for breach of contract was inadequate.
+
+6. Earlier decisions of this court relied on by the respondents as constituting binding
+precedent precluding this court from holding that Blake applies to non-proprietary torts
+6.1 Stoke-on-Trent Council v Wass
+71.
+In this case, the council had a statutory right to licence markets in a particular
+area, which may well have been a property right by way of incorporeal
+hereditament. Be that as it may, in pursuance of this right it had licensed markets
+on Wednesdays, Fridays and Saturdays. The defendant operated an unauthorised
+market on Thursdays within the area for which the council had a monopoly. At
+trial, the council obtained an injunction against the holding of an unauthorised
+market. The judge found as a fact that the council suffered no loss as a result of
+the holding of the unauthorised market. However, he made an award of user
+damages, that is, an award of damages calculated by reference to the licence fee
+that the council could reasonably have required for the operation of the
+defendant’s market. The question on appeal was whether the council was entitled
+to damages. This court held that, while a person could obtain as damages a
+reasonable sum for the wrongful use made of his property, no damages would be
+awarded here because the council could not show that it had suffered loss by
+reason of the infringement. Therefore nominal damages only were awarded.
+Nourse and Nicholls LJJ both gave reasoned judgments, and the third member of
+the court, Mann LJ, agreed with both judgments. Accordingly this court is bound
+by the ratio of either of the reasoned judgments.
+
+72.
+At the outset of his analysis, Nourse LJ identified two general rules, the first being
+the general rule that damages are compensatory. He held that user damages were
+not an exception to this rule but merely went to the manner in which damages
+were assessed. He held:
+“The general rule is that a successful plaintiff in an action
+in tort recovers damages equivalent to the loss which he has
+suffered, no more and no less. If he has suffered no loss, the
+most he can recover are nominal damages. A second
+general rule is that where the plaintiff has suffered loss to
+his property or some proprietary right, he recovers damages
+equivalent to the diminution in value of the property or
+right. The authorities establish that both these rules are
+subject to exceptions. These must be closely examined, in
+order to see whether a further exception ought to be made
+in this case.
+The first and best-established exception is in trespass to
+land. It originated in the wayleave cases, where the
+defendant
+trespassed
+by
+carrying
+coals
+along
+an
+underground way through the plaintiff's mine. Although the
+value of his land had not been diminished by the trespass,
+the plaintiff recovered damages equivalent to what he
+would have received if he had been paid for a wayleave: see
+Martin v Porter (1839) 5 M & W 351, 151 ER 149; Jegon v
+Vivian (1871) LR 6 Ch App 742; and Phillips v Homfray
+Fothergill v Phillips (1871) LR 6 Ch App 770. ..
+The second exception is in detinue….
+The third exception is in infringement of patents: see
+Meters Ltd v Metropolitan Gas Meters Ltd (1911) 28 RPC
+157; Watson Laidlaw & Co Ltd v Pott Cassels and
+Williamson (1914) 31 RPC 104 and General Tire and
+Rubber Co v Firestone Tyre and Rubber Co Ltd [1975] 1
+WLR 819. ..To these exceptions to the general rules in tort
+must be added the decision of Brightman J in Wrotham
+Park Estate Co v Parkside Homes Ltd [1974] 1 WLR 798…
+As I understand these authorities, their broad effect is this. In cases
+of trespass to land and patent infringement and in some cases of
+detinue and nuisance the court will award damages in accordance
+with what Nicholls LJ has aptly termed 'the user principle'. On an
+analogous principle, in a case where there was a breach of a
+restrictive covenant the court has, in lieu of a permanent
+mandatory injunction to restore the breach, awarded damages
+equivalent to the sum which the plaintiffs might reasonably have
+demanded for a relaxation of the covenant. But it is only in the
+last-mentioned case and in the trespass cases that damages have
+been awarded in accordance with either principle without proof of
+loss to the plaintiff. In all the other cases, the plaintiff having
+
+established his loss, the real question has not been whether
+substantial damages should be awarded at all, but whether they
+should be assessed in accordance with the user principle or by
+reference to the diminution in value of the property or right. In
+other words, those other cases are exceptions to the second, but not
+to the first, of the general rules stated above.” (pages 1410-4)
+73.
+Nourse LJ went on to hold that the award of the user damages in trespass cases
+depended on the fact that the defendant’s use of the claimant’s land deprived the
+claimant of any opportunity of using it himself. By contrast, holding an
+unauthorised market did not deprive the council of the opportunity of holding one
+itself (page 1414). Nourse LJ accepted that there might be a logical difficulty in
+making a distinction between the present case, and the way- leave cases but held:
+“I think that if the user principle were to be applied here there
+would be an equal difficulty in distinguishing other cases of more
+common occurrence, particularly in nuisance. Suppose a case
+where a right to light or a right of way had been obstructed to the
+profit of the servient owner but at no loss to the dominant owner. It
+would be difficult, in the application of the user principle, to make
+a logical distinction between such an obstruction and the
+infringement of a right to hold a market. And yet the application of
+that principle to such cases would not only give a right to
+substantial damages where no loss had been suffered but would
+revolutionise the tort of nuisance by making it unnecessary to
+prove loss. Moreover, if the principle were to be applied in
+nuisance, why not in other torts where the defendant's wrong can
+work to his own profit, for example in defamation? As progenitors
+of the rule in trespass and some other areas, the wayleave cases
+have done good service. But just as their genus is peculiar, so
+ought their procreative powers to be exhausted.
+These considerations have led me to conclude that the user
+principle ought not to be applied to the infringement of a right to
+hold a market where no loss has been suffered by the market
+owner. If loss caused by the diversion of custom from one market
+to the other had been proved, I would have agreed with Nicholls LJ
+that the general rule ought to apply, so that the council would have
+recovered damages equivalent to the diminution in value of its
+right through the loss of stallage, tolls and so forth. But I rest my
+decision in this case on the simple ground that where no loss has
+been suffered no substantial damages of any kind can be
+recovered. Otherwise we would have to allow that the right to
+recover nominal damages for disturbance of a same-day market
+without proof of loss had become one to receive substantial
+damages on top. If we had to allow that, why not also in the case of
+another-day market where no loss had been proved? It is possible
+that the English law of tort, more especially of the so-called
+'proprietary torts', will in due course make a more deliberate move
+towards recovery based not on loss suffered by the plaintiff but on
+the unjust enrichment of the defendant: see Goff and Jones The
+
+Law of Restitution (3rd edn, 1986) pp 612–614. But I do not think
+that that process can begin in this case and I doubt whether it can
+begin at all at this level of decision.” (page 1415)
+
+74.
+The ratio of the judgment of Nourse LJ, with which Mann LJ agreed, is therefore
+that the user principle ought not to be applied to the infringement of a right to hold
+a market where no loss had been suffered by the market owner. He would,
+however, have awarded some loss of custom if some loss had been shown. In so
+far as Nourse LJ held that the trespass and other exceptions were not exceptions to
+the general rule that damages in tort are compensatory, it is necessary to bear in
+mind that in Blake Lord Nicholls considered that, when no loss was suffered but a
+right was invaded, the award of damages was probably best regarded as an
+exception to the general rule. He cited Ministry of Defence v Ashman, which was
+not cited in Wass or Halifax. In that case Hoffmann LJ held that a claim to
+recover damages for trespass on the basis of the value of the benefit conferred on
+the occupier was a restitutionary claim. He added:
+“It is true that in the earlier cases it has not been expressly
+stated that a claim for mesne profit for trespass can be a
+claim for restitution. Nowadays I do not see why we should
+not call a spade a spade. In this case the Ministry of
+Defence elected for the restitutionary remedy.”
+
+75.
+Indeed, damages were awarded in Livingstone itself even though the appellant
+could not have worked the coal himself.
+76.
+Nourse LJ regarded the underlying rule as a general rule only. It was not an
+absolute rule, but the exceptions to it are those that he specifies. It is of course
+necessary to read the analysis of the law through the lens of Blake. Nourse LJ
+expressly foreshadows the development of the law of restitution in his concluding
+remarks. It is a feature of the reasoning in Blake, which was described by this
+court in Hendrix as marking “a new start in this area of law”, that it does not
+analyse the law in terms of rules and exceptions but in terms of principles, whose
+substance has to be applied. Nourse LJ’s concerns about revolutionising the law
+of tort are moreover taken into account to some extent at least by Lord Nicholls in
+Blake, in that the remedy of an account of profits is only to be awarded in
+exceptional cases where justice would not otherwise be done. Nonetheless, it was
+an essential part of Nourse LJ’s reasoning that damages by reference to the benefit
+obtained by the defendant could only be awarded in those limited situations, and it
+would in my judgment have to be shown that his circumscription of the cases
+where damages were not assessed on a purely compensatory basis could not stand
+with Blake (see Young v Bristol Aeroplane Co Ltd [1944] KB 718 at 729). I do
+not consider that this can be shown. Blake does not discuss non-proprietary torts.
+In my judgment, while an extension of Blake to non-proprietary torts on the same
+basis would be likely to be consistent with Blake, and notwithstanding that, in
+Hendrix, Blake was applied to a breach of contract which did not involve a
+proprietary right, it cannot be said that a case that holds that damages assessed on
+
+a purely compensatory basis are the only damages available for the torts other
+than proprietary torts is necessarily overruled.
+77.
+In Wass, Nicholls LJ held:
+“It is an established principle concerning the assessment of
+damages that a person who has wrongfully used another's
+property without causing the latter any pecuniary loss may
+still be liable to that other for more than nominal damages.
+In general, he is liable to pay, as damages, a reasonable sum
+for the wrongful use he has made of the other's property.
+The law has reached this conclusion by giving to the
+concept of loss or damage in such a case a wider meaning
+than merely financial loss calculated by comparing the
+property owner's financial position after the wrongdoing
+with what it would have been had the wrongdoing never
+occurred. Furthermore, in such a case it is no answer for the
+wrongdoer to show that the property owner would probably
+not have used the property himself had the wrongdoer not
+done so. In Mediana (owners) v Comet (owners), The
+Mediana [1900 AC 110 at 117, [1900–3] All ER Rep 126 at
+129 the Earl of Halsbury LC made the famous observation
+that a defendant who had deprived the plaintiff of one of the
+chairs in his room for 12 months could not diminish the
+damages by showing that the plaintiff did not usually sit on
+that chair or that there were plenty of other chairs in the
+room.”
+
+78.
+He continued:
+“The common law, however, is constantly being developed
+and adapted as social conditions change, and novelty by
+itself is not an answer to the present claim. Indeed, for some
+time I was attracted by the analogy between infringement of
+a patent and infringement of a market right. The argument
+is to the following effect. The owner of a market right has a
+legal monopoly in respect of the holding of a market within
+a certain area. If, for the purpose of assessment of damages
+on the user principle, infringement of a patent is to be
+regarded as the invasion and abstraction by the infringer of
+the property which consists of the monopoly of the patented
+articles granted to the patentee, as Lord Shaw observed in
+the passage I have cited from the Watson Laidlaw case, so
+also is the disturbance of a market right to be regarded as
+the invasion and abstraction of the property which consists
+of the monopoly of the holding of a market in the place in
+question. In other words, if the infringement of a patent is
+to be regarded as the wrongful user of the property
+comprised in the patent, then by parity of reasoning the
+
+disturbance of a market right may properly be regarded as
+the wrongful user of the property comprised in the market
+right. If, in the one instance, damages may be awarded on
+the user principle in a suitable case, so may they be in the
+other instance.
+I have, however, concluded that the analogy is unsound and that
+the application of the user principle in the case of the disturbance
+of a market right would not accord with the basic principles
+applicable to that cause of action. A market right confers a
+monopoly, as does a patent, but the protection which the law
+affords to the owner of a market right is limited to protecting him
+against being disturbed in the enjoyment of his right. If an
+unauthorised market is held without disturbing the lawful market,
+the owner of the lawful market has no remedy, either for damages
+or otherwise. In such an event there is no place for an award of
+damages to be assessed on the user principle. Thus, for example, if
+and so long as the owner of the market right is currently not
+exercising or seeking to exercise his right, and is not holding a
+market at all, he has no cause of action against a person holding an
+unauthorised market, for in such a case he is not being disturbed in
+the enjoyment of his market right (cf Channell B in Dorchester
+Corp v Ensor (1869) LR 4 Exch 335 at 339, where a market was
+not being held on one of the material days).”
+
+79.
+In my judgment, Nicholls LJ also decided this case on the basis that there was no
+loss. However, his reasoning is different. More precisely, he considered there was
+no disturbance in the enjoyment of the market right: in the absence of such a
+disturbance causing loss this would not be an appropriate case for the grant of an
+award of damages on the user basis. He did not hold that user damages were only
+available where a right of property was infringed: in any event in this context he
+held that “novelty by itself is not an answer” (page 1418). Nicholls LJ made it
+clear in his final paragraph (which I have not set out) that he was not deciding in
+which torts user damages were available and which they were not.
+80.
+I disagree with the judge’s observation that “it would be odd if [Lord Nicholls]
+had undergone a Damascene conversion about the availability of restitutionary
+awards across the board in tort cases and yet had not referred to his earlier
+judgment” ([106], quoted above). The availability of a restitutionary award for a
+non-proprietary tort as such was not in issue in Blake on Nicholls LJ’s approach.
+81.
+In the recent case of Forsyth-Grant v Allen (which was decided after the judgment
+of the judge), this court declined to award an account of profits against a
+defendant who was found liable in nuisance. The lead judgment was that of
+Patten J, with whom Mummery LJ agreed. Patten J refers to Blake and to Wass.
+He held that Wass had “limited” the possibility of an award of damages on a
+restitutionary basis (see [19]), meaning, as I read his judgment, that no such award
+would be made if no loss were shown. He went on to hold:
+
+“32. An actionable nuisance does not involve the
+misappropriation of the claimant's rights in the same way,
+even as in a case of trespass, let alone as in a case of
+conversion or copyright or trademark infringement. The
+essence of the tort is that the claimant's rights to the
+reasonable enjoyment of her property have been infringed
+by the use which the defendant makes of his own land. On
+the face of it, this should not entitle the claimant, in my
+judgment, to more than compensation for the loss which she
+has actually suffered; but the highest that it could be put on
+the authorities is that the claimant can, in appropriate cases,
+obtain an award calculated by reference to the price, which
+the defendant might reasonably be required to pay for a
+relaxation of the claimant's rights so as to avoid an
+injunction. This, as already explained, falls a long way short
+of being awarded the whole profit for the development,
+which is far in excess and completely unrelated to the
+measure of loss suffered by the claimant.
+33. Mr Ley referred us to a passage in Lord Keith's speech in A-G
+v Guardian Newspapers Ltd [1990] 1 AC 109, [1988] 3 WLR 776,
+but that was also an action for breach of confidence where equity
+has always asserted a jurisdiction to order an account of profits; it
+is not authority for the making of such an order in a case of
+nuisance. It seems to me that the judge would have been entitled to
+reject the claim for an account of profits outright, simply on the
+basis that it was not an available remedy in an action for nuisance;
+but even if that is wrong, his acceptance that one needs to show
+exceptional circumstances is not, in my judgment, open to
+criticism.”
+
+82.
+In my judgment Patten J did not rule out the possibility of a claim for user
+damages, and thus a claim for restitutionary damages, for nuisance but recognised
+that it might be made, though on a more limited basis than a full account of profits
+in equity. In the particular case, the claim was extravagant (nothing in Blake deals
+with the question of remoteness or mitigation). In any event the judge’s
+assessment of the situation as not exceptional ruled out any possibility of an
+account of profits on the facts of the case. In his judgment concurring in the
+result, Toulson LJ left open the question whether a restitutionary claim might be
+available for a claim in nuisance. In summary, I do not consider that Forsyth-
+Grant takes the matter further than Wass.
+6.2 Halifax Building Society v Thomas
+83.
+In this case, the first defendant had fraudulently obtained a mortgage from the
+appellant. The mortgage was enforced by sale and there was a surplus after
+repayment of the mortgage debt. The first defendant was convicted of conspiracy
+to obtain mortgage advances by deception. The court also made a confiscation
+order against him. The question was whether the building society could claim the
+surplus. The claim was rejected. The building society had elected to affirm the
+
+mortgage, and it had obtained repayment of all the sums due to it. This court held
+that the building society had no restitutionary claim against the first defendant.
+His unjust enrichment could not be treated as having been gained at the expense of
+the building society.
+84.
+Peter Gibson LJ held:
+“Attractively though Mr. Waters has argued the point, I
+remain wholly unpersuaded that in the circumstances of the
+present case the law should accord a restitutionary remedy
+to a secured creditor who has elected not to avoid the
+mortgage but to affirm it and has received full satisfaction
+thereunder. To my mind there is an inconsistency between a
+person being such a creditor and yet claiming more than
+that to which he is contractually entitled and which he has
+already fully recovered. Once the creditor has so elected
+and recovered in full, I do not see why the law should come
+to his aid to allow him to make a further claim. In re
+Simms; Ex parte Trustee [1934] Ch. 1 this court refused to
+allow a trustee in bankruptcy, who had elected to treat a
+receiver as a tortfeasor for converting to his own use the
+chattels of a bankrupt, to recover the profits made by the
+receiver as money had and received. The authority of that
+case is weakened by the reliance by this court on the now
+exploded implied promise theory, but I note that it is still
+cited in textbooks: see, for example, Chitty on Contracts,
+27th ed. (1994), vol. 1, p. 1437, para. 29-052) and it serves
+to illustrate that not every action for an account of profits
+from a wrongdoer, even where there has been use of the
+plaintiff's property, will be allowed, and that it may be
+barred when there has been an election for another remedy.
+Further I am not satisfied that in the circumstances of the
+present case it would be right to treat the unjust enrichment
+of Mr. Thomas as having been gained "at the expense of"
+the society, even allowing for the possibility of an extended
+meaning for those words to apply to cases of non-
+subtractive restitution for a wrong. There is no decided
+authority that comes anywhere near to covering the present
+circumstances. I do not overlook the fact that the policy of
+law is to view with disfavour a wrongdoer benefiting from
+his wrong, the more so when the wrong amounts to fraud,
+but it cannot be suggested that there is a universally
+applicable principle that in every case there will be
+restitution of benefit from a wrong. As Professor Birks says
+(An Introduction to the Law of Restitution, p. 24): "there are
+some circumstances in which enrichment by wrongdoing
+has to be given up. That is, the wrong itself is not always in
+itself a sufficient factor to call for restitution." On the facts
+of the present case, in my judgment, the fraud is not in itself
+
+a sufficient factor to allow the society to require Mr.
+Thomas to account to it.” (pages 227-8)
+85.
+Glidewell LJ held:
+“In order to succeed in this appeal, Mr. Waters is required
+to establish that the second proposition is correct, and that
+English law provides a mechanism by which it can be given
+effect. Despite his able argument, I cannot discern that there
+is any such general established principle. Indeed, Mr.
+Waters has to concede that there is no English authority
+upon which he can rely to establish his right to succeed
+either in the law of restitution, under the head of unjust
+enrichment, or in the law of constructive trusts. The sole
+American decision which appears to be directly in point,
+that of the U.S. District Court for the Southern District of
+New York in Federal Sugar Refining Co. v. United States
+Sugar Equalization Board (1920) 268 F. 575, is not
+sufficiently persuasive to secure a visa for admission into
+English jurisprudence. Like Judge Maddocks, in the
+passage from his judgment quoted by Peter Gibson L.J., I
+cannot conclude that the principle for which Mr. Waters
+contends is at present established as part of our law.” (pages
+229-30)
+
+86.
+The judge treated Halifax as an authority which precluded him from holding that a
+restitutionary award could be made in an action for breach of statutory duty for the
+reasons given in [106] set out above. In Halifax, the claimant had received
+repayment of all that was due to it. There was therefore no need for a
+restitutionary award, and such an award would have been inappropriate. This case
+does not decide that a restitutionary award cannot be made in a non-proprietary
+tort claim, but it does prevent Devenish from claiming the profits made by the
+respondents merely on the basis that they made their profits through violations of
+competition law.
+
+7. The second sub-issue: would a restitutionary remedy be available in the
+circumstances of this case? In particular, was the judge correct to hold that a
+restitutionary remedy would not be available because compensatory damages would have
+been adequate?
+87.
+This issue and the third sub-issue only arise if I am wrong on my conclusions thus
+far about Wass, and also Blake applies to non-proprietary torts, but as these issues
+were argued I will express some provisional conclusions on them.
+88.
+As I have said, the theme of Lord Nicholls’ speech in Blake is to ensure, so far as
+appropriate, that the same remedies are available in the same circumstances for
+different wrongs. It follows therefore that any account of profits should be
+
+available for a non-proprietary tort only in exceptional circumstances of the kind
+referred to in Blake.
+89.
+I have already explained that in my judgment there was a combination of factors
+which enabled Blake to fulfil the criterion of being an exceptional case to justify
+an account of profits. The facts were of course very different. In that case, the
+Attorney General sued in the public interest for harm done to the community at
+large. It was not a mere breach of contract or tort committed in a commercial
+setting. However, Hendrix makes it clear that claims are not limited to claims
+brought by the Attorney General in the public interest, and can include claims
+arising from a commercial situation. So far as the conduct of the respondents is
+concerned, Devenish’s case is that the respondents acted cynically in deliberate
+breach of competition law. The House in Blake did not determine whether the
+defendant’s conduct had to be in deliberate breach of duty. On the facts of this
+case I do not have to decide whether that factor is always required. As Devenish
+points out, under the 2001 decision the Commission found that the respondents'
+conduct was so serious an abuse of competition rules that the respondents incurred
+very substantial fines. Some of them were increased on account of aggravated
+circumstances. Thus, having fixed the basic fines and increased them by 100% in
+the case of three of the respondents, the Commission further increased the fines on
+two respondents, stating:
+“717. Both major European producers effectively formed a
+common front in conceiving and implementing the
+collusive arrangements with the Japanese and other
+European producers. Roche set out to implement a strategic
+plan to dominate and control the world market for all the
+vitamin products it produced, which constituted a very
+substantial part of all commercially available vitamins.
+Roche, in combination with BASF, set out to eliminate all
+effective competition between them in the Community and
+EEA across almost the whole range of important
+vitamins(81). Roche's particular role as prime mover and
+main beneficiary of these collusive arrangements is to be
+noted.
+
+718. This aggravating circumstance justifies an increase of 50 % in
+the basic amount of the fines to be imposed on Roche and an
+increase of 35 % in the basic amount of the fines to be imposed on
+BASF for their infringements affecting the vitamin A, E, B2, B5,
+C, D3, beta-carotene and carotinoids markets”
+
+90.
+Although the fines for some of the parties were reduced in certain respects on
+account of the leniency procedure as they had participated in the “whistle
+blowing” procedure with Aventis receiving the largest basic fine reduction of
+100% as it was the first “whistle blower” (2001 decision, paras 746 – 768), in my
+judgment it is clear that the conduct of the respondents was sufficiently abusive to
+meet any need, as part of the overall requirement for exceptional circumstances
+for the purposes of Blake, to show that the defendants’ conduct was deliberate. It
+
+was, for instance, far more serious than that of the defendant in Hendrix. It does
+not necessarily follow that if exceptional circumstances were shown in this case
+that they would be capable of being shown in any cartel case. The fines in this
+case suggest that this case was out of the ordinary.
+91.
+Moreover, given the direct effect on Devenish, I consider that Devenish has a
+legitimate interest in bringing these proceedings to make a claim attributable to its
+dealings with the respondents. This is subject to the question of the passing-on
+defence with which we are not concerned on this appeal.
+92.
+In the light of my provisional conclusions made about multiple claimants,
+considered below, the fact that there are other potential claimants in respect of the
+same cartels, whom Devenish does not represent and who are not parties to these
+proceedings, does not affect my conclusion on this point.
+93.
+Another feature of this case, which is relevant, is that as I have already explained
+there was a transfer of value by Devenish to the respondents and it is that transfer
+of value for which Devenish seeks recoupment. Moreover, as Devenish points
+out, that transfer of value was made in pursuance of a contractual relationship
+between the parties. These features strengthen the case for an account of profits.
+I do not have to decide whether they are also essential to a claim in tort for a
+restitutionary award.
+94.
+There is strong support from the Commission and the Office of Fair Trading for
+private actions to enforce remedies for breaches of competition law. The point is
+well made in The Office of Fair Trading’s discussion paper, “Private actions in
+competition law: effective redress for consumers and business” (recommendations
+from the OFT, 26 November 2007):
+“2.10 A system which incorporates effective public
+enforcement and a real possibility of private actions will
+increase the likelihood that anti-competitive behaviour is
+detected and addressed (whether by way of a complaint to
+the competition authorities, an approach to the infringing
+undertaking(s), or through the issuing of legal proceedings).
+A more effective private actions system would increase the
+incentives of businesses to comply with competition law,
+since the potential incidence and magnitude of any financial
+liability to a competition authority and/or a claimant will
+increase. As these financial risks increase, so does (or
+should) the interest of those ultimately responsible for the
+governance of the business (especially supervisory boards
+and non-executive directors) or for supporting the business
+(including, for example, financiers and investor groups). In
+this way public enforcement and private actions are
+complementary.”
+
+95.
+Other important documents are the EC Commission’s Green Paper on "Damages
+Actions for Breach of EC Antitrust Rules" (COM(2005) 672 final), the OFT’s
+
+response to that Green Paper (OFT 844) (May 2006), the Department for
+Constitutional Affairs’ consultation paper "The Law of Damages" (CP 9/07) (May
+2007) and the European Commission’s White Paper on Damages and
+accompanying staff working paper.
+96.
+In its discussion paper referred to above, the OFT contemplated that in some cases
+there would be a restitutionary award:
+“2.11 In terms of the type of damages that may be
+recoverable, it is well established that private actions
+involve claims for damages that are compensatory in
+nature. In certain circumstances, the courts may award
+restitutionary damages, which aim to strip away some or all
+of the gains made by a defendant which arise from a civil
+wrong. Furthermore, exemplary damages might be
+available in certain circumstances in England and Wales.
+Other forms of relief, such as the equitable remedy of
+accounting for profits, may also need to be considered in
+some cases. It will be for the courts to determine how the
+general principles for determining loss or damage in various
+types of case apply to actions for infringement of
+competition law.”
+97.
+Similar issues of policy arise in company law and environmental law. In company
+law, an account of profits may be awarded against a director for misappropriation
+of company property, including opportunities, but on the basis of breach of
+fiduciary duty. In both company law and environmental law, the ultimate victims
+(for example, small shareholders or residents of a particular area), may suffer little
+or no loss personally and this removes incentives for the private enforcement of
+claims. In this case, if damages are reduced by the amount of the overcharge
+which Devenish was able to pass on to its customers, and that loss was passed on
+to the ultimate consumer, a person who has a claim may both be unaware that he
+had claim and have no claim worth pursuing.
+98.
+So far as the procedure for collective claims is concerned, there is experience in
+the personal injuries field on which an appropriate procedure could be based (see
+for example the collective action on vibration white finger against British Coal:
+AB and Others v British Coal Corporation (Department of Trade and Industry)
+and Others [2006] EWCA Civ 1357, after which a collective compensation
+agreement, which required affected persons to submit their claims, along with
+medical evidence, through authorised solicitors to be compensated on the basis of
+agreed damages formula, was introduced). But there may be special difficulties in
+this field due to the fact that consumers may not know that they have been victims
+of cartels or be unable to prove that they made any relevant purchase or have no
+incentive to bring any claim.
+99.
+In addition, in February 2008 the Civil Justice Council published a research paper
+by Professor Rachel Mulheron entitled Reform of Collective Redress in England
+and Wales: a Perspective of Need. This report further recommended proposals
+that private enforcement should be developed. In it some of the difficulties of
+private actions were highlighted. In particular the report describes alternative
+
+procedures, first the current “opt-in” procedure whereby claimants have to join an
+ongoing representative claim within a given period, and, in the alternative, a new
+“opt-out” procedure whereby a claim is brought by representative action on the
+premise that all affected parties are parties to it. At Chapter 9, Part F the problem
+of the “passing-on” defence is summarised as:
+“Interaction with the substantive law. The paucity of
+follow-on actions for anti-competitive infringements in
+England, when compared with the number of infringement
+decisions given by the OFT and by the EC, is noteworthy.
+However, one substantive law reason for the difficulty in
+bringing such actions, which must be remarked upon in the
+context of this Section, is the potential availability of the
+passing-on defence. This defence, where available, is a
+significant substantive law barrier to any party in the supply
+chain from bringing a follow-on action”
+
+100.
+Mr Vajda in his reply referred to the collective action for the enforcement of
+violations of competition law. For example, after an investigation the OFT fined
+JJB Sports for overcharging on England and Manchester United football shirts in
+2000 and 2001. Following this ruling the Consumers Association also brought an
+action on behalf of the overcharged consumers, The Consumers Association v JJB
+Sports PLC Case Number: 1078/7/9/07. In a settlement agreed between the
+parties, approved by the Competition Appeal Tribunal by an order of Lord
+Carlisle of Berriew QC dated 14 January 2008, JJB Sports agreed to compensate
+directly any customers who were parties to the action with £20. Other affected
+customers who were not parties to the Consumers Association’s action could, on
+production of the relevant replica shirt, reclaim either £10 if the label was still
+intact or £5 if it was not. These customers were required to have their replica
+shirts indelibly marked and sign a document waiving the right to further legal
+action against JJB Sports.
+101.
+Devenish makes the point that, if the pursuit of collective enforcement actions is
+too difficult, especially in the English legal system with its high costs and risks,
+private enforcement will not happen. It submits that the playing field is far from
+level when victims of cartels, typically small and medium-sized enterprises, face
+large multinational companies. Devenish submits that, by adopting a gains-based
+approach, rather than a loss-based approach, the focus would shift from the
+victims to the perpetrators, which is where in its submission the focus should be.
+102.
+The objective of deterrence is important, and is one of the reasons why the law
+imposes on fiduciaries a strict duty to account: see, for example, per Lord Eldon
+LC in Caffrey v Darby (1801) 6 Ves 488; 31 ER 1159. When faced with a choice,
+the court may have regard to the desirability within limits of deterrence. (It is also
+recognised as a legitimate factor in the decisions of the Court of Justice referred to
+below). However, it is not particularly helpful in this case, because if it were a
+relevant factor it would apply to every breach of competition law. So to hold
+would go outside what was decided in Blake. The court would also have to bear in
+
+mind that the Commission had imposed fines on the respondents (so as to avoid
+the risk of double jeopardy for the respondents) and indeed that in its 2001
+decision the Commission had increased the fines by 100% on three of the
+respondents (BASF, Roche and Aventis) because in its view deterrence was
+needed. Mr de la Mare argues that the court should also take into account that
+there is a detailed regulatory system for competition law but, while it is not
+necessary to reach a final view on this point, it is difficult to see how that could of
+itself justify ruling that the circumstances were not exceptional. The court is more
+likely to want to consider the way in which the regulatory system was operated. If
+the existence of a detailed regulatory system were an answer to a claim for a
+restitutionary award, it might be said that logically there should be no private
+rights of action by victims of cartels for recompense of any kind.
+103.
+Moreover, it is clear from the various documents referred to above that the
+availability or otherwise of an account of profits is a matter for the courts.
+104.
+But the fundamental difficulty in this case is that an account of profits is available
+only where it is necessary to do justice in the case. Accordingly, I agree with the
+judge that it is not an appropriate remedy in principle where damages are an
+adequate remedy (see the judge’s judgment at [112]). I reject Devenish’s
+submission that a claimant has a choice whether to seek compensatory damages or
+a restitutionary award and that an election need not be made until judgment or in
+some cases even satisfaction of the judgment.
+105.
+On this point, the principal claim made by Devenish is for the overcharge. This
+point was confirmed in a document submitted after the hearing pursuant to the
+court's request.
+106.
+The judge drew a distinction between claims for damages, which are unavailable
+on the facts, and claims for damages which could not be proved for evidential
+reasons (see eg [81]). He held this case fell in the latter description and that
+damages could not be said to be inadequate. The judge's distinction is useful, but
+I would not go so far as to say that damages could never be inadequate if the
+difficulty was one of proof: in my judgment it is at least arguable that the court
+should order an account of profits where the evidential difficulties were not the
+claimant’s responsibility.
+107.
+However, that is not this case. In his report dated 23 February 2006, Dr
+Veljanovski has given his estimate of the overcharge for three vitamins for 1998.
+He has had to make certain assumptions but the reasonableness of these
+assumptions will no doubt be a matter of proof. Mr Vajda has not referred us to
+any particular insuperable difficulties of proof. I note that Dr Veljanovski has not
+been able to make an estimate of the overcharge for certain vitamins "either due to
+insufficient price data or initial evidence the cartel was not able to effectively raise
+prices". It has not been suggested that the necessary price data would not be
+available on disclosure, and there would of course be no overcharge if the cartel
+had not been able to raise prices. Dr Veljanowski does not appear to support the
+proposition that the fact that the cartels were secret has made it exceptionally
+difficult or impossible for Devenish to prove its claim.
+
+108.
+Although the assumed facts do not include the passing-on defence that is yet to be
+adjudicated upon, Devenish submits that it faces extreme difficulties of causation
+and loss if a passing-on defence lies. The first skeleton argument states:
+ "Given the passage of time and difficulties of proof which
+Devenish faces in relation to the sales and purchases which
+it has made, it is faced with a real prospect that it may not
+be able to prove its losses in the face of an attack by the
+defendant to the effect that it must have passed on its losses
+to its customers, or failed, as a matter of law, to prove that it
+has mitigated its losses by passing them on.” (para. 95).
+109.
+ It is on that basis that Devenish submits that the award of compensatory damages
+would be inadequate. It relies on the fact that the cartels were secret. However,
+the report of Dr Veljanovski filed on behalf of another claimant in these
+proceedings (Moy Park) suggests that direct purchases from BASF, which would
+include Devenish, passed on 100% of the overcharge to indirect purchasers. It
+would not be just to give Devenish a restitutionary award to enable it to avoid the
+consequences of its having passed on the overcharge.
+110.
+Devenish also alleges that the effect of the breaches of art 81 has been to inhibit
+the development of its business so as to make it unable to compete with members
+of the cartel. This has been referred to as “the margin squeeze” claim. It was a
+first raised in a reply to a request for information served in February 2006 and it
+receives a little mention in the main skeleton argument in support of the appeal.
+In theory, the situation might not be far removed from the position of the Crown
+in Blake if the respondents, in carrying on the cartels, have destroyed or made in
+practice impossible to find the evidence which would show the effect or extent of
+the cartels. However, that is not the way the case appears to be put. What appears
+to be said on this aspect of the case is that there are considerable difficulties of
+proof: see, for example, [91] of the appellants' main skeleton argument in support
+of this appeal. The court is accustomed to dealing with those difficulties " by the
+exercise of a sound imagination and the practice of the broad axe" (see per Lord
+Shaw in Watson, Laidlaw v Pott, Cassells and Williamson). Accordingly the fact
+that damages will be very difficult to prove is not in my judgment enough to
+justify a gains-based remedy, and the margin squeeze claim, which was not
+developed in oral argument in any great detail, cannot therefore lead to such a
+remedy.
+111.
+Lord Nicholls considered that a restitutionary award could be made whenever the
+justice of the case requires it. He suggested as a general test the test whether the
+claimant has a legitimate interest in stripping the defendant of its profits. This test
+is not in my judgment met in, for instance, a case where a claim was incapable of
+clear proof because the claimant had not maintained effective records. The justice
+of the case must also relate to the measurement of the remedy. It is not enough
+that the claimant fails to prove his loss on conventional grounds (see Wass,
+above). Nor, in my judgment, is it enough to show that, because of the passing-on
+defence, Devenish could not prove that it was entitled to any compensation.
+112.
+These conclusions make it unnecessary for me to consider the further submission
+by Mr de la Mare that a restitutionary award would be penal in nature and
+
+therefore offend the Community law principle of non bis in idem. I would,
+however, add that in my judgment it would be relevant to consider, in determining
+whether it was just to order an account of profits in the circumstances of this case,
+whether on its true interpretation the fines imposed by the 2001 decision had
+already required the respondents to account for their profits obtained as a result of
+the cartel. We did not hear detailed argument on the way in which the fines were
+calculated, and I would therefore leave open the question of the effect of the 2001
+decision on this point. Taking the case of Roche and vitamin A as an example, the
+basic amount of the fine (before any increase for aggravating circumstances)
+appears on the face of it to have been fixed by reference to Roche's relative
+importance in the market for that vitamin and increased by 100% and then 90% to
+achieve sufficient deterrence and to take account of the duration of the
+infringements respectively, rather than by reference to the profits which Roche
+made.
+
+8. (third sub-issue) multiple claimants
+113.
+The judge was concerned that there might be insuperable procedural objections to
+making a restitutionary award in this case. He referred to the existence of
+multiple claimants.
+114.
+It is unnecessary to express a final conclusion on this point but provisionally it
+seems to me that, if there were a possibility of conflicting claims by multiple
+claimants, the court should consider whether case management directions could
+deal with that problem. Such directions might afford a possible solution in this
+case if the passing on defence were also to apply to a claim for an account of
+profits (compare Aggravated Exemplary and Restitutionary Damages (1997) (Law
+Comm No 247) at para 3.80). The judge thought it was unfair that some claimants
+might seek restitutionary awards and others compensatory damages. I do not
+consider that this is of itself necessarily unfair or likely to lead to difficulties if in
+each case the award can be limited to each potential claimant’s own loss. In those
+limited circumstances, in my judgment, Devenish is right to say that the claimant
+should not be denied a remedy it would otherwise have because of the possibility
+that the other claimants might be awarded different remedies. That possibility
+could occur now in cases where restitutionary awards can already be made.
+115.
+I have expressed these provisional conclusions on the basis that the passing on
+defence would apply to a claim for an account of profits as it does to a claim for
+damages. Devenish, however, does not accept that this would be the case and that
+issue does not fall to be determined on this appeal.
+116.
+On a separate point, it would not in my judgment be unfair if a single claimant
+sought different remedies against different respondents. Moreover, the risk of
+inconsistent factual determinations exists in any event and thus even if only
+compensatory damages are available.
+
+(B) COMMUNITY LAW
+117.
+The two questions of Community law argued in this court were not the subject of
+decision by the judge.
+118.
+The background principles are common ground. Since Community law regulates
+competition, English law must provide remedies for breach to persons injured
+thereby. This follows from Courage v Crehan [2001] 1 ECR 1-6297. This case
+concerned the question whether English law was required to disapply the rule of
+English law that a party to an unlawful contract could not himself claim damages
+for its breach and provide a remedy in damages to a person if he was able to show
+a breach of art 85 in relation to a “beer tie” (whereby public houses were obliged
+to buy beer from their tied breweries at higher prices than independent public
+houses). The Court of Justice held:
+ “Any individual can rely on a breach of Article 85(1) of the
+Treaty before a national court even where he is a party to a
+contract that is liable to restrict or distort competition
+within the meaning of that provision.” ([24])
+119.
+The Court of Justice also held:
+ “The full effectiveness of Article 85 of the Treaty and, in
+particular, the practical effect of the prohibition laid down
+in Article 85(1) would be put at risk if it were not open to
+any individual to claim damages for loss caused to him by a
+contract or by conduct liable to restrict or distort
+competition.” ([26])
+120.
+However, the methods for the effective enforcement of this private action would
+be matter for national courts, subject to the proviso that:
+
+“…such rules are not less favourable than those governing
+similar domestic actions (principle of equivalence) and that
+they do not render practically impossible or excessively
+difficult the exercise of rights conferred by Community law
+(principle of effectiveness) (see Case C-261/95 Palmisani
+[1997] ECR I-4025, paragraph 27).” ([29]).
+121.
+The Court of Justice continued:
+“In that regard, the Court has held that Community law
+does not prevent national courts from taking steps to ensure
+that the protection of the rights guaranteed by Community
+law does not entail the unjust enrichment of those who
+enjoy them… Similarly, provided that the principles of
+equivalence and effectiveness respected… Community law
+does not preclude national law from denying a party, who is
+found to bear significant responsibility for the distortion of
+competition the right to obtain damages from the other
+
+contracting party. Under a principle which is recognized in
+most of the legal systems of the member states and which
+the court has applied in the past… a litigant should not
+profit from his own unlawful conduct, where this is
+proven.” ([30]-[31])
+
+122.
+Contrary, however, to the submission of Mr Vajda, I do not read the final sentence
+that I have quoted as holding that it is a generally accepted principle of law in the
+member states that a gains-based remedy should be granted. We have no
+information as to whether such remedies are normally given in any of the member
+states. (As to the position in France, however, see generally: P. Arhel, Practiques
+anticoncurrentielles (injonctions et sanctions), 2003
+Dalloz
+Répertoire
+Commercial).
+
+123.
+The first issue is whether Community law prevents a restitutionary award. Mr de
+la Mare submits that to make a restitutionary award in order to deter further
+breaches of competition law would run counter to the 2001 decision contrary to
+art 16 of the Modernisation Regulation. Art 16 of the Modernisation Regulation
+provides:
+“where national courts rule on agreements… under article
+81… they cannot take decisions running counter to the
+decision adopted by the Commission. ”
+
+124.
+Mr Vajda’s response is that a restitutionary award would not be penal. It would
+simply require the respondents to account for some or all of the profits they had
+actually made (see My Kinda Town v Soll [1982] FSR 147 at 156 (reversed on
+liability by this court [1983] RPC 407). He further submits that art 16 is not
+involved because there is no operative part of the Commission decision dealing
+with private remedies. Art 16 merely codifies the principles in Masterfoods Ltd v
+HB Ice cream Ltd [2000] ECR –11369.
+125.
+Masterfoods concerned an exclusivity agreement whereby a fridge supplied by
+HB Ice Cream at a nominal rent could only be used for the storage of HB Ice
+Cream products and not those of its rival, Masterfoods. HB Ice Cream
+successfully defended a claim by Masterfoods in the Irish courts that its
+exclusivity contract was in breach of arts 85 and 86. However, HB Ice Cream’s
+claim for damages was dismissed. The Commission ruled that the provision of
+freezer units for no or a nominal rent was in breach of art 86. The Court of Justice
+held:
+
+ “52. It is even more important that when national courts
+rule on agreements or practices which are already the
+subject of a Commission decision they cannot take
+
+decisions running counter to that of the Commission, even
+if the latter's decision conflicts with a decision given by a
+national court of first instance.”
+
+126.
+In any event, he submits that the argument of Mr de la Mare is contrary to
+Manfredi v Lloyd Adriatico Assuricazione [2006] ECR 1-6619. In this case,
+certain insurance companies had unlawfully agreed to increase premiums.
+Advocate General Geelhoed, in his opinion, said that the principles in Courage v
+Crehan should apply to a breach of art 81, and that private enforcement and public
+enforcement co-existed. As regards compensatory damages, and damages which
+went further than providing compensation, he said:
+“70. Ensuring the useful effect of article 81(1) EC does not,
+to my mind, necessitate the award of compensation greater
+than the harm suffered. On the other hand, where special
+forms of damages can be awarded under national
+competition law, they must also be available if the claims
+concerned are based on an infringement of Community
+competition law.”
+
+127.
+The Court of Justice applied the principles in Courage v Crehan. Therefore, in
+the absence of Community rules governing the matter, it was for the domestic
+legal system of each member state to prescribe the detailed rules governing the
+exercise of the individual's right of action, including limitation periods, principles
+of causation and procedural rules, provided that the principles of equivalence and
+effectiveness were observed. (I would here note a further submission by Mr de la
+Mare that in the absence of Community rules domestic law could also determine
+whether a passing-on defence lay: Case 6/79 Just v Ministry for Fiscal Affairs
+[1980] ECR 501).
+128.
+ In Manfredi, the Court of Justice also held that the question whether an award of
+punitive damages “greater than the advantage obtained by the offending operator”
+should be made was one for the national courts:
+
+“89. In accordance with settled case-law, the national
+courts whose task it is to apply the provisions of
+Community law in areas within their jurisdiction must
+ensure that those rules take full effect and must protect the
+rights which they confer on individuals…
+91. Indeed, the existence of such a right strengthens the
+working of the Community competition rules and
+discourages agreements or practices, frequently covert,
+which are liable to restrict or distort competition. From that
+point of view, actions the damages before the national
+
+courts can make a significant contribution to the
+maintenance of effective competition in the Community…
+92. As to the award of damages and the possibility of an
+award of punitive damages, in the absence of Community
+rules governing the matter, it is for the domestic legal
+system of each Member State to set the criteria for
+determining the extent of the damages, provided that the
+principles of equivalence and effectiveness are observed.
+
+93. In that respect, first, in accordance with the principle of
+equivalence, it must be possible to award particular
+damages, such as exemplary or punitive damages, pursuant
+to actions founded on the Community competition rules, if
+such damages may be awarded pursuant to similar actions
+founded on domestic law (see, to that effect, Brasserie du
+pêcheur and Factortame, cited above, paragraph 90).
+
+94. However, it is settled case-law that Community law
+does not prevent national courts from taking steps to ensure
+that the protection of the rights guaranteed by Community
+law does not entail the unjust enrichment of those who
+enjoy them (see, in particular, Case 238/78 Ireks-Arkady v
+Council and Commission [1979] ECR 2955, paragraph 14,
+Joined Cases C-441/98 and C-442/98 Michaïlidis [2000]
+ECR I-7145, paragraph 31, and Courage v Crehan, cited
+above, paragraph 30).
+
+95. Secondly, it follows from the principle of effectiveness
+and the right of any individual to seek compensation for
+loss caused by a contract or by conduct liable to restrict or
+distort competition that injured persons must be able to seek
+compensation not only for actual loss (damnum emergens)
+but also for loss of profit (lucrum cessans) plus interest.”
+
+129.
+Mr Vajda submits that the Court of Justice in Manfredi accepted that there could
+be private enforcement and that it must have contemplated the possibility of a
+restitutionary award. Moreover, he relies on the Commission Staff Working paper
+which has similarly interpreted the Manfredi decision by accepting that punitive
+damages are permitted by it. Mr Vajda also relies on case law regarding unlawful
+charges, such as Test Claimants in the FII Group Litigation v IRC C-446-04, but
+this line of authority is not helpful given the jurisprudence under art 81 itself.
+130.
+In my judgment, Community law does not prevent the making of a restitutionary
+award. I have already indicated that, if it were open to the Court to make such an
+award, it would be awarded only in exceptional circumstances that would not
+
+include the case such as this where a claimant in the position of Devenish (on the
+assumed facts) would in an appropriate case be able to prove its loss on
+conventional principles. There is no relevantly exceptional difficulty in this case
+in doing so. It is, therefore, unnecessary to go further into this Community law
+question for the purposes of this case. Provisionally, however, it seems to me that,
+if the award were permitted by domestic law to enable Devenish to recover profits
+made by the respondents where it had failed to show any harm, it would in my
+judgment be no more extensive a remedy than the punitive damages considered in
+Manfredi. If the award were in those circumstances available in domestic law, the
+principle of equivalence would apply. Since, if Blake applies, a restitutionary
+award could only be made in exceptional circumstances where the justice of the
+case required it, I do not consider that there is likely to arise any question of such
+an award offending the Community law principle that the claimant should not
+receive unjust enrichment.
+131.
+In my judgment, Mr de la Mare’s argument proceeds on the mistaken basis that a
+restitutionary award would require the respondents to account for profits on
+transactions where the overcharge was passed on. If the passing-on defence is
+available, then the profits to be accounted for would be adjusted accordingly (see
+above). If the passing-on defence is not available, but the subsequent purchasers
+have separate claims, issues of multiple liability arise in any event.
+132.
+I do not need to deal with the further argument (based on Van Colson, referred to
+below, at [134]) that in considering the adequacy of remedies it uses to implement
+art 81 the court must have regard to the combined effect of both the civil remedy
+and the fine. I have already accepted above that the court needs to consider the
+impact of the fine. I do not read the jurisprudence cited to us as establishing that
+this court must refuse to grant a restitutionary remedy simply because the breach
+of regulatory rules is capable of resulting in a fine.
+133.
+Mr de la Mare further submits that a remedy by way of a restitutionary award is
+impliedly excluded by the scheme of remedies provided by domestic law. He
+relies for this submission by analogy on cases such as Deutsche Morgan Grenfell
+Group plc v IRC [2007] 1 AC 558. This submission requires a detailed analysis of
+the domestic legislation. We were not taken to that legislation, as the submission
+was not fully pursued. In the circumstances, I do not consider that I need to deal
+with this submission.
+134.
+The second question is whether the availability of a restitutionary award is
+necessary for the purposes of the effectiveness principle of Community law. Mr
+Vajda relies on Case 14/83 Von Colson v Land Nordrhein-Westfalen [1984] ECR
+1891. This case concerned an application for damages pursuant to rights
+conferred by Directive 76/207/EEC for discrimination on the grounds of sex by a
+female applicant turned down for employment which was awarded to less
+qualified men. The Court of Justice held that, although the directive left member
+states free to choose between the different solutions suitable for achieving its
+objective if compensation for this kind of breach was awarded it must be
+“adequate in relation to the damage sustained” ([23]). This compensation,
+therefore, had to be more than purely nominal compensation such as, for example,
+the reimbursement only of the expenses incurred in connection with the
+application.
+
+135.
+Van Colson was decided in a completely different context. Even so, it is clear that
+the remedy under national law need be no more than “adequate in relation to the
+damage sustained”. (Mr Hoskins cited Case 271/91 Marshall [1993] ECR 1-
+4367, but that decision does not take the matter materially further for this
+purpose). It is also clear from cases such as Manfredi that purely compensatory
+damages are sufficient for the purposes of safeguarding the rights of private
+persons under art 81. The doctrine of effectiveness is therefore directed to
+ensuring sufficient remedies rather than the fullest possible remedies. An action
+for compensatory damages fulfils the requirements of sufficiency. Accordingly I
+would dismiss the appeal on this ground.
+136.
+As to the question of a reference for a preliminary ruling to the Court of Justice, I
+consider that there is no doubt about the answer to the last question and moreover
+I do not consider that it is appropriate to make a reference while the question of
+domestic law remains subject to a further appeal. If Devenish were to appeal and
+to be successful on appeal, a reference on the basis sought would have been
+unnecessary.
+Disposition
+137.
+For the reasons given above I consider that this appeal should be dismissed.
+Lord Justice Longmore:
+138.
+Article 81 of EC Treaty prohibits cartels and in particular agreements between
+companies which directly or indirectly fix purchase or selling prices. The
+defendant manufacturers of vitamins operated just such a cartel and were found
+out. On 21st November 2001 the EC Commission adopted a decision that
+agreements made by the defendants had been in breach of Article 81 and they
+were fined accordingly. Those fines were at the time the highest fines which the
+Commission had ever imposed.
+139.
+It is the duty of Member States to provide domestic causes of action to persons
+who claim to have suffered loss caused to them as a result of such agreements. In
+the United Kingdom that cause of action is for breach of statutory duty, see
+Sempra Metals Ltd v IRC [2008] 1 A.C. 561, 595 para. 69 per Lord Nicholls of
+Birkenhead. The question that arises on this appeal is how damages for breach of
+this statutory duty should be assessed.
+140.
+Devenish, who have carried the burden of the appeal on behalf of the claimants,
+bought vitamins from the defendants either for immediate re-sale or for use in
+making up other products which were then re-sold. They purchased the vitamins
+at an artificially high price illegally set by the defendants. They were able,
+however, to re-sell at a reasonable profit and it appears likely that they did not
+themselves have to absorb that artificially high price. They fear (although it has
+not yet been so decided) that a court might say that they have suffered no loss
+since they have passed the artificially high price down to their sub-buyers. They
+have, therefore, brought before the court, by way of preliminary issue, the
+question whether they can claim from the defendants the gain which those
+defendants have wrongly made. In other words they seek an account of the
+
+surplus profit illegitimately made by the defendants and an order that that profit
+should be paid to them.
+141.
+This novel claim was rejected by the judge who also decided that Devenish could
+not recover exemplary damages. There is no appeal against that latter decision but
+Devenish do continue to maintain a claim to what they have called “a
+restitutionary award” but which is in reality a claim for account of profits in the
+sense I have already explained. This claim requires the court to go back to first
+principles.
+142.
+When a defendant has broken an obligation which he owes to a claimant, the
+normal rule of English law is that the claimant is entitled to compensation for any
+resulting loss to him. This is not an invariable rule since a claimant can
+sometimes recover for someone else’s loss, although he will normally be
+accountable in respect of any sum recovered to the person who has actually
+suffered the loss, see the instances collected in The Albazero [1977] AC 774, 846.
+143.
+There are also some instances when a claimant can recover more than his loss.
+The most obvious example is a case in which a claimant is entitled to exemplary
+damages which are intended to penalise a defendant for tortious conduct,
+particularly if he has calculated that the profit he is likely to make from his
+wrongful conduct will exceed any damages for which he is likely to be liable to
+the claimant within the second category of such damages identified by Lord
+Devlin in Rookes v Barnard [1964] AC 1129, as further explained by the House of
+Lords in Kuddus [2002] 1 AC 122. In the current state of the law, exemplary
+damages are not available for breach of contract even if a contract – breaker has
+made a similarly cynical calculation that it will benefit him more to break a
+contract than to perform it, see The Siboen and Sibotre [1976] 1 Lloyds Rep 293.
+As I have already said, the original claim for exemplary damages in this case is
+not now pursued.
+144.
+Another category of cases in which the claimant can recover more than his loss
+has been labelled “restitution for wrongs” or “a restitutionary award” and, as such,
+has found its way into text-books on restitution. Such a label is understandable
+because, in the cases where such damages are awarded, a defendant has
+undoubtedly been unjustly enriched but the label “restitution” is perhaps liable to
+mislead to the extent that it can imply the restoration to a claimant of money or
+other benefits he once had but has since lost. In cases where a claimant recovers
+more than he has lost he is usually depriving a defendant of a gain he has made; it
+may be that the law will require such a defendant to transfer to the claimant the
+gain he has made but it may perhaps be queried whether the word “restitution” is
+the most apt word to describe that process. It may be for these reasons that Lord
+Nicholls in AG v Blake [2001] 1 A.C. 268 at 284H described without further
+explanation the phrase “restitutionary damages” as “unhappy”. He preferred to
+use the expression “account of profits”. I shall do that also.
+145.
+The most obvious case in which an account of profits is appropriately awarded is
+when a defendant has wrongfully used the claimant’s property and made a gain
+from it. If a defendant has made a profit from trespassing on the claimant’s land
+or interfering with his goods or his intellectual property rights, he may be required
+to account to the claimant for the profit he has made from using the claimant’s
+
+property without his permission or authorisation. Before AG v Blake it was held
+in this court in Stoke-on-Trent City Council v Wass [1988] 1 WLR 1406 that such
+an award was not available in a case of public nuisance when a defendant
+interfered with the right of the claimant to hold a market. In the light of AG v
+Blake in which the House of Lords made a declaration that the Attorney General
+was entitled to be paid whatever amount was due to the notorious traitor Blake
+from his publisher under the agreement for publishing his account of his
+treacherous activities, I do not consider that Wass is authority for the proposition
+that the categories of cause of action in which it is permissible to order an account
+of profits are necessarily confined to tortious claims for breach of a proprietary
+right. Lord Nicholls was able to show that an account of profits had always been
+available where equitable rights (e.g. breach of confidence) had been infringed
+and considered that the claim for breach of contract in Blake was closely akin to a
+claim for breach of a fiduciary obligation where an account of profits was a
+standard remedy, see 287F.
+146.
+It is sometimes said that another category of cases in which a claimant can be
+awarded more than his actual loss occurs when a claimant is awarded damages for
+loss of use. The best-known example is that of Lord Halsbury’s chair in The
+Mediana [1900] AC 113.
+“Supposing a person took away a chair out of my room and
+kept it for twelve months, could anybody say you had a
+right to diminish the damages by showing that I did not
+usually sit in that chair or that there were plenty of other
+chairs in the room?”
+With a little elaboration Lord Halsbury answered that question in the negative
+because one could always assess damages by reference to the amount it would
+cost to hire a chair for the length of time for which the claimant had been deprived
+of its use. In AG v Blake at 279E Lord Nicholls preferred to regard these cases as
+“an exception to the rule” but as Mance LJ pointed out in Experience Hendrix
+LLC v PPX Enterprises Inc [2003] All ER Comm 830 standard measures of
+assessing loss (e.g. by reference to an available market in case of sale or hire of
+goods) are not necessarily to be regarded as other than compensatory:-
+“Whether the adoption of a standard measure of damages
+represents a departure from a compensatory approach
+depends upon what one understands by compensation and
+whether the term is only apt in circumstances where an
+injured party’s financial position, viewed subjectively, is
+being precisely restored.”
+This group of “loss of use” cases can, however, be safely put to one side on this
+appeal because the claimants have made clear that their claim is confined to an
+account of the profits made by the defendants and an order that all (or some) of
+them be paid over to themselves.
+147.
+Once one has cleared the legal ground and appreciated that the claim made in the
+present case is a claim that the defendants should disgorge the profit which they
+have made from their breach of statutory duty in operating the cartel the
+
+difficulties of the claim become apparent. No one suggests that, to the extent the
+claimant has in fact suffered a loss because it has paid too high a price which it
+has been unable (for any reason) to pass on to its own purchasers, that loss cannot
+be recovered. If, however, the claimant has in fact passed the excessive price on
+to its purchasers and not absorbed the excess price itself, there is no very obvious
+reason why the profit made by the defendants (albeit undeserved and wrongful)
+should be transferred to the claimant without the claimant being obliged to
+transfer it down the line to those who have actually suffered the loss. Neither the
+law of restitution nor the law of damages is in the business of transferring
+monetary gains from one undeserving recipient to another undeserving recipient
+even if the former has acted illegally while the latter has not.
+148.
+It is right to say that Devenish also wish to mount a claim for the profit which they
+claim to have lost because they say that they have lost sales which they would
+have made but for the excessive prices imposed by the defendants. Devenish say
+with some force that, although such a claim is theoretically possible, it will be
+difficult to prove. It follows, say Devenish, that damages are an inadequate
+remedy and that justifies an account of the profits illegitimately made by the
+defendants. The bald assertion that the fact that damages are difficult to prove
+justifies a claim for account of profits cannot be accepted for many reasons which
+include
+i)
+difficulty of proof does not necessarily mean that no damages will be
+awarded;
+ii)
+if no or few damages are awarded, that does not mean that such damages
+are inadequate; loss of a possible sale is less serious than actual out-of-
+pocket loss;
+iii)
+the concept of damages being an inadequate remedy is a useful concept in
+the field of interlocutory injunctions but is a treacherous one if it is used as
+a supposedly principled reason for the disgorgement of profits made by
+somebody else;
+iv)
+it is clear on the authorities that apart from cases of the misuse of the
+claimant’s own property, an account of profits outside the established
+categories is only to be made in “exceptional” cases per Lord Nicholls in
+AG v Blake (no less than 3 times) at 284H, 285D and F). A traitor, seeking
+to profit from his treachery by making a self-justificatory book about it, is
+indeed “exceptional”. Cartels are not “exceptional” in that sense. It is
+difficult to see how one cartel could be more “exceptional” than another.
+If the claim were allowed in the present case, it would quickly become the
+norm in all cartel cases that restitutionary awards should be made;
+v)
+the claim as originally formulated is an all or nothing claim. It is thus
+different from the sort of award that is sometimes made in the form of the
+price that the defendant would have had to pay to obtain a claimant’s
+consent to do what he has done. That was possible in Wrotham Park
+Estates Co v Parkside Homes Ltd [1974] 1 WLR 798 and in the
+Experience Hendrix case. Here that is not an available option. To the
+extent that it may be said that the claimant should be content with a
+
+proportion of the defendants’ profits rather than all of it, it is not possible
+to see a principled way in which that could be done since there is no
+obvious way in which the claimant’s loss can be related to the defendants’
+gain.
+149.
+The only real argument in favour of an order for account of profits is the argument
+of policy that cartels are a notorious evil and the civil courts should in some way
+provide an incentive for their eradication by making such an order. Mr Vajda QC
+for Devenish made a sustained plea to this effect. But it does not seem to me to be
+right for the courts to take this step on their own initiative. Towards the end of his
+submissions Mr Brealey QC asked rhetorically whether a restitutionary system of
+damages was something which the courts would wish to encourage. I would for
+my part answer “Not in general apart from proprietary or fiduciary claims and
+exceptional cases such as that of Blake”. Lord Hobhouse of Woodborough made
+the same point even more eloquently than Mr Brealey in his dissenting speech in
+AG v Blake at page 299D-E:-
+“… if some more extensive principle of awarding non-
+compensatory damages for breach of contract is to be
+introduced into our commercial law the consequences will
+be very far-reaching and disruptive. I do not believe that
+such is the intention of your Lordships but if others are
+tempted to try to extend the decision of the present
+exceptional case to commercial situations so as to introduce
+restitutionary rights beyond those presently recognised by
+the law of restitution, such a step will require very careful
+consideration before it is acceded to.”
+150.
+I agree with Arden LJ on all the European Community issues raised. I would
+dismiss this appeal.
+Lord Justice Tuckey:
+151.
+The facts of this case have been sufficiently set out in the judgments of Arden and
+Longmore LJJ for which I am grateful. But I think I should add that at the end of
+the hearing before us Devenish formulated its claim for the wrongful net profits
+made by the defendants from their breach of statutory duty as follows:
+For the avoidance of doubt the wrongful net profits are the
+cartel-induced overcharges in selling vitamins to the
+Claimant. So, for example, if a unit of vitamins would have
+cost the Claimant £60 (on which the defendants lawful net
+profit was £15) and, as a result of the cartel, the unit of
+vitamins actually cost the claimant £100, the claimant seeks
+£40 (not £55). The £40 is the “overcharge/wrongful net
+profit”.
+In other words Devenish is claiming the overcharge as if it were the defendants’
+net profit so as to avoid having to take into account the fact (if true) that it passed
+on the whole of the overcharge to its customers. I can see no way in which it
+
+could avoid taking this “pass on” into account in any compensatory claim for
+damages.
+152.
+Nevertheless the court has to decide whether an account of profits should be
+available in a cartel case, or at least in this case. I agree with Arden and
+Longmore LJJ that it should not.
+153.
+The questions I have considered on the way to reaching this conclusion are:
+1) Does community law compel an answer one way or another?
+2) Are we bound by Wass to hold that an account of profits cannot be awarded on
+a claim for a non-proprietary tort?
+3) Are damages an adequate remedy and is this an exceptional case?
+
+154.
+Like Arden LJ I think the answer to my first question is No. Mr Vajda’s
+proposition that community law positively requires a restitutionary award was not
+supported by the material upon which he relied. In Courage v Crehan (at para.
+26) the ECJ held that the full effectiveness of the treaty would be put at risk if it
+were not open to any individual to “claim damages for loss caused to him” by
+conduct liable to restrict or distort competition. There is nothing in this case (or
+Von Colson for the reasons given by Arden LJ in para. 134) which suggests that
+anything more is needed to satisfy the community law requirement for
+effectiveness. Indeed I understand that restitutionary remedies are not normally
+available in other states of the European Union. Such remedies would only be
+required here if prescribed by the principle of equivalence which is not invoked in
+this case.
+155.
+I also reject Mr de la Mare’s submission that community law prevents a
+restitutionary award. Such an award would not be a decision “running counter” to
+a decision of the Commission and would not therefore breach Article 16 of the
+Modernisation Regulation (see para. 122) and is contrary to what the ECJ said at
+paras. 89 - 95 in Manfredi (see para. 127).
+156.
+My answer to the second question is that Wass is binding on us. I agree with what
+Arden LJ says at para. 57 that Blake suggests that an account of profits could be
+ordered for non-proprietary torts. But for the reasons she gives in para. 75 I do
+not think it can be said that Wass, which was not cited in Blake, has necessarily
+been overruled by it. It can stand with Blake. Non-proprietary torts do still
+therefore fall to be considered as an exception to the general principles articulated
+by Lord Nicholls in Blake unless and until Wass is overruled.
+157.
+This conclusion makes my third question academic but my answer to it is that
+damages are an adequate remedy and this is not an exceptional case.
+158.
+Devenish’s expert has been able to calculate the amount of the overcharge using
+methodology typical in anti-trust cases. In calculating Devenish’s loss he has not
+taken into account any pass-on, whereas in the case of one of the other claimants,
+a poultry producer further down the vitamins supply chain, he has been able to
+
+calculate the pass-on upstream and downstream of the claimant. If Devenish has
+suffered a loss it is recoverable as damages, but if it has not I do not see how this
+can be a reason for saying that damages are an inadequate remedy; they are
+adequate for anyone who has suffered a loss. An account of profits of the kind
+advanced would give Devenish a windfall. I can see no justification for this. As
+Longmore LJ says the law is not in the business of transferring monetary gains
+from one undeserving recipient to another.
+159.
+Nor do I think that difficulty of proof means that damages are an inadequate
+remedy. The overcharge has been calculated without difficulty. A claim for what
+is described as “margin squeeze” was added by Devenish in further information
+given a year after it launched its claim for the overcharge. It has the appearance
+of an after-thought and played little or no part in argument before the judge
+although, as he notes, difficulty of proof was in the forefront of Devenish’s case.
+Greater emphasis was placed upon this part of the claim by Mr Vajda before us,
+but like Longmore LJ I do not accept that the assertion that damages are difficult
+to prove justifies the claim for account of profits for the reasons he gives in para.
+147. A judge wielding the broad axe is capable of doing justice in such a case.
+160.
+For the same reasons and the reasons they give I agree with Arden and Longmore
+LJJ that this is not an exceptional case. Although not determinative I also find
+persuasive some of the reasons given by the judge and suggested in argument for
+saying that an account of profits is not an appropriate remedy. The difficulties
+caused by multiple claimants, (some perhaps claiming compensatory damages),
+attempting to allocate profits between claimants and taking account of fines
+cannot be underestimated.
+161.
+For these reasons I too would dismiss this appeal. Devenish is entitled to be
+compensated for any loss it has suffered as a result of the cartel, no more and no
+less.

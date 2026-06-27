@@ -1,0 +1,1786 @@
+Claim No. 2005 Folio 250
+Neutral Citation Number: [2008] EWHC 2761 (Comm)
+IN THE HIGH COURT OF JUSTICE
+QUEENS BENCH DIVISION
+COMMERCIAL COURT
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+Date: 19 November 2008
+
+Before :
+
+JONATHAN HIRST QC SITTING AS A DEPUTY JUDGE OF THE HIGH
+COURT
+
+Between :
+
+KALLANG SHIPPING S.A. PANAMA
+
+Claimant
+
+– and –
+
+(1)
+AXA ASSURANCES SENEGAL
+(2)
+COMPTOIR COMMERCIAL MANDIAYE
+NDIAYA
+
+Defendants
+
+(THE “KALLANG”)
+
+Alexander Layton QC (instructed by Jackson Parton) for the Claimant
+Dominic Happé (instructed by Marine Law LLP) for the Defendants
+
+- - - - - - - - - - - - - - - - - - - - -
+Hearing dates: 6 – 9 October 2008
+- - - - - - - - - - - - - - - - - - - - -
+
+JUDGMENT
+
+I direct that, pursuant to CPR PD 39A para 6.1, no official shorthand note shall be taken of
+the Judgment and that copies of this version as handed down may be treated as authentic.
+
+Jonathan Hirst QC
+
+Page 2
+Mr Hirst QC:
+1.
+This action arises out of the arrest of the “Kallang” (“the vessel”) at Dakar in
+Senegal between 11 and 24 March 2005. The Claimants, Kallang Shipping
+Co. SA (“the Owners”), claim that the arrest at the suit of the receivers,
+Comptoir Commercial Mandiaye Ndiaye (“CCMN”), was a breach of the
+express and implied terms of the London arbitration clause incorporated in the
+contracts of carriage. They contend that the breach was induced or procured
+by the cargo insurers, Axa Assurances Senegal (“Axa Senegal”) against whom
+they claim damages. They also allege that Axa Senegal interfered with their
+business relations with CCMN and that both defendants conspired to do these
+things.
+2.
+This Judgment should be read with the related Judgment in the Duden [2008]
+EWHC 2762 (Comm), which I have delivered simultaneously with this
+Judgment.
+The Contractual Framework
+3.
+The vessel is a handy-sized dry cargo Freedom ’tween-decker with a
+deadweight of 15,097 MT. At all relevant times she was entered with the
+American Steamship Owners Mutual Protection and Indemnity Association
+(“the American Club”) for P&I risks. She was managed by Trisul Shipping &
+Trading PVT Limited (“Trisul”) of Calcutta in India.
+4.
+On 1 February 2005, the Owners and Brobulk Limited (“Brobulk”) entered
+into a time charter on the NYPE form for a time trip from Montevideo in
+Uruguay to Dakar and/or Nouakchott in charterer’s option at a rate of
+US$12,000 per day plus a ballast bonus. The time charter party contained the
+following dispute resolution provision:
+5.
+
+Page 3
+45.
+Arbitration
+(b)
+LONDON
+All disputes arising out of this contract which cannot be amicably
+resolved shall be referred to arbitration in London. Unless the parties
+agree upon a sole arbitration, the reference shall be for a Tribunal of
+two arbitrators, one to be appointed by each of the parties, who will
+have the power to appoint an umpire if they disagree. The arbitrators
+and the umpire shall be members of the London Maritime Arbitrators’
+Association or otherwise qualified by experience to deal with
+commercial shipping disputes. The contract is governed by English
+Law and there shall apply to arbitration proceedings under this Clause
+the terms of The London Maritime Arbitrator’s Association current at
+the time when the arbitration proceedings are commenced.
+82.
+Arbitration Small Amounts
+If the amount in dispute does not exceed the amount of US$100,000.00
+exclusive of any interest on the amount claimed, the costs of the
+arbitration, and legal expenses, if any, the Owners and the Charterers
+agree that the matter should be heard under the Small Claims
+Procedural 1989 Terms in accordance with LMAA Rules. English
+Law to apply.
+6.
+Also on 1 February 2005, Brobulk Ltd entered into a voyage charter with
+Voest-Alpine Intertrading AG on the Gencon form. It was agreed that, in
+return for payment of freight, the Vessel would load a cargo of bagged rice at
+Montevideo and carry it to Dakar and/or Nouakchott. The voyage charter
+contained the following provisions:
+5.
+Loading/Discharging Costs …
+(b)
+F.i.o. and free stowed/trimmed
+The cargo shall be brought into the holds, loaded, stowed and/or
+trimmed and taken from the holds and discharged by the Charterers or
+their Agents, free of any risk, liability and expense whatsoever to the
+Owners.
+…
+
+Page 4
+34.
+Owners’ Responsibility.
+Mats/dunnage to be supplied up to Master’s satisfaction. Vessel will
+in all cases be held responsible for damage to cargo as a result of
+insufficient dunnage and materials or caused by water through
+ventilators or due to leakage of water or oil from pipes or tanks on
+board occasioned by lack of due diligence in making the vessel
+seaworthy for the currency this Charter Party. Loading and stowage to
+be at Masters’ discretion and satisfaction.
+Owners of the vessel to be responsible for delivery of the number of
+bags shown in the Bills of Lading.
+39.
+Disputes
+All disputes arising out of this Charter Party including General
+Average shall be referred to Arbitration in London and English Law
+and practice to be applied. Each party to appoint its own arbitrator.
+…
+Small Claims Procedure Clause
+If the amount claimed is less than US$50,000, then the arbitration shall
+be conducted by a sole arbitrator and be conducted in accordance with
+“The London Maritime Arbitrators’ Association Small Claims
+Procedure FALCA (fast and low cost arbitration)”.
+49.
+P&C Clause:
+Owners are not allowed to disclose the details of this Charter Party and
+it is to be kept private and confidential.
+6.
+The Vessel proceeded to Montevideo and loaded a cargo of 274,000 50kg.
+bags of rice, weighing 13,700 metric tonnes in all. On 15 February 2005,
+agents acting for the Master issued 14 bills of lading acknowledging receipt of
+the rice cargo in apparent good order and condition for carriage to a West
+African Port. The bills of lading were on the “Congenbill” form for use with
+charterparties and provided on their face:
+
+Page 5
+Freight payable as per Charter Party dated Feb/01/2005
+
+On the reverse there appeared, inter alia, the following:
+i)
+All terms and conditions, liberties and exceptions of the Charter Party,
+dated as overleaf, including the Law and Arbitration Clause, are
+herewith incorporated.
+The bills were consigned to the order of Voest-Alpine Intertrading AG.
+Sale and insurance of the cargo.
+7.
+Voest-Alpine Intertrading Autriche had agreed to sell 14,000 metric tonnes +/-
+10% Uruguayan rice to CCMN for loading on the vessel. Pursuant to this
+sale contract, the bills of lading were negotiated by Voest Alpine Intertrading
+AG (after receipt from the shippers) to CCMN. The terms of the sale to
+CCMN were not made clear in evidence. It is to be presumed that they were
+on CFR terms, because the cargo was insured by CCMN under an all risks
+marine insurance policy ("the Policy") issued by Axa Senegal. The Policy
+provided cover for rice cargoes, to be declared under the policy, shipped from
+anywhere in the world to Dakar, and insured from the moment they crossed
+the ship’s rail. The Policy was governed by Senegalese law. It also provided
+as follows (in translation):
+It is agreed that shortages to be determined by the difference between
+the weight of the emptied bags – as increased by sweepings if any –
+and the weight that they should have been, had same bags arrived
+sound, this weight being calculated as the average weight of sound
+bags (full or not) at destination. The losses of quantities are thus
+arrived at without any other deduction than that of the eventual
+deductible set out by the particular provisions/conditions.
+
+There does not seem to have been any applicable deductible. The carrying
+vessels were required to be entered with one of the P&I Clubs or insurance
+companies listed. Included in the list was the American Club.
+
+Page 6
+8.
+The policy contained a “beneficiary participation clause”, whereby profits
+were to be shared between Axa Senegal and CCMN. The profit and loss
+account was to be calculated by adding net premium and net recoveries and
+salvage recovered by Axa Senegal and subtracting brokerage and management
+costs, fixed at 50% of net premiums received, and claims paid or reserved.
+CCMN was entitled to be paid 25% of any profit – Axa Senegal was entitled
+to retain the balance.
+9.
+The Policy incorporated the “Police Française D’Assurance Maritime Sur
+Facultés (Marchandises) Guarantie “Tous Risques” – i.e. the standard French
+marine insurance policy conditions for goods (all risks). The conditions
+included the following (in translation):
+Article 15
+The insured, its representatives and all the beneficiaries of the
+insurance must exercise reasonable care with all that relates to the
+goods. Also, they must take all mitigating measures to prevent or limit
+damages and losses. In the event that they fail to do so, the insurer can
+take their place to take such measures as are necessary in the
+circumstances without acknowledgement that the cover is binding.
+Article 16
+The assured, its representatives and the beneficiaries of the insurance
+must equally take all steps to preserve the rights and recourses against
+carriers and any other third parties responsible and to permit the
+insurer, if necessary, to engage and pursue any action it deems
+necessary.
+Discharge and Arrest
+10.
+The Vessel was ordered to discharge the cargo at Dakar. The Master gave
+notice of readiness to discharge at 1900 hours on 3 March 2005. Discharge
+using 14 double gangs of stevedores was started at 0935 hours on 4 March. It
+was overseen by a number of cargo surveyors:
+-
+3A France SA (“3A”) for the Owners;
+
+Page 7
+-
+CESAC for the stevedores;
+-
+CEMS for CCMN;
+-
+CETEX for Voest-Alpine.
+3A were associated with Cabinet Pruvot, a firm in Dakar who represented the
+Owners and the American Club. Mme Caroline Latinier (later Paul) was the
+individual involved.
+11.
+3A produced a daily summary of the outturn from the vessel as they recorded
+it and (as they believed) was being recorded by the other surveyors – the
+surveyors must have compared notes regularly. It is apparent that CEMS and
+CESAC took a more pessimistic view than 3A. There was a considerable and
+growing discrepancy in the outturn figures:
+Surveyor
+Bags torn and missing
+8 March 9 March 11 March
+3A
+130 151 179
+CEMS/CESAC
+1,448 1,656 2,076
+CETEX
+944 1,070 1,280
+
+12.
+On 8 March, Mme Latinier was contacted by Axa Senegal. As she reported to
+Owners and the American Club the next day:
+“Axa would like to be provided with a temporary letter of undertaking
+in the maximum amount of FCFA 30,500,000 to be replaced by a bank
+
+Page 8
+guarantee, amount of which is to be established in the light of final
+figures. Bills of lading will be transmitted to you shortly. Please note
+that the cargo is covered by Bs/l 1 to 14.
+Their request for guarantee is mainly based on extrapolation of alleged
+damage/shortage as follows according to their surveyor. …”
+
+Axa Senegal followed up this conversation with a fax requesting a provisional
+guarantee in the amount of FCFA 30.5 million to be followed by a bank
+guarantee in an amount to be determined in the light of final outturn figures.
+The fax attached a number of documents, including the bills of lading, but
+these were fairly illegible. The estimate of loss assumed that, on final outturn,
+785 bags would be torn and 2,740 missing.
+13.
+Mme Latinier advised the Owners and the American Club that the request for
+a guarantee was not justified for the time being. She recommended that
+Owners offer a Club letter of undertaking and concluded:
+“Generally Axa insist on Competent court to be the Senegalese one.
+We suggest to try and fight this point also and to try and convince
+them to accept either competent court, either London jurisdiction [sic]”
+She responded to Axa Senegal later on 9 March. She indicated that their
+extrapolations were not accepted, when there were still over 4,000 m.t. cargo
+left on board, and that she would revert when she had her clients’ instructions.
+Later on that day she also raised the argument with Axa Senegal that, since the
+commercial invoice indicated that the cargo had been loaded with an
+allowance +/- 5%, the current claim for shortage was without legal foundation.
+14.
+On 10 March, Axa Senegal observed that no response had been received to the
+demand for a guarantee and notified Mme Latinier that, unless it received a
+favourable reply by midday, the vessel would be arrested. Mme Latinier
+passed this message on to the American Club and the Owners. In response,
+Anthony Desbrousses for the Club argued that any shortage was due to
+shortloading and that:
+
+Page 9
+“The terms of the contract of carriage provide for London Arbitration
+and Law. The C/P and in particular clause 45 is indeed incorporated in
+the B/L”
+15.
+In an e-mail to Axa Senegal, Mme Latinier raised these points as instructed
+and asked that they be discussed with the receivers. She stated that the
+demand for a guarantee was without legal justification and abusive. Mr
+Djibril Dia of Axa Senegal responded that the quantity indicated without
+reservation in the bills of lading was generally regarded as sufficient proof.
+As regards the arbitration clause he said:
+“Concernant la clause d’arbitrage prévue par la charte-partie, elle ne
+nous est pas opposable, étant etendu que nous ne sommes pas partie á
+ce contrat”
+
+– i.e. that “we” are not bound by the charterparty arbitration clause.
+16.
+Nicholas Parton, of Jackson Parton, London solicitors, was instructed to act on
+behalf of the Owners and the American Club. At 1515 hours on 10 March,
+they faxed a letter to Axa Senegal denying the claims in full but offering,
+without prejudice, to put up security in the sum requested of FCFA 30.5
+million in the usual terms of a Club letter of undertaking answerable to
+English Law and London arbitration. Jackson Parton contended that London
+arbitration applied to the bills of lading as provided for in clauses 45(b) and 82
+of the (time) charter incorporated into the bills of lading. They threatened to
+seek an anti-suit injunction in the High Court if there was any attempt to arrest
+the vessel. A draft letter of undertaking was attached.
+17.
+No reply was received to this offer of security. Axa Senegal instructed Ba &
+Tandian, a firm of lawyers based in Dakar, to apply on behalf of CCMN to the
+President of the Tribunal Regional Hors Classe de Dakar to arrest the vessel.
+The application was made in the morning of Friday 11 March in the form of a
+written “Requête aux Fins de Saisie Conservatoire de Navire de Mer” which
+sought an order for the arrest of the Vessel “pour avoir sûrété et paiement”
+(for security and payment) of the claim provisionally valued at FCFA 25
+million. It was made clear that the application was being made pursuant to the
+
+Page 10
+Brussels Arrest Convention of 10 May 1952. The Requête included a draft
+order prepared by Ba & Tandian. At about 1230 hours, President Kandji
+made the Order accordingly authorising CCMN:
+“a faire procéder à la saisie conservatoire du navire “KALLANG”
+jusqu’à la mise en place d’une caution bancaire et ce, pour avoir
+sûrété du paiement de sa creance que nous evaluons provisoirement et
+sans nul prejudice aus frais et interêts à la somme de 25,000,000
+FCFA.”
+
+– i.e. to arrest the vessel as a security for payment of the claim, pending
+provision of a bank guarantee in the provisional amount ot FCFA 25 million.
+18.
+Having obtained the order, Ba & Tandian arranged for the Huissier (a self-
+employed professional whose role is similar to that of a bailiff in this
+jurisdiction) to effect the arrest. The Huissier attended on board the Vessel at
+about 1430 hours. He delivered a Procès-Verbal de Saisie de Navire, which
+he was required to read out aloud to the Master. The terms of the document
+had been drafted by Ba & Tandian. As part of the Procès-Verbal, the Huissier
+demanded payment of FCFA 25 million, in default of which the ship would be
+arrested. The Master did not pay the sum demanded and the Vessel was
+therefore arrested by a Denonciation de Saisie de Navire. The amount of the
+bank guarantee Axa required was reduced to FCFA 23 million on 14 March,
+although it does not appear that the order of the Senegalese court was
+amended to take this into account.
+19.
+The vessel completed discharge at about 1800 hours on 11 March. Had she
+not been under arrest, she would have sailed shortly afterwards.
+Events leading to the release of the Vessel on 24 March
+20.
+There is a good deal of dispute about exactly what happened during the 13 day
+period between the Vessel’s arrest and release, and I will have to return to this
+chronology later in this Judgment when I come to consider the witness
+evidence. What is set out below is a summary of the undisputed events
+
+Page 11
+largely taken from the contemporary documents, which, as will be seen, do not
+tell the full story.
+21.
+The Owners and Jackson Parton were notified of the arrest by Mme Latinier
+shortly after it had been effected on 11 March. In answer to an e-mailed
+request from Mme Latinier as to what Axa Senegal was demanding in order
+for the vessel to be released, Mr Dia replied at 1630 hours:
+“nous vous remercions de metre en place instamment une garantie
+bancaire pour le compte des armateurs prévoyant l’intervention des
+“tribunaux
+compétents”
+comme
+clause
+de
+compétence
+jurisdictionelle”
+
+– i.e. “we” require a bank guarantee answerable to the judgment of a
+competent court.
+22.
+In his initial communication to Axa Senegal, Mr Parton had relied on the time
+charter arbitration clause, but he suspected there might also be a relevant
+voyage charterparty in existence. At his request, enquiries were made of
+Brobulk, the time charterers, and over the weekend it emerged that there was
+indeed a relevant voyage charterparty with a London arbitration and English
+law clause. Jackson Parton sought a copy of the recap, or the actual
+charterparty or the unsigned draft. On 13 March, they were supplied with a
+working copy of the voyage charterparty (with the freight rates redacted). It
+was not signed and had not been checked. It was later shown to be an accurate
+copy of the signed original.
+23.
+At 1338 hours on Tuesday 15 March 2005, Jackson Parton sent a fax to Axa
+Senegal with a copy of an American Club letter of undertaking “which is at
+your disposal”. The attached letter had been signed on behalf of the Club and
+offered security up to FCFA 25 million against a final unappealable London
+arbitration award or High Court judgment. Jackson Parton requested “at this
+eleventh hour” that Axa Senegal agreed to release the vessel against this
+security and stated that otherwise they would be proceeding to apply for an
+anti-suit application at the earliest opportunity.
+
+Page 12
+24.
+Axa Senegal instructed Maître Erik Schmill of Schmill & Lombrez, a lawyer
+based in Paris, and asked Mr Parton to get in touch with him. On 15 March
+Mr Parton sent him a copy of the Court documents that had been filed. These
+included Mr Parton’s first witness statement which relied upon and exhibited
+the working copy of the voyage charterparty. Me Schmill was notified that
+the hearing would probably be on the morning of 16 March. This elicited an
+immediate response Me Schmill protesting at how Mr Parton was acting. He
+said:
+“… It is not correct to say that either Axa Senegal, or anybody else
+mentioned to you that they request a guarantee which stipulates that
+Dakar courts would be competent to hear the dispute. We do not know
+at this stage which are the competent court, and the request is to obtain
+a bank guarantee to cover decision “to be rendered by competent court
+or tribunal”. This allows for the matter to be heard in London
+Arbitration if that is the proper forum.
+You raise in the documentation you have just sent me that it is
+unreasonable to request a bank guarantee, however we draw your
+attention to the following:
+…
+Secondly, we draw to your attention that the reason for Axa Senegal to
+refuse club letter in this matter is simply because the information
+available to us establishes that the Standard and Poor ratings of P&I
+Clubs show the American Club as being for several years BBB –
+minus (including 2004). We do not consider that a club letter from the
+American Club can be treated as adequate security compared with a
+bank guarantee from a first class bank. Standard and Poor make it
+clear that the American Club is vulnerable to adverse trading
+conditions.
+25.
+Mr Parton appeared before Cooke J. the next morning (i.e. on 16 March) and
+applied for an anti-suit injunction. His first witness statement was before the
+Court. The Defendants were not represented but Me Schmill’s protest was
+very properly shown to the Judge. No proceedings had been issued at that
+time. In the course of the application, the Judge observed that there could be
+no doubt that the Commercial Court would accept an American Club letter of
+undertaking. He went on:
+
+Page 13
+“But I am not sure that is the relevant point, is it? What has happened
+in Senegal? It was offered there, but the local courts said, “No”, and
+insisted on a Bank guarantee. … Suppose the position was this … The
+application [in] Senegal was stated clearly to be an arrest for the
+purposes of obtaining security for a London arbitration. … That would
+plainly be matter for the Senegal court, would it not, to decide what
+was the appropriate security? And there would not be a breach of the
+Arbitration Clause because all they would be seeking to do was to get
+security in respect of an arbitration. That seems to me the difficulty
+that you face. If you can satisfy me that what is going on there is not
+simply a security application, but is an attempt to have a substantive
+[hearing] then you are plainly entitled to an injunction.”
+In answer, Mr Parton particularly relied on the application in the Requête to
+the Dakar Court “pour avoir sûrété et paiement” (my emphasis) and the
+Huissier’s demand for immediate payment.
+26.
+In his short judgment, Cooke J. said that he was entirely satisfied that the
+claim in Senegal was not simply a claim for “saisie conservatoire” but was a
+substantive claim for which an arrest of the vessel has been ordered. He
+granted an anti-suit injunction against Axa Senegal, CCMN and Axa France
+Assurance S.A. requiring the discontinuance of the Dakar proceedings and the
+release of the vessel from arrest upon provision of an American Club letter of
+undertaking to CCMN by fax.
+27.
+The Order was sent to the Defendants by fax on the afternoon of 16 March. It
+was not obeyed. But Me Schmill indicated on 17 March that the Axa
+defendants intended to apply to be removed from the injunction as “they were
+not parties to any proceedings and are therefore being unjustifiably
+threatened.” He repeated that “the substantive action was not being addressed
+by the Dakar proceedings and whether an English arbitration tribunal is the
+appropriate and competent forum”. He also contended that bill of lading 14
+did not refer to any dated charterparty. On that point, he was swiftly corrected
+by Mr Parton.
+28.
+On 21 March 2005, Mr Parton wrote to TP Marine Solicitors, who were by
+now representing the defendants, offering an interim proposal to resolve the
+dispute. The proposal was that the Club would issue a new letter of
+
+Page 14
+undertaking securing an award by a “competent court or tribunal” pending
+resolution of the issues between the parties. The new letter would lapse if
+London arbitration was upheld. The original letter would lapse if it was not.
+There was no reply to this proposal.
+29.
+On 23 March 2008, the Owners applied to Cooke J. for permission to issue
+and serve a writ of sequestration against the property of Axa Senegal and
+CCMN and for permission to serve the claim form out of the jurisdiction.
+Alexander Layton QC represented the Owners. Dominic Happé appeared “on
+a without notice basis” for all three defendants. The Judge used the hearing as
+an opportunity to try and secure a solution to the impasse. Mr Happé stated
+that CCMN was insistent on a bank guarantee neutral as to jurisdiction. In a
+somewhat convoluted submission he said:
+“I am not going to say that the American Club is not a club letter that
+is worth anything”
+
+This was interpreted by Mr Layton as meaning that no point was being taken
+as to the creditworthiness of the American Club’s security. Mr Happé did not
+demur and he went on to indicate that his clients would accept a Club letter
+neutral as to jurisdiction for the period of time it took to put up a bank
+guarantee.
+30.
+In his judgment, Cooke J. held that Owners had a good arguable case that the
+proceedings in Senegal were not by way of security only and were substantive
+proceedings. He gave permission for service of the proceedings out of the
+jurisdiction. After further discussion with counsel, it was agreed, by way of
+undertakings to the Court, as recorded in the Order made on 23 March, that:
+(1)
+The American Club would undertake either to make a cash payment or
+procure a bank guarantee in Senegal if it were later held that the
+Owners were not entitled “to restrain [CCMN’s] reliance on the Order
+of the President of [the Dakar Court] in Senegal dated 11th March
+2005”;
+
+Page 15
+(2)
+ CCMN would forthwith secure the release of the Vessel from arrest.
+31.
+As a result of the Judge’s skilful brokering of a solution, the American Club
+issued a “competent court or tribunal” letter of undertaking in the amount of
+CFCA 25 million and the Vessel was finally released from arrest at 1540
+hours on 24 March.
+The Hearing before Mrs Justice Gloster
+32.
+On 26 and 27 June 2006, a hearing took place before Gloster J. at which the
+three Defendants applied to set aside the injunction granted by Cooke J. on 16
+March 2005 and the order permitting service out of the jurisdiction. There
+were further written submissions. In her judgment delivered on 7 November
+2006 [2006] EWHC 2825 (Comm); [2007] 1 Lloyd’s Rep 160, Gloster J set
+aside the proceedings against Axa France but otherwise upheld the injunction
+and the order for service out. For the purposes of that hearing only, it was
+accepted by Mr Layton that the Order in Dakar was an order for security only
+and that it was not of itself a breach of the arbitration clause to arrest the
+vessel in Dakar for the purpose of obtaining security, but he submitted that
+Axa Senegal and CCMN had invoked the Senegalese jurisdiction not merely
+to obtain security, but for the purposes of obtaining payment. They were
+acting in a manner designed to ensure that the substance of the claim was
+litigated in Senegal and to circumvent or frustrate the arbitration clause. He
+relied heavily on the Huissier’s demand for immediate payment.
+33.
+The Judge held:
+“35.
+In my judgment the evidence does show, to the standard of a
+good arguable case that the first and second defendants were
+attempting to use the security proceedings in Dakar, and the
+requirements of a bank guarantee issued by a Senegal bank, as a means
+of avoiding or frustrating the London arbitration proceedings. If the
+full picture, as it has emerged before me, was known at the time of the
+first injunction granted by Cooke J, and I include in the definition of
+"full picture" the characterisation of the Dakar court's order as an order
+made by way of security, it is probable that an injunction would
+nonetheless have been granted by Cooke J. That was because the
+
+Page 16
+conduct of CCMN and Axa Senegal, and their refusal to accept a Club
+letter of undertaking in relation to this cargo claim was effectively
+frustrating the claimant's contractual entitlement to have that dispute
+resolved by way of London arbitration. The clear impression that this
+court would have gained from the evidence is that the defendants were
+seeking, whether by their use of the security proceedings or otherwise,
+to have the cargo claim resolved in Senegal.
+36.
+In my judgment, (a) although the English court would not, and
+could not, have restrained the defendants from applying for the arrest
+of the vessel in order to obtain security for their claim in Senegal, if no
+adequate security had been forthcoming, and (b) although ultimately it
+is a matter for the arresting court to decide the terms of the security,
+that it is reasonable for the respondent to the arrest application to
+provide, nonetheless, in the circumstances, an English court would
+have restrained the first and second defendants, by way of personal
+injunction:
+(i)
+from insisting before the Dakar court on a form of security to
+be provided by the claimant, in order to allow the arrest to be lifted,
+that required resolution of the cargo claim in Senegal, whether directly
+or indirectly;
+
+(ii)
+from putting forward submissions to the Dakar court that the
+only reasonable security which the Dakar court should accept to
+prevent release of the vessel was a bank guarantee which required
+resolution of the cargo dispute in, and subject to, Senegalese
+jurisdiction;
+
+(iii)
+from contending before the Dakar court that only a Senegalese
+bank guarantee was acceptable security, in circumstances where the
+American Club had offered its letter of undertaking (since the effect of
+such a submission would, if not inevitably, at least probably, have
+brought about delay at best and resolution of the cargo claim in
+Senegal at worst).
+
+In my judgment, such an approach by the English court would have
+been perfectly consistent with the principle, as recognised in the
+Brussels Convention, that it is for the arresting court, where the vessel
+is present and situate, to decide on the appropriate nature of the
+security and would have not offended any notions of comity. The
+English court would not have been trespassing on the jurisdiction of
+the Dakar court; rather the former would have been exercising its
+undoubted personal jurisdiction over the defendants based upon "its
+assessment of the conduct of the relevant party in invoking [the
+foreign] jurisdiction"; see para 26 of Turner v Grovit (supra). In
+circumstances such as the present, where, given the size of the cargo
+claim, the American Club letter was clearly adequate and reasonable
+security, and where there was, on any basis, uncertainty about the
+willingness of local banks speedily to provide security that responded
+to determination of the cargo claim by London arbitration, the
+defendants' conduct in contending for security provisions that directly
+
+Page 17
+or indirectly would bring about a situation where the London
+arbitration clause was frustrated, amounted not only, in my view, to a
+breach of implied terms of the arbitration clause, as described in
+McKay v Dick, but also oppressive conduct. I take on board Mr
+Happé’s criticisms of the implied terms which Mr Layton has put
+forward. Nonetheless, it seems to me that, subject to being properly
+pleaded out, they satisfy the standard which I am required to apply at
+this stage, namely a good arguable case on the particular and very
+special facts of this case. It follows, that in my judgment, had the court
+known the full picture as at the date of Cooke J's first order of 16
+March 2005, it would indeed have made the order which he did, and,
+accordingly, I decline to discharge it.”
+
+The settlement of insurance claims and the arbitration.
+34.
+CCMN’s claims against Axa Senegal under the insurance policy were settled
+by payment of CFCA 10,210,263 26 May 2005. Somewhat remarkably if the
+claims against the Owners were thought by Axa Senegal to have any
+substantial value, no steps have been taken in the arbitration apart from the
+appointment of an arbitrator. It is moribund.
+The claims at trial
+35.
+The Owners contend that in acting as they did and in maintaining the arrest till
+24 March 2005, CCMN were in breach of:
+(1)
+the express obligation to submit all disputes to arbitration in London
+for decision in accordance with English law and/or
+(2)
+an implied term that no party would conduct itself in such a way as
+would be likely, directly or indirectly, to frustrate the English law and
+London arbitration clause.
+
+Page 18
+36.
+They further contend that Axa Senegal, through Mr Dia, caused or procured
+this conduct and that it wrongfully induced or procured CCMN to breach its
+contract with the Owners or interfered with the Owner’s business relations
+with CCMN. It is additionally alleged that Axa Senegal conspired with
+CCMN to do these things. The tort of conspiracy is not alleged against
+CCMN in these proceedings. As against CCMN the only extant relief sought,
+the injunction no longer being a live issue, is costs. As against Axa Senegal,
+the Owners claim damages amounting to US$160,436.65 and €9,574.12.
+Most of the damages are for loss of hire for 11½ days, whilst the vessel was
+under arrest after completion of discharge, and for bunkers consumed and port
+charges incurred during this period.
+37.
+On the first day of the trial, Mr Layton applied for permission to amend the
+pleadings so that the damages claim was made against CCMN as well. He
+accepted that, prima facie, this claim was within the scope of the arbitration
+clause, but he contended that, by its defence, CCMN had waived or repudiated
+the arbitration clause. I refused to allow the amendment on the basis that the
+defence did not amount to an unequivocal waiver or repudiation of the
+arbitration clause. So the damages claim is against Axa Senegal only.
+The evidence at trial
+38.
+The Owners served witness statements made by Mme Latinier, Ms Smitta
+Dutta, Captain Eduard Sarr and Mr Parton. The defendants indicated that they
+did not require Mme Latinier, Ms Dutta and Captain Sarr to be tendered for
+cross-examination and so their statements were read. Mr Parton was called to
+give oral evidence and he was cross-examined by Mr Happé.
+39.
+The Defendants initially served witness statements by Mr Dia, Regis Boudin
+and Terry O’Regan. The statements of M. Broudin and Mr O’Regan were
+removed from the trial bundles before they reached me. As for Mr Dia, the
+Owners gave notice that they did wish to cross-examine him and, until shortly
+before trial, it was understood that he would be attending to give evidence.
+However, in the week before trial, it was indicated that he would not now be
+
+Page 19
+attending to give evidence. No reason was given for this. No hearsay notice
+was served. At the close of his factual case Mr Happé applied for permission
+to admit Mr Dia’s written statements. I agreed to admit the statements but
+made it clear that I thought they bore minimal weight in the circumstances.
+40.
+Both sides called expert evidence on the law and practice of Senegal. The
+Owners called Maître Geneviève Lenoble, an experienced advocate practising
+in civil and business law at the Bar in Dakar. The Defendants called Professor
+Martin Ndende, Professor at the Faculty of Law and Political Science at
+Nantes Univesity. He has taught law in Senegal – in particular the Masters
+Degree of Law and Maritime Activities at Cheik Anta Diop University at
+Dakar. Despite challenges from counsel, I was quite satisfied that both
+experts were, in their different ways, well qualified to give relevant expert
+evidence to me and that they showed themselves to be wholly independent and
+professional. Me Lenoble is better qualified to speak on the actual practice of
+the Courts of Dakar where she has practised for many years. Professor
+Ndende is the sounder academic lawyer.
+The issues on liability
+41.
+The parties agreed a list of issues for the trial but these were rather overtaken
+by events. The main live issues were:
+(1)
+Was an arbitration clause incorporated into the bills of lading, and if so
+which?
+(2)
+ What, if any, terms are to be implied into arbitration clause in the bills
+of lading?
+(3)
+Was the arrest order obtained in Dakar merely security in support of
+the claim, or was it a substantive claim?
+
+Page 20
+(4)
+Was the arrest and the demand for security being used as a means of
+forcing the Owners to relinquish the London arbitration clause?
+(5)
+In the light of those findings, was there a breach of the express or
+implied terms of the arbitration clause?
+(6)
+What role did Axa Senegal play? Was it merely acting on behalf of
+CCMN or was it the driving force in its own right?
+(7)
+What knowledge did Axa Senegal have of the arbitration clause and its
+incorporation into the bill of lading contracts?
+(8)
+Did Axa Senegal cause or procure CCMN so to act and was its conduct
+such as amount to a wrongful inducement or procurement of any
+breach of the express or implied terms of the arbitration clause?
+(9)
+Did Axa Senagal unlawfully conspire with CCMN to injure the
+Owners?
+(10)
+Damages
+Evidence
+42.
+I must now revert to what happened after the arrest of the vessel on 11 March
+2005. Mme Latinier made two statements in this case. In a certificate dated
+23 May 2005, she stated that she had been in contact with Mr Dia of Axa
+Senegal by e-mail and telephone on several occasions. She said:
+“During our numerous exchanges, Mr Dia confirmed since arrest of the
+vessel until release that only a bank guarantee including exclusively
+Senegalese jurisdiction was acceptable to his company to release the
+vessel. We proposed [to] him the competent and the English
+jurisdiction, but he refused each time. We also asked him to confirm
+all our phone exchanges by e-mails or fax in English but he also
+
+Page 21
+refused on the ground that he could not deal with the English
+language.”
+In her witness statement, she said:
+“Mr Dia made it repeatedly clear to me that it was only against a bank
+guarantee answerable to Senegalese jurisdiction that his company
+would agree to release the vessel. He refused to agree English
+jurisdiction”.
+43.
+Mme Latinier also stated that on 15 March she tried to get in touch with M.
+Alioune Diagne, manager of Axa Senegal and Mr Dia’s superior. At the time,
+he was in France at Axa’s Paris office. She finally managed to speak to him in
+on the telephone later that day. She said that:
+“he also refused categorically to take into consideration competent or
+English jurisdiction’s proposal in the guarantee matter. We also
+proposed to him on behalf of our clients to accept a single letter of
+undertaking rather than a bank guarantee but one more time faced his
+refusal.” (sic)
+44.
+In her witness statement, Mme Latinier painted a picture of intransigence on
+the part of Axa Senegal. She stated that her clear impression was that Axa
+Senegal was acting of its own accord and that it was at Axa’s instigation that
+the vessel was arrested and it would only be released on terms dictated alone
+by Axa. Mr Dia never said that he needed to contact his clients for
+instructions. Her statement concluded:
+“Not only in the case of Kallang, but in all guarantee matters I have
+dealt with over the years, Axa Senegal has always acted on its own
+authority and rarely accepted to negotiate any term of its original
+demands. Accordingly, my experience is that Axa Senegal’s demands
+in respect of the guarantee wording, including jurisdiction terms, their
+methods of calculating the anticipated loss and their constant refusal to
+negotiate were always the same, no matter who the assured was. I
+truly believe that it is a set internal procedure which they follow rather
+than any instructions from their assured.”
+45.
+Mr Dia disputed this evidence in his statement. He said that although Axa
+Senegal was corresponding with Mme Latinier, “we were at all times acting
+
+Page 22
+on behalf of and under direct instruction of CCMN”. Axa Senegal was not
+involved directly with the application to the Court for the arrest of the vessel.
+At no stage did Axa Senegal make any suggestion that security would only be
+accepted if it provided for Senegalese law and jurisdiction.
+46.
+Mr Parton was called to give evidence and he was extensively cross-examined
+by Mr Happé. He gave evidence of a telephone conversation conducted in
+French with Mr Dia on 14 March which lasted some 11 minutes. In his
+statement, he said that he was told by Mr Dia that a firm decision had been
+made not to accept an American Club letter of undertaking due to previous
+difficulties with the Club and that Axa Senegal required a bank guarantee. Mr
+Parton enquired whether Axa would accept “competent court or tribunal”
+wording. Mr Dia said he would have to speak to his colleagues and he would
+reply formally in writing.
+47.
+In the course of his oral evidence, Mr Parton was able to produce a two page
+handwritten note in French of the conversation taken by him at the time. It is
+very terse. The main part is as follows (in translation):
+“There would not even be – the final decision – problems of
+confidence -we prefer - a bank guarantee – “competent tribunals” -
+formally in writing - the decision - NP write to us - in writing - his
+boss - extremely important”
+
+It is not easy to work out from the note who is saying what.
+48.
+In cross-examination, Mr Happé put to Mr Parton that Mr Dia had offered
+“tribunaux compétents” wording on 11 March and it would not have been
+consistent for Mr Dia then to go back on that. Mr Parton responded that
+people were not always consistent. Mr Dia was constantly changing the goal
+posts and that Axa spoke with “forked tongues”. The conversation was “all
+over the shop” and he had the feeling that they were being messed about. The
+offer of “tribunaux compétents” wording offered on 11 March was at odds
+with what he was being told orally. Mr Dia was being quite opaque and
+subtle. He was sure that Axa Senegal was trying to achieve Senegalese
+
+Page 23
+jurisdiction. There was some discussion in cross-examination about who had
+said “competent tribunals” wording in the conversation. At one stage, Mr
+Parton thought it impossible to say but he made it clear that Mr Dia had not
+offered “competent tribunals”. In re-examination, he thought that he was
+noting what he had said to Mr Dia.
+49.
+Mr Dia did not write to Mr Parton as promised and Mr Parton telephoned M.
+Broudin of Axa Paris on 15 March. Mr Parton telephoned him because they
+had had previous dealings in relation to the Cirus case. Mr Broudin said that
+“nous sommes très pragmatiques Mr Parton” and asked what Mr Parton was
+proposing. He said a Club letter covering “competent court or tribunal”. The
+conversation became more heated when Mr Parton contended that there was a
+“racquette” going on in Africa whereby shipowners were being blackmailed
+into paying invented or largely invented cargo claims. The conversation was
+left on the basis that M. Broudin would get back to Mr Parton. He never did
+so.
+Other arrest cases
+50.
+Mr Parton’s evidence also attested to a series of other cases where Axa
+Senegal had been involved in what he called a scam to force shipowners either
+to pay up or submit to Senegalese jurisdiction despite the existence of an
+English law and London arbitration clause. They were relied upon as similar
+fact evidence. The cases he mentioned were
+(1)
+The Pace (2003) where Axa Senegal demanded a guarantee
+answerable to Senegalese law and jurisdiction. It was made absolutely
+clear that, unless this security was provided, Axa Senegal and Mr
+Diagne’s standard practice would to be proceed to arrest the vessel on
+the basis that the Judge would insist on Senegalese jurisdiction. In
+particular in an e-mail dated 12 August, M Diagne stated:
+“En ce qui concerne la letter de guarantie, nous vous précisons
+que nous n’accepterons pas de compétence de jurisdictions
+
+Page 24
+autre que celles Sénégalaises à defaut nous serions constaints
+de saisier le navire.”
+– i.e. with regard to the letter of guarantee we make it clear that
+we will not accept any jurisdiction other than Senegal, failing
+which we will have to arrest the vessel.”
+The owners gave in and provided a Club letter of guarantee answerable
+to Senegalese jurisdiction. The case has since been settled for less
+than 10% of the security demanded, but the American Club is still
+being charged bank fees and charges.
+(2)
+The Spring Breeze (2003) which did not involve Dakar or Axa Senegal
+and seems to me to be of little direct relevance.
+(3)
+ The Cirus (February 2005 – very shortly before Kallang) involved a
+cargo of rice discharged at Conakry in Guinea. Axa Senegal was the
+cargo insurer and it demanded a bank guarantee with a submission to
+Senegalese jurisdiction. It was indicated that a Club letter of
+undertaking would be acceptable, but only if French law and
+arbitration was agreed. The vessel was arrested, but released against
+an American Club letter of undertaking with Senegalese jurisdiction, to
+be replaced by a bank guarantee. The Club encountered enormous
+difficulties in securing a bank guarantee. The Senegalese banks would
+only issue a guarantee against counter-security from a French bank, but
+French banks were unwilling to issue a guarantee answerable to the
+decision of a Senegalese Court. After 4 months of considerable effort
+by the Club and much bureaucratic obstruction, a guarantee was put up
+by Credit Lyonnais Senegal, with counter security from Deutsche
+Bank, but the guarantee was rejected by Axa Senegal, on instructions
+from head office in France, because Credit Lyonnais Senegal had
+limited the validity of the guarantee to 1 year, renewable on demand.
+When threatened with an application for an anti-suit injunction, Me
+Schmill for Axa Senegal threatened proceedings against the Club in
+Senegal and refused to accept London arbitration, insisting on Senegal
+or Guinea, unless French arbitration was agreed. An application was
+
+Page 25
+made to the Commercial Court in London for an anti-suit injunction
+which was granted by Langley J on 3 February. On 4 February, a
+direction was given by M Broudin of Axa Corporate Solutions in
+France to Mr Dia (using his first name) and Me Schmill to discontinue
+immediately any proceedings in Dakar. The claim is now in
+arbitration.
+(4)
+ The Argola (March 2005, almost immediately after Kallang) where
+security was accepted for “competent court or tribunal”. Proceedings
+were started in Dakar for about 25% of the security that had been
+demanded and were settled for 10% of the security.
+(5)
+The Rizcun Trader (May 2005) where Axa Senegal had demanded a
+guarantee answerable to Senegalese Jurisdiction and then had the
+vessel arrested. What appears to be a standard form guarantee was
+produced by Cabinet Pruvot, providing for Senegalese jurisdiction.
+The case was settled for about a quarter of the security demanded.
+(6)
+The Primavera (June 2005) which involved a discharge in Tema and
+again seems to me to be not really to the point.
+(7)
+The White Mist (July 2005) where Axa Senegal demanded a guarantee
+answerable to Senegalese jurisdiction. The Club offered security
+answering to competent jurisdiction. Agreement was reached on the
+basis of a temporary Club letter of undertaking to be replaced by a
+bank guarantee. It seems to have been accepted that the guarantee had
+to be Senegalese. The case was settled before the guarantee was
+provided.
+(8)
+The Pathfinder (August 2005) where part of the cargo was insured by
+Axa Senegal. The vessel was arrested in Rotterdam by receivers
+insured by other underwriters and released in return for standard
+Rotterdam security which is neutral on the substantive jurisdiction.
+This case is of little assistance to me.
+
+Page 26
+(9)
+The Duden (December 2005) which is the subject of a separate
+judgment by me delivered simultaneously with this judgment. I will
+not repeat my findings of fact here. It is enough to say that the conduct
+of Axa Senegal in the Duden case was similar to what is alleged in this
+case.
+(10)
+The Evangelos L (January 2006), involving a cargo discharged at
+Abidjan insured by Axa Senegal, where initially a guarantee was
+demanded answerable to the Abidjan Court or to the Chambre
+Arbitrale Maritime de Paris, but, before arrest, a Club letter of
+undertaking answerable to competent court or jurisdiction was
+accepted.
+(11)
+The Androusa (March 2006), involving a cargo discharged at various
+West African ports including Dakar, where a guarantee for €32,600
+answerable to the Dakar Court with Senegalese law or to the Chambre
+Arbitrale Maritime de Paris with French law was demanded. The
+amount of security required was later increased to €55,000. It is
+unclear how the demand for security was resolved. The claim was
+ultimately settled at €6,000.
+51.
+Mr Parton also gave evidence of the great concern that international P&I
+Clubs, apart from the American Club, had as to what he called the “claims
+industry” in Senegal being used “to blackmail” owners into giving up London
+arbitration clauses or simply settling inflated claims to obtain the release of
+their vessel. I am satisfied that those concerns are genuinely held, although I
+would not use such inflammatory terms.
+52.
+I have set out this evidence at length. Most of the cases are post-Kallang. In
+my judgment it demonstrates that:
+(1)
+Axa Senegal did not accept, unless forced, that the receivers in West
+Africa were bound by London arbitration and English law clauses as a
+result of express incorporation of the charterparty arbitration clause.
+
+Page 27
+This conclusion is supported by an undated letter sent by Marine
+Consultants of France, representing Fortis and Axa Senegal, to Mr
+Desbrousses of the American Club in late April 2006:
+As per Common Law, you consider that from the moment a
+vessel is chartered the arbitration clause of the C/P is opposable
+“erga omnes”.
+We think that because of the principle of autonomy of the
+contracts, the C/P is “res inter alios acta” as regards the bearers
+of Bs/L and the subrogated underwriters.
+You do not appreciate that proceedings be instituted in
+Conakry, Bissau, Dakar ... for instance.
+The letter proposed that for the future the parties agree that the
+American Club would issue letter of undertaking accepting arbitration
+by the Chambre Arbitrale Maritime de Paris. The language of the
+letter is not grammatical but its sense is clear enough. Axa Senegal
+does not accept that charterparty arbitration clauses can be
+incorporated in bill of lading contracts, and bind receivers and their
+cargo underwriters.
+(2)
+It was Axa Senegal’s standard practice to try and secure a Senegalese
+guarantee answerable to Senegalese jurisdiction, whatever the terms of
+the Bill of Lading as to jurisdiction. This was well understood by the
+law firms representing owners and their P&I Clubs.
+(3)
+It is, in practice, extremely difficult to procure the issue of Senegalese
+bank guarantees. It may be practically impossible to do so on terms
+acceptable to Axa Senegal.
+(4)
+Axa Senegal was acting on its initiative in setting out demands for
+security. Mr Happé argued that the variety of outcomes suggested that
+Axa Senegal was acting in accordance with the instructions of the
+particular receivers. That is not how it appeared to me on the
+
+Page 28
+evidence. It is striking that Axa Senegal appeared invariably to be
+making the decisions without involvement of the receivers.
+Expert Evidence
+53.
+Me Lenoble’s evidence was that the terms of the arrest order made by
+President Kandji were normal and complied with the law and judicial practice
+of Senegal. The arrest was a conservatory arrest based on the Brussels
+Convention of 1952. In fixing the amount of security required, the Judge is
+dependent on expert reports provided by the applicant for an arrest. In
+practice, when claims are tested at a trial, it is apparent that the amount
+required was “very excessive”.
+54.
+Me Lenoble was critical of the Huissier’s demand for payment. He ought not
+to have made this demand, which was not part of the Court’s Order, and had it
+been complied with, the payment would have been definitive and
+irrecoverable.
+55.
+Me Lenoble stated that in practice Senegalese Banks will not agree to put in
+place a guarantee providing for the jurisdiction of a foreign tribunal. They
+will only guarantee claims in the Senegalese Courts. She strongly doubted
+that they would ever agree to put in “competent court”. Although she could
+not say from her experience exactly the time needed, the process of putting up
+a local guarantee is not straightforward and involved delays, especially if
+French parent banks have to be involved. Captain Sarr (also not required to
+attend for cross-examination) stated it would take a lengthy period, which he
+put at 7-15 days from receipt of instructions from the foreign correspondent
+bank, to establish a local bank guarantee. If an owner wishes to challenge an
+arrest, the application is made to the Juge Référré. Theoretically, an
+application to the lift an arrest takes 48 hours. In practice, it takes a week.
+56.
+So the financial constraints placed on an owner whose vessel is immobilised
+in Senegal are very considerable, and often out of all proportion to the scale of
+the cargo claim. Me Lenoble’s evidence was that the Juge Référré would
+
+Page 29
+never agree to refer a case for decision in a foreign jurisdiction and he would
+insist on a Senegalese Bank guarantee, unless the parties were agreed
+otherwise.
+57.
+In cross-examination, she said that, if there was any dispute, the Judge would
+rule in favour of a Senegalese bank guarantee. Mr Happé referred her to one
+case, The Samsun Galaxy, where in August 2002, Credit Lyonnais Senegal
+had issued a guarantee of a judgment by “compétents jurisdictions” although it
+went on to refer to Senegalese Courts. She thought this was an isolated
+instance but, when pressed, she accepted that if the parties agreed, “anything
+is possible” and it was possible that, with both parties’ agreement, a
+Senegalese bank would be willing to put up security for a foreign tribunal.
+58.
+Professor Ndende confirmed that the arrest was conservatory. He considered
+that the Huissier’s demand for payment probably derived from provisions of
+the OHADA Code1 which required such a demand if the debtor was personally
+present. The amount of security was usually taken from the claimants’
+perspective, but he thought Me Lenoble was being a bit excessive in her
+views.
+59.
+In his view, the Owners could have challenged the arrest by a fast-track
+procedure. It would have taken 24-48 hours to get a hearing before the Juge
+Référré and he would make his decision either immediately or within 24-48
+hours. Two cases was put to him in cross-examination – one had taken nearly
+3 weeks and the other 11 days from arrest to judgment – but he was not able to
+comment on what he said were unusual delays. I was left with the clear
+impression that the Professor did not have much practical experience before
+the Courts of Senegal.
+60.
+He considered that there was no reason why Senegalese banks, which are
+mainly subsidiaries of the major French banks, would not put up security for
+foreign judgments. He could not see why a Senegalese Judge would refuse
+the offer of foreign security, but when pressed to point to a single case where
+
+Page 30
+this had happened, he could only say that was common sense. He thought
+Judges would prefer bank guarantees, but they might accept a letter of
+undertaking from a large P&I Club.
+Conclusions on the evidence
+61.
+Mr Happé argued that I should prefer the documentary evidence and the
+evidence of Mr Dia to that of Mme Latinier, Captain Sarr and Mr Parton. The
+normal practice in cases of disputed fact is to pay particular attention to the
+contemporary documents, following the approach of Robert Goff LJ in
+Armagas Ltd. v. Mundogas S.A. (“The Ocean Frost”) [1985] 1 Lloyd's Rep 1
+at 57, as approved by the Privy Council in Grace Shipping v Sharp & Co.
+[1987] 1 Lloyd's Rep 207 at 215:
+“Speaking from my own experience, I have found it essential in cases
+of fraud, when considering the credibility of witnesses, always to test
+their veracity by reference to the objective facts proved independently
+of their testimony, in particular by reference to the documents in the
+case, and also to pay particular regard to their motives and to the
+overall probabilities. It is frequently very difficult to tell whether a
+witness is telling the truth or not; and where there is a conflict of
+evidence such as there was in the present case, reference to the
+objective facts and documents, to the witnesses’ motives, and to the
+overall probabilities, can be of very great assistance to a Judge in
+ascertaining the truth.”
+
+Of course, this is not a fraud case, but Robert Goff LJ’s approach is of much
+wider application.
+
+62.
+But in this case, the Defendants have not asked to cross-examine Mme
+Latinier or Captain Sarr. They have offered no witness for cross-examination.
+All I have are statements from Mr Dia who has not attended for cross-
+examination for unspecified reasons. I cannot in justice refuse to accept Mme
+Latinier’s and Captain Sarr’s evidence when they have been offered for cross-
+examination and that offer has been declined by the Defendants. If they
+wished to challenge their evidence they should have asked for them to be
+called. They should also have called Mr Dia unless there was some
+
+1 The OHADA Code is a procedural code adopted by many Francophone African countries.
+
+Page 31
+compelling reason why that was not possible. No reason has been put
+forward. His evidence is entitled to minimal weight. No other evidence has
+been called by Axa Senegal or CCMN, although there were certainly other
+witnesses who could have been called to give relevant evidence.
+CONSIDERATION OF AND CONCLUSIONS ON THE ISSUES
+63.
+I can now turn to consider the main issues in the action.
+(1)
+Was an arbitration clause incorporated into the bills of lading, and if so
+which?
+64.
+The bills of lading expressly provided that all terms and conditions, liberties
+and exceptions of the Charter Party dated 1 February 2005 “including the Law
+and Arbitration Clauses” were incorporated. On general principle, as a result
+of the express identification of the arbitration clause, that would be sufficient
+to incorporate a charterparty arbitration clause, even if it required a degree of
+manipulation: The Rena K [1978] 1 Lloyd’s Rep 545. The complication is
+that here there are two charterparties dated 1 February 2005. Each has an
+English arbitration clause but in slightly different terms. At first, it was
+thought by Jackson Parton that the relevant charterparty was the time charter.
+That was understandable because it is probably quite unusual to have a time
+charter and a voyage charter concluded on the same date. It soon became
+apparent that there was also a voyage charter dated 1 February 2005. The bills
+of lading also provide that freight is payable as per the charterparty. That is
+naturally a reference to the voyage charter under which freight (as opposed to
+hire) is payable. Further the terms of the voyage charter are more naturally
+germane to a bill of lading. In my judgment, it is clear that the intention was
+to incorporate the terms of the voyage charter, including its arbitration clause,
+into the bill of lading contracts. Mr Happé did not seriously contend to the
+contrary.
+
+Page 32
+(2)
+What, if any, terms are to be implied into arbitration clause in the bills of
+lading?
+65.
+Mr Layton argued that the Court should imply a term into the arbitration
+agreement that no party would conduct itself in such a way as would be likely,
+directly or indirectly, to frustrate the law and arbitration clause incorporated in
+the bill of lading. In support of this implied term, Mr Layton argued that the
+Courts will readily imply a term to prevent a contractual party from effectively
+negating its express bargain. He cited the famous dictum of Lord Blackburn
+in Mackay v. Dick (1881) 6 App Cas 251, 263:
+“I think I may safely say, as a general rule, that where in a written
+contract it appears that both parties have agreed that something shall
+be done, which cannot effectually be done unless both concur in doing
+it, the construction of the contract is that each agrees to do all that is
+necessary to be done on his part for the carrying out of that thing,
+though there may be no express words to that effect. What is the part
+of each must depend on circumstances.”
+
+Lord Blackburn’s general rule is put more in terms of construction of the
+contract than implication of terms.
+66.
+Lord Blackburn’s dictum echoed Cockburn CJ’s statement in Stirling v
+Maitland (1864) 5 B&S 840, 852:
+“I look on the law to be that, if a party enters into an arrangement
+which can only take effect by the continuance of a certain existing
+state of circumstances, there is an implied engagement on his part that
+he shall do nothing of his own motion to put an end to that state of
+circumstances, under which alone the arrangement can be operative. I
+agree that if the Company had come to an end by some independent
+circumstance, not created by the defendants themselves, it might very
+well be that the covenant would not have the effect contended for; but
+if it is put an end to by their own voluntary act, that is a breach of
+covenant for which the plaintiff may sue. The transfer of the business
+and dissolution of the Company was certainly the act of the Company
+itself, so that they have by their act put an end to the state of things
+under which alone this covenant would operate.”
+
+Page 33
+67.
+The principle stated by Cockburn CJ was accepted as good law by both the
+majority and by the dissentients in the House of Lords in Southern Foundries
+(1926) Ltd v. Shirlaw [1940] AC 701. Lord Porter described it (at p. 741) as a
+“well known principle”. Lord Atkin said (at p. 717) that Cockburn's CJ's
+proposition is “well established law”, adding:
+“Personally I should not so much base the law on an implied term but
+on a positive rule of law of contract that conduct of either promisor or
+promisee which can be said to amount to himself “of his own motion”
+bringing about the impossibility of performance is itself a breach.”
+68.
+Mr Layton next cited Bournemouth and Boscombe AFC v. Manchester United,
+The Times 22 May 1980, and in particular the judgment of Donaldson LJ more
+fully quoted by Hale LJ (who must had access to a transcript) in CEL Group
+Ltd v. Nedlloyd Lines Ltd [2004] 1 Lloyd’s Rep 381, 386:
+“I have on occasion found it a useful test notionally to write into the
+contract under consideration a declaratory clause expressing the fact
+that the parties are not subject to the obligations which would flow
+from the clause which it is urged should be implied. I think it is useful
+in this case. We then get a contract reading: “It is further agreed that
+Manchester United Football Club will pay a further sum of £27,770 to
+Bournemouth & Boscombe Football Club when Edward MacDougall
+has scored 20 goals in first team competitive football for Manchester
+United . . . provided always that Manchester United shall be under no
+obligation to afford MacDougall any reasonable opportunity of scoring
+20 goals.” It at once becomes clear that the inclusion of the proviso
+renders this part of the contract ‘inefficacious, futile and absurd’, to
+use the words that Lord Salmon used in Liverpool City Council v Irwin
+[1976] 2 All ER 39 at 50, [1977] AC 239 at 262.”
+69.
+Following Donaldson LJ’s lead, Mr Layton devised a rather complex
+declaration by which to test the proposition that the receivers ought not to be
+permitted to use an arrest as a means of forcing the Owners to give up the
+right to have disputes decided by arbitration in London:
+“It shall be permissible for a receiver of cargo to obtain, in any country
+in the world where the Kallang may discharge cargo, an order that the
+Kallang be arrested to secure that person’s cargo claim and be not
+released from such an arrest unless and until the shipowner provide a
+bank guarantee under which the bank agrees to make payment to the
+
+Page 34
+cargo claimant upon that cargo claimant establishing the liability of the
+shipowner for such claim before a court or tribunal in that country [or a
+court or tribunal other then the London arbitration expressly agree by
+this contract] and not otherwise.”
+70.
+The terms that Mr Layton ultimately contended for before Gloster J. were:
+(1)
+to the effect that CCMN would not be permitted to obtain an order for
+the arrest of the vessel on terms which prevent the release of the vessel
+from arrest upon the provision of reasonable alternative security;
+(2)
+to the effect that CCMN should not be permitted to procure the arrest
+of the vessel for any purpose other than to obtain security for its
+claims.
+In her judgment, the Judge was satisfied that that the proposed implied terms
+satisfied the standard which she was required to apply at that stage, namely a
+good arguable case on the particular and very special facts of the case. At one
+stage, Mr Layton argued that the findings of law by Gloster J. were in some
+way a final decision, binding on the parties. That is not correct. As she made
+quite clear, the learned Judge was considering the issues on an interlocutory
+basis pending trial.
+71.
+Mr Happé argued that there was no necessity to imply any term. There is no
+authority for any such term. It requires considerable elasticity to bring the
+principle of Mackay v. Dick into the case. The principle relates, in its natural
+application, to the case where positive co-operation between the parties is
+required to bring about a particular end contemplated by the contract. Insofar
+as this means that the parties have agreed to arbitrate their substantial disputes,
+it adds nothing to the express words of the arbitration clause and can hardly be
+used as a basis for implying a term that extends the reach of the arbitration
+clause. It would be perfectly possible for the parties to agree a more capacious
+arbitration clause which went as far as catching even security or ancillary
+proceedings: eg a Scott v. Avery clause or the GAFTA 119 form quoted in
+Mantovani v. Carapelli [1980] 1 Lloyd’s Rep 375, 381.
+
+Page 35
+The Brussels Arrest Convention of 1952
+72.
+Before resolving this issue it is necessary to consider the scheme of the
+International Convention for the Unification of Certain Rules Relating to the
+Arrest of Sea-Going Ships of 19522 (“the Brussels Arrest Convention”) and
+how applications for security, including arrest, fit into English arbitration law.
+The scheme of the Convention is as follows:
+-
+by Article 2, a ship flying the flag of a contracting state can be arrested
+in the jurisdiction of any contracting state in support of a maritime lien
+(which includes a cargo claim);
+-
+By Article 4, the arrest can only be under the authority of a Court (or
+appropriate judicial authority);
+-
+By Article 5, the Court within whose jurisdiction the vessel has been
+arrested must permit the release of the vessel upon sufficient bail or
+other security being furnished. In default of agreement between the
+parties as to the sufficiency of the bail or other security, the Court must
+determine the nature and amount thereof.
+73.
+The Brussels Arrest Convention has not been enacted in English law as such3.
+Instead sections 20-24 of the Supreme Court Act 1981 and CPR Part 61 reflect
+the scheme of the Brussels Convention as regards ships arrested in England
+and Wales. By r.61.8(4) the Court has power to order that a vessel be released
+from arrest. The general principle applied is that the arresting party “is
+entitled to sufficient security to cover the amount of the claim with interest
+and costs on the basis of his reasonably arguable best case”: The Moscanthy
+[1971] 1 Lloyd’s Rep 37, 44.
+
+2 The Convention has been ratified by many countries, including the United Kingdom and Senegal. Its
+successor signed in 1999 has received little international support.
+33 Nor has the Brussels Collision Convention: see The Atlantic Star [1974] AC 464, 455 E-F, 464 A-C,
+479A-C.
+
+Page 36
+74.
+Under section 11 of the Arbitration Act 1996, replacing section 26 of the Civil
+Jurisdiction and Judgments Act 1982 in part, where Admiralty proceedings are
+stayed for arbitration, the Court:
+“may, if in those proceedings property has been arrested or bail or
+other security has been given to prevent or obtain release from arrest—
+(a)
+order that the property arrested be retained as security for the
+satisfaction of any award given in the arbitration in respect of
+that dispute, or
+(b)
+order that the stay of those proceedings be conditional on the
+provision of equivalent security for the satisfaction of any such
+award.”
+75.
+I was referred to two cases in which the English Courts have had to consider
+the juxtaposition of a demand for security abroad and an exclusive English
+jurisdiction or arbitration clause. In The Lisboa [1980] 2 Lloyd’s Rep 546, the
+bill of lading included an exclusive English jurisdiction clause. Cargo owners
+had the vessel arrested in Venice in order to obtain security for their claim.
+The Court of Appeal refused to injunct the cargo owners from proceeding with
+the arrest of the vessel. Lord Denning MR held that the agreement that “any
+and all legal proceedings against the Carrier shall be brought before the
+competent court at London” related only to proceedings to establish liability,
+and not to proceedings to enforce an award or obtain security. In the
+alternative, he would refuse an injunction as a matter of discretion:
+But when the arrest is made in good faith – for the purpose of
+obtaining security for a just demand – then I am of opinion that the
+English Courts should not restrain it by injunction, even though it is
+said to be in breach of an exclusive jurisdiction clause, see Marazura
+Navegacion S.A. v. Oceanus Mutual Underwriting Association
+(Bermuda) Ltd., [1977] 1 Lloyd's Rep. 281: nor should they award
+damages for the breach of such a clause. It seems to me that, by the
+maritime law of the world, the power of arrest should be, and is,
+available to a creditor -- exercising it in good faith in respect of a
+maritime claim – wherever the ship is found – even though the merits
+of the dispute have to be decided by a Court in another country or by
+an arbitration in another country – and, I would add (contrary to The
+Golden Trader, [1974] 1 Lloyd's Rep. 378; [1975] Q.B. 348), even
+though the arbitration is mandatory.
+
+Page 37
+76.
+The other members of the Court were less emphatic about the first ground and
+dealt with the case as a matter of discretion. Waller LJ considered that there
+was a discretion not to grant an injunction, which the Judge had correctly
+exercised. Dunn LJ said:
+Although the English Court has jurisdiction to restrain a party to
+English proceedings from proceeding in a foreign Court, the
+jurisdiction will be exercised with great caution especially when the
+defendant to the English proceedings is plaintiff in the foreign
+proceedings, and the injunction should not normally be granted unless
+the foreign proceedings are vexatious or oppressive (see Cohen v.
+Rothfield, [1919] 1 K.B. 410 per Lord Justice Scrutton, and Castanho
+v. Brown & Root (U.K.) Ltd., [1980] 2 Lloyd's Rep. 423; [1980] 1
+W.L.R. 833. This is so even if the parties have agreed not to proceed in
+a foreign Court (Settlement Corporation v. Hochschild, [1966] 1 Ch.
+10 per Mr. Justice Ungoed-Thomas at pp. 17 and 18) or if they have
+agreed that all disputes shall be submitted to arbitration in England
+(Marazura v. Oceanus, [1977] 1 Lloyd's Rep. 283). There may
+however be cases in which the court will exercise the jurisdiction, but
+as a matter of discretion and not of right (see Pena Copper Mines Ltd.
+v. Rio Tinto Co. Ltd., (1912) 105 L.T. 846; Ellerman v. Read, [1928] 2
+K.B. 144, and The Tropaioforos (No. 2), (1962) 1 Lloyd's Rep. 410). It
+is always a relevant consideration whether or not the party seeking the
+injunction will be adequately protected by an award of damages. So far
+as I am aware there is no case in which an injunction has been granted
+ordering the release of a ship which has been arrested by a valid order
+of a foreign Court, but this too in my view is a matter of discretion.
+
+The Court of Appeal therefore refused to discharge the injunction.
+77.
+More recently, in Petromin SA v. Secnav Marine Limited [1995] 1 Lloyd’s
+Rep 603, Colman J had to consider a case where plaintiffs owners were
+contending that (i) an arbitration should be permanently stayed on the grounds
+that the defendant charterers had failed to comply with an order for the
+provision of security for costs and (ii) that the defendants should be injuncted
+from seeking to arrest the vessel for the purpose of obtaining security for their
+counterclaim. The Judge refused to stay the arbitration permanently. As to
+the application for an injunction against arrest, the Judge said as follows (at
+p.613):
+It is clear from the decisions of the Court of Appeal in Continental
+Bank NA v Aeakos Compania Naviera SA, [1994] 1 Lloyd’s Rep 505;
+
+Page 38
+[1994] 1 WLR 588 and The Angelic Grace, sup, that the English
+Courts will in general restrain by injunction foreign proceedings
+brought in breach of a foreign jurisdiction clause or an arbitration
+clause. Damages will in general be an inadequate remedy and
+considerations of comity will not in general inhibit English Courts
+from restraining continuance of proceedings already commenced
+overseas. Where, however, the sole purpose of the commencement of
+the proceedings in a foreign Court is to accomplish the arrest of a
+vessel in order to provide security in respect of a claim which by
+reason of an exclusive jurisdiction clause must be brought in a
+particular Court or by reason of an arbitration clause must be referred
+to arbitration, it has long been the practice – certainly in the Admiralty
+Court – for an injunction against the foreign proceedings or a stay of
+English proceedings only to be granted on terms that alternative
+security is provided by the party applying for such injunction: see, for
+example, The Eleftheria, [1969] 1 Lloyd's Rep 237 at p 246; [1970] P
+94 at p 105, The Atlantic Star, [1973] 2 Lloyd's Rep 446; [1974] AC
+436 and The Rena K, [1978] 1 Lloyd's Rep 545; [1979] 1 QB 377. In
+the last case Mr Justice Brandon strongly emphasized at p 559, col 1; p
+404 the distinction between choice of forum for the purposes of dispute
+resolution on the one hand and the right to take proceedings in rem to
+obtain security on the other in the following words:
+If this distinction between choice of forum on the one hand and
+right to security on the other is recognized and given effect to
+in foreign jurisdiction clause cases and vexation cases, I cannot
+see any good reason why it should not equally be recognized
+and given effect to in arbitration cases, whether the grant of a
+stay is discretionary under s 4(1) of the Arbitration Act, 1950,
+or, as in the present case, mandatory under s 1(1) of the
+Arbitration Act, 1950.
+I would like to stress again in this connection also that the
+distinction in question is clearly recognized and given effect to
+by the International Convention for the Arrest of Seagoing
+Ships 1952.
+This distinction clearly underlies the decision of the Court of Appeal in
+The Lisboa, [1980] 2 Lloyd's Rep 546, a case concerned with an
+application for a mandatory injunction to restrain an arrest in an
+overseas jurisdiction in breach of an exclusive jurisdiction clause. In
+The Angelic Grace Lord Justice Leggatt treated that case as
+representing an exception to the general rule. It is further clear that in
+the latter case the Court of Appeal was treating the principles
+applicable to injunctions to enforce arbitration clauses as substantially
+the same as those applying to exclusive jurisdiction clauses.
+It follows that in the present case, were it not for the fact that the
+counterclaim has been stayed, attempts by the defendants to arrest the
+
+Page 39
+plaintiffs’ vessels in foreign jurisdictions solely in order to obtain
+security for the counterclaim would not generally be restrained by
+injunction unless the plaintiffs tendered security in lieu of the arrest,
+but that proceedings in a foreign jurisdiction which were not confined
+to the obtaining of security and which extended to the determination of
+issues in the arbitration would normally be restrained.
+78.
+These authorities establish that the English Court will not restrain a party to an
+English arbitration clause from arresting a vessel in another jurisdiction where
+the sole purpose of the arrest is to obtain reasonable security for the claim to
+be arbitrated or litigated in England. Section 11 of the Arbitration Act 1996
+also assumes that a Claimant can properly arrest a vessel in order to obtain
+security for an arbitration claim. The precise basis on which the Court acts –
+construction of the arbitration clause or discretion – is not authoritatively
+established but the general approach is clear enough. Where, however, the
+Claimants’ actions go beyond simply seeking reasonable security for the
+arbitration proceedings, there is a breach of the arbitration clause which the
+English Court will restrain.
+Conclusion on Implied Terms
+79.
+Against this background, I am not persuaded that it is necessary to imply any
+term of the kind contended for. The bills of lading contain an express
+agreement, binding on all holders including the receivers, that all disputes are
+be referred to arbitration in London to be decided in accordance with English
+law and practice. In my judgment, if one party seeks to use a foreign arrest for
+ulterior purposes – i.e. beyond obtaining reasonable security for the arbitration
+claim – he is in breach of the express agreement whereby he agreed that all
+disputes would be decided by London arbitration. This is not a case like those
+in Stirling, Mackay or Bournemouth where the parties needed to co-operate to
+achieve a particular result or to allow one party to perform the bargain. If one
+party tried to obtain security for proceedings in another jurisdiction or to force
+the other party to give up his right to arbitrate disputes, that would be a direct
+and straightforward breach of the arbitration clause.
+
+Page 40
+(3)
+Was the arrest order obtained in Dakar merely security in support of the
+claim, or was it a substantive claim?
+80.
+It is clear that the arrest itself was a conservatory arrest for security. The
+application by Ba & Tandian was for security and payment, but the order
+obtained was a normal order for security of payment. There was nothing
+sinister in the terms of application – had there been, this would have been
+repeated in the draft order prepared for the Court by Ba & Tandian. In my
+view, the request for security and payment was a word processing error and
+nothing more.
+81.
+I am equally satisfied, having heard Professor Ndende, that the Husssier’s
+demand for payment was intended to reflect the requirements of the OHADA
+Code. Ba & Tandian, who probably drafted the Procès-Verbal, were mistaken
+in including this sentence because the Owners were not going to be present. I
+do not think there was any intention to trick the Master. The reality was that it
+was exceedingly unlikely that he would make payment and, of course, he did
+not. I rather expect that the Husssier’s demand for payment completely
+passed him by.
+82.
+It is easy to understand why, given the terms of the application “pour avoir
+sûrété et paiement” and the terms of the Huissier’s demand, it seemed
+otherwise at the hearing before Cooke J., but the order itself was for security
+only.
+83.
+Mr Happé submitted that, if I accepted that the arrest was conservatory only,
+that was the end of the case against CCMN and Axa Senegal. I disagree. The
+case against Axa Senegal goes much further than just the nature and terms of
+the arrest itself.
+
+(4)
+Was the arrest and the demand for security being used as a means of
+forcing the Owners to relinquish the London arbitration clause?
+
+Page 41
+84.
+Although Mr Dia indicated in the e-mail sent on 11 March a willingness to
+accept a bank guarantee answerable to competent tribunals – i.e. neutral as to
+jurisdiction – this was not Axa Senegal’s real or consistent stance. In
+accordance with his instructions from senior management of Axa Senegal, Mr
+Dia made clear orally to Mme Latinier it wanted a bank guarantee which was
+answerable to Senegalese jurisdiction only. He said the same to Mr Parton.
+Axa Senegal would insist on this before the Dakar Court and it knew that,
+unless Axa Senegal agreed to accept “competent tribunal” wording, the Court
+would insist on Senegalese bank guarantee answerable to Senegalese
+jurisdiction. Had it not been for the anti-suit injunction, Axa Senegal would
+have achieved its end.
+85.
+Until forced by the injunction granted by Cooke J. and the very real threat of
+sequestration, Axa Senegal was not prepared to accept that CCMN was bound
+by the arbitration clause and that its cargo claims had to be determined by
+London arbitration. The arrest order only permitted the release of the vessel
+on provision of a bank guarantee. In practice, as Axa Senegal intended and
+the American Club were well aware, unless Axa Senegal was prepared to
+make it clear that it would accept a first class bank guarantee in support of
+London arbitration, this would require the production of a Senegal bank
+guarantee which would answer to a Senegal judgment and which would take
+some considerable time to obtain. Without agreement, the Court would not
+accept a foreign bank guarantee. Even if the guarantee was expressed in terms
+of “competent jurisdiction”, the result would be that the Owners were forced
+to litigate the claim in Senegal. This was not some accidental result. It is
+clear from what Mr Dia said to Mme Latinier and Axa Senegal’s behaviour in
+other cases that it was Axa Senegal’s intention to use the arrest as a means of
+forcing Senegalese jurisdiction, if at all possible. It was only the intervention
+of the English Court which prevented this result from being achieved.
+(5)
+In the light of those findings, was there a breach of the express or implied
+terms of the arbitration clause?
+
+Page 42
+86.
+The conduct of CCMN through Axa Senegal went well beyond seeking
+security for its claims in the London arbitration. By seeking to use the arrest
+as a means of achieving Senegalese jurisdiction, it was in breach of the
+express terms of the arbitration clause.
+(6)
+What role did Axa Senegal play? Was it merely acting on behalf of
+CCMN or was it the driving force in its own right?
+87.
+I am satisfied on the evidence that Axa Senegal was the driving force in
+arresting the vessel and using the arrest as a means of forcing Senegalese
+jurisdiction. It was not taking instructions from CCMN or even consulting
+with it – nothing has been disclosed by either defendant that any such
+communication took place. Axa Senegal was exercising its rights under the
+cargo insurance policy to take control of claims handling even prior to
+settlement of the insurance claim. Its motives were twofold. First it did not
+like having cargo claims decided in London arbitration. Second, its chances
+of effecting a substantial recovery would be much greater if the Hamburg
+Rules were applied, as they would be by a Dakar Court, rather than the terms
+of the bills of lading, especially the FIOS clause, and the Hague-Visby Rules
+which would be applied by London arbitrators applying English law.
+88.
+It was Axa Senegal that finally decided on 23 March that it would have to
+modify its position. There is no evidence that there was any consultation with
+the CCMN before the consent order was made. As a result of Axa Senegal’s
+decision, the vessel was released from arrest the next day.
+
+(7)
+What knowledge did Axa Senegal have of the arbitration clause and its
+incorporation into the bill of lading contracts?
+
+Page 43
+89.
+From the outset, Axa Senegal knew that the bills of lading purported to
+incorporate a charterparty arbitration clause. It was possible, but unlikely, that
+the charterparty would turn out not to contain an arbitration clause. It was
+unknown what the terms of the arbitration clause were, especially as to the
+seat. As Mr Parton fairly observed, however, it was inconceivable that the
+charterparty would contain a Senegalese arbitration or jurisdiction clause. As
+from 10 March, it was possible but by no means clear that the London
+arbitration clause in the time charterparty was incorporated. On the afternoon
+of 15 March, Axa Senegal (through Me Schmill) was sent a working copy of
+the voyage charter. Mr Happé argued that Axa Senegal could not know, even
+then, that there was a London arbitration clause because the charterparty was
+unsigned. It was not, he submitted, until a signed copy was provided long
+after the event in June 2006 that Axa Senegal could be said to have known that
+the voyage charter included an arbitration clause and that this was
+incorporated into the bill of lading contracts. This submission is unreal. In
+my judgment, once Axa Senegal had been provided with the working copy of
+the charterparty, it knew that it was almost certain that there was a binding
+London arbitration clause. If it was in any serious doubt, it could have
+checked with Voest-Alpine, the shippers and sellers to CCMN. Mr Dia denies
+this, but his evidence carries no weight.
+(8)
+Did Axa Senegal cause or procure CCMN so to act and was its conduct
+such as amount to a wrongful inducement or procurement of any breach
+of the express or implied terms of the arbitration clause?
+90.
+The House of Lords judgment in OBG Ltd v. Allan [2007] UKHL 21 [2008] 1
+AC 1 establishes that, in order for a tortious claim for wrongful inducement or
+procurement of breach of contract to succeed, it must be established that the
+defendant:
+
+(1)
+Knew that he was inducing a breach of contract; and
+(2)
+Intended to do so.
+
+Page 44
+I should stress that both parties agreed that this issue was to be decided in
+accordance with English law. No case on Senegalese law was pleaded.
+91.
+As to knowledge, Lord Hoffman said this in OBG:
+40
+The question of what counts as knowledge for the purposes of
+liability for inducing a breach of contract has also been the subject of a
+consistent line of decisions. In Emerald Construction Co Ltd v
+Lowthian [1966] 1 WLR 691 union officials threatened a building
+contractor with a strike unless he terminated a subcontract for the
+supply of labour. The defendants obviously knew that there was a
+contract—they wanted it terminated—but the court found that they did
+not know its terms and, in particular, how soon it could be terminated.
+Lord Denning MR said, at pp 700-701:
+“Even if they did not know the actual terms of the contract, but
+had the means of knowledge—which they deliberately
+disregarded—that would be enough. Like the man who turns a
+blind eye. So here, if the officers deliberately sought to get this
+contract terminated, heedless of its terms, regardless whether it
+was terminated by breach or not, they would do wrong. For it is
+unlawful for a third person to procure a breach of contract
+knowingly, or recklessly, indifferent whether it is a breach or
+not.”
+41
+This statement of the law has since been followed in many
+cases and, so far as I am aware, has not given rise to any difficulty. It is
+in accordance with the general principle of law that a conscious
+decision not to inquire into the existence of a fact is in many cases
+treated as equivalent to knowledge of that fact: see Manifest Shipping
+Co Ltd v Uni-Polaris Insurance Co Ltd [2003] 1 AC 469. It is not the
+same as negligence or even gross negligence: in British Industrial
+Plastics Ltd v Ferguson [1940] 1 All ER 479, for example, Mr
+Ferguson did not deliberately abstain from inquiry into whether
+disclosure of the secret process would be a breach of contract. He
+negligently made the wrong inquiry, but that is an altogether different
+state of mind.
+92.
+On my findings, Axa Senegal plainly had sufficient knowledge as from the
+afternoon of 15 March: absolute certainty is not needed for a party to have
+knowledge. As from 10 March, Axa Senegal knew that it was possible but by
+no means clear that the London arbitration clause in the time charterparty was
+incorporated. What is so striking is the complete failure by Axa Senegal to
+make any of the obvious enquiries that were open to it via CCMN to establish
+
+Page 45
+for sure what the position was. An obvious expedient was to enquire of
+Voest-Alpine what the position was – Voest-Alpine might have refused to do
+so, even though the confidentiality clause in the charterparty had no
+application to them as charterers, but that is unlikely. Axa Senegal’s attitude
+seems to have been to wait and see whether the Owners (who were not party
+to the voyage charterparty) could prove what the position was. In my view, it
+is a fair inference on the facts and in the absence of any proper evidence from
+Axa Senegal that it was determined to try and avoid the arbitration clause,
+whatever it was, and that it made a conscious decision to make no enquiries of
+its own.
+93.
+As to intention, it is clear that Axa Senegal was determined, if it could, to use
+the arrest as a means of forcing the Owners to give up the right to have any
+dispute arbitrated and to accept Senegalese jurisdiction. To use Lord
+Hoffman’s words (at §43), the breach of the London arbitration clause was an
+end in itself. That counts as an intention to procure a breach of contract.
+94.
+In my judgment, therefore, Axa Senegal’s conduct, knowledge and intent was
+such as to make it liable for the accessory tort of procuring CCMN’s breach of
+the contract to arbitrate all disputes in London. There was an alternative claim
+for causing loss by unlawful means but Mr Layton recognised that this added
+nothing and did not pursue it.
+(9)
+Did Axa Senegal unlawfully conspire with CCMN to injure the Owners?
+95.
+This claim also really adds nothing to the inducement claim and I will deal
+with it shortly. Mr Layton contended that he could establish a conspiracy
+between CCMN and Axa Senegal to injure the Owners – i.e. a conspiracy
+involving no acts or means which were unlawful – with the object of causing
+deliberate damage to the Owners without any just cause.
+96.
+I am not satisfied that there was any such conspiracy involving CCMN. The
+reality is that Axa Senegal simply took over the running of the claim. There is
+no evidence that it consulted with CCMN. Given the Owners’ case about Axa
+
+Page 46
+Senegal’s conduct, which I have largely accepted, it is somewhat inconsistent
+to contend that CCMN was party to any conspiracy.
+(10)
+Damages
+97.
+The claim advanced by Owners against Axa Senegal only is as follows:
+(1)
+Loss of hire for 11.4930 days at US$12,000 per day:
+
+$137,916.00
+(2)
+Additional port charges
+
+$15,859.65
+(3)
+Cost of 12mt MGO at $515 per mt
+
+$6,180
+(4)
+Payment to the Huissier
+
+$210.00
+(5)
+Watchmen
+
+$271.00
+(6)
+3A correspondent/agent and legal fees
+
+€2,896.15
+(7)
+Survey fees
+
+€1,676.42
+(8)
+Eltvedt O’Sullivan correspondent and legal fees
+€5,001.55
+Totals:
+$160,436.65
+
+€9,574.12
+
+Page 47
+98.
+These claims were supported by Ms Dutta, the chartering manger of Trisul,
+the vessel’s managers. Her evidence was that Brobulk were willing to extend
+the existing fixture for another time charter trip on the same terms including
+the rate of hire. That potential fixture was lost on 15 March as a result of the
+vessel’s arrest. Trisul then negotiated for a fresh fixture for the carriage of
+sugar from Brazil to Angola. I am sure that, had the vessel not been arrested,
+she would have been delivered on arrival in South America into a further
+fixture with Brobulk at a rate of $12,000 per day. Even after arrest, that
+fixture remained available till 15 March.
+99.
+However, it by no means automatically follows that the Defendants are liable
+for damages for the entire period of the arrest. CCMN was entitled to seek
+security for the claim in London arbitration. What was improper was the
+attempt to use the arrest as a means of defeating the arbitration clause. I have
+to ask what the position would have been if Axa on CCMN’s behalf had
+recognised that there was a binding arbitration clause and had acted in good
+faith in seeking reasonable security for the arbitration, and nothing more. As I
+see it, it is very likely that the vessel would still have been arrested on 11
+March because security would not have been made available by then and she
+was nearing completion of discharge. However, by the morning of Monday
+14 March, had Axa Senegal wanted just to secure the English arbitration
+claim, it would have taken up Mr Parton’s offer of a Club letter of undertaking
+made on 10 March (and apparently ignored) and a letter of undertaking would
+have been available. If Axa Senegal had been focussed, as it should have
+been, on security for a London arbitration, it would not have been demanding
+a Senegalese bank guarantee which in practice would offer a much lower level
+of security than an American Club guarantee. The sums involved were
+modest and an American Club letter of undertaking would have satisfied Axa
+Senegal, had it been seeking in good faith proper security for the arbitration
+alone. It is striking that the cargo insurance policy includes the American
+Club as an acceptable P&I Club. That can only be because its security was
+regarded as adequate. Even if that is wrong, a London bank guarantee would
+certainly have been acceptable and that could have been obtained on the
+morning of 14 March. In my view, on any basis the vessel could and should
+
+Page 48
+have been released from arrest by 1530 hours on 14 March with adequate
+security in place.
+100.
+I would therefore hold that the period during which the Owners lost the use of
+the vessel, as a result of the breach of contract procured by Axa Senegal, was
+10 days. Had the vessel been released on 14 March she would have been
+delivered 10 days earlier into a fixture with Brobulk. The loss of hire is
+therefore $120,000. In addition during those 10 days the vessel consumed 10
+m.t. of gas oil costing $5,150 and incurred port charges and agency fees.
+Some of these port charges and agency fees would have been probably
+incurred anyway – e.g. mooring and unmooring charges and pilotage. I would
+allow $5,000 for these costs plus $200 for the watchmen. The Huissier’s costs
+would have had to be paid anyway.
+101.
+As to the remainder of the claim I am not satisfied that these costs arise out of
+CCMN’s breach of contract as procured by Axa Senegal. For instance the
+survey fees would seem to be attributable to the discharge tally and the
+potential cargo claim. Parts of the expenses may be directly attributable to the
+breach of contract but I do not have the information available to separate out
+what is recoverable, and what is not.
+Conclusion
+102.
+It follows that I award of damages of US$130,350 to the Owners against Axa
+Senegal.

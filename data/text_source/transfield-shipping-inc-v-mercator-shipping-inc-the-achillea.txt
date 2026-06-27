@@ -1,0 +1,2039 @@
+HOUSE OF LORDS
+SESSION 2007–08
+[2008] UKHL 48
+ on appeal from: [2007] EWCA Civ 901
+
+OPINIONS
+OF THE LORDS OF APPEAL
+FOR JUDGMENT IN THE CAUSE
+
+Transfield Shipping Inc (Appellants) v Mercator Shipping Inc
+(Respondents)
+
+Appellate Committee
+
+Lord Hoffmann
+Lord Hope of Craighead
+Lord Rodger of Earlsferry
+Lord Walker of Gestingthorpe
+Baroness Hale of Richmond
+
+Counsel
+Appellant:
+ Dominic Kendrick QC
+Benjamin Parker
+
+ (Instructed by Swinnerton Moore LLP)
+Respondent:
+Simon Croall QC
+Ruth Hosking
+
+(Instructed by Bentleys Stokes & Lowless)
+
+Hearing date:
+1 MAY 2008
+
+ON
+WEDNESDAY 9 JULY 2008
+
+[2023] EWHC 100 (Ch)
+
+Neutral Citation Number: [2023] EWHC 100 (Ch)
+Case No: PT-2022-000001
+
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+PROPERTY, TRUSTS AND PROBATE LIST (ChD)
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+Date: 20/01/2023
+
+Before :
+
+MR JUSTICE MICHAEL GREEN
+- - - - - - - - -
+Between :
+
+(1) THE ROYAL BOROUGH OF KENSINGTON AND CHELSEA
+(2) THE MAYOR'S OFFICE FOR POLICING AND CRIME
+Claimants
+- and -
+(1) THE FREEHOLDERS OF 2-14 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(2) THE FREEHOLDERS OF 16-28 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(3) THE FREEHOLDERS OF 30-42 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(4) THE FREEHOLDERS OF 44-56 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(5) THE FREEHOLDERS OF 58-70 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(6) THE FREEHOLDERS OF 72-84 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(7) THE FREEHOLDERS OF 86-98 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(8) THE FREEHOLDERS OF 100-112 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(9) THE FREEHOLDERS OF 114-126 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(10) THE FREEHOLDERS OF 128-140 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(11) THE FREEHOLDERS OF 142-154 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(12) THE FREEHOLDERS OF 156-168 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(13) THE FREEHOLDERS OF 170-182 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(14) THE FREEHOLDERS OF 184-196 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(15) THE FREEHOLDERS OF 198-210 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(16) THE FREEHOLDERS OF 212-224 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(17) THE FREEHOLDERS OF 226-238 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(18) THE FREEHOLDERS OF 240-252 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(19) THE FREEHOLDERS OF 254-266 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(20) THE FREEHOLDERS OF 268-280 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(21) THE FREEHOLDERS OF 282-294 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(22) THE FREEHOLDERS OF 296-308 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(23) THE FREEHOLDERS OF 310-322 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(24) THE FREEHOLDERS OF 324-336 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(25) THE FREEHOLDERS OF 338-350 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(26) THE FREEHOLDERS OF 352-364 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(27) THE FREEHOLDERS OF 366-378 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(28) THE FREEHOLDERS OF 380-392 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(29) THE FREEHOLDERS OF 394-406 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(30) THE FREEHOLDERS OF 408-420 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(31) THE FREEHOLDERS OF 422-434 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(32) THE FREEHOLDERS OF 436-448 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(33) THE FREEHOLDERS OF 450-462 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(34) THE FREEHOLDERS OF 464-476 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(35) THE FREEHOLDERS OF 478-490 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(36) THE FREEHOLDERS OF 492-504 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(37) THE FREEHOLDERS OF 506-518 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(38) THE FREEHOLDERS OF 520-532 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(39) THE FREEHOLDERS OF 534-546 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(40) THE FREEHOLDERS OF 548-560 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(41) THE FREEHOLDERS OF 562-574 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(42) THE FREEHOLDERS OF 576-588 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(43) THE FREEHOLDERS OF 590-602 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(44) THE FREEHOLDERS OF 604-616 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(45) THE FREEHOLDERS OF 618-630 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(46) THE FREEHOLDERS OF 632-644 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(47) THE FREEHOLDERS OF 646-658 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(48) THE FREEHOLDERS OF 660-672 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(49) THE FREEHOLDERS OF 674-686 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(50) THE FREEHOLDERS OF 688-700 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(51) THE FREEHOLDERS OF 702-714 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(52) THE FREEHOLDERS OF 716-728 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(53) THE FREEHOLDERS OF 730-742 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(54) THE FREEHOLDERS OF 744-756 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(55) THE FREEHOLDERS OF 758-770 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(56) THE FREEHOLDERS OF 772-784 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(57) THE FREEHOLDERS OF 786-798 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(58) THE FREEHOLDERS OF 800-812 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(59) THE FREEHOLDERS OF 814-826 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(60) THE FREEHOLDERS OF 828-840 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(61) THE FREEHOLDERS OF 842-854 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(62) THE FREEHOLDERS OF 856-868 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(63) THE FREEHOLDERS OF 870-882 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(64) THE FREEHOLDERS OF 884-896 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(65) THE FREEHOLDERS OF 898-910 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(66) THE FREEHOLDERS OF 912-924 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(67) THE FREEHOLDERS OF 926-938 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(68) THE FREEHOLDERS OF 940-952 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(69) THE FREEHOLDERS OF 954-966 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(70) THE FREEHOLDERS OF 968-980 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(71) THE FREEHOLDERS OF 982-994 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(72) THE FREEHOLDERS OF 996-1008 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(73) THE FREEHOLDERS OF 1010-1022 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(74) THE FREEHOLDERS OF 1024-1036 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(75) THE FREEHOLDERS OF 1038-1050 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(76) THE FREEHOLDERS OF 1052-1064 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(77) THE FREEHOLDERS OF 1066-1078 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(78) THE FREEHOLDERS OF 1080-1092 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(79) THE FREEHOLDERS OF 1094-1106 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(80) THE FREEHOLDERS OF 1108-1120 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(81) THE FREEHOLDERS OF 1122-1134 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(82) THE FREEHOLDERS OF 1136-1148 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(83) THE FREEHOLDERS OF 1150-1162 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(84) THE FREEHOLDERS OF 1164-1176 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(85) THE FREEHOLDERS OF 1178-1190 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(86) THE FREEHOLDERS OF 1192-1204 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(87) THE FREEHOLDERS OF 1206-1218 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(88) THE FREEHOLDERS OF 1220-1232 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(89) THE FREEHOLDERS OF 1234-1246 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(90) THE FREEHOLDERS OF 1248-1260 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(91) THE FREEHOLDERS OF 1262-1274 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(92) THE FREEHOLDERS OF 1276-1288 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(93) THE FREEHOLDERS OF 1290-1302 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(94) THE FREEHOLDERS OF 1304-1316 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(95) THE FREEHOLDERS OF 1318-1330 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(96) THE FREEHOLDERS OF 1332-1344 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(97) THE FREEHOLDERS OF 1346-1358 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(98) THE FREEHOLDERS OF 1360-1372 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(99) THE FREEHOLDERS OF 1374-1386 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(100) THE FREEHOLDERS OF 1388-1400 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(101) THE FREEHOLDERS OF 1402-1414 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(102) THE FREEHOLDERS OF 1416-1428 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(103) THE FREEHOLDERS OF 1430-1442 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(104) THE FREEHOLDERS OF 1444-1456 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(105) THE FREEHOLDERS OF 1458-1470 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(106) THE FREEHOLDERS OF 1472-1484 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(107) THE FREEHOLDERS OF 1486-1498 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(108) THE FREEHOLDERS OF 1500-1512 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(109) THE FREEHOLDERS OF 1514-1526 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(110) THE FREEHOLDERS OF 1528-1540 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(111) THE FREEHOLDERS OF 1542-1554 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(112) THE FREEHOLDERS OF 1556-1568 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(113) THE FREEHOLDERS OF 1570-1582 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(114) THE FREEHOLDERS OF 1584-1596 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(115) THE FREEHOLDERS OF 1598-1610 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(116) THE FREEHOLDERS OF 1612-1624 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(117) THE FREEHOLDERS OF 1626-1638 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(118) THE FREEHOLDERS OF 1640-1652 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(119) THE FREEHOLDERS OF 1654-1666 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(120) THE FREEHOLDERS OF 1668-1680 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(121) THE FREEHOLDERS OF 1682-1694 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(122) THE FREEHOLDERS OF 1696-1708 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(123) THE FREEHOLDERS OF 1710-1722 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(124) THE FREEHOLDERS OF 1724-1736 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(125) THE FREEHOLDERS OF 1738-1750 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(126) THE FREEHOLDERS OF 1752-1764 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(127) THE FREEHOLDERS OF 1766-1778 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(128) THE FREEHOLDERS OF 1780-1792 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(129) THE FREEHOLDERS OF 1794-1806 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(130) THE FREEHOLDERS OF 1808-1820 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(131) THE FREEHOLDERS OF 1822-1834 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(132) THE FREEHOLDERS OF 1836-1848 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(133) THE FREEHOLDERS OF 1850-1862 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(134) THE FREEHOLDERS OF 1864-1876 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(135) THE FREEHOLDERS OF 1878-1890 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(136) THE FREEHOLDERS OF 1892-1904 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(137) THE FREEHOLDERS OF 1906-1918 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(138) THE FREEHOLDERS OF 1920-1932 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(139) THE FREEHOLDERS OF 1934-1946 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(140) THE FREEHOLDERS OF 1948-1960 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(141) THE FREEHOLDERS OF 1962-1974 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(142) THE FREEHOLDERS OF 1976-1988 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(143) THE FREEHOLDERS OF 1990-2002 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(144) THE FREEHOLDERS OF 2004-2016 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(145) THE FREEHOLDERS OF 2018-2030 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(146) THE FREEHOLDERS OF 2032-2044 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(147) THE FREEHOLDERS OF 2046-2058 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(148) THE FREEHOLDERS OF 2060-2072 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(149) THE FREEHOLDERS OF 2074-2086 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(150) THE FREEHOLDERS OF 2088-2100 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(151) THE FREEHOLDERS OF 2102-2114 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(152) THE FREEHOLDERS OF 2116-2128 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(153) THE FREEHOLDERS OF 2130-2142 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(154) THE FREEHOLDERS OF 2144-2156 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(155) THE FREEHOLDERS OF 2158-2170 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(156) THE FREEHOLDERS OF 2172-2184 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(157) THE FREEHOLDERS OF 2186-2198 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(158) THE FREEHOLDERS OF 2200-2212 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(159) THE FREEHOLDERS OF 2214-2226 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(160) THE FREEHOLDERS OF 2228-2240 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(161) THE FREEHOLDERS OF 2242-2254 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(162) THE FREEHOLDERS OF 2256-2268 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(163) THE FREEHOLDERS OF 2270-2282 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(164) THE FREEHOLDERS OF 2284-2296 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(165) THE FREEHOLDERS OF 2298-2310 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(166) THE FREEHOLDERS OF 2312-2324 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(167) THE FREEHOLDERS OF 2326-2338 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(168) THE FREEHOLDERS OF 2340-2352 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(169) THE FREEHOLDERS OF 2354-2366 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(170) THE FREEHOLDERS OF 2368-2380 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(171) THE FREEHOLDERS OF 2382-2394 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(172) THE FREEHOLDERS OF 2396-2408 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(173) THE FREEHOLDERS OF 2410-2422 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(174) THE FREEHOLDERS OF 2424-2436 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(175) THE FREEHOLDERS OF 2438-2450 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(176) THE FREEHOLDERS OF 2452-2464 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(177) THE FREEHOLDERS OF 2466-2478 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(178) THE FREEHOLDERS OF 2480-2492 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(179) THE FREEHOLDERS OF 2494-2506 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(180) THE FREEHOLDERS OF 2508-2520 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(181) THE FREEHOLDERS OF 2522-2534 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(182) THE FREEHOLDERS OF 2536-2548 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(183) THE FREEHOLDERS OF 2550-2562 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(184) THE FREEHOLDERS OF 2564-2576 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(185) THE FREEHOLDERS OF 2578-2590 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(186) THE FREEHOLDERS OF 2592-2604 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(187) THE FREEHOLDERS OF 2606-2618 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(188) THE FREEHOLDERS OF 2620-2632 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(189) THE FREEHOLDERS OF 2634-2646 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(190) THE FREEHOLDERS OF 2648-2660 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(191) THE FREEHOLDERS OF 2662-2674 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(192) THE FREEHOLDERS OF 2676-2688 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(193) THE FREEHOLDERS OF 2690-2702 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(194) THE FREEHOLDERS OF 2704-2716 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(195) THE FREEHOLDERS OF 2718-2730 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(196) THE FREEHOLDERS OF 2732-2744 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(197) THE FREEHOLDERS OF 2746-2758 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(198) THE FREEHOLDERS OF 2760-2772 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(199) THE FREEHOLDERS OF 2774-2786 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(200) THE FREEHOLDERS OF 2788-2800 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(201) THE FREEHOLDERS OF 2802-2814 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(202) THE FREEHOLDERS OF 2816-2828 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(203) THE FREEHOLDERS OF 2830-2842 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(204) THE FREEHOLDERS OF 2844-2856 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(205) THE FREEHOLDERS OF 2858-2870 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(206) THE FREEHOLDERS OF 2872-2884 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(207) THE FREEHOLDERS OF 2886-2898 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(208) THE FREEHOLDERS OF 2900-2912 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(209) THE FREEHOLDERS OF 2914-2926 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(210) THE FREEHOLDERS OF 2928-2940 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(211) THE FREEHOLDERS OF 2942-2954 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(212) THE FREEHOLDERS OF 2956-2968 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(213) THE FREEHOLDERS OF 2970-2982 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(214) THE FREEHOLDERS OF 2984-2996 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(215) THE FREEHOLDERS OF 2998-3010 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(216) THE FREEHOLDERS OF 3012-3024 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(217) THE FREEHOLDERS OF 3026-3038 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(218) THE FREEHOLDERS OF 3040-3052 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(219) THE FREEHOLDERS OF 3054-3066 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(220) THE FREEHOLDERS OF 3068-3080 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(221) THE FREEHOLDERS OF 3082-3094 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(222) THE FREEHOLDERS OF 3096-3108 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(223) THE FREEHOLDERS OF 3110-3122 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(224) THE FREEHOLDERS OF 3124-3136 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(225) THE FREEHOLDERS OF 3138-3150 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(226) THE FREEHOLDERS OF 3152-3164 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(227) THE FREEHOLDERS OF 3166-3178 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(228) THE FREEHOLDERS OF 3180-3192 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(229) THE FREEHOLDERS OF 3194-3206 (EVEN) BASSETT ROAD, LONDON W10 6AR
+(230) THE FREEHOLDERS OF 3208-3220 (EVEN)
+
+HOUSE OF LORDS
+
+OPINIONS OF THE LORDS OF APPEAL FOR JUDGMENT
+IN THE CAUSE
+
+Transfield Shipping Inc (Appellants) v Mercator Shipping Inc
+(Respondents)
+
+[2008] UKHL 48
+
+LORD HOFFMANN
+
+My Lords,
+
+1.
+The Achilleas is a single-decker bulk carrier of some 69,000 dwt
+built in 1994. By a time charter dated 22 January 2003 the owners let
+her to the charterers for about five to seven months at a daily hire rate of
+US$13,500. By an addendum dated 12 September 2003 the parties fixed
+the vessel for a further five to seven months at a daily rate of
+US$16,750. The latest date for redelivery was 2 May 2004.
+
+2.
+By April 2004, market rates had more than doubled compared
+with the previous September. On 20 April 2004 the charterers gave
+notice of redelivery between 30 April and 2 May 2004. On the
+following day, the owners fixed the vessel for a new four to six month
+hire to another charterer, following on from the current charter, at a
+daily rate of US$39,500. The latest date for delivery to the new
+charterers, after which they were entitled to cancel, was 8 May 2004.
+
+3.
+With less than a fortnight of the charter to run, the charterers
+fixed the vessel under a subcharter to carry coals from Quingdao in
+China across the Yellow Sea to discharge at two Japanese ports, Tobata
+and Oita. If this voyage could not reasonably have been expected to
+allow redelivery by 2 May 2004, the owners could probably have
+refused to perform it: see Torvald Klaveness A/S v Arni Maritime Corpn
+(The Gregos) [1995] 1 Lloyd’s Rep 1. But they made no objection. The
+vessel completed loading at Quingdao on 24 April. It discharged at
+
+2
+
+Tobata, went on to Oita, but was unfortunately delayed there and not
+redelivered to the owners until 11 May.
+
+4.
+By 5 May it had become clear to everyone that the vessel would
+not be available to the new charterers before the cancelling date of 8
+May. By that time, rates had fallen again. In return for an extension of
+the cancellation date to 11 May, the owners agreed to reduce the rate of
+hire for the new fixture to $31,500 a day.
+
+5.
+The owners claimed damages for the loss of the difference
+between the original rate and the reduced rate over the period of the
+fixture. At US$8,000 a day, that came to US$1,364,584.37. The
+charterers said that the owners were not entitled to damages calculated
+by reference to their dealings with the new charterers and that they were
+entitled only to the difference between the market rate and the charter
+rate for the nine days during which they were deprived of the use of the
+ship. That came to $158,301.17.
+
+6.
+The arbitrators, by a majority, found for the owners. They said
+that the loss on the new fixture fell within the first rule in Hadley v
+Baxendale (1854) 9 Exch 341, 354 as arising “naturally, ie according to
+the usual course of things, from such breach of contract itself”. It fell
+within that rule because it was damage “of a kind which the [charterer],
+when he made the contract, ought to have realised was not unlikely to
+result from a breach of contract [by delay in redelivery]”: see Lord Reid
+in C Czarnikow Ltd v Koufos (The Heron II) [1969] 1 AC 350, 382-383.
+The dissenting arbitrator did not deny that a charterer would have
+known that the owners would very likely enter into a following fixture
+during the course of the charter and that late delivery might cause them
+to lose it. But he said that a reasonable man in the position of the
+charterers would not have understood that he was assuming liability for
+the risk of the type of loss in question. The general understanding in the
+shipping market was that liability was restricted to the difference
+between the market rate and the charter rate for the overrun period and
+“any departure from this rule [is] likely to give rise to a real risk of
+serious commercial uncertainty which the industry as a whole would
+regard as undesirable.”
+
+7.
+The majority arbitrators, in their turn, did not deny that the
+general understanding in the industry was that liability was so limited.
+They said (at para 17):
+
+3
+
+“The charterers submitted that if they had asked their
+lawyers or their Club what damages they would be liable
+for if the vessel was redelivered late, the answer would
+have been that they would be liable for the difference
+between the market rate and the charter rate for the period
+of the late delivery. We agree that lawyers would have
+given such an answer”.
+
+8.
+But the majority said that this was irrelevant. A broker “in a
+commercial situation” would have said that the “not unlikely” results
+arising from late delivery would include missing dates for a subsequent
+fixture, a dry docking or the sale of the vessel. Therefore, as a matter of
+law, damages for loss of these types was recoverable. The
+understanding of shipping lawyers was wrong.
+
+9.
+On appeal from the arbitrators, Christopher Clarke J [2007] 1
+Lloyd’s Rep 19 and the Court of Appeal (Ward, Tuckey and Rix LJJ)
+[2007] 2 Lloyd’s Rep 555 upheld the majority decision. The case
+therefore raises a fundamental point of principle in the law of
+contractual damages: is the rule that a party may recover losses which
+were foreseeable (“not unlikely”) an external rule of law, imposed upon
+the parties to every contract in default of express provision to the
+contrary, or is it a prima facie assumption about what the parties may be
+taken to have intended, no doubt applicable in the great majority of
+cases but capable of rebuttal in cases in which the context, surrounding
+circumstances or general understanding in the relevant market shows
+that a party would not reasonably have been regarded as assuming
+responsibility for such losses?
+
+10.
+Before I come to this point of principle, I should say something
+about the authorities upon which the understanding of shipping lawyers
+was based. There is no case in which the question now in issue has been
+raised. But that in itself may be significant. This cannot have been the
+first time that freight rates have been volatile. There must have been
+previous cases in which late redelivery caused the loss of a profitable
+following fixture. But there is no reported case in which such a claim
+has been made. Instead, there has been a uniform series of dicta over
+many years in which judges have said or assumed that the damages for
+late delivery are the difference between the charter rate and the market
+rate: see for examples Lord Denning MR in Alma Shipping Corpn of
+Monrovia v Mantovani (The Dione) [1975] 1 Lloyd’s Rep 115, 117-
+118; Lord Denning MR in Arta Shipping Co Ltd v Thai Europe Tapioca
+Service Ltd (The Johnny) [1977] 2 Lloyd’s Rep 1, 2; Bingham LJ in
+
+4
+
+Hyundai Merchant Marine Co Ltd v Gesuri Chartering Co Ltd (The
+Peonia) [1991] 1 Lloyd’s Rep 100, 118. Textbooks have said the same:
+see Scrutton on Charterparties 20th ed (1996), pp 348-349; Wilford and
+others Time Charters 5th ed (2003), at para 4.20. Nowhere is there a
+suggestion of even a theoretical possibility of damages for the loss of a
+following fixture.
+
+11.
+The question of principle has been extensively discussed in the
+literature. Recent articles by Adam Kramer (“An Agreement-Centred
+Approach to Remoteness and Contract Damages”) in Cohen and
+McKendrick (ed), Comparative Remedies for Breach of Contract (2004)
+pp 249-286 Andrew Tettenborn (“Hadley v Baxendale Foreseeability: a
+Principle Beyond its Sell-by Date”) in (2007) 23 Journal of Contract
+Law 120-147) and Andrew Robertson (“The basis of the remoteness rule
+in contract”) (2008) 28 Legal Studies 172-196) are particularly
+illuminating. They show that there is a good deal of support in the
+authorities and academic writings for the proposition that the extent of a
+party’s liability for damages is founded upon the interpretation of the
+particular contract; not upon the interpretation of any particular
+language in the contract, but (as in the case of an implied term) upon the
+interpretation of the contract as a whole, construed in its commercial
+setting. Professor Robertson considers this approach somewhat
+artificial, since there is seldom any helpful evidence about the extent of
+the risks the particular parties would have thought they were accepting. I
+agree that cases of departure from the ordinary foreseeability rule based
+on individual circumstances will be unusual, but limitations on the
+extent of liability in particular types of contract arising out of general
+expectations in certain markets, such as banking and shipping, are likely
+to be more common. There is, I think, an analogy with the distinction
+which Lord Cross of Chelsea drew in Liverpool City Council v Irwin
+[1977] AC 239, 257-258 between terms implied into all contracts of a
+certain type and the implication of a term into a particular contract.
+
+12.
+It seems to me logical to found liability for damages upon the
+intention of the parties (objectively ascertained) because all contractual
+liability is voluntarily undertaken. It must be in principle wrong to hold
+someone liable for risks for which the people entering into such a
+contract in their particular market, would not reasonably be considered
+to have undertaken.
+
+13.
+The view which the parties take of the responsibilities and risks
+they are undertaking will determine the other terms of the contract and
+in particular the price to be paid. Anyone asked to assume a large and
+
+5
+
+unpredictable risk will require some premium in exchange. A rule of law
+which imposes liability upon a party for a risk which he reasonably
+thought was excluded gives the other party something for nothing. And
+as Willes J said in British Columbia Saw Mill Co Ltd v Nettleship (1868)
+LR 3 CP 499, 508:
+
+“I am disposed to take the narrow view, that one of two
+contracting parties ought not to be allowed to obtain an
+advantage which he has not paid for.”
+
+14.
+In their submissions to the House, the owners said that the
+“starting point” was that damages were designed to put the innocent
+party, so far as it is possible, in the position as if the contract had been
+performed: see Robinson v Harman (1848) 1 Exch 850, 855. However,
+in Banque Bruxelles Lambert SA v Eagle Star Insurance Co Ltd (sub
+nom South Australia Asset Management Corpn v York Montague Ltd)
+[1997] AC 191, 211, I said (with the concurrence of the other members
+of the House):
+
+“I think that this was the wrong place to begin. Before one
+can consider the principle on which one should calculate
+the damages to which a plaintiff is entitled as
+compensation for loss, it is necessary to decide for what
+kind of loss he is entitled to compensation. A correct
+description of the loss for which the valuer is liable must
+precede any consideration of the measure of damages.”
+
+15.
+In other words, one must first decide whether the loss for which
+compensation is sought is of a “kind” or “type” for which the contract-
+breaker ought fairly to be taken to have accepted responsibility. In the
+South Australia case the question was whether a valuer, who had (in
+breach of an implied term to exercise reasonable care and skill)
+negligently advised his client bank that property which it proposed to
+take as security for a loan was worth a good deal more than its actual
+market value, should be liable not only for losses attributable to the
+deficient security but also for further losses attributable to a fall in the
+property market. The House decided that he should not be liable for this
+kind of loss:
+
+6
+
+“In the case of an implied contractual duty, the nature and
+extent of the liability is defined by the term which the law
+implies. As in the case of any implied term, the process is
+one of construction of the agreement as a whole in its
+commercial setting. The contractual duty to provide a
+valuation and the known purpose of that valuation compel
+the conclusion that the contract includes a duty of care.
+The scope of the duty, in the sense of the consequences for
+which the valuer is responsible, is that which the law
+regards as best giving effect to the express obligations
+assumed by the valuer: neither cutting them down so that
+the lender obtains less than he was reasonably entitled to
+expect, nor extending them so as to impose on the valuer a
+liability greater than he could reasonably have thought he
+was undertaking.” (p 212)
+
+16.
+What is true of an implied contractual duty (to take reasonable
+care in the valuation) is equally true of an express contractual duty (to
+redeliver the ship on the appointed day). In both cases, the
+consequences for which the contracting party will be liable are those
+which “the law regards as best giving effect to the express obligations
+assumed” and “[not] extending them so as to impose on the [contracting
+party] a liability greater than he could reasonably have thought he was
+undertaking”.
+
+17.
+The effect of the South Australia case was to exclude from
+liability the damages attributable to a fall in the property market
+notwithstanding that those losses were foreseeable in the sense of being
+“not unlikely” (property values go down as well as up) and had been
+caused by the negligent valuation in the sense that, but for the valuation,
+the bank would not have lent at all and there was no evidence to show
+that it would have lost its money in some other way. It was excluded on
+the ground that it was outside the scope of the liability which the parties
+would reasonably have considered that the valuer was undertaking.
+
+18.
+That seems to me in accordance with the careful way in which
+Robert Goff J stated the principle in Satef-Huttenes Albertus SpA v
+Paloma Tercera Shipping Co SA (The Pegase) [1981] Lloyd’s Rep 175,
+183, where the emphasis is upon what a reasonable person would have
+considered to be the extent of his responsibility:
+
+7
+
+“The test appears to be: have the facts in question come to
+the defendant’s knowledge in such circumstances that a
+reasonable person in the shoes of the defendant would, if
+he had considered the matter at the time of making the
+contract, have contemplated that, in the event of a breach
+by him, such facts were to be taken into account when
+considering his responsibility for loss suffered by the
+plaintiff as a result of such breach.”
+
+19.
+A similar approach was taken by the Court of Appeal in
+Mulvenna v Royal Bank of Scotland plc [2003] EWCA Civ 1112,
+mentioned by Professor Robertson in the article to which I have
+referred. This was an application to strike out a claim for damages for
+the loss of profits which the claimant said he would have made if the
+bank had complied with its agreement to provide him with funds for a
+property development. The Court of Appeal held that even on the
+assumption that the bank knew of the purpose for which the funds were
+required and that it was foreseeable that he would suffer loss of profit if
+he did not receive them, the damages were not recoverable. Sir Anthony
+Evans said:
+
+“The authorities to which we were referred…demonstrate
+that the concept of reasonable foreseeability is not a
+complete guide to the circumstances in which damages are
+recoverable as a matter of law. Even if the loss was
+reasonably foreseeable as a consequence of the breach of
+duty in question (or of contract, for the same principles
+apply), it may nevertheless be regarded as ‘too remote a
+consequence’ or as not a consequence at all, and the
+damages claim is disallowed. In effect, the chain of
+consequences is cut off as a matter of law, either because
+it is regarded as unreasonable to impose liability for that
+consequence of the breach (The Pegase [1981] 1 Lloyd’s
+Rep 175 Robert Goff J), or because the scope of the duty
+is limited so as to exclude it (Banque Bruxelles SA v.
+Eagle Star [1997] AC 191), or because as a matter of
+commonsense the breach cannot be said to have caused the
+loss, although it may have provided the opportunity for it
+to occur…”
+
+20.
+By way of explanation for why in such a case liability for lost
+profits is excluded, Professor Robertson (at p 183) offers what seem to
+me to be some plausible reasons:
+
+8
+
+“It may be considered unjust that the bank should be held
+liable for the loss of profits simply because the bank knew
+of the proposed development at the time the refinancing
+agreement was made. The imposition of such a burden on
+the bank may be considered unjust because it is
+inconsistent with commercial practice for a bank to accept
+such a risk in a transaction of this type, or because the
+quantum of the liability is disproportionate to the scale of
+the transaction or the benefit the bank stood to receive.”
+
+21.
+It is generally accepted that a contracting party will be liable for
+damages for losses which are unforeseeably large, if loss of that type or
+kind fell within one or other of the rules in Hadley v Baxendale: see, for
+example, Staughton J in Transworld Oil Ltd v North Bay Shipping
+Corpn (The Rio Claro) [1987] Lloyd’s Rep 173, 175 and Jackson v
+Royal Bank of Scotland plc [2005] 1 WLR 377. That is generally an
+inclusive principle: if losses of that type are foreseeable, damages will
+include compensation for those losses, however large. But the South
+Australia and Mulvenna cases show that it may also be an exclusive
+principle and that a party may not be liable for foreseeable losses
+because they are not of the type or kind for which he can be treated as
+having assumed responsibility.
+
+22.
+What is the basis for deciding whether loss is of the same type or
+a different type? It is not a question of Platonist metaphysics. The
+distinction must rest upon some principle of the law of contract. In my
+opinion, the only rational basis for the distinction is that it reflects what
+would have been reasonable and have been regarded by the contracting
+party as significant for the purposes of the risk he was undertaking. In
+Victoria Laundry (Windsor) Ltd v Newman Industries Ltd [1949] 2 KB
+528, where the plaintiffs claimed for loss of the profits from their
+laundry business because of late delivery of a boiler, the Court of
+Appeal did not regard “loss of profits from the laundry business” as a
+single type of loss. They distinguished (at p 543) losses from
+“particularly lucrative dyeing contracts” as a different type of loss which
+would only be recoverable if the defendant had sufficient knowledge of
+them to make it reasonable to attribute to him acceptance of liability for
+such losses. The vendor of the boilers would have regarded the profits
+on these contracts as a different and higher form of risk than the general
+risk of loss of profits by the laundry.
+
+23.
+If, therefore, one considers what these parties, contracting against
+the background of market expectations found by the arbitrators, would
+
+9
+
+reasonably have considered the extent of the liability they were
+undertaking, I think it is clear that they would have considered losses
+arising from the loss of the following fixture a type or kind of loss for
+which the charterer was not assuming responsibility. Such a risk would
+be completely unquantifiable, because although the parties would regard
+it as likely that the owners would at some time during the currency of
+the charter enter into a forward fixture, they would have no idea when
+that would be done or what its length or other terms would be. If it was
+clear to the owners that the last voyage was bound to overrun and put
+the following fixture at risk, it was open to them to refuse to undertake
+it. What this shows is that the purpose of the provision for timely
+redelivery in the charterparty is to enable the ship to be at the full
+disposal of the owner from the redelivery date. If the charterer’s orders
+will defeat this right, the owner may reject them. If the orders are
+accepted and the last voyage overruns, the owner is entitled to be paid
+for the overrun at the market rate. All this will be known to both parties.
+It does not require any knowledge of the owner’s arrangements for the
+next charter. That is regarded by the market as being, as the saying goes,
+res inter alios acta.
+
+24.
+The findings of the majority arbitrators shows that they
+considered their decision to be contrary to what would have been the
+expectations of the parties, but dictated by the rules in Hadley v
+Baxendale as explained in The Heron II [1969] 1 AC 350. But in my
+opinion these rules are not so inflexible; they are intended to give effect
+to the presumed intentions of the parties and not to contradict them.
+
+25.
+The owners submit that the question of whether the damage is too
+remote is a question of fact on which the arbitrators have found in their
+favour. It is true that the question of whether the damage was
+foreseeable is a question of fact: see Monarch Steamship Co Ltd v
+Karlshamns Oljefabriker (A/B) [1949] AC 196. But the question of
+whether a given type of loss is one for which a party assumed
+contractual responsibility involves the interpretation of the contract as a
+whole against its commercial background, and this, like all questions of
+interpretation, is a question of law.
+
+26.
+The owners say that the parties are entirely at liberty to insert an
+express term excluding consequential loss if they want to do so. Some
+standard forms of charter do. I suppose it can be said of many disputes
+over interpretation, especially over implied terms, that the parties could
+have used express words or at any rate expressed themselves more
+clearly than they have done. But, as I have indicated, the implication of
+
+10
+
+a term as a matter of construction of the contract as a whole in its
+commercial context and the implication of the limits of damages liability
+seem to me to involve the application of essentially the same techniques
+of interpretation. In both cases, the court is engaged in construing the
+agreement to reflect the liabilities which the parties may reasonably be
+expected to have assumed and paid for. It cannot decline this task on the
+ground that the parties could have spared it the trouble by using clearer
+language. In my opinion, the findings of the arbitrators and the
+commercial background to the agreement are sufficient to make it clear
+that the charterer cannot reasonably be regarded as having assumed the
+risk of the owner’s loss of profit on the following charter. I would
+therefore allow the appeal.
+
+LORD HOPE OF CRAIGHEAD
+
+My Lords,
+
+27.
+My initial impression at the end of the excellent argument with
+which we were presented by counsel on both sides was that, on the facts
+found proved by the majority arbitrators, this appeal must fail. But,
+having had the benefit of reading in draft the opinions of my noble and
+learned friends Lord Hoffmann, Lord Rodger of Earlsferry and Lord
+Walker of Gestingthorpe, I have come to the conclusion that their
+decision was based on an error of law and that the view of this case that
+was taken by the minority arbitrator was right.
+
+28.
+The majority arbitrators based their approach on their
+understanding of the test of remoteness as explained in The Heron II
+[1969] 1 AC 350, and in particular by Lord Reid at pp 382-383, as being
+to ask whether the loss in question was
+
+“of a kind which the defendant, when he made the
+contract, ought to have realised was not unlikely to result
+from [the] breach.”
+
+This had the result, as they put it, that the parties’ knowledge of the
+markets within which they operated at the date of the addendum which
+extended the original charter period was more than sufficient for the loss
+claimed to be within their contemplation. Counsel for the charterers had
+agreed in exchanges with members of the tribunal that the “not unlikely”
+
+11
+
+results arising from the late delivery of the vessel would include missing
+dates for a subsequent fixture. The majority then asked themselves what
+was within the contemplation of the parties as a not unlikely result of a
+breach which resulted in missing such a date, bearing in mind that it was
+agreed that the market rates for tonnage go up and down, sometimes
+quite rapidly. They answered this question in the owners’ favour. On
+the facts, they said, the need to adjust the relevant dates for the
+subsequent employment of the vessel through the revised terms agreed
+with the new charterers was within the contemplation of the parties as a
+not unlikely result of the breach. It might be that the precise amount of
+the loss could be seriously affected by market factors such as a sharp
+drop of the rate for the particular type of vessel during the relevant
+period. But the type of loss was readily identifiable.
+
+29.
+The minority arbitrator pointed out that this would be to impose
+on the charterers a completely unquantifiable risk in what is a relatively
+common situation – late delivery under a time charter – given the
+exigencies of the shipping industry. If the test was what a reasonable
+man in the position of the charterers would have understood at the time
+of entering into the charter, it was impossible to conclude that they
+would or should have understood that they were assuming responsibility
+for the risk of loss of a particular follow-on fixture concluded by the
+owners. They had no knowledge of or control over the duration of any
+follow-on fixture which the owners might conclude. The fundamental
+problem that he had with the owners’ argument was that if damages of
+this type were recoverable without particular knowledge sufficient to
+justify an assumption of risk it was difficult to see where a line was to
+be drawn, and there was a real risk of serious commercial uncertainty
+which the industry as a whole would regard as undesirable.
+
+30.
+Both approaches share a common, and as it seems to me an
+entirely orthodox, starting point. They ask what should fairly and
+reasonably be regarded as having been in the contemplation of the
+parties at the time when the contract was entered into. The refinement
+that, on the facts of this case, the relevant date was the date of the
+addendum is not of any practical significance. Both parties were
+experienced in the market within which they were operating. Late
+delivery under a time charter is a relatively common situation, and it is
+not difficult to conclude that the parties must have had in contemplation
+when they entered into the contract that this might occur. Nor it is
+difficult to conclude – indeed this was conceded by counsel for the
+charterers – that in a market where owners expect to keep their assets in
+continuous employment dates late delivery will result in missing the
+date for a subsequent fixture. The critical question however is whether
+
+12
+
+the parties must be assumed to have contracted with each other on the
+basis that the charterers were assuming responsibility for the
+consequences of that event. It is at this point that the two approaches
+part company.
+
+31.
+Assumption of responsibility, which forms the basis of the law of
+remoteness of damage in contract, is determined by more than what at
+the time of the contract was reasonably foreseeable. It is important to
+bear in mind that, as Lord Reid pointed out in The Heron II [1969] 1 AC
+350, 385, the rule that applies in tort is quite different and imposes a
+much wider liability than that which applies in contract. The defendant
+in tort will be liable for any type of loss and damage which is reasonably
+foreseeable as likely to result from the act or omission for which he is
+held liable. Reasonable foreseeability is the criterion by which the
+extent of that liability is to be judged, and it may result in his having to
+pay for something that, although reasonably foreseeable, was very
+unusual, not likely to occur and much greater in amount than he could
+have anticipated. In contract it is different and, said Lord Reid, at p 386,
+there is good reason for the difference:
+
+“In contract, if one party wishes to protect himself against
+a risk which to the other party would appear unusual, he
+can direct the other party’s attention to it before the
+contract is made, and I need not stop to consider in what
+circumstances the other party will then be held to have
+accepted responsibility in that event.”
+
+32.
+The point that Lord Reid was making here was that the more
+unusual the consequence, the more likely it is that provision will be
+made for it in the contract if it is to result in liability. Account may be
+taken of it in the rates that are provided for in the contract. Or terms
+may be written into the contract to provide for the extent, if any, of the
+liability. That is the way that commercial contracts are entered into. As
+Blackburn J said in Cory v Thames Ironworks Co (1868) LR 3 QB 181,
+190-191, if the damage were exceptional and unnatural it would be hard
+on a party to be made liable for it because, had he known what the
+consequences would be, he would probably have stipulated for more
+time or made greater exertions if he had known the extreme mischief
+that would follow from the non-fulfilment of his contract. The fact that
+the loss was foreseeable – the kind of result that the parties would have
+had in mind, as the majority arbitrators put it – is not the test. Greater
+precision is needed than that. The question is whether the loss was a
+
+13
+
+type of loss for which the party can reasonably be assumed to have
+assumed responsibility.
+
+33.
+How then is this question to be addressed? The statement of
+principle by Robert Goff J in The Pegase [1981] 1 Lloyd's Rep 175, 183
+asks whether, if he had considered the matter, at the time of making the
+contract, the defendant would have contemplated that, in the event of a
+breach by him, the facts in question would be taken into account in
+considering his responsibility for loss suffered as a result of the breach.
+This depends on the degree of relevant knowledge held by him at the
+time of entering into the contract. Alderson B in Hadley v Baxendale
+(1854) 9 Exch 341, 354-355, distinguished between special
+circumstances that were wholly unknown to the party breaking the
+contract and the amount of injury which would arise generally and in the
+great multitude of cases not affected by any special circumstances.
+Losses in the latter category are losses which the parties may be taken to
+have in contemplation and to make provision for, in one way or another,
+in their contract. Losses in the former are losses which the party in
+breach was unable to contemplate when considering the terms on which
+he could agree to enter into the contract. These statements direct
+attention to the extent of the charterer’s knowledge of the facts that are
+in question in this case.
+
+34.
+In this case it was within the parties’ contemplation that an injury
+which would arise generally from late delivery would be loss of use at
+the market rate, as compared with the charter rate, during the relevant
+period. This something that everybody who deals in the market knows
+about and can be expected to take into account. But the charterers could
+not be expected to know how, if – as was not unlikely – there was a
+subsequent fixture, the owners would deal with any new charterers.
+This was something over which they had no control and, at the time of
+entering into the contract, was completely unpredictable. Nothing was
+known at that time about the terms on which any subsequent fixture
+might be entered into – how short or long the period would be, for
+example, or what was to happen should the previous charter overrun and
+the owner be unable to meet the new commencement date. It is true that
+neither party had any control over the state of the market. But in the
+ordinary course of things rates in the market will fluctuate. So it can be
+presumed that the party in breach has assumed responsibility for any
+loss caused by delay which can be measured by comparing the charter
+rate with the market rate during that period. There can be no such
+presumption where the loss claimed is not the product of the market
+itself, which can be contemplated, but results from arrangements entered
+into between the owners and the new charterers, which cannot.
+
+14
+
+35.
+In the Court of Appeal [2007] 2 Lloyd’s Rep 555, para 117 Rix
+LJ observed that the doctrine of remoteness is ultimately designed to
+reflect the public policy of the law. Developing this theme, he said in
+para 119 that it would be undesirable and uncommercial for damages for
+late delivery to be limited to the period of the overrun unless the owners
+could show that they had given their charterers special information of
+their follow-on fixture. It was undesirable, he said because this would
+put the owners too much at the mercy of their charterers at time of raised
+market rates. That seems to me, with respect, to overstate the position.
+The owners too are in the market and can at least expect to be
+compensated at market rates for the period of any delay. But he also
+said that it was uncommercial, because a new fixture would in all
+probability not be fixed until at or about the time of the redelivery. So
+the demand would be for information that the owner could not provide
+when entering into the contract.
+
+36.
+In my opinion the commercial considerations point the other way.
+This was the crucial point in the case which led the minority arbitrator to
+dissent from the majority. As he pointed out, a party cannot be expected
+to assume responsibility for something that he cannot control and,
+because he does not know anything about it, cannot quantify. It is not
+enough for him to know in general and on open-ended terms that there is
+likely to be a follow-on fixture. This was the error which lies at the
+heart of the decision of the majority. What he needs is some
+information that will enable him to assess the extent of any liability.
+The policy of the law is that effect should be given to the presumed
+intention of the parties. That is why the damages that are recoverable
+for breach of contract are limited to what happens in ordinary
+circumstances – in the great multitude of cases, as Alderson B put it in
+Hadley v Baxendale – where an assumption of responsibility can be
+presumed, or what arises from special circumstances known to or
+communicated to the party who is in breach at the time of entering into
+the contract which because he knew about he can be expected to provide
+for. This is a principle of general application. We are dealing in this
+case with a highly specialised area of commercial law. But the principle
+by which the issue must be resolved is that which applies in the law of
+contract generally.
+
+37.
+For these reasons, which owe much to my noble and learned
+friends’ careful review of the authorities, I too would allow the appeal.
+
+15
+
+LORD RODGER OF EARLSFERRY
+
+My Lords,
+
+38.
+Mercator Shipping Inc, the respondents in this appeal, were at all
+material times the owners of the bulk carrier “Achilleas”. In January
+2003 they entered into a time charter-party in terms of which they let the
+Achilleas to the appellants, Transfield Shipping Inc (“the charterers”).
+On 12 September 2003 the charter period was extended for a further
+five-seven months, the exact period in charterers’ option. In terms of
+the addendum, the terminal date for redelivery of the vessel to the
+owners was midnight on 2 May 2004.
+
+39.
+In the event, the charterers did not redeliver the Achilleas to the
+owners until 0815 on 11 May 2004. It is common ground that, by
+failing to return the vessel by midnight on 2 May, the charterers were in
+breach of contract and are accordingly liable in the appropriate sum of
+damages for that breach. The dispute is about what constitutes the
+appropriate sum of damages. As a result of an agreement between the
+parties, the arbitrators and the courts have been faced with a stark choice
+between two fixed figures.
+
+40.
+The charterers contend that their liability in damages is confined
+to the difference between the market rate of hire and the charter-party
+rate for the period from midnight on 2 May till 0815 on 11 May. That
+would amount to US$158,301.17. The owners contend that in the
+circumstances the charterers’ liability extends further, however, so as to
+include the owners’ loss of profit under a follow-on fixture.
+
+41.
+On a date which is not identified by the arbitrators in their award,
+the charterers sub-chartered the vessel for a final voyage. She was to
+load a cargo of coal at Quingdao in China for discharge at Tobata and
+Oita in Japan. There is nothing in the findings made by the arbitrators to
+suggest that, if all had gone to plan, this final voyage would have
+prevented the charterers from redelivering the vessel, in accordance with
+their contractual obligation, by 2 May. In these circumstances, it must
+be presumed that the final voyage was legitimate.
+
+42.
+On 20 April the charterers gave a 10 day estimated notice of
+redelivery between 30 April and 2 May. After receiving that notice, on
+
+16
+
+or about 21 April the owners fixed a follow-on time charter for about
+four-six months with Cargill International SA (“Cargill”). Cargill was
+entitled to cancel that charter-party if the Achilleas had not arrived at the
+delivery point by 8 May.
+
+43.
+By 24 April the vessel had finished loading the coal at Quingdao.
+On 30 April she reached Oita, having discharged the relevant part of her
+load at Tobata. At Oita she experienced delays. Previously, on 27 April
+the charterers had given a revised notice of redelivery on 4/5 May –
+which, though involving a breach of contract, would still have been in
+time for the vessel to be delivered to Cargill within the laycan.
+
+44.
+By 5 May the owners had recognised, however, that the vessel
+was going to be redelivered too late for her to be delivered to Cargill by
+8 May. They therefore entered into discussions with Cargill to obtain an
+extension of the cancelling date under their charter. Cargill agreed to
+extend it to 11 May. At some point between the date when the Cargill
+charter was fixed (on or about 21 April) and 5 May, the market rate of
+hire for such vessels had fallen sharply, however. Therefore, in return
+for the extension of the cancelling date, Cargill insisted on the original
+rate of US$39,500 per day being reduced to US$31,500 per day. The
+charterers make no criticism of the steps taken by the owners.
+
+45.
+At 0815 on 11 May, when Transfield redelivered the vessel to the
+owners at Oita, the owners immediately delivered her to Cargill under
+their charter. Cargill redelivered the vessel to the owners at 0815 on 18
+November 2004.
+
+46.
+In these circumstances the owners claim damages (agreed at
+US$1,364,584.17) for their loss of profit as a result of having to reduce
+the daily rate of hire under the Cargill fixture by US$8,000, when they
+obtained the extension of the cancelling date which they needed in order
+to accommodate the charterers’ delay in redelivering the vessel.
+Clearly, the owners incurred that loss in the wake of the charterers’
+breach of contract. Nevertheless, in respectful disagreement with
+Christopher Clarke J and the Court of Appeal, I have come to the
+conclusion that the charterers are not liable in damages for the owners’
+loss of profit.
+
+47.
+Today, as for more than 150 years, the starting-point for
+determining the measure of damages for breach of contract is the
+
+17
+
+judgment of Alderson B in Hadley v Baxendale (1854) 9 Exch 341. The
+story is well known. The plaintiff owners of a flour mill in Gloucester
+arranged for the defendant common carriers (the firm of Pickfords) to
+take their broken mill shaft to a firm in Greenwich which was to use it
+as a pattern to produce a new shaft. Unknown to the defendants – as the
+court held - the plaintiffs had no other shaft and so could not operate
+their mill until they got the new one. In breach of contract, the
+defendants delayed in transporting the broken shaft. The plaintiffs sued
+the defendants for the profits which they lost from being unable to
+operate their mill during the period of delay. The Court of Exchequer
+held that they could not recover the loss of profits.
+
+48.
+Frequently only one sentence from the judgment of Alderson B is
+quoted as enshrining the principle with which the case is synonymous.
+But it is preferable to have regard to slightly more of what Alderson B
+said, at pp 354-355:
+
+“Now we think the proper rule in such a case as the
+present is this: Where two parties have made a contract
+which one of them has broken, the damages which the
+other party ought to receive in respect of such breach of
+contract should be such as may fairly and reasonably be
+considered either arising naturally, i e, according to the
+usual course of things, from such breach of contract itself,
+or such as may reasonably be supposed to have been in the
+contemplation of both parties, at the time they made the
+contract, as the probable result of the breach of it. Now, if
+the special circumstances under which the contract was
+actually made were communicated by the plaintiffs to the
+defendants, and thus known to both parties, the damages
+resulting from the breach of such a contract, which they
+would reasonably contemplate, would be the amount of
+injury which would ordinarily follow from a breach of
+contract under these special circumstances so known and
+communicated. But, on the other hand, if these special
+circumstances were wholly unknown to the party breaking
+the contract, he, at the most, could only be supposed to
+have had in his contemplation the amount of injury which
+would arise generally, and in the great multitude of cases
+not affected by any special circumstances, from such a
+breach of contract. For, had the special circumstances
+been known, the parties might have specially provided for
+the breach of contract by special terms as to the damages
+in that case, and of this advantage it would be very unjust
+
+18
+
+to deprive them. Now the above principles are those by
+which we think the jury ought to be guided in estimating
+the damages arising out of any breach of contract.”
+
+It was by referring back to the language of the third sentence in this
+passage that Alderson B went on to hold, at p 356, that, in the
+circumstances, the defendants were not liable for the loss of profits:
+
+“But it is obvious that, in the great multitude of cases of
+millers sending off broken shafts to third persons by a
+carrier under ordinary circumstances, such consequences
+would not, in all probability, have occurred, and these
+special circumstances were here never communicated by
+the plaintiffs to the defendants. It follows, therefore, that
+the loss of profits here cannot reasonably be considered
+such a consequence of the breach of contract as could have
+been fairly and reasonably contemplated by both the
+parties when they made this contract.”
+
+49.
+The entire passage containing the applicable principles was
+quoted with approval by Viscount Sankey LC in Banco de Portugal v
+Waterlow & Sons Ltd [1932] AC 452, 474-475. In Monarch Steamship
+Co Ltd v Karlshamns Oljefabriker (A/B) [1949] AC 196, 221, Lord
+Wright identified the distinction drawn by Alderson B as being
+“between damages arising naturally (which means in the normal course
+of things), and cases where there were special and extraordinary
+circumstances beyond the reasonable prevision of the parties...” Like
+Lord Hodson in C Czarnikow Ltd v Koufos (The Heron II) [1969] 1 AC
+350, 411A-C, I find guidance in Alderson B’s use of the expression “in
+the great multitude of cases”. In the words of Lord Hodson, it indicates
+
+“that the damages recoverable for breach of contract are
+such as flow naturally in most cases from the breach,
+whether under ordinary circumstances or from special
+circumstances due to the knowledge either in the
+possession of or communicated to the defendants. This
+expression throws light on the whole field of damages for
+breach of contract and points to a different approach from
+that taken in tort cases.”
+
+50.
+The same idea is, of course, to be found, more compactly, in
+other well-known statements by celebrated commercial judges. For
+
+19
+
+example, in Horne v Midland Railway Co (1872) LR 7 CP 583, 590,
+Willes J said that, in contract, “damages are to be limited to those that
+are the natural and ordinary consequences” of the breach, while in Cory
+v Thames Ironworks Co (1868) LR 3 QB 181, 190, Blackburn J said that
+the measure of damages is “what might be reasonably expected in the
+ordinary course of things to flow from the non-fulfilment of the contract,
+not more than that …”
+
+51.
+In Victoria Laundry (Windsor) Ltd v Newman Industries Ltd
+[1949] 2 KB 528, 539-540, Asquith LJ explained that “Everyone, as a
+reasonable person, is taken to know the ‘ordinary course of things’ and
+consequently what loss is liable to result from a breach of contract in
+that ordinary course.” He went on to say that, for loss to be recoverable,
+the defendant did not need to foresee that a breach must necessarily
+result in that loss: “It is in enough if he could foresee it was likely so to
+result. It is indeed enough, to borrow from the language of Lord du
+Parcq in the [Monarch Steamship] case, at p 158, if the loss (or some
+factor without which it would not have occurred) is a ‘serious
+possibility’ or a ‘real danger.’ For short, we have used the word ‘liable’
+to result.”
+
+52.
+As Lord Reid pointed out in The Heron II [1969] 1 AC 350,
+389E-G, by referring to foreseeability, Asquith LJ cannot have been
+intending to assimilate the measure of damages in contract and tort.
+Moreover, there might appear to be a certain tension between the idea
+that, to be recoverable, a loss must be something which would result
+from the breach in the ordinary course and the idea that it is enough that
+the loss is just something which is liable to result. Lord Reid therefore
+surmised that Asquith LJ might have meant that the loss was foreseeable
+as a likely result. That appears to be an appropriate way of reconciling
+the two aspects of Asquith LJ’s opinion. In any event, amidst a cascade
+of different expressions, it is important not to lose sight of the basic
+point that, in the absence of special knowledge, a party entering into a
+contract can only be supposed to contemplate the losses which are likely
+to result from the breach in question – in other words, those losses
+which will generally happen in the ordinary course of things if the
+breach occurs. Those are the losses for which the party in breach is held
+responsible – the stated rationale being that, other losses not having been
+in contemplation, the parties had no opportunity to provide for them.
+
+53.
+In the present case, the arbitrators found that - as conceded by
+counsel then acting for the charterers – missing a date for a subsequent
+fixture was a “not unlikely” result of the late redelivery of a vessel.
+
+20
+
+That concession has been criticised elsewhere, but the House must
+proceed on the basis that, when they entered into the addendum, the
+parties could reasonably have contemplated that it was not unlikely that
+the owners would miss a date for a subsequent fixture if the Achilleas
+were redelivered late. The majority of the arbitrators also found that, at
+the time of contracting, the parties, who were both engaged in the
+business of shipping, would have known that market rates for tonnage
+go up and down, sometimes quite rapidly. Nevertheless, as Rix LJ
+himself pointed out [2007] 2 Lloyd’s Rep 555, 577, para 120 - when
+seeking to combat any criticism that the Court of Appeal’s decision
+would throw the situation in general into confusion because late
+redelivery and changing market conditions are common occurrences -
+“It requires extremely volatile market conditions to create the situation
+which occurred here.” In other words, the extent of the relevant rise and
+fall in the market within a short time was actually unusual. The owners’
+loss stemmed from that unusual occurrence.
+
+54.
+The obligation of the charterers was to redeliver the vessel to the
+owners by midnight on 2 May. Therefore, the charterers are taken to
+have had in contemplation, at the time when they entered into the
+addendum, the loss which would generally happen in the ordinary
+course of things if the vessel were delivered some nine days late so that
+the owners missed the cancelling date for a follow-on fixture.
+Obviously, that would include loss suffered as a result of the owners not
+having been paid under the contract for the charterers’ use of the vessel
+for the period after midnight on 2 May. So, as both sides agree, the
+owners had to be compensated for that loss by the payment of damages.
+But the parties would also have contemplated that, if the owners lost a
+fixture, they would then be in a position to enter the market for a
+substitute fixture. Of course, in some cases, the available market rate
+would be lower and, in some cases, higher, than the rate under the lost
+fixture. But the parties would reasonably contemplate that, for the most
+part, the availability of the market would protect the owners if they lost
+a fixture. That I understand to be the thinking which lies behind the
+dicta to the effect that the appropriate measure of damages for late
+redelivery of a vessel is the difference between the charter rate and the
+market rate if the market rate is higher than the charter rate for the
+period between the final terminal date and redelivery: Hyundai
+Merchant Marine Co Ltd v Gesuri Chartering Co Ltd (The Peonia)
+[1991] 1 Lloyd’s Rep 100, 108. In that passage Bingham LJ was
+adopting the approach which had been indicated in earlier authorities:
+Alma Shipping Corpn of Monrovia v Mantovani (The Dione) [1975] 1
+Lloyd’s Rep 115, 117-118, per Lord Denning MR, and Arta Shipping
+Co Ltd v Thai Europe Tapioca Service Ltd (The Johnny) [1977] 2
+Lloyd’s Rep 1, 2, per Lord Denning MR.
+
+21
+
+55.
+More particularly, this understanding of the general position lies
+behind the observations of Lord Mustill in Torvald Klaveness A/S v Arni
+Maritime Corpn (The Gregos) [1995] 1 Lloyd’s Rep 1. In that case,
+when the charterers insisted on proceeding with a voyage which had
+become illegitimate by the time it was due to commence, the owners
+refused. The owners began to negotiate a replacement fixture with a
+concern named Navios, involving a higher rate of freight plus a bonus.
+In the event, the parties to the original charter-party reached a without
+prejudice agreement under which the owners would perform the voyage
+and, if in subsequent proceedings it were held that they had been
+justified in refusing to perform it, they would be entitled to a sum
+reflecting the difference between the chartered rate of hire and the more
+advantageous terms of the proposed substitute fixture with Navios. The
+sum in question was roughly US$300,000.
+
+56.
+In these circumstances the House did not need to deal with the
+measure of damages in a case of late redelivery. Nevertheless, Lord
+Mustill said that the obligation of the charterers was to redeliver the
+vessel on or before the final date or to pay damages for breach of
+contract. He added [1995] 1 Lloyd’s Rep 1, 5, “On damages, see ... The
+Peonia....” – so endorsing, en passant, what Bingham LJ had said in that
+case.
+
+57.
+In the Court of Appeal in The Gregos Hirst LJ had drawn
+attention to what he described as “the charterers’ windfall damages”
+under the without prejudice agreement by comparison with the damages
+which would have been awarded simply in respect of a few days’ late
+redelivery: [1993] 2 Lloyd’s Rep 335, 348. Lord Mustill said this
+[1995] 1 Lloyd’s Rep 1, 10:
+
+“At first sight, this apparently anomalous result is a good
+reason for questioning whether the claim for repudiation
+was soundly based. On closer examination, however, the
+anomaly consists, not so much in the size of the damages,
+but in the fact that damages were awarded at all. Imagine
+that the without prejudice agreement had not been made,
+and that the owners, having treated the charter as
+wrongfully repudiated, had accepted a substitute fixture
+with Navios. If one then asked what loss had the
+repudiation caused the owners to suffer, the answer would
+be – None. On the contrary, the charterers’ wrongful act
+would have enabled the owners to make a profit. Even if
+they had not accepted the substitute employment they
+
+22
+
+might very well have suffered no loss, since they would
+have been in the favourable position of having their ship
+free in the right place at the right time to take a spot fixture
+on a rising market. In neither event would the owners
+ordinarily recover any damages for the wrongful
+repudiation.”
+
+The implication from this passage is that, ordinarily, the appropriate
+measure of damages will be that set out by Bingham LJ in The Peonia,
+since owners will be able to obtain substitute employment for their
+vessel.
+
+58.
+I would enter two caveats. First, it may be that, at least in some
+cases, when concluding a charter-party, a charterer could reasonably
+contemplate that late delivery of a vessel of that particular type, in a
+certain area of the world, at a certain season of the year would mean that
+the market for its services would be poor. In these circumstances, the
+owners might have a claim for some general sum for loss of business,
+somewhat along the line of the damages for the loss of business
+envisaged by the Court of Appeal in Victoria Laundry (Windsor)Ltd v
+Newman Industries Ltd [1949] 2 KB 528, 542-543. Because of the
+agreement on figures, the matter was not explored in this case and I
+express no view on it. But, even if some such loss of business could
+have been reasonably contemplated, as Victoria Laundry shows, this
+would not mean that the owners’ particular loss of profit as a result of
+the re-negotiation of the Cargill fixture should be recoverable. To hold
+otherwise would risk undermining the first limb of Hadley v Baxendale,
+which limits the charterers’ liability to “the amount of injury” that
+would arise “ordinarily” or “generally”.
+
+59.
+Secondly, the position on damages might also be different, if, for
+example - when a charter-party was entered into - the owners drew the
+charterers’ attention to the existence of a forward charter of many
+months’ duration for which the vessel had to be delivered on a particular
+date. The charterers would know that a failure to redeliver the vessel in
+time to allow the owners to deliver it under that charter would be liable
+to result in the loss of that fixture. Then the second rule or limb in
+Hadley v Baxendale might well come into play. But the point does not
+arise in this case.
+
+60.
+Returning to the present case, I am satisfied that, when they
+entered into the addendum in September 2003, neither party would
+reasonably have contemplated that an overrun of nine days would “in
+
+23
+
+the ordinary course of things” cause the owners the kind of loss for
+which they claim damages. That loss was not the “ordinary
+consequence” of a breach of that kind. It occurred in this case only
+because of the extremely volatile market conditions which produced
+both the owners’ initial (particularly lucrative) transaction, with a third
+party, and the subsequent pressure on the owners to accept a lower rate
+for that fixture. Back in September 2003, this loss could not have been
+reasonably foreseen as being likely to arise out of the delay in question.
+It was, accordingly, too remote to give rise to a claim for damages for
+breach of contract.
+
+61.
+Rix LJ objects, [2007] 2 Lloyd’s Rep 555, 577, para 119, that
+such an approach is uncommercial because to demand that, before the
+charterers are held liable, they would need to know more than they
+already do in the ordinary course of events, is to demand something that
+cannot be provided. But that is simply to criticise the long-standing rule
+of the English law of contract under which a party is not liable for this
+kind of loss, precisely because it arises out of unusual circumstances
+which are not – indeed, cannot be - within the contemplation of the
+parties when they enter into the contract. In any event, it would not, in
+my view, make good commercial sense to hold a charterer liable for
+such a potentially extensive loss which neither party could quantify at
+the time of contracting.
+
+62.
+Rix LJ also describes the charterers as “happily [draining] the last
+drop and more of profit at a time of raised market rates”: [2007] 2
+Lloyd’s Rep 555, 577, para 119. But, in reality, at the outset the sub-
+contract and the final voyage amounted to nothing more than a
+legitimate use of the vessel which the charterers had hired until 2 May
+and for which they were paying the owners the agreed daily rate. The
+delay which led to the breach of contract was caused by supervening
+circumstances over which the charterers had no control. The charterers’
+legitimate actions under their contract provide no commercial or legal
+justification for fixing them with liability for the owners’ loss of profit,
+due to the effects of an “extremely volatile market” in relation to an
+arrangement with a third party about which the charterers knew nothing.
+
+63.
+I have not found it necessary to explore the issues concerning
+South Australia Asset Management Corpn v York Montague Ltd [1997]
+AC 191 and assumption of responsibility, which my noble and learned
+friend, Lord Hoffmann, has raised. Nevertheless, I am otherwise in
+substantial agreement with his reasons as well as with those to be given
+by Lord Walker of Gestingthorpe. I would allow the appeal.
+
+24
+
+LORD WALKER OF GESTINGTHORPE
+
+My Lords,
+
+Introduction
+
+64.
+In James Finlay & Co Ltd v Kwik Hoo Tong HM [1929] 1 KB
+400, 417 Sankey LJ (echoing a submission of counsel) said of the
+decision of this House in Re Hall Limited's & Pim (Jr) & Co’s
+arbitration (1928) 139 LT 30, that it had
+
+“astonished the Temple and surprised St Mary Axe.”
+
+It is now generally regarded as a sound decision on its special facts (see
+for instance Sir Roy Goode, Commercial Law, 3rd ed (2004) pp 385-
+386).
+
+65.
+In this appeal your Lordships are faced with concurrent
+judgments of judges of great commercial experience (Christopher
+Clarke J at first instance and Rix LJ with the agreement of Ward LJ and
+Tuckey LJ in the Court of Appeal, upholding a majority award by
+experienced arbitrators) which are said to have upset an old and well-
+established commercial understanding (see John Weale, [2008] LMCLQ
+6; the author suggests that the outcome of the case was influenced by the
+charterers’ concessions, and the dissenting arbitrator seems to have
+taken a similar view). The charterers have been the appellants at every
+stage of the appeal process. While conceding that the point is not
+squarely covered by precedent, they urge your Lordships to restore the
+general understanding which has prevailed in the shipping world, so as
+to uphold commercial certainty. The respondent shipowners concede
+that there is no clear precedent in their favour, but put this down to the
+comparatively recent clarification (in Hyundai Merchant Marine Co Ltd
+v Gesuri Chartering Co Ltd (The Peonia) [1991] 1 Lloyd’s Rep 100) of
+the law as to a charterer’s liability for damages for delay after a
+“legitimate last voyage”. The shipowners say that the judgments below
+were correct applications of the general principles laid down in Hadley v
+Baxendale (1854) 9 Exch 341 and later decisions refining those
+principles, including Victoria Laundry (Windsor) Ltd v Newman
+
+25
+
+Industries Ltd [1949] KB 528 and C Czarnikow Ltd v Koufos (The
+Heron II) [1969] 1 AC 350.
+
+The rule in Hadley v Baxendale
+
+66.
+In these circumstances your Lordships have to revisit some
+important general issues. These are all aspects of how the rule in
+Hadley v Baxendale has been developed or modified by 150 years of
+case law. This topic was reviewed by Robert Goff J in Satef-Huttenes
+Albertus SpA v Paloma Tercera Shipping Co SA (The Pegase) [1981] 1
+Lloyd’s Rep 175, 181-183. He observed (at p181)
+
+“Although the principle stated in Hadley v Baxendale
+remains the fons et origo of the modern law, the principle
+itself has been analysed and developed, and its application
+broadened, in the 20th century.”
+
+After referring to the Victoria Laundry case and to The Heron II, Robert
+Goff J stated (at p 182):
+
+“The general result of the two cases is that the principle in
+Hadley v Baxendale is now no longer stated in terms of
+two rules, but rather in terms of a single principle—though
+it is recognised that the application of the principle may
+depend on the degree of relevant knowledge held by the
+defendant at the time of the contract in the particular case.
+This approach accords very much to what actually
+happens in practice; the courts have not been over-ready to
+pigeon-hole the cases under one or other of the so-called
+rules in Hadley v Baxendale, but rather to decide each case
+on the basis of the relevant knowledge of the defendant.”
+
+67.
+The recognition of the rule as a single principle accords with the
+reality that even under the first limb, the defendant often needs some
+particular knowledge (for instance Mr Baxendale’s firm had to know, as
+Lord Pearce pointed out in The Heron II, at p 416, that the article
+accepted for carriage from Gloucester to Greenwich was a broken
+millshaft). The degree of knowledge assumed under the first limb
+depends on the nature of the business relationship between the
+contracting parties. The different outcomes of Hadley v Baxendale and
+the Victoria Laundry case depended in part (though only in part) on the
+
+26
+
+fact that the defendant in the latter case was an engineering company
+supplying a specialised boiler, and not merely a carrier of goods with
+which it had no particular familiarity.
+
+68.
+Another consequence of the (at least partial) assimilation of the
+two limbs is to raise doubt as to whether the notion of assumption of
+responsibility (as a precondition for liability for a larger measure of
+damages) is necessarily confined to second limb cases. That notion
+appears to be a watered-down version of the proposition (originating in
+British Columbia Saw Mill Co v Nettleship (1868) LR 3 CP 499, 509
+and rejected by Lord Upjohn in The Heron II [1969] 1 AC 350, 422)
+that the defendant is liable for a larger measure of damages only if that
+has been made a term of the contract. Diplock LJ in Robophone
+Facilities Ltd v Blank [1966] 1 WLR 1428, 1448 described this as an
+implied undertaking given by the defendant to the plaintiff to bear the
+larger measure of loss, derived from (a) the defendant’s knowledge of
+special circumstances and (b) the further factor
+
+“that he should have acquired this knowledge from the
+plaintiff, or at least that he should know that the plaintiff
+knew that he was possessed of it at the time the contract
+was entered into and so could reasonably foresee at that
+time that an enhanced loss was liable to result from a
+breach.”
+
+69.
+It may be that this rather precise formulation of the notion of
+assumption of responsibility applies (if at all) only to what are
+recognisably second limb cases. But the underlying idea—what was the
+common basis on which the parties were contracting?—seems to me
+essential to the rule in Hadley v Baxendale as a whole. Businessmen
+who are entering into a commercial contract generally know a fair
+amount about each other’s business. They have a shared understanding
+(differing in precision from case to case) as to what each can expect
+from the contract, whether or not it is duly performed without breach on
+either side. No doubt they usually expect the contract to be performed
+without breach, but they are conscious of the possibility of breach.
+These points are repeatedly made in the authorities: it is sufficient to
+refer to the much-quoted speech of Lord Wright in Monarch Steamship
+Co Ltd v Karlshamns Oljefabriker (A/B) [1949] AC 196, 220-223, and
+to Robert Goff J in The Pegase at pp 182-183 (part of this passage is
+quoted by my noble and learned friend Lord Hoffmann in para 16 of his
+opinion).
+
+27
+
+70.
+The consequence is that although the fundamental principle in
+Hadley v Baxendale applies to contracts of every sort (at any rate since
+the abolition in 1989 of the rule in Bain v Fothergill (1874) LR 7 HL
+158) particular types of contract in regular use in different areas of
+commercial, industrial and financial life (such as charterparties,
+construction contracts, and agreements for the sale and purchase of a
+controlling shareholding in a large company) have inevitably become
+specialised subjects. They are dealt with by specialist lawyers acting for
+well-informed businessmen. Anything that causes surprise in Essex
+Court is likely to cause surprise in St Mary Axe also. When the
+majority arbitrators stated in para 17 of their reasons, that a lawyer and
+“a broker in a commercial situation” would have given different answers
+to the same question they were in my opinion assuming, incorrectly, that
+two different questions were the same. I shall come back to this point.
+
+The Heron II
+
+71.
+The Heron II [1969] 1 AC 350 calls for close attention because,
+although decided over 40 years ago, it is the most recent full discussion
+of Hadley v Baxendale in your Lordships’ House. It was concerned with
+a charterparty for the carriage of sugar from the Black Sea port of
+Constanza to the Iraqi port of Basrah, where there was a sugar market.
+The cargo was delivered late and the charterers claimed (and were
+awarded) damages for their market loss of about £1.40 per ton on about
+3,000 tons of sugar. In dismissing the appeal the Court declined to
+follow The Parana (1877) 2 PD 118, a decision from what “was still the
+golden age of sail” (Lord Upjohn, at p 428). But the real importance of
+the case is in its discussion of general principles.
+
+72.
+The House’s decision was unanimous but each member of the
+Appellate Committee gave a full opinion, and unfortunately none of
+them in terms expressed either agreement or disagreement with any of
+the others. Their Lordships treated the decision of the Court of Appeal
+in the Victoria Laundry case with “varying degrees of enthusiasm”
+(Donaldson J in Aruna Mills Ltd v Dhanrajmal Gobindram [1968] 1 QB
+655, 668). They themselves expressed differing views as to the
+requisite degree of probability of loss if it was to be recoverable
+following a breach of contract.
+
+73.
+ Lord Reid observed, at p 385:
+
+28
+
+“I am satisfied that the court [in Hadley v Baxendale] did
+not intend that every type of damage which was
+reasonably foreseeable by the parties when the contract
+was made should either be considered as arising naturally,
+ie in the usual course of things, or be supposed to have
+been in the contemplation of the parties. Indeed the
+decision makes it clear that a type of damage which was
+plainly foreseeable as a real possibility but which would
+only occur in a small minority of cases cannot be regarded
+as arising in the usual course of things or be supposed to
+have been in the contemplation of the parties: the parties
+are not supposed to contemplate as grounds for the
+recovery of damage any type of loss or damage which on
+the knowledge available to the defendant would appear to
+him as only likely to occur in a small minority of cases.
+
+In cases like Hadley v Baxendale or the present case it is
+not enough that in fact the plaintiff’s loss was directly
+caused by the defendant’s breach of contract. It clearly
+was so caused in both. The crucial question is whether, on
+the information available to the defendant when the
+contract was made, he should, or the reasonable man in his
+position would, have realised that such loss was
+sufficiently likely to result from the breach of contract to
+make it proper to hold that the loss flowed naturally from
+the breach or that loss of that kind should have been within
+his contemplation.”
+
+Here, Lord Reid saw the law as applying an objective test, and one
+which reflects the realities of the business transaction entered into by the
+contracting parties.
+
+74.
+ Lord Reid then considered the Victoria Laundry case and
+disapproved of it so far as what Asquith LJ had said went beyond
+previous authorities. Lord Reid stated, at p 389:
+
+“To bring in reasonable foreseeability appears to me to be
+confusing measure of damages in contract with measure of
+damages in tort. A great many extremely unlikely results
+are reasonably foreseeable: it is true that Lord Asquith
+may have meant foreseeable as a likely result, and if that is
+all he meant I would not object further than to say that I
+think that the phrase is liable to be misunderstood. For the
+same reason I would take exception to the phrase ‘liable to
+
+29
+
+result’ in paragraph (5). Liable is a very vague word but I
+think that one would usually say that when a person
+foresees a very improbable result he foresees that it is
+liable to happen.”
+
+75.
+Lord Reid also disapproved of the expressions “a serious
+possibility”, “a real danger” and “on the cards”. He said, at p 390:
+
+“If the tests of ‘real danger’ or ‘serious possibility’ are in
+future to be authoritative then the Victoria Laundry case
+would indeed be a landmark because it would mean that
+Hadley v Baxendale would be differently decided today. I
+certainly could not understand any court deciding that, on
+the information available to the carrier in that case, the
+stoppage of the mill was neither a serious possibility nor a
+real danger. If those tests are to prevail in future then let
+us cease to pay lip service to the rule in Hadley v
+Baxendale. But in my judgment to adopt these tests would
+extend liability for breach of contract beyond what is
+reasonable or desirable. From the limited knowledge
+which I have of commercial affairs I would not expect
+such an extension to be welcomed by the business
+community and from the legal point of view I can find
+little or nothing to recommend it.”
+
+76.
+Their Lordships were unanimous in disapproving the expression
+“on the cards” but Lord Morris of Borth-y-Gest, Lord Pearce and Lord
+Upjohn (at pp 400, 415 and 425 respectively) approved the expressions
+“real danger” and “serious possibility”. Lord Hodson preferred the
+expression “liable to result”. Lord Pearce and Lord Upjohn both
+expressed the view that Hadley v Baxendale would have been decided
+the same way on a “real danger” or “serious possibility” test.
+
+77.
+The diversity of opinion in the House as to the most appropriate
+language is no doubt partly a matter of linguistic taste. Lord Reid’s
+apparent preference for “not unlikely” as against “likely” cannot be
+ascribed to an uncharacteristic preference for a double negative rather
+than a simple word. A few years later he made some famous
+observations in Davies v Taylor [1974] AC 207, 213 (a case concerned
+with quantification of damages under the Fatal Accidents Acts):
+
+30
+
+“You can prove that a past event happened, but you cannot
+prove that a future event will happen and I do not think
+that the law is so foolish as to suppose that you can. All
+you can do is to evaluate the chance. Sometimes it is
+virtually 100 per cent: sometimes virtually nil. But often
+it is somewhere in between. And if it is somewhere in
+between I do not see much difference between a
+probability of 51 per cent and a probability of 49 per
+cent.”
+
+It would not be a normal use of English to say that an eventuality with a
+probability of 51 per cent is likely and one with a probability of 49 per
+cent is unlikely (although in other fields, notably in connection with the
+civil standard of proof of past events, the law does make such a
+distinction). In ordinary discourse, there is a middle ground (say, for
+illustration, between 60 per cent and 40 per cent probability) within
+which an event would not normally be described as either likely or
+unlikely. Lord Reid’s choice of language reflects his view (shared by
+the rest of the House) that the outcome need not be an odds-on chance.
+
+78.
+To my mind, however, the diversity of opinion in The Heron II
+has another and more important significance. Other passages in the
+speeches show that their Lordships had well in mind (but did not,
+perhaps, spell out at length) that it is not simply a question of
+probability. It is also a question of what the contracting parties must be
+taken to have had in mind, having regard to the nature and object of
+their business transaction. If a manufacturer of lightning conductors
+sells a defective conductor and the customer’s house burns down as a
+result, the manufacturer will not escape liability by proving that only
+one in a hundred of his customers’ buildings had actually been struck by
+lightning. The need to take account of the nature and object of the
+contract is recognised, I think, in the passage (at p 385) from Lord
+Reid’s speech which I have already quoted; in Lord Morris’s speech at
+pp 398-399; in Lord Pearce’s speech at pp 416-417 (with the example of
+the court ceiling collapsing during a sitting); and in Lord Upjohn’s
+speech at pp 424-425. The need for the loss suffered to be within the
+horizon of the parties’ contemplation (Lord Pearce at p 416) makes it
+less important to define its degree of probability with any precision.
+Arguably a vague expression (such as “real possibility”) is actually
+preferable, because it is more flexible, once it is understood that what is
+most important is the common expectation, objectively assessed, on the
+basis of which the parties are entering into their contract.
+
+31
+
+79.
+My Lords, I had reached this point in drafting my opinion when
+my noble and learned friend Lord Hoffmann drew to my attention the
+articles by Adam Kramer, Professor Tettenborn, and Professor
+Robertson, not cited in argument, that are mentioned in Para 11 of Lord
+Hoffmann’s opinion. These scholars develop ideas about Hadley v
+Baxendale which, although differently formulated, share some common
+ground. They demonstrate that foreseeability by itself is not a
+satisfactory test, and Kramer and Tettenborn emphasise the importance
+of what I have rather imprecisely referred to as the nature and object of
+the contract entered into by the parties. Both refer to a possible analogy
+with the restriction of damages in tort under the SAAMCO principle (see
+South Australia Asset Management Corpn v York Montague Ltd [1997]
+AC 191). Robertson is against approaching allocation or assumption of
+risk as a matter of contractual interpretation. I have found all these
+materials very helpful.
+
+The majority arbitrators’ decision
+
+80.
+The arbitrators took seriously their task as the fact-finding
+tribunal, recognising (at the outset of the majority’s reasons) that there
+were issues of law which might be taken to appeal. The majority
+identified (para 7) a difference between the parties as to whether, and
+how far, The Heron II had reformulated the rule in Hadley v Baxendale.
+The majority did not in terms resolve that difference, but seem to have
+adopted the “not unlikely” test. In para 8 they stated:
+
+“As [counsel for the charterers] agreed in exchanges with
+members of the Tribunal the “not unlikely” results arising
+from the late redelivery of a vessel were not numerous,
+but would include missing dates for (a) a subsequent
+fixture, (b) a dry docking and (c) a sale of the vessel.”
+
+They then carried this forward, to my mind out of context, to the
+discussion in para 17 of the answers that would have been given by a
+lawyer or by a broker.
+
+81.
+In para 9, after a reference to The Rio Claro [1987] 2 Lloyd’s
+Rep. 173, 175, they continued:
+
+32
+
+“We consider on the facts that the type or kind of loss
+suffered by the Owners, i.e. the need to adjust relevant
+dates for the subsequent employment of the vessel through
+the revised Cargill terms, was within the contemplation of
+the parties as a not unlikely result of the breach. The fact
+that the extent of the loss was greater than anticipated is
+not relevant: see Hill v Ashington Piggeries [1969] 3 All
+ER 1496 (Davies LJ at p 1524 F).”
+
+82.
+I have some difficulties with these passages. There seems to be a
+gap in reasoning between the bare fact of missing a fixture (an
+eventuality which would not, in a rising market, occasion any financial
+loss) and the very heavy financial loss for which the owners claimed
+(and recovered) damages in this case. Ashington Piggeries was a case of
+physical damage (the claimant’s pigs died from disease caused by
+mouldy feed, which was in turn caused by defective feed hoppers). A
+much closer authority would have been the Victoria Laundry case, in
+which the Court of Appeal declined to award damages for the loss of
+unusually profitable dyeing contracts, but indicated that recovery for
+some loss of profition such contracts would be possible ([1949] 2 KB
+528, 543):
+
+“We agree that in order that the plaintiffs should recover
+specifically and as such the profits expected on these
+contracts, the defendants would have had to know, at the
+time of their agreement with the plaintiffs, of the prospect
+and terms of such contracts. We also agree that they did
+not in fact know these things. It does not however, follow
+that the plaintiffs are precluded from recovering some
+general (and perhaps conjectural) sum for loss of business
+in respect of dyeing contracts to be reasonably expected,
+any more than in respect of laundering contracts to be
+reasonably expected.”
+
+The loss of unusually profitable contracts, unknown to the vendor of
+specialised equipment at the time of the sale contract, will often be a
+“serious possibility” or “real danger”; but it was held not to be within
+the reasonable contemplation of the parties to the sale contract.
+
+83.
+So in this case it was open to the arbitrators to conclude that for
+the owners to miss a fixture was a “not unlikely” result of the delay, but
+it did not follow from that the charterers were liable for an exceptionally
+large loss (measured by the entire term of the fixture) when the market
+
+33
+
+fell suddenly and sharply (apparently, from the rates renegotiated with
+Cargill, by about 20%) between 21 April and 8 May 2004. As Rix LJ
+said in the Court of Appeal (para 120), “It requires extremely volatile
+conditions to create the situation which occurred here”.
+
+84.
+The majority arbitrators referred to a number of authorities, cited
+by the charterers, to the effect that the normal measure of damages for
+late delivery is the market rate (if higher than the charter rate) for the
+period from the latest date for re-delivery under contract until the date of
+actual re-delivery. They made a passing reference to the discussion of
+this point by Lord Mustill in Torvald Klaveness AS v Arni Maritime
+Corpn, (The Gregos) [1995] 1 Lloyd’s Rep 1, 10, on which Rix LJ
+commented in paras 58-59 of his judgment. The majority regarded these
+authorities as giving the charterers only very limited assistance.
+Ultimately they accepted and applied the owners’ submission that “what
+mattered was that the type of loss claimed was foreseeable” (para 18 of
+the majority reasons). That was in my opinion too crude a test, and it
+was an error of law to adopt it. What mattered was whether the
+common intention of reasonable parties to a charterparty of this sort
+would have been that in the event of a relatively short delay in re-
+delivery an extraordinary loss, measured over the whole term of
+renewed fixture, was, in Lord Reid’s words,
+
+“sufficiently likely to result from the breach of contract to
+make it proper to hold that the loss flowed naturally from
+the breach or that loss of that kind should have been within
+[the defaulting party’s] contemplation.”
+
+Lord Mustill’s dictum in The Gregos indicates that that would not have
+been the common intention of reasonable contracting parties, and I
+respectfully agree.
+
+85.
+In the Commercial Court Christopher Clarke J relied on the
+Ashington Piggeries case and (though he made a passing reference to
+Victoria Laundry) did not consider what was said in that case about loss
+of extraordinary profit. He found no error in the “foreseeable” test
+stated in para 18 of the majority arbitrators’ reasons.
+
+86.
+Rix LJ did refer to what was said in the Victoria Laundry case
+about extraordinary profit. In para 89 he cited the passage which I have
+set out above. But in a later passage he seems to have discounted it,
+either because the arbitrator had been faced with a choice between two
+
+34
+
+agreed figures (para 106) or because the owners made the Cargill fixture
+“at an appropriate time” (para 107- the reference to The Pegase should, I
+think, be to Koch Marine Inc v D’Amica Societa Di Navigazione ARL
+(The Elena d’Amico) [1980] 1 Lloyd’s Rep 75). No doubt the fixture
+was made at an appropriate time (Rix LJ did not say of the owners, as he
+chose to say of the charterers, at para 96, that they were “keen to
+squeeze the last drop of profit … from what was a particularly strong
+market”: see also para 119, referred to by my noble and learned friend
+Lord Rodger of Earlsferry). But it was contrary to the principle stated in
+the Victoria Laundry case, and reaffirmed in The Heron II, to suppose
+that the parties were contracting on the basis that the charterers would be
+liable for any loss, however large, occasioned by a delay in re-delivery
+in circumstances where the charterers had no knowledge of, or control
+over, the new fixture entered into by the new owners.
+
+87.
+For these reasons, and for the further reasons given by my noble
+and learned friend Lord Hoffmann, Lord Hope and Lord Rodger, whose
+opinions I have had the advantage of reading in draft, I would allow this
+appeal.
+
+BARONESS HALE OF RICHMOND
+
+My Lords,
+
+88.
+Ship-owners let out their ship for a period of five to seven
+months, to end no later than midnight on 2 May 2004. The charterers
+notified the ship-owners that the ship would be back no later than then.
+The ship-owners therefore contracted to let the ship to new charterers
+for a period of about four to six months, promising that they could have
+the ship no later than 8 May 2004. The agreed price of hire was
+$39,500 a day. The ship was delayed on its last voyage and the owners
+did not get their ship back until 11 May 2004. The new charterers agreed
+to take the ship, but by then the market had fallen and they would only
+take it at a reduced price of $31,500 a day. Are the first charterers liable
+to pay only for the use of the ship for the number of days that they were
+late at the market rate then prevailing? Or are they liable to pay the
+difference between what the owners would have got from the new
+charter had the ship been returned in time and what the owners in fact
+got?
+
+35
+
+89.
+My Lords, this could be an examination question. Although the
+context is a specialised one, the answer has mainly to be found in the
+general principles to be derived from the well-known authorities to
+which your Lordships have all referred, principally Hadley v Baxendale
+(1854) 9 Exch 341, Victoria Laundry (Windsor) Ltd v Newman
+Industries Ltd [1949] 2 KB 528 and, above all, C Czarnikow Ltd v
+Koufos (The Heron II) [1969] 1 AC 350. There is no obviously right
+answer: two very experienced commercial judges have reached one
+answer, your lordships have reached another. There is no obviously just
+answer: the charterer’s default undoubtedly caused the owner’s loss, but
+a loss for which no-one has ever had to pay before. The examiners
+would surely have given first class marks to all the judges who have
+answered the question so far.
+
+90.
+In common with my noble and learned friend, Lord Hope of
+Craighead, I was at first inclined to agree with the very full and
+thoughtful judgments in the courts below which arrived at the second
+answer. Their careful reviews of the shipping cases show that, although
+the normal measure of damages is undoubtedly the first, there is no case
+in which a claim to the second has been rejected. The fact that no-one
+has thought to make such a claim before now does not mean that it is
+unfounded. The question was unlikely to arise if the last voyage on
+which the charterer wished to send the ship was illegitimate, because the
+owner could then refuse to undertake it and the first charter would come
+to a premature end (or he might undertake it without prejudice as
+happened in The Gregos [1995] 1 Lloyd’s Rep 1). And until the decision
+in The Peonia [1991] 1 Lloyd’s Rep 100 it would not arise if the last
+voyage was legitimate, because the charterer was not liable at all for
+delay which was not his fault. So the novelty of the claim is no answer.
+It is not novel in principle. The object of damages for breach of contract
+is to put the claimants in the position in which they would have been had
+the contract been properly performed. Had this contract not been broken
+in the way that it was, the claimants would have had the benefit of the
+next fixture at the original rate. Putting them in the position in which
+they would have been had the contract been performed in accordance
+with its terms entails paying them the difference. No-one has suggested
+that it was at all unusual or unlikely for the owners to commit their ship
+to a new fixture to begin as soon as possible after the ship was free from
+the first. It was conceded before the arbitrators that missing dates for a
+subsequent fixture was a “not unlikely” result of late redelivery. Both
+parties would have been well aware of that at the time when the contract
+was made. They would also have been well aware that a new charter
+was likely to commit that particular ship rather than to allow the ship-
+owner to go into the market and find a substitute to fulfil his next
+commitment if his ship was late back. Charterparties allowing the owner
+
+36
+
+to substitute a different vessel are unusual. Above all, if the parties wish
+to exclude liability for consequential loss of this kind then it will be very
+simple to insert such a clause into future charterparties. It would take a
+much more complicated piece of drafting, following some complicated
+negotiations, to impose liability for this sort of loss. To rule out a whole
+class of loss, simply because the parties had not previously thought
+about it, risks as much uncertainty and injustice as letting it in.
+
+91.
+That argument cuts both ways. We are looking here at the general
+principles which limit a contract breaker’s liability when the contract
+itself does not do so. The contract breaker is not inevitably liable for all
+the loss which his breach has caused. Loss of the type in question has to
+be “within the contemplation” of the parties at the time when the
+contract was made. It is not enough that it should be foreseeable if it is
+highly unlikely to happen. It would not then arise “in the usual course of
+things”: see The Heron II [1969] 1 AC 350, 385, per Lord Reid. So one
+answer to our question, given as I understand it by my noble and learned
+friend, Lord Rodger of Earlsferry, is that these parties would not have
+had this particular type of loss within their contemplation. They would
+expect that the owner would be able to find a use for his ship even if it
+was returned late. It was only because of the unusual volatility of the
+market at that particular time that this particular loss was suffered. It is
+one thing to say, as did the majority arbitrators, that missing dates for a
+subsequent fixture was within the parties’ contemplation as “not
+unlikely”. It is another thing to say that the “extremely volatile”
+conditions which brought about this particular loss were “not unlikely”.
+
+92.
+Another answer to the question, given as I understand it by my
+noble and learned friends, Lord Hoffmann and Lord Hope, is that one
+must ask, not only whether the parties must be taken to have had this
+type of loss within their contemplation when the contract was made, but
+also whether they must be taken to have had liability for this type of loss
+within their contemplation then. In other words, is the charterer to be
+taken to have undertaken legal responsibility for this type of loss? What
+should the unspoken terms of their contract be taken to be? If that is the
+question, then it becomes relevant to ask what has been the normal
+expectation of parties to such contracts in this particular market. If
+charterers would not normally expect to pay more than the market rate
+for the days they were late, and ship-owners would not normally expect
+to get more than that, then one would expect something extra before
+liability for an unusual loss such as this would arise. That is essentially
+the reasoning adopted by the minority arbitrator.
+
+37
+
+93.
+My Lords, I hope that I have understood this correctly, for it
+seems to me that it adds an interesting but novel dimension to the way in
+which the question of remoteness of damage in contract is to be
+answered, a dimension which does not clearly emerge from the classic
+authorities. There is scarcely a hint of it in The Heron II, apart perhaps
+from Lord Reid’s reference, at p 385, to the loss being “sufficiently
+likely to result from the breach of contract to make it proper to hold that
+the loss flowed naturally from the breach or that loss of that kind should
+have been within his contemplation” (emphasis supplied). In general,
+The Heron II points the other way, as it emphasises that there are no
+special rules applying to charterparties and that the law of remoteness in
+contract is not the same as the law of remoteness in tort. There is more
+than a hint of it in the judgment of Waller LJ in Mulvenna v Royal Bank
+of Scotland plc [2003] EWCA Civ 1112, but in the context of the
+“second limb” of Hadley v Baxendale where knowledge of an unusual
+risk is posited. To incorporate it generally would be to introduce into
+ordinary contractual liability the principle adopted in the context of
+liability for professional negligence in South Australia Asset
+Management Corpn v York Montague Ltd [1997] AC 191, 211. In an
+examination, this might well make the difference between a
+congratulatory and an ordinary first class answer to the question. But
+despite the excellence of counsels’ arguments it was not explored before
+us, although it is explored in academic textbooks and other writings,
+including those cited by Lord Hoffmann in paragraph 11 of his opinion.
+I note, however, that the most recent of these, Professor Robertson’s
+article on “The basis of the remoteness rule in contract” (2008) 28 Legal
+Studies 172 argues strongly to the contrary. I am not immediately
+attracted to the idea of introducing into the law of contract the concept
+of the scope of duty which has perforce had to be developed in the law
+of negligence. The rule in Hadley v Baxendale asks what the parties
+must be taken to have had in their contemplation, rather than what they
+actually had in their contemplation, but the criterion by which this is
+judged is a factual one. Questions of assumption of risk depend upon a
+wider range of factors and value judgments. This type of reasoning is, as
+Lord Steyn put it in Aneco Reinsurance Underwriting Ltd v Johnson &
+Higgins Ltd [2002] 1 Lloyd’s Rep 157, para 186, a “deus ex machina”.
+Although its result in this case may be to bring about certainty and
+clarity in this particular market, such an imposed limit on liability could
+easily be at the expense of justice in some future case. It could also
+introduce much room for argument in other contractual contexts.
+Therefore, if this appeal is to be allowed, as to which I continue to have
+doubts, I would prefer it to be allowed on the narrower ground identified
+by Lord Rodger, leaving the wider ground to be fully explored in
+another case and another context.

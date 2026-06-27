@@ -1,0 +1,393 @@
+{
+  "document": "case_demo.pdf",
+  "citations": [
+    {
+      "id": 1,
+      "full_case_name": "Lumley v Gye",
+      "court_name": "Court of Queen's Bench",
+      "judges": [
+        "Erle J"
+      ],
+      "proposition": "origins of the tort of inducing breach of contract",
+      "ground": "Ground 1",
+      "relevant_text": "Its origins lie in the decision of the Court of Queen's Bench in Lumley v Gye (1853) 2 E&B 216, in which it was held that a defendant who, knowingly and wilfully, induces a third party to breach a subsisting contract with the claimant is liable in damages to the claimant. Erle J articulated the foundational principle that the deliberate procurement of another's contractual default is a recognised civil wrong, independently actionable by the party who suffers consequential loss.",
+      "raw": "(1853) 2 E&B 216",
+      "case_name": "Lumley v Gye",
+      "year": 1853,
+      "court": null,
+      "division": null,
+      "reporter": "E&B",
+      "volume": 2,
+      "number": null,
+      "page": 216,
+      "citation_type": "nominate",
+      "verification": {
+        "id": 1,
+        "exists": true,
+        "matched_source": "Lumley v Gye (1853) 2 E&B 216.pdf",
+        "match_method": "name_year",
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "case exists and metadata matches the source"
+      }
+    },
+    {
+      "id": 2,
+      "full_case_name": "OBG Ltd v Allan",
+      "court_name": "House of Lords",
+      "judges": [
+        "Lord Hoffmann",
+        "Baroness Hale"
+      ],
+      "proposition": "modern authoritative statement of the elements of the tort of inducing breach of contract",
+      "ground": "Ground 1",
+      "relevant_text": "The modern authoritative statement of the elements of the tort is that of the House of Lords in OBG Ltd v Allan [2007] UKHL 21. Lord Hoffmann (with whom Lords Nicholls, Walker, and Baroness Hale agreed on the relevant points) held that liability for inducing breach of contract requires the following to be established: (a) the defendant must have had actual knowledge of the contract between the claimant and the third party; (b) the defendant must have intended to procure a breach of that contract; (c) a breach must in fact have occurred; and (d) the claimant must have suffered loss caused by that breach. His Lordship confirmed that constructive knowledge of the contract is insufficient to satisfy element (a), and that the intention to procure breach must be distinguished from mere foresight that breach might result.",
+      "raw": "[2007] UKHL 21",
+      "case_name": "OBG Ltd v Allan",
+      "year": 2007,
+      "court": "UKHL",
+      "division": null,
+      "reporter": null,
+      "volume": null,
+      "number": 21,
+      "page": null,
+      "citation_type": "neutral",
+      "verification": {
+        "id": 2,
+        "exists": true,
+        "matched_source": "obg-ltd-and-another-v-allan-and-others-uk-nondevolved-case-l.pdf",
+        "match_method": "direct",
+        "used_semantic_fallback": false,
+        "required_params_matched": true,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "case exists and metadata matches the source"
+      }
+    },
+    {
+      "id": 3,
+      "full_case_name": "DC Thomson & Co Ltd v Deakin",
+      "court_name": "Court of Appeal",
+      "judges": [],
+      "proposition": "mental element for direct inducement",
+      "ground": "Ground 1",
+      "relevant_text": "As to the mental element, Crestholm relies upon the decision of the Court of Appeal in DC Thomson & Co Ltd v Deakin [1952] Ch 646. The Court held in that case that, in instances of direct inducement, it is unnecessary for the defendant to have specific knowledge of the precise terms of the contract, provided that it was aware of the contract's existence.",
+      "raw": "[1952] Ch 646",
+      "case_name": "Co Ltd v Deakin",
+      "year": 1952,
+      "court": null,
+      "division": null,
+      "reporter": "Ch",
+      "volume": null,
+      "number": null,
+      "page": 646,
+      "citation_type": "law_report",
+      "verification": {
+        "id": 3,
+        "exists": true,
+        "matched_source": "d-c-thomson--company-ltd-v-arthur-deakin-and-others-england-.pdf",
+        "match_method": "name_year",
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "case exists and metadata matches the source"
+      }
+    },
+    {
+      "id": 4,
+      "full_case_name": "Fairfax International Logistics Ltd v Brennan Holdings plc",
+      "court_name": "Commercial Court",
+      "judges": [
+        "Cockerill J"
+      ],
+      "proposition": "intention to induce breach in commercial context",
+      "ground": "Ground 1",
+      "relevant_text": "In further support of Crestholm's case on liability, Crestholm relies upon Fairfax International Logistics Ltd v Brennan Holdings plc [2019] EWHC 1847 (Comm), in which Cockerill J held that a procurement conglomerate operating in a specialised commercial market, which approaches an incumbent exclusive supplier's customer for the purpose of securing a substitute supply arrangement, is to be treated as having intended the breach of any exclusivity obligation, even in circumstances where it had not read the contract in detail. The learned judge reasoned that sophisticated commercial actors operating in procurement-intensive industries are taken to appreciate that long-term exclusive supply arrangements are commonplace and that their displacement will necessarily involve contractual breach.",
+      "raw": "[2019] EWHC 1847 (Comm)",
+      "case_name": null,
+      "year": 2019,
+      "court": "EWHC",
+      "division": "Comm",
+      "reporter": null,
+      "volume": null,
+      "number": 1847,
+      "page": null,
+      "citation_type": "neutral",
+      "verification": {
+        "id": 4,
+        "exists": false,
+        "matched_source": null,
+        "match_method": null,
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "not found in the sources database (no metadata match)"
+      }
+    },
+    {
+      "id": 5,
+      "full_case_name": "Hadley v Baxendale",
+      "court_name": "Court of Exchequer",
+      "judges": [
+        "Alderson B"
+      ],
+      "proposition": "foundational rule governing the recoverability of damages for breach of contract",
+      "ground": "Ground 2",
+      "relevant_text": "The foundational rule governing the recoverability of damages for breach of contract and kindred obligations was established by the Court of Exchequer in Hadley v Baxendale (1854) 9 Ex 341, in which Alderson B formulated the two-limb test: a claimant may recover loss arising naturally from the breach in the ordinary course of things (the first limb), and loss which, although not arising naturally, was within the reasonable contemplation of both parties at the time the relevant obligation was undertaken as the probable result of the breach (the second limb).",
+      "raw": "(1854) 9 Ex 341",
+      "case_name": "Hadley v Baxendale",
+      "year": 1854,
+      "court": null,
+      "division": null,
+      "reporter": "Ex",
+      "volume": 9,
+      "number": null,
+      "page": 341,
+      "citation_type": "nominate",
+      "verification": {
+        "id": 5,
+        "exists": true,
+        "matched_source": "Hadley v Baxendale (1854) 9 Ex 341.pdf",
+        "match_method": "name_year",
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [
+          {
+            "field": "reporter",
+            "citing_value": "Ex",
+            "source_value": "Ex Ch"
+          }
+        ],
+        "needs_review": false,
+        "reason": "case exists; metadata mismatch on: reporter"
+      }
+    },
+    {
+      "id": 6,
+      "full_case_name": "Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas)",
+      "court_name": "House of Lords",
+      "judges": [
+        "Lord Hoffmann",
+        "Lord Hope"
+      ],
+      "proposition": "scope of recoverable loss in cases involving deliberate commercial wrongdoing",
+      "ground": "Ground 2",
+      "relevant_text": "The scope of recoverable loss in cases involving deliberate commercial wrongdoing was further considered by the House of Lords in Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas) [2008] UKHL 48. Their Lordships (Lord Hoffmann and Lord Hope, with whom the majority agreed) held that the test for recoverability is ultimately one of the reasonable expectations of the contracting parties: the question is whether the defendant can properly be taken to have assumed responsibility for the type of loss in question. Where the defendant has deliberately targeted the claimant's contractual relationship with a view to depriving it of the benefit of that relationship, it would be absurd to suggest that the defendant had not assumed responsibility for the loss of that benefit.",
+      "raw": "[2008] UKHL 48",
+      "case_name": null,
+      "year": 2008,
+      "court": "UKHL",
+      "division": null,
+      "reporter": null,
+      "volume": null,
+      "number": 48,
+      "page": null,
+      "citation_type": "neutral",
+      "verification": {
+        "id": 6,
+        "exists": true,
+        "matched_source": "transfield-shipping-inc-v-mercator-shipping-inc-the-achillea.pdf",
+        "match_method": "direct",
+        "used_semantic_fallback": false,
+        "required_params_matched": true,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "case exists and metadata matches the source"
+      }
+    },
+    {
+      "id": 7,
+      "full_case_name": "Anglia Television Ltd v Reed",
+      "court_name": "Court of Appeal",
+      "judges": [
+        "Lord Denning MR"
+      ],
+      "proposition": "measure of damages for lost profits",
+      "ground": "Ground 2",
+      "relevant_text": "As to the measure of damages, Crestholm relies upon the decision of the Court of Appeal in Anglia Television Ltd v Reed [1972] 1 QB 60. In that case, the Court of Appeal held that where a defendant's wrongful conduct has deprived the claimant of the benefit of a contractual arrangement, the claimant is entitled to recover by way of expectation damages all profits which it would have earned had the contract been fully performed. Lord Denning MR confirmed that the court will adopt the claimant's projected earnings under the contract as the primary measure of recovery, subject to reduction for saved costs of performance and appropriate contingency discounts.",
+      "raw": "[1972] 1 QB 60",
+      "case_name": "Anglia Television Ltd v Reed",
+      "year": 1972,
+      "court": null,
+      "division": null,
+      "reporter": "QB",
+      "volume": 1,
+      "number": null,
+      "page": 60,
+      "citation_type": "law_report",
+      "verification": {
+        "id": 7,
+        "exists": true,
+        "matched_source": "anglia-television-ltd-v-reed-england--wales-case-law.pdf",
+        "match_method": "name_year",
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "case exists and metadata matches the source"
+      }
+    },
+    {
+      "id": 8,
+      "full_case_name": "Stonegate Capital Partners Ltd v Redwood Procurement Group",
+      "court_name": "Chancery Division",
+      "judges": [
+        "Marcus Smith J"
+      ],
+      "proposition": "quantification of lost future profits in procurement tort claims",
+      "ground": "Ground 2",
+      "relevant_text": "In addition, Crestholm relies upon the decision of the Chancery Division in Stonegate Capital Partners Ltd v Redwood Procurement Group [2021] EWHC 3312 (Ch), in which Marcus Smith J addressed the quantification of lost future profits in the context of a procurement tort claim. The learned judge held that where a claimant adduces reliable financial projections supported by historical performance data and independent expert evidence, the court should adopt those projections as the primary basis for assessment, subject only to a contingency discount reflecting the inherent uncertainties of forward-looking profit estimates. The projections should not be refused on the grounds of speculative uncertainty where the defendant's own wrongdoing has made precise calculation impossible.",
+      "raw": "[2021] EWHC 3312 (Ch)",
+      "case_name": "Stonegate Capital Partners Ltd v Redwood Procurement Group",
+      "year": 2021,
+      "court": "EWHC",
+      "division": "Ch",
+      "reporter": null,
+      "volume": null,
+      "number": 3312,
+      "page": null,
+      "citation_type": "neutral",
+      "verification": {
+        "id": 8,
+        "exists": false,
+        "matched_source": null,
+        "match_method": null,
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "not found in the sources database (no metadata match)"
+      }
+    },
+    {
+      "id": 9,
+      "full_case_name": "Wrotham Park Estate Co Ltd v Parkside Homes Ltd",
+      "court_name": null,
+      "judges": [],
+      "proposition": "damages calculated by reference to profits the claimant would have earned",
+      "ground": "Ground 2",
+      "relevant_text": "Further and in the alternative, Crestholm relies upon Wrotham Park Estate Co Ltd v Parkside Homes Ltd [1974] 1 WLR 798 in support of the proposition that, where a defendant has deliberately and knowingly interfered with the claimant's contractual rights and thereby deprived the claimant of anticipated profits, the court may award damages calculated by reference to the profits the claimant would have earned under the relevant contractual arrangement. This principle was applied in the commercial context in the present circumstances where the defendant's gain mirrors the claimant's loss, and supports an award framed by reference to the value of the Supply Agreement to Crestholm.",
+      "raw": "[1974] 1 WLR 798",
+      "case_name": "Wrotham Park Estate Co Ltd v Parkside Homes Ltd",
+      "year": 1974,
+      "court": null,
+      "division": null,
+      "reporter": "WLR",
+      "volume": 1,
+      "number": null,
+      "page": 798,
+      "citation_type": "law_report",
+      "verification": {
+        "id": 9,
+        "exists": false,
+        "matched_source": null,
+        "match_method": null,
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "not found in the sources database (no metadata match)"
+      }
+    },
+    {
+      "id": 10,
+      "full_case_name": "American Cyanamid Co v Ethicon Ltd",
+      "court_name": "House of Lords",
+      "judges": [
+        "Lord Diplock"
+      ],
+      "proposition": "principles governing the grant of interlocutory injunctions",
+      "ground": "Ground 3",
+      "relevant_text": "The principles governing the grant of interlocutory injunctions were definitively restated by the House of Lords in American Cyanamid Co v Ethicon Ltd [1975] AC 396. Lord Diplock held that an applicant for interlocutory relief is not required to establish a strong prima facie case on the merits. It is sufficient for the applicant to demonstrate that there is a serious question to be tried — that is, that the claim is not frivolous or vexatious. Once that threshold is crossed, the court proceeds to consider where the balance of convenience lies and, in particular, whether damages would be an adequate remedy for the applicant if the injunction were refused.",
+      "raw": "[1975] AC 396",
+      "case_name": "American Cyanamid Co v Ethicon Ltd",
+      "year": 1975,
+      "court": null,
+      "division": null,
+      "reporter": "AC",
+      "volume": null,
+      "number": null,
+      "page": 396,
+      "citation_type": "law_report",
+      "verification": {
+        "id": 10,
+        "exists": true,
+        "matched_source": "American Cyanamid Co (No 1) v Ethicon Ltd [1975] UKHL 1 (05 February 1975).pdf",
+        "match_method": "name_year",
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "case exists and metadata matches the source"
+      }
+    },
+    {
+      "id": 11,
+      "full_case_name": "Series 5 Software Ltd v Clarke",
+      "court_name": null,
+      "judges": [
+        "Laddie J"
+      ],
+      "proposition": "strong prima facie case for interlocutory relief where injunction determines dispute",
+      "ground": "Ground 3",
+      "relevant_text": "Crestholm acknowledges that in Series 5 Software Ltd v Clarke [1996] 1 All ER 853, Laddie J held that an applicant for interlocutory relief must demonstrate a strong prima facie case on the merits before the court will grant an injunction, and that the American Cyanamid \"serious question to be tried\" threshold is insufficient where the practical effect of the injunction would be to determine the dispute.",
+      "raw": "[1996] 1 All ER 853",
+      "case_name": "Software Ltd v Clarke",
+      "year": 1996,
+      "court": null,
+      "division": null,
+      "reporter": "All ER",
+      "volume": 1,
+      "number": null,
+      "page": 853,
+      "citation_type": "law_report",
+      "verification": {
+        "id": 11,
+        "exists": false,
+        "matched_source": null,
+        "match_method": null,
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "not found in the sources database (no metadata match)"
+      }
+    },
+    {
+      "id": 12,
+      "full_case_name": "Pemberton Aerospace Systems Ltd v Delta Global Ventures Inc",
+      "court_name": null,
+      "judges": [
+        "O'Farrell J"
+      ],
+      "proposition": "irreparable harm in aerospace procurement disputes",
+      "ground": "Ground 3",
+      "relevant_text": "In support of the proposition that irreparable harm in the context of aerospace procurement disputes is sufficient to satisfy the American Cyanamid balance of convenience test, Crestholm relies upon Pemberton Aerospace Systems Ltd v Delta Global Ventures Inc [2023] EWHC 892 (TCC), in which O'Farrell J held that the displacement of a long-term exclusive supplier in a specialised aerospace procurement market constitutes irreparable harm, by reason of the difficulty of reconstituting a supply relationship once disrupted and the reputational consequences for the displaced supplier in a concentrated market. Her Honour further held that the availability of a damages remedy in principle does not preclude a finding of inadequacy of damages where the precise assessment of loss would be fraught with evidential difficulty.",
+      "raw": "[2023] EWHC 892 (TCC)",
+      "case_name": "Pemberton Aerospace Systems Ltd v Delta Global Ventures Inc",
+      "year": 2023,
+      "court": "EWHC",
+      "division": "TCC",
+      "reporter": null,
+      "volume": null,
+      "number": 892,
+      "page": null,
+      "citation_type": "neutral",
+      "verification": {
+        "id": 12,
+        "exists": false,
+        "matched_source": null,
+        "match_method": null,
+        "used_semantic_fallback": false,
+        "required_params_matched": false,
+        "field_mismatches": [],
+        "needs_review": false,
+        "reason": "not found in the sources database (no metadata match)"
+      }
+    }
+  ]
+}

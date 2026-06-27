@@ -1,0 +1,1169 @@
+Hilary Term
+[2017] UKSC 21
+On appeal from: [2013] EWCA Civ 1513
+
+JUDGMENT
+
+BPE Solicitors and another (Respondents) v
+Hughes-Holland (in substitution for Gabriel)
+(Appellant)
+
+before
+
+Lord Neuberger, President
+Lord Mance
+Lord Clarke
+Lord Sumption
+Lord Hodge
+
+JUDGMENT GIVEN ON
+
+22 March 2017
+
+Heard on 14 and 15 December 2016
+
+Appellant
+
+Respondents
+David Halpern QC
+
+Roger Stewart QC
+Adam Chichester-Clark
+
+Scott Allen
+(Instructed by Roose +
+Partners)
+
+(Instructed by Beale &
+Company Solicitors LLP)
+
+Page 2
+
+LORD SUMPTION: (with whom Lord Neuberger, Lord Mance, Lord Clarke
+and Lord Hodge agree)
+1.
+The issue on this appeal is, in summary, what damages are recoverable in a
+case where (i) but for the negligence of a professional adviser his client would not
+have embarked on some course of action, but (ii) part or all of the loss which he
+suffered by doing so arose from risks which it was no part of the adviser’s duty to
+protect his client against. The problem may be illustrated by one of the most
+celebrated legal parables of modern times, the story of the mountaineer’s knee
+devised by Lord Hoffmann in the course of argument in South Australia Asset
+Management Corpn v York Montague Ltd [1997] AC 191, at p 213:
+“A mountaineer about to undertake a difficult climb is
+concerned about the fitness of his knee. He goes to a doctor who
+negligently makes a superficial examination and pronounces the
+knee fit. The climber goes on the expedition, which he would
+not have undertaken if the doctor had told him the true state of
+his knee. He suffers an injury which is an entirely foreseeable
+consequence of mountaineering but has nothing to do with his
+knee.”
+Like all parables, this one over-simplifies the issue and will not bear too much
+analysis. But it serves the purpose which its author intended, of introducing one of
+the main dilemmas of the law of damages.
+The facts
+2.
+Mr Richard Gabriel was adjudicated bankrupt in March 2014 and the present
+appeal is brought by his trustee in bankruptcy, Mr Peter Hughes-Holland. The appeal
+arises out of events in the days of his prosperity, when he was a semi-retired
+businessman with money to invest. The Judge described him as “astute”, a “hard-
+headed businessman” and “undoubtedly knowledgeable in the field of property and
+generally conversant with property dealing.”
+3.
+Mr Peter Little was a builder and developer. He operated mainly through a
+company called High Tech Fabric Maintenance Ltd, which he owned and controlled.
+Until the events now to be described, Mr Little was a personal friend of Mr Gabriel.
+
+Page 3
+
+4.
+In November 2007, the two men met in a pub. Mr Little told him that he was
+looking to borrow £200,000 in connection with a disused heating tower situated on
+Kemble Airfield in Gloucestershire, called Building 428. Mr Little gave Mr Gabriel
+to understand that the property belonged to him or at any rate to a company which
+he controlled. He said that planning permission had been granted for the
+development of the building as offices. He put forward a figure of about £200,000
+for development costs, on the basis that he would do the building work himself using
+relatively inexpensive construction methods. Although Mr Little did not say so in
+terms, Mr Gabriel assumed that the £200,000 would be used to finance the
+development. After the meeting, Mr Gabriel visited the site, and formed the view
+that Building 428 was worth about £150,000 and that once developed it would be
+worth more than £400,000. Taking Mr Little’s estimate of development costs at face
+value, he decided that the project was viable and that he would lend the £200,000
+that Mr Little needed.
+5.
+From the outset, Mr Little’s intentions differed from the assumptions of Mr
+Gabriel. In the light of the Judge’s findings, this must be regarded as a
+misunderstanding. Building 428 belonged to High Tech, subject to a charge in
+favour of a bank which secured a loan of £150,000. Mr Little intended to transfer it
+to a special purpose vehicle called Whiteshore Associates Ltd, which was to be used
+to carry out the development. Whiteshore was to pay £150,000 to High Tech for the
+building, which would be paid over to the bank in discharge of the loan and the
+charge. The purchase by Whiteshore was to be funded from the £200,000 borrowed
+from Mr Gabriel and the balance used to meet High Tech’s liability for VAT. The
+Judge found that Mr Gabriel knew nothing about these plans, which were entirely
+inconsistent with his understanding of the transaction and would not have been
+acceptable to him. They meant that Mr Little, instead of contributing a property to
+the project and using the loan to develop it, proposed to contribute nothing to the
+project. The loan money would in effect be used to pay off a debt owed by his
+principal operating company to the bank, leaving nothing to fund the development
+unless it could be found from other sources. The Judge found that Whiteshore never
+had any assets or income other than Mr Gabriel’s loan and the property purchased
+with it, and that there was some evidence that Mr Little’s personal finances were
+under “some strain” from at least this time.
+6.
+Mr Richard Spencer was an assistant solicitor at BPE Solicitors in
+Cheltenham. Mr Gabriel had instructed him earlier that year, in connection with a
+proposal to lend money for a rather similar scheme of Mr Little’s concerning another
+property, which in the event had not proceeded. Mr Gabriel decided to instruct him
+to draw up a facility letter and a charge over Building 428. Mr Spencer received his
+instructions in a rather unconventional way. The Judge found that they came not
+from Mr Gabriel himself but from Mr Little, in a voicemail message left on his
+telephone. Mr Little told him that he intended to sell Building 428 to Whiteshore
+and that Mr Gabriel would lend him the money. Mr Spencer at no time sought
+
+Page 4
+
+confirmation or clarification of these instructions from Mr Gabriel himself. He
+proceeded to draw up the facility letter and the charge. Unfortunately, he used as a
+template for the facility letter the document drafted for the abortive transaction
+earlier in the year. This contained statements to the effect that the loan moneys “will
+be made available as a contribution to the costs of the development of the property”,
+and that the purpose of the loan was to “assist with the costs of the development of
+the property.” Mr Spencer did not notice these statements and failed to remove them.
+They accordingly found their way into the documentation for Building 428 as
+executed, although they did not accord with Mr Little’s actual plans or with the
+instructions that Mr Spencer had received from him. They did, however, accord with
+Mr Gabriel’s understanding of what was proposed and served to confirm it.
+7.
+On 7 December 2007 there was a completion meeting at BPE’s offices
+attended by (among others) Mr Gabriel, Mr Spencer, Mr Little and his solicitor, The
+Judge found that at the meeting Mr Gabriel learned for the first time that Building
+428 belonged to High Tech, that it was charged to the bank and that it was intended
+to discharge the bank’s charge. But he was not told that this was to be funded with
+the loan moneys. The Judge found that Mr Gabriel was taken through the facility
+letter and read and noted the statements that the loan moneys were to be used to fund
+the development. He signed it and advanced the money on that basis. The judge
+found that he would not have done so if he had known the use which Mr Little in
+fact proposed to make of the loan moneys. The terms of the facility letter were that
+the loan would be drawn down on 13 December 2007 and repaid on 12 March 2009,
+together with a lump sum of £70,000, described as Mr Gabriel’s “return”.
+8.
+The existing planning permission had been granted in February 2004 and was
+due to expire in February 2009. It provided for 227 square metres (2,659 square feet)
+of office accommodation. The Judge found that Mr Gabriel understood that the
+development was to be carried out in accordance with the existing planning
+permission, but the details do not appear to have been discussed at the time of the
+transaction. He recorded Mr Little’s evidence that he had always had it in mind to
+get planning permission for a somewhat larger office development on the site and
+that this possibility had been discussed with Mr Gabriel at the time of the transaction.
+The Judge made no finding to this effect, but it is consistent with Mr Gabriel’s
+evidence that he was told at the outset that the square footage would be between
+3,500 and 4,000, which substantially exceeded the square footage allowed by the
+existing planning permission. At some stage which is unclear but appears to have
+been early in 2008, Mr Little applied for an enhanced planning permission. The
+Judge recorded various conversations in the course of 2008 and 2009 in which he
+told Mr Gabriel about unspecified difficulties and delays in obtaining it. In July
+2009, a further application was made for enhanced planning permission, which was
+granted in August 2009. The new planning permission was for a development of 398
+square metres (3,283 square feet), including 103 square metres (1,108 square feet)
+of ancillary storage, plant and equipment space and staff facilities. This roughly
+
+Page 5
+
+corresponded to the 3,500 to 4,000 feet which Mr Gabriel said had been mentioned
+to him in 2007. It represented a 45% increase in the usable office space and a 75%
+increase in the gross developed space envisaged in the original planning permission
+of 2004.
+9.
+The transaction was a failure and Mr Gabriel lost all his money. The
+repayment date (12 March 2009) came and went without any significant
+construction work being carried out. No attempt was ever made to develop the
+property in accordance with either planning permission. In late 2009, Mr Gabriel
+took steps to exercise his power of sale. The property was put onto the market, but
+failed to find a buyer. Finally, in July 2010, it was sold by auction and fetched
+£13,000, which was entirely consumed by the expenses of sale. Whiteshore never
+made any payments under the facility agreement, and was eventually dissolved. Mr
+Gabriel recovered nothing except £8,191.56 which was paid by Mr Little personally.
+The proceedings
+10.
+Mr Gabriel sued Mr Little, Whiteshore and High Tech for fraud and negligent
+misrepresentation. He sued BPE for dishonest assistance in a breach of an implied
+trust of the loan moneys to apply them to the cost of development, and for
+negligence. The action was tried in May 2012 by Mr Robert Englehart QC sitting as
+a Deputy Judge of the Chancery Division. He dismissed all the claims against Mr
+Little, Whiteshore and High Tech. He held that there was no implied trust of the loan
+moneys, so that BPE could not be liable for dishonestly assisting a breach of it.
+Turning to the case against BPE in negligence, the Judge held that they had no duty
+to advise Mr Gabriel about the commercial risks associated with the project, but
+should have explained to him that the funds would be applied for Mr Little’s benefit
+and that in reality he was not putting anything into the project. Mr Spencer failed to
+do that, and indeed negligently misled Mr Gabriel by allowing statements to appear
+in the loan documentation which suggested the opposite.
+11.
+At the trial there was an issue, which assumed decisive importance on the
+subsequent appeals, as to whether if the £200,000 had in fact been spent on the
+development, it would have enhanced the value of the property. Mr Gabriel’s case
+was that he was entitled to damages representing the entire loss which he had
+suffered by entering into the transaction, on the ground that he would not have done
+so had he not been misled about the proposed use of the loan moneys. BPE’s case
+was that Mr Gabriel’s loss arose from Mr Little’s over-optimistic assessment of the
+likely cost of development, coupled with his own commercial misjudgements about
+the likely value of the property before and after development. Mr Spencer had no
+knowledge of or responsibility for these matters. His instructions were limited to
+drawing up the facility letter and the charge. BPE sought to make this case by
+proving that the development project was never viable. The costs would have been
+
+Page 6
+
+greatly in excess of £200,000, with the result that when the money ran out the
+development would have been left incomplete and the property unsaleable. Mr
+Gabriel would therefore have suffered the same loss even if the transaction had
+proceeded as he had been led to expect.
+12.
+The judge accepted Mr Gabriel’s case on this point. The critical finding was
+at para 90 of his judgment:
+“I agree with Mr Davie that BPE would not be liable if what
+Mr Gabriel had in mind, that is expenditure of about £200,000
+on a property which would not have an acquisition cost, was
+unviable and bound to fail so that Mr Gabriel would never have
+recovered his loan. Certainly, the evidence was to the effect
+that what was being proposed for Building 428 was likely to
+cost far in excess of £200,000. Nevertheless, I am not
+persuaded that no development whatsoever, particularly with
+Mr Little’s own company doing the construction, could have
+been achieved so as to make Mr Gabriel’s investment of
+£200,000 a viable proposition. Clearly, there would have been
+risks, not least from the unusual nature and location of the
+property, and it is quite possible that development plans would
+have required re-thinking. But, I do not think it would be right
+for me to conclude that this was necessarily going to be a
+doomed venture for Mr Gabriel from the outset.”
+13.
+Having concluded on these grounds that Mr Gabriel might have recovered
+his money if the transaction had been as he thought it was, the Judge held that any
+loss resulting from the transaction was foreseeable, and recoverable subject to
+contributory negligence and mitigation. He assessed it at £191,808.44, being the
+advance less the amount received from Mr Little, to which statutory interest was
+added from the date of drawdown.
+14.
+The Court of Appeal allowed the appeal. The leading judgment was given by
+Gloster LJ, with which Fulford and Maurice Kay LJJ agreed. She found (para 81(ii)):
+“There was no positive evidence to the effect that, if £200,000
+had been spent on developing the property, its value would
+have been such as to ensure recovery of Mr Gabriel’s loan or,
+in other words, that the transaction was viable. On the contrary,
+such evidence as was before the judge suggested that
+expenditure in such amount would not have increased the value
+of the property. As Mr Stewart submitted, the judge, in my
+
+Page 7
+
+view wrongly, reversed the burden of proof by finding that the
+defendants had not persuaded him that no development was
+possible. That the value of the developed property, by the
+utilisation of funds of £200,000, would have been such as to
+ensure recovery of Mr Gabriel’s loan was a matter for Mr
+Gabriel to allege and to prove.”
+The Court of Appeal accordingly held that the whole loss was attributable to Mr
+Gabriel’s misjudgements and reduced the damages to nil. They also held, for largely
+overlapping reasons, that had there been any recoverable loss, it would have been
+reduced by 75% for contributory negligence.
+15.
+Before this court, Mr Halpern QC, representing the Trustee, has attacked this
+result on a broad front. He submitted (i) that the Court of Appeal was not entitled to
+substitute its own assessment of the viability of the development project for that of
+the judge, and (ii) that even if it was entitled to do so, Mr Gabriel was entitled in law
+to the whole loss flowing from a transaction into which he would not have entered
+but for Mr Spencer’s negligence.
+The viability of the development project
+16.
+It is necessary to start with this question, because it provided the essential
+foundation for the Court of Appeal’s reduction of the damages to nil. Mr Stewart
+QC, who appeared for BPE, accepted that unless the Court of Appeal was right to
+find that the development project was unviable, the judge’s award of damages must
+be restored, subject only to abatement for contributory negligence.
+17.
+I have cited the Judge’s conclusion above. Gloster LJ appears to have rejected
+it mainly on the ground that he applied the wrong burden of proof. She considered
+that Mr Gabriel had the burden of proving that the project would have been viable,
+and had failed to produce positive evidence to that effect. She did, however, observe
+that “such evidence as was before the Judge” suggested that the expenditure would
+not have enhanced the value of the property, albeit without identifying what
+evidence she had in mind.
+18.
+I shall deal later in this judgment with the burden of proof, which is a question
+of some general importance. But it is not decisive of the issue of fact, because in my
+judgment the evidence sufficiently showed that the value of the property would not
+have been enhanced by the expenditure of £200,000 on its development. My reasons
+are as follows:
+
+Page 8
+
+(1)
+Building 428 was on any view an unattractive investment prospect. It
+was an old and run-down disused heating tower. The ground was
+contaminated by hydrocarbons, and to comply with the conditions of the two
+planning permissions, it would have been necessary to spend about £30,000
+on decontamination before any development could start. The Judge recorded
+the view of the auctioneers employed in July 2010 (Allsop) that it would be
+a difficult lot to sell. Some of their reasons reflected the difficult conditions
+of the commercial property market in the aftermath of the financial crisis. But
+others would have been relevant factors at any time. In their opinion, the
+building was in an unattractive location for a developer, likely to have high
+development costs and unlikely to attract much interest. This judgment was
+borne out by the result of the auction.
+(2)
+The evidence clearly established that expenditure on development
+would have enhanced the value of the property only if the development had
+been substantially completed. It follows that although Mr Gabriel’s interest
+was in the value of the property as security for his loan, this was dependent
+on the viability of the development project, and in particular on there being
+enough money to complete it. It was not suggested that Mr Little would have
+had any resources available for completing it other than the £200,000 lent by
+Mr Gabriel. Mr Gabriel’s prospect of getting his money back therefore
+depended mainly on the reliability of Mr Little’s estimate of about £200,000
+for the development costs.
+(3)
+At the trial, most of the evidence about the costs of development
+related to the larger development envisaged in the planning permission of
+July 2009. It showed that Mr Middleton, an experienced quantity surveyor
+consulted by Mr Gabriel in November 2009, had estimated the cost of
+development in accordance with the 2009 planning permission at
+£468,359.98, not including VAT, fees or plastering to the water tower. Both
+of the expert quantity surveyors who gave evidence at the trial regarded this
+figure as too low. One of them (Mr Gabriel’s expert) estimated the costs at
+£667,804.73, not including fees. All of these figures implied a large loss had
+the 2009 project ever been completed.
+(4)
+What is less clear is the relationship between the cost of development
+according to the 2009 planning permission and the cost of development
+according to the somewhat more modest development authorised by the 2004
+planning permission which had existed at the time of the transaction in 2007.
+One would expect the 2007 project to have cost less. It was, however, Mr
+Gabriel’s own pleaded case that the “nature and cost of the required
+development/refurbishment” did not materially increase between November
+2007 and November 2009. This may have reflected his understanding that a
+development of 3,500 to 4,000 square feet had always been envisaged. But
+
+Page 9
+
+whatever the reason, he did not resile from it and the cross-examination by
+BPE’s counsel of his expert valuer Mr Heming proceeded on that basis. Mr
+Heming accepted (on the same basis) that although development values were
+higher in 2007 than in 2009, a valuer of the security in 2007 would have
+concluded that the development project was unviable because £200,000
+would not have been enough to complete it. Since the cost of development
+according to the 2009 plans was well over double and possibly as much as
+three and a half times Mr Little’s estimate of 2007, the Judge’s remark (para
+49) that the figures “cast doubt” on the latter’s reliability, seems to be
+something of an understatement. He did not make a firm finding of his own
+about the development costs, but accepted (para 90) that they were likely to
+be “far in excess of £200,000”.
+(5)
+This is consistent with Mr Little’s conduct between 2007 and 2009.
+For most of that period, he was attempting to obtain the planning permission
+for the enlarged scheme that was eventually granted in August 2009. The
+probability must be that this was because the economics of the 2007 project
+were even less satisfactory than those of its successor.
+(6)
+Against this background, it is right to draw attention to the extremely
+tentative and conditional basis of the Judge’s conclusion. Having found that
+the development would cost much more than £200,000, he suggested that it
+was nevertheless “quite possible” that the development plans would have
+required some unspecified “rethinking”, and declared that he was “not
+persuaded that no development whatever, particularly with Mr Little’s own
+company doing the construction” would have enabled Mr Gabriel to recover
+his £200,000. He appears to have envisaged some unspecified modification
+to the plans. However, no such modification was proposed during the period
+between the making of the loan agreement and Mr Gabriel’s exercise of his
+power of sale, and none was canvassed with the witnesses. It is therefore
+difficult to attach any weight to the hypothesis on which the Judge appears to
+have proceeded. What stands out is that even on that hypothesis, the Judge
+made no finding that it would have enabled Mr Gabriel to recover his
+investment, only that the possibility could not be ruled out. In the face of the
+evidence which I have summarised, this falls a long way short of a finding
+that this project was viable at any stage.
+19.
+In my judgment, irrespective of the incidence of the burden of proof, the
+Court of Appeal was entitled to find that the expenditure of £200,000 would not
+have enhanced the value of the property. It follows from this that the factual basis
+of BPE’s case on damages is sound. It remains to consider its legal basis.
+
+Page 10
+
+The SAAMCO Principle
+20.
+Courts of law, said Lord Asquith in Stapley v Gypsum Mines Ltd [1953] AC
+663, 687, “must accept the fact that the philosophic doctrine of causation and the
+juridical doctrine of responsibility for the consequences of a negligent act diverge.”
+What Lord Asquith meant by the philosophic doctrine of causation, as he went on
+to explain, was the proposition that any event that would have not have occurred but
+for the act of the defendant must be regarded as the consequence of that act. In the
+law of damages, this has never been enough. It is generally a necessary condition
+for the recovery of a loss that it would not have been suffered but for the breach of
+duty. But it is not always a sufficient condition. The reason, as Lord Asquith pointed
+out, is that the law is concerned with assigning responsibility for the consequences
+of the breach, and a defendant is not necessarily responsible in law for everything
+that follows from his act, even if it is wrongful. A variety of legal concepts serves
+to limit the matters for which a wrongdoer is legally responsible. Thus the law
+distinguishes between a mere precondition or occasion for a loss and an act which
+gives rise to a liability to make it good by way of damages: Galoo Ltd v Bright
+Grahame Murray [1994] 1 WLR 1360. Effective or substantial causation is a
+familiar example of a legal filter which serves to eliminate certain losses from the
+scope of a defendant’s responsibility. It is an aspect of legal causation. So too is the
+rule that the defendant cannot be held liable for losses that the claimant could
+reasonably have been expected to avoid: Koch Marine Inc v d’Amica Societa di
+Navigazione ARL (the “ELENA D’AMICO”) [1980] 1 Lloyd’s Rep 75. But the
+relevant filters are not limited to those which can be analysed in terms of causation.
+Ultimately, all of them depend on a developed judicial instinct about the nature or
+extent of the duty which the wrongdoer has broken.
+21.
+This is not a new idea, although it took some time for its significance to be
+fully appreciated. In Roe v Ministry of Health [1954] 2 QB 66, 85, Denning LJ
+pointed out that questions of duty, causation and remoteness were intimately linked
+and all directed to the same fundamental question: “Is the consequence fairly to be
+regarded as within the risk?” In Council of the Shire of Sutherland v Heyman (1985)
+157 CLR 424, 487, Brennan J pointed out that the statutory duty of a local authority
+to approve building plans could not be made the basis of a general duty to protect a
+subsequent purchaser against even foreseeable problems in the course of
+construction:
+“It is impermissible to postulate a duty of care to avoid one kind
+of damage - say, personal injury - and, finding the defendant
+guilty of failing to discharge that duty, to hold him liable for
+the damage actually suffered that is of another and independent
+kind - say, economic loss. Not only may the respective duties
+differ in what is required to discharge them; the duties may be
+owed to different persons or classes of persons. That is not to
+
+Page 11
+
+say that a plaintiff who suffers damage of some kind will
+succeed or fail in an action to recover damages according to his
+classification of the damage he suffered. The question is always
+whether the defendant was under a duty to avoid or prevent that
+damage, but the actual nature of the damage suffered is relevant
+to the existence and extent of any duty to avoid or prevent it.”
+22.
+In Overseas Tankship (UK) Ltd v Morts Dock & Engineering Co Ltd (The
+Wagon Mound) [1961] AC 388, the Privy Council reframed an issue which had been
+presented as depending on remoteness of damage in terms of the scope of the duty
+owed in tort. Viscount Simonds, delivering the advice of the Board, observed, at p
+425:
+“It is, no doubt, proper when considering tortious liability for
+negligence to analyse its elements and to say that the plaintiff
+must prove a duty owed to him by the defendant, a breach of
+that duty by the defendant, and consequent damage. But there
+can be no liability until the damage has been done. It is not the
+act but the consequences on which tortious liability is founded.
+Just as (as it has been said) there is no such thing as negligence
+in the air, so there is no such thing as liability in the air … It is
+vain to isolate the liability from its context and to say that B is
+or is not liable, and then to ask for what damage he is liable.
+For his liability is in respect of that damage and no other.”
+23.
+In Caparo Industries plc v Dickman [1990] 2 AC 605, the House of Lords
+held that a company’s auditor was not liable for negligent statements in his statutory
+report which led the plaintiff to make an offer for the company’s shares. The reason
+was that the purpose of the auditor’s report was limited to enabling shareholders to
+make informed decisions about the exercise of their rights under the constitution of
+the company. It followed that no duty was owed to non-shareholders. It also
+followed that, although a duty was owed to shareholders, the auditor’s legal
+responsibility to them did not extend to investment decisions that they might make
+in reliance on his report. Lord Bridge, citing Brennan J’s observation, said (p 627):
+“It is never sufficient to ask simply whether A owes B a duty
+of care. It is always necessary to determine the scope of the
+duty by reference to the kind of damage from which A must
+take care to save B harmless.”
+Lord Oliver in the same case at p 654 said:
+
+Page 12
+
+“To widen the scope of the duty to include loss caused to an
+individual by reliance upon the accounts for a purpose for
+which they were not supplied and were not intended would be
+to extend it beyond the limits which are so far deducible from
+the decisions of this House.”
+24.
+This principle underwent considerable development as a result of a number
+of cases arising from the negligent valuation of property for security purposes before
+the property crash of the early 1990s. The leading case is the decision of the House
+of Lords in South Australia Asset Management Corpn v York Montague Ltd [1997]
+AC 191 (“SAAMCO”), but the principle for which it is authority was subsequently
+elaborated in two further decisions of the House, Nykredit Mortgage Bank Plc v
+Edward Erdman Group Ltd (formerly Edward Erdman) (No 2) [1997] 1 WLR 1627
+and Platform Home Loans Ltd v Oyston Shipways Ltd [2000] 2 AC 190.
+25.
+The SAAMCO litigation involved a number of actions which had been
+decided together in the High Court by Phillips J under the title Banque Bruxelles
+Lambert SA v Eagle Star Insurance Co [1995] 2 All ER 769. He held that the valuer
+was not liable for that proportion of the lender’s loss on the loan which was
+attributable to the fall in the market after the valuation date, even though (i) the
+lender would not have entered into the transaction but for the valuer’s negligence;
+(ii) in some of the cases the lender would not even have lent a lesser sum, either
+because a lesser loan would have fallen outside its lending guidelines or because it
+would have been of no interest to the borrower; and (iii) adverse market movements
+were foreseeable. The reason, as expressed in the submission of counsel which
+Phillips J accepted (p 805), was that the lender
+“deliberately assumed the risk that they might suffer loss as a
+result of a fall in the property market. They did not rely upon
+John D Wood’s valuation to protect them against that risk. In
+these circumstances John D Wood owed no duty to protect
+BBL from this type of loss.”
+At pp 806-807, Phillips J stated the principle as follows:
+“Where a party is contemplating a commercial venture that
+involves a number of heads of risk and obtains professional
+advice in respect of one head of risk before embarking on the
+venture, I do not see why negligent advice in respect of that
+head of risk should, in effect, make the adviser the underwriter
+of the entire venture. More particularly, where the negligent
+advice relates to the existence or amount of some security
+
+Page 13
+
+against risk in the venture, I do not see why the adviser should
+be liable for all the consequences of the venture, whether or not
+the security in question would have protected against them.”
+26.
+The Court of Appeal [1995] QB 375 reversed Phillips J’s decision on
+damages and rejected the principle which he had applied. They distinguished
+between “no transaction cases”, in which the transaction would not have proceeded
+but for the defendant’s negligence and “successful transaction” cases in which it
+would have proceeded but possibly on different terms or for a different amount. The
+Court of Appeal held that once it was proved that the lender would not have made
+the particular loan but for the valuer’s negligence, the valuer was liable for the entire
+loss flowing from the transaction so far as it was foreseeable.
+27.
+The House of Lords allowed the appeal. They accepted the principle
+underlying Phillips J’s decision, but their reasoning was more elaborate and the way
+in which they applied it was different. The leading speech was delivered by Lord
+Hoffmann, with whom the rest of the Appellate Committee agreed. The essential
+distinction which underlies the whole of his analysis is between the assessment of
+the loss caused by the breach of duty and the extent of the defendant’s duty to protect
+the claimant against it. Referring to the principle applied by the Court of Appeal,
+that damages should be such as to put the claimant as nearly in the position that he
+would have been in had the breach not occurred, Lord Hoffmann said, at p 211:
+“I think that this was the wrong place to begin. Before one can
+consider the principle on which one should calculate the
+damages to which a plaintiff is entitled as compensation for
+loss, it is necessary to decide for what kind of loss he is entitled
+to compensation. A correct description of the loss for which the
+valuer is liable must precede any consideration of the measure
+of damages. For this purpose it is better to begin at the
+beginning and consider the lender’s cause of action.”
+28.
+He then referred to the nature of the valuer’s duty in the case before him. The
+purpose of the valuation was to form part of the material on which the lender was to
+decide whether, and if so how much he would lend, what margin, if any would
+sufficiently allow for foreseeable valuation errors or a future fall in the market,
+accidental damage to the property and any other contingencies that may happen.
+“On the other hand, the valuer will not ordinarily be privy to
+the other considerations which the lender may take into
+account, such as how much money he has available, how much
+the borrower needs to borrow, the strength of his covenant, the
+
+Page 14
+
+attraction of the rate of interest or the other personal or
+commercial considerations which may induce the lender to
+lend.”
+Referring to the decision in Caparo, he said:
+“A duty of care such as the valuer owes does not however exist
+in the abstract. A plaintiff who sues for breach of a duty
+imposed by the law (whether in contract or tort or under statute)
+must do more than prove that the defendant has failed to
+comply. He must show that the duty was owed to him and that
+it was a duty in respect of the kind of loss which he has
+suffered.”
+29.
+Against this background, Lord Hoffmann expressed the principle thus, at p
+214:
+“It is that a person under a duty to take reasonable care to
+provide information on which someone else will decide upon a
+course of action is, if negligent, not generally regarded as
+responsible for all the consequences of that course of action.
+He is responsible only for the consequences of the information
+being wrong. A duty of care which imposes upon the informant
+responsibility for losses which would have occurred even if the
+information which he gave had been correct is not in my view
+fair and reasonable as between the parties. It is therefore
+inappropriate either as an implied term of a contract or as a
+tortious duty arising from the relationship between them.
+The principle thus stated distinguishes between a duty to
+provide information for the purpose of enabling someone else
+to decide upon a course of action and a duty to advise someone
+as to what course of action he should take. If the duty is to
+advise whether or not a course of action should be taken, the
+adviser must take reasonable care to consider all the potential
+consequences of that course of action. If he is negligent, he will
+therefore be responsible for all the foreseeable loss which is a
+consequence of that course of action having been taken. If his
+duty is only to supply information, he must take reasonable care
+to ensure that the information is correct and, if he is negligent,
+will be responsible for all the foreseeable consequences of the
+information being wrong.”
+
+Page 15
+
+30.
+Lord Hoffmann did not, however, assess the damages as Phillips J had done,
+by simply stripping out the proportion of the loss that could be attributed to the fall
+in the market. Instead, he limited the damages to the difference between the
+valuation and the true value, on the ground that the recoverable loss could not exceed
+what the lender would have lost if the valuation had been correct: see pp 222-223.
+In effect this meant that although the measure for breach of warranty differs from
+the measure of damages for breach of a duty of care, the loss attributable to the
+negligence which caused the valuation to be wrong could not exceed what the lender
+could have claimed if the valuer had warranted that it was right. Lord Hoffmann
+derived this principle from the earlier decisions of the House in Swingcastle Ltd v
+Alastair Gibson [1991] 2 AC 223 and Banque Keyser Ullmann SA v Skandia (UK)
+Insurance Co Ltd [1991] 2 AC 249. He justified it on more general grounds at pp
+213-214:
+“It would seem paradoxical that the liability of a person who
+warranted the accuracy of the information should be less than
+that of a person who gave no such warranty but failed to take
+reasonable care.”
+31.
+The principle thus stated is, as Professor Murdoch has described it in an
+illuminating article, an “essentially negative one”: ‘Negligent Valuers, Falling
+Markets and Risk Allocation’, [2000] 8 Tort Law Review, 183, 198. The lender is
+prima facie entitled to the entire loss flowing from his entry into the loan transaction,
+except those which would still have been suffered if the property had been worth
+what the valuer said it was worth. In the follow-on appeal in Nykredit Mortgage
+Bank plc v Edward Erdman Group Ltd [1997] 1 WLR 1627, Lord Nicholls, with the
+concurrence of the rest of the Appellate Committee, described the two stages of the
+inquiry at p 1631. The first stage in a case where the lender would not have entered
+into the transaction but for the breach of duty, was to compare the position had he
+not entered into it with his actual position. This meant comparing the amount of the
+loan with the value of the real and personal rights obtained. Turning to the second
+stage, he said:
+“However, for the reasons spelled out by my noble arid learned
+friend, Lord Hoffmann, in the substantive judgments in this
+case [1997] AC 191, a defendant valuer is not liable for all the
+consequences which flow from the lender entering into the
+transaction. He is not even liable for all the foreseeable
+consequences. He is not liable for consequences which would
+have arisen even if the advice had been correct. He is not liable
+for these because they are the consequences of risks the lender
+would have taken upon himself if the valuation advice had been
+sound. As such they are not within the scope of the duty owed
+to the lender by the valuer.”
+
+Page 16
+
+32.
+This has commonly been referred to as the “SAAMCO cap”, as indeed it was
+in the course of argument in this case. But Lord Hoffmann himself, at pp 219-220,
+rejected the label, essentially because the two stages described by Lord Nicholls
+were directed to different things. The first involved ascertaining what loss the
+claimant would have avoided if the defendant had performed his task carefully, as
+he should have done, whereas the second involved awarding only that part of the
+loss which was within the scope of the defendant’s duty. He put it this way:
+“An alternative theory was that the lender should be entitled to
+recover the whole of his loss, subject to a ‘cap’ limiting his
+recovery to the amount of the overvaluation. This theory will
+ordinarily produce the same result as the requirement that loss
+should be a consequence of the valuation being wrong, because
+the usual such consequence is that the lender makes an advance
+which he thinks is secured to a correspondingly greater extent.
+But I would not wish to exclude the possibility that other kinds
+of loss may flow from the valuation being wrong, and in any
+case, as [Counsel] said on behalf of the defendants York
+Montague Ltd, it seems odd to start by choosing the wrong
+measure of damages (the whole loss) and then correct the error
+by imposing a cap. The appearance of a cap is actually the
+result of the plaintiff having to satisfy two separate
+requirements: first, to prove that he has suffered loss, and,
+secondly, to establish that the loss fell within the scope of the
+duty he was owed.”
+33.
+Lord Hoffmann made a similar point in his speech in the Nykredit appeal,
+again with the concurrence of the rest of the Committee. After explaining that the
+true measure of damages was the loss attributable to the information being wrong,
+he said:
+“It is of course also the case that the lender cannot recover if he
+is, on balance, in a better or no worse position than if he had
+not entered into the transaction at all. He will have suffered no
+loss. The valuer does not warrant the accuracy of his valuation
+and the lender cannot therefore complain that he would have
+made more profit if the valuation had been correct. But in order
+to establish a cause of action in negligence he must show that
+his loss is attributable to the overvaluation, that is, that he is
+worse off than he would have been if it had been correct.”
+The result, as Lord Hobhouse put it in Platform Home Loans Ltd v Oyston Shipways
+Ltd [2000] 2 AC 190, 210, is that the damages
+
+Page 17
+
+“are confined to that part of the plaintiffs’ basic loss caused by
+the defendants’ negligence which can be equated in money
+terms to the amount of the defendants’ overvaluation.”
+34.
+The decision in SAAMCO has often been misunderstood, not least by the
+writers who have criticised it. The misunderstanding arises, I think, from a tendency
+to overlook two fundamental features of the reasoning.
+35.
+The first is that where the contribution of the defendant is to supply material
+which the client will take into account in making his own decision on the basis of a
+broader assessment of the risks, the defendant has no legal responsibility for his
+decision. Lord Hoffmann made this point in the Nykredit case. Speaking of the
+decision in SAAMCO, he said (p 1638):
+“The principle approved by the House was that the valuer owes
+no duty of care to the lender in respect of his entering into the
+transaction as such and that it is therefore insufficient, for the
+purpose of establishing liability on the part of the valuer, to
+prove that the lender is worse off than he would have been if
+he had not lent the money at all. What he must show is that he
+is worse off as a lender than he would have been if the security
+had been worth what the valuer said.”
+This is why in SAAMCO itself Lord Hoffmann had rejected the distinction made by
+the Court of Appeal between “no transaction” and “successful transaction” cases. It
+was “irrelevant to the scope of the duty of care”: p 218C-D, G.
+36.
+The second fundamental feature of the reasoning follows from the first. It is
+that the principle has nothing to do with the causation of loss as that expression is
+usually understood in the law. Lord Hoffmann made this point immediately after the
+observation which I have quoted from Nykredit:
+“It is important to emphasise that this is a consequence of the
+limited way in which the House defined the valuer’s duty of
+care and has nothing to do with questions of causation or any
+limit or ‘cap’ imposed upon damages which would otherwise
+be recoverable. It was accepted that the whole loss suffered by
+reason of the fall in the property market was, as a matter of
+causation, properly attributable to the lender having entered
+into the transaction and that, but for the negligent valuation, he
+would not have done so. It was not suggested that the
+
+Page 18
+
+possibility of a fall in the market was unforeseeable or that
+there was any other factor which negatived the causal
+connection between lending and losing the money … Nor, if
+one started from the proposition that the valuer was responsible
+for the consequences of the loan being made, could there be
+any logical basis for limiting the recoverable damages to the
+amount of the overvaluation. The essence of the decision was
+that this is not where one starts and that the valuer is responsible
+only for the consequences of the lender having too little
+security.”
+Criticisms
+37.
+Once the reasoning in SAAMCO and Nykredit is properly understood, it is
+possible to address some of the criticisms which have been directed against them,
+criticisms which Mr Halpern QC has adopted on behalf of the Trustee on this appeal.
+They revolve around three main matters. The first is the question whether it is correct
+to describe the limitation on damages in SAAMCO and Nykredit as having nothing
+to do with causation. The second is the distinction between information and advice
+in Lord Hoffmann’s formulation of the principle. The third is the operation of the
+so-called “cap” or, as I would prefer to call it, the restriction on the damages that
+may be recovered.
+38.
+The first criticism was among those made by Professor Jane Stapleton in a
+case note on SAAMCO, “Negligent valuers and falls in the property market” (1997)
+113 LQR 1. She argued (p 3) that it was always necessary to determine what the
+consequences of the breach of duty were even though it was also necessary to
+determine for which of those consequences liability should attach, e.g. all
+foreseeable consequences or only certain foreseeable ones. This criticism, which
+was put before the Appellate Committee in Nykredit, may have influenced the two-
+stage analysis adopted by Lord Nicholls and Lord Hoffmann in that case: see paras
+32-33 above. Lord Hoffmann himself, speaking extra-judicially has subsequently
+acknowledged its force: “Causation”, (2005) 121 LQR 592. “When one considers
+what causal relationship is required,” he observes at p 596,
+“one is really speaking about extent of the liability and not
+about the scope of the duty. … I shall try to mend my language
+in future. But I will say this. There is a close link between the
+nature of the duty and the extent of the liability for breach of
+that duty.”
+
+Page 19
+
+It is, however, clear that Lord Hoffmann regarded the point as a mere question of
+terminology, which did not go to the real principle being applied. The scope (or
+“nature”) of the duty remained in his view a critical factor in determining the extent
+of liability. I agree with this. Questions of causation are normally concerned with
+identifying the consequences which flow from the breach. If the SAAMCO principle
+is to be classified as a principle of causation, it is certainly not directed to that
+question, as the House of Lords pointed out in Nykredit. The question which it poses
+is rather whether the loss flowed from the right thing, ie from the particular feature
+of the defendant’s conduct which made it wrongful. That turns on an analysis of
+what did make it wrongful. Whether one describes the principle in SAAMCO and
+Nykredit as turning on the scope of the duty or the extent of the liability for breach
+of it does not alter the way in which the principle applies. It is clear that Lord
+Hoffmann did not accept Professor Stapleton’s more fundamental criticisms of the
+so-called “SAAMCO cap” in his lecture of 2005, any more than he had accepted
+them in Nykredit.
+39.
+Turning to the distinction between advice and information, this has given rise
+to confusion largely because of the descriptive inadequacy of these labels. On the
+face of it they are neither distinct nor mutually exclusive categories. Information
+given by a professional man to his client is usually a specific form of advice, and
+most advice will involve conveying information. Neither label really corresponds to
+the contents of the bottle. The nature of the distinction is, however, clear from its
+place in Lord Hoffmann’s analysis as well as from his language.
+40.
+In cases falling within Lord Hoffmann’s “advice” category, it is left to the
+adviser to consider what matters should be taken into account in deciding whether
+to enter into the transaction. His duty is to consider all relevant matters and not only
+specific factors in the decision. If one of those matters is negligently ignored or
+misjudged, and this proves to be critical to the decision, the client will in principle
+be entitled to recover all loss flowing from the transaction which he should have
+protected his client against. The House of Lords might have said of the “advice”
+cases that the client was entitled to the losses flowing from the transaction if they
+were not just attributable to risks within the scope of the adviser’s duty but to risks
+which had been negligently assessed by the adviser. In the great majority of cases,
+this would have assimilated the two categories. An “adviser” would simply have
+been legally responsible for a wider range of informational errors. But in a case
+where the adviser is responsible for guiding the whole decision-making process,
+there is a certain pragmatic justice in the test that the Appellate Committee preferred.
+If the adviser has a duty to protect his client (so far as due care can do it) against the
+full range of risks associated with a potential transaction, the client will not have
+retained responsibility for any of them. The adviser’s responsibility extends to the
+decision. If the adviser has negligently assessed risk A, the result is that the overall
+riskiness of the transaction has been understated. If the client would not have entered
+
+Page 20
+
+into the transaction on a careful assessment of its overall merits, the fact that the loss
+may have resulted from risks B, C or D should not matter.
+41.
+By comparison, in the “information” category, a professional adviser
+contributes a limited part of the material on which his client will rely in deciding
+whether to enter into a prospective transaction, but the process of identifying the
+other relevant considerations and the overall assessment of the commercial merits
+of the transaction are exclusively matters for the client (or possibly his other
+advisers). In such a case, as Lord Hoffmann explained in Nykredit, the defendant’s
+legal responsibility does not extend to the decision itself. It follows that even if the
+material which the defendant supplied is known to be critical to the decision to enter
+into the transaction, he is liable only for the financial consequences of its being
+wrong and not for the financial consequences of the claimant entering into the
+transaction so far as these are greater. Otherwise the defendant would become the
+underwriter of the financial fortunes of the whole transaction by virtue of having
+assumed a duty of care in relation to just one element of someone else’s decision.
+42.
+What is clear is that the fact that the material contributed by the defendant is
+known to be critical to the claimant’s decision whether to enter into the transaction
+does not itself turn it into an “advice” case. Otherwise all “no transaction” cases
+would give rise to liability for the entire foreseeable loss flowing from the
+transaction, which is the very proposition rejected in SAAMCO. I respectfully agree
+with the careful analysis of this point by Rix LJ, giving the leading judgment in the
+Court of Appeal in Haugesund Kommune v Depfa ACS Bank (Wikborg Rein & Co,
+Part 20 defendant) (No 2) [2011] 3 All ER 655. The facts of that case were that a
+firm of lawyers had negligently advised that a Norwegian local authority had legal
+capacity to enter into a loan agreement, when it did not. A local authority’s legal
+capacity to borrow might fairly be thought fundamental to any decision to lend it
+money, and the evidence was that but for the lawyer’s advice the bank would not
+have lent. But under Norwegian law the debt would not have been enforceable
+against the assets of the authority even if legal capacity had existed, making the debt
+in effect one of honour only. Rix LJ held that it was an “information” case, because
+legal capacity was only one factor in a wider assessment of whether to lend the
+money, with which the lawyers were not concerned. At para 75, he said:
+“It is of course true that Depfa would not have entered into the
+transactions at all unless it could be advised that the contracts
+were valid and within the kommunes’ capacity. In effect, that
+causal connection between advice and loss goes without saying
+in all such cases. It is not in itself the reason for finding that the
+scope of duty concerned embraces all the loss consequential
+upon entering into the transaction concerned. For these reasons
+it does not seem to me that it is a sufficient explanation for
+characterising a case as a category 2 [sc ‘advice’] case to say
+
+Page 21
+
+that, without the forthcoming albeit negligent advice, the
+transaction concerned would not have been ‘viable’. That is
+simply another way of saying that, if the claimant had not
+received the advice it did, it would not have entered into the
+transaction.”
+43.
+Aneco Reinsurance Underwriting Ltd v Johnson & Higgins [2002] PNLR 8
+was a case which on its facts fell on the other side of the line. The claimant reinsurer
+proposed to reinsure a book of excess of loss business. He intended to proceed only
+if he could retrocede $11m of the risk. He instructed a broker to place the
+retrocession. The broker reported that he had placed it, but he failed to present the
+risk fairly to the retrocessionaires, with the result that after the claimant had written
+the reinsurance his retrocession was avoided. The claimant claimed to be entitled to
+recover the entire loss, $35m, which had been incurred on the reinsurance on the
+basis that he would not have entered into it if he had not been assured that the
+retrocession was in place and (by implication) enforceable. The House of Lords, in
+agreement with the Court of Appeal, classified it as an “advice” case. This had the
+ironic consequence that although the claimant had apparently been content to
+assume an exposure of $35m on the reinsurance with protection by way of
+retrocession for only $11m, they recovered the whole $35m as damages, two thirds
+of which they would have suffered even if the retrocession had been effective. The
+critical feature of the case which led to this result was that the broker’s responsibility
+was found to extend beyond the placing of the retrocession to the entire transaction
+including the writing of the reinsurance itself: see paras 16-17 (Lord Lloyd), 40
+(Lord Steyn). In particular, his duty was found to include reporting to the reinsurer
+the market’s highly adverse assessment of the reinsured risk.
+44.
+It is right to say that at para 11 of his speech in Aneco, Lord Lloyd seems to
+have regarded the principle laid down in SAAMCO as turning on ordinary principles
+of foreseeability and remoteness considered in leading cases such as Czarnikow v
+Koufos [1969] 1 AC 350. This may be why he regarded the “advice” category as
+representing the ordinary rule, and the “information” category as exceptional: see
+paras 12-13. But, with respect, foreseeability was assumed in SAAMCO. For that
+reason, and because categorisation is inevitably fact-sensitive, I doubt whether it is
+helpful to describe either of Lord Hoffmann’s categories as “normal” or “special”.
+A valuer or a conveyancer, for example, will rarely supply more than a specific part
+of the material on which his client’s decision is based. He is generally no more than
+a provider of what Lord Hoffmann called “information”. At the opposite end of the
+spectrum, an investment adviser advising a client whether to buy a particular stock,
+or a financial adviser advising whether to invest self-invested pension fund in an
+annuity are likely, in Lord Hoffmann’s terminology, to be regarded as giving
+“advice”. Between these extremes, every case is likely to depend on the range of
+matters for which the defendant assumed responsibility and no more exact rule can
+be stated. In my judgment the decision in Aneco is not authority for any general
+
+Page 22
+
+proposition of law beyond the particular factual context of that case. The fullest
+statement of the law was that of Lord Millett at para 66. Lord Millett dissented on
+the facts, but the parties to this appeal agreed that, subject to one reservation, his
+summary of the law was correct. I think that they were right to do so. The reservation
+has no bearing on the present case. It is that Lord Millett confined his analysis of the
+law to the scope of the duty, and did not deal with the question of causation of loss.
+Normally, all the foreseeable loss flowing from the transaction will be treated as
+having been caused by the breach of duty, albeit that only that part of it which flows
+from the information being wrong will be recoverable as damages.
+45.
+As for the SAAMCO “cap” or restriction, which excludes loss that would
+still have been suffered even if the erroneous information had been true, that is
+simply a tool for giving effect to the distinction between (i) loss flowing from the
+fact that as a result of the defendant’s negligence the information was wrong and (ii)
+loss flowing from the decision to enter into the transaction at all. Mr Halpern
+submitted that the distinction is incoherent, because it does not achieve the professed
+object of the principles stated by Lord Hoffmann. Similar criticisms have been made
+by academic commentators, including Professor Stapleton and Professor Murdoch.
+It is of course true that the restriction does not systematically exclude loss arising
+from collateral risks with which the defendant was not concerned. Thus in the lead
+case in the SAAMCO litigation itself, York Montague overstated the value of the
+property by a factor of three, valuing at £15m a property worth £5m. Damages were
+limited to £10m, which exceeded the whole of the loss flowing from the transaction
+including the loss flowing from the fall in the market. The whole of that loss was
+accordingly awarded. In other cases, where the negligence of the valuer was less
+egregious, only part of the loss on the loan account was recoverable.
+46.
+Criticism of this result is in my opinion unjustified. The principle laid down
+in SAAMCO depends for its application on the award of loss which is within the
+scope of the defendant’s duty, not on the exclusion of loss which is outside it. In a
+simple case, they may amount to the same thing. It may, for example, be possible in
+a valuation case to strip out the effect of the fall in the market if that is the only
+extraneous source of loss. Even there, however, the exercise will be complicated by
+the common practice of lenders to allow a margin or “cushion” between the loan
+and the value of the property to allow for contingencies including some adverse
+market movement. Where the loss arises from a variety of commercial factors which
+it was for the claimant to identify and assess, it will commonly be difficult or
+impossible as well as unnecessary to quantify and strip out the financial impact of
+each one of them. In York Montague’s case, the valuer’s duty had been to value the
+property at £5m instead of £15m. Given his duty to exercise reasonable care to get
+it right, £10m was the measure of the increased risk to which he exposed the lender
+by getting it wrong. That increased risk was the maximum measure of his own
+responsibility for what happened, and therefore provided the limit to what was
+recoverable by way of damages. It is fair to say that as a tool for relating the
+
+Page 23
+
+recoverable damages to the scope of the duty the SAAMCO cap or restriction may
+be mathematically imprecise. But mathematical precision is not always attainable in
+the law of damages. As Lord Hobhouse observed in Platform Home Loans Ltd v
+Oyston Shipways Ltd [2000] 2 AC 190, at 207, the principle is “essentially a legal
+rule which is applied in a robust way without the need for fine tuning or a detailed
+investigation of causation.”
+Conveyancers
+47.
+Most cases about negligent valuation have specific features which are not
+necessarily characteristic of other professional negligence cases. But the principle
+stated in SAAMCO was expressed as a general principle of the law of damages. It
+has subsequently been applied, as we have seen, by the House of Lords to cases of
+information negligently provided by an insurance broker and by the Court of Appeal
+to negligent legal advice. However, much the most fertile area of development has
+been a body of case law concerning the liability of conveyancing solicitors for
+negligence in reporting on title or related matters to a prospective mortgage lender.
+Mr Halpern relies on these cases as qualifying the application of the principle. It is
+therefore necessary to say something about them.
+48.
+The background to most of the conveyancing cases was similar to that of the
+valuation cases. As a result of a steep fall in the residential property market in the
+early 1990s many mortgage lenders were left with non-performing loans for which
+the property no longer provided full security. Some of them sued solicitors who had
+negligently failed to report at the time of the conveyance on some matter which they
+said would have deterred them from entering into the transaction if they had known
+of it. In each case, the lender sought to recover the entire loss on the relevant loan
+account from the solicitor. The pathfinder was the Bristol and West Building
+Society, which brought 87 actions against solicitors on this basis. Eight of them were
+heard together by Chadwick J. Judgment was given on these cases under the title
+Bristol and West Building Society v Fancy & Jackson (a firm) [1997] 4 All ER 582
+in July 1997, a few months after the decision in SAAMCO but before the important
+elucidations in Nykredit.
+49.
+Chadwick J found that in three of the eight cases the lender would have
+refused to proceed if the solicitor had complied with its duty to report some relevant
+fact. These were accordingly “no transaction” cases. He resolved them as follows:
+(1)
+The first of the three cases, Fancy & Jackson, was straightforward.
+The solicitor completed the transaction without obtaining a search certificate
+to establish title, but the certificate, if it had been obtained, would have been
+clear. There was therefore no recoverable loss.
+
+Page 24
+
+(2)
+In Steggles Palmer, the solicitors failed to report that the transaction
+was by way of sale and sub-sale under which a connected intermediate
+vendor made a profit of £7,000. If the lender had known this, it would have
+concluded that the borrower was dishonest and would have refused on
+principle to lend to him. The judge held the solicitors liable for the entire loss
+on the loan account, because “the defendants should be responsible for the
+consequences of the society not being in the position to take the decision
+which it would have taken if the defendants had done what they should have
+done” (p 622e-f).
+(3)
+Colin Bishop was another case of back to back sale and sub-sale with
+an uplift of £25,000, about a third of the purchase price, but in this case there
+was no reason to think that the borrower was connected with the intermediate
+vendor. That would have made no difference to the lender’s decision. They
+would still have walked away from the transaction because they had a strict
+policy of not lending where the proposed purchase was linked to a prior
+transaction, whether the parties were connected or not. Chadwick J had
+doubts about the objective rationality of the lender’s policy, but he accepted
+that it existed and would have been applied (p 619a-d). It followed that the
+existence of linked transactions was just as fundamental to the lender in Colin
+Bishop as it was in Steggles Palmer. But it was not as fundamental to the
+Judge. He appears to have distinguished between the two cases because of
+the quality of the lender’s reasons for walking away. In Steggles Palmer the
+lender would have refused to proceed because the borrower was an
+unacceptable counterparty, whereas in Colin Bishop, objectively the problem
+need not have been fundamental because it could have been rectified by a
+further valuation (p 622g-j). The Judge therefore concluded that in Colin
+Bishop if the true value corresponded to the lender’s valuation (a question
+which had yet to be determined), there would be no loss, whereas such a
+finding would not in his view have been relevant in Steggles Palmer.
+50.
+I respectfully doubt whether these are rational distinctions. In all three cases,
+the solicitors were on the face of it supplying specific information in accordance
+with the lender’s standard reporting instructions. The lender would in due course
+take it into account in deciding whether and if so how much to lend, along with other
+important information for which the solicitors had no responsibility, such as the
+valuation of the property, the amount of the loan, and the borrower’s capacity to
+service it. The solicitors had not assumed responsibility for identifying all the
+matters relevant to the lender’s decision or for advising them whether to proceed.
+That was a matter for the lender, and would depend not just on the whole of the
+material before it but on its internal guidelines and lending policies and the judgment
+of individual loan officers. All of these cases therefore came within Lord
+Hoffmann’s “information” category.
+
+Page 25
+
+51.
+Mr Halpern relied on the decision in Steggles Palmer for the proposition that
+nonetheless where the defendant ought to have reported some fact which was
+fundamental to the claimant’s decision whether to proceed, the whole loss flowing
+from the transaction was recoverable as such. I agree that that is what Chadwick J
+appears to have decided in Steggles Palmer, but I consider that he was wrong to do
+so. The facts of Steggles Palmer were no different in any legally relevant respect
+from those of Colin Bishop. The duty of the solicitors depended on their retainer,
+which was agreed before any breach of duty occurred and appears to have been in
+substantially similar terms in both cases. In both cases, it extended to the care with
+which the solicitor answered the questions in the lender’s standard reporting
+instructions, but not to the decision whether to proceed with the transaction. It
+followed that the loss flowing from the decision to lend could not as such be within
+the scope of their duty. Chadwick J’s approach was to make the measure of damages
+depend not on the scope of the duty but on the gravity of the particular breach and
+on his assessment of the objective quality of the reasons why the lender would have
+responded by refusing to proceed. In effect, he reverted in Steggles Palmer to the
+distinction between “no transaction” and “successful transaction” cases which had
+been rejected in SAAMCO. His observation that the lender had been deprived of the
+opportunity to make the decision that he would have made is only another way of
+saying that this was a “no transaction” case.
+52.
+For the same reason, I consider that the Court of Appeal was wrong to apply
+the reasoning in Steggles Palmer in Portman Building Society v Bevan Ashford (a
+firm) [2000] PNLR 344, where the facts were indistinguishable. Otton LJ, delivering
+the leading judgment, declined to ask himself whether the scope of the solicitor’s
+duty extended to the lender’s decision or only to the material which the solicitor
+contributed to that decision, because in his view the distinction was irrelevant in a
+case where the facts withheld were sufficiently grave. He put the point in this way,
+at p 359:
+“where a negligent solicitor fails to provide information which
+shows that the transaction is not viable or which tends to reveal
+an actual or potential fraud on the part of the borrowers, the
+lender is entitled to recover the whole of his loss. In other
+words, the whole of the loss suffered by the lender is within the
+scope of the solicitor’s duty and is properly recoverable.”
+This involves the same error as affected Chadwick J’s analysis in Steggles Palmer,
+namely that the mere fact that the breach of duty caused the lender to proceed when
+he would otherwise have withdrawn was enough to make the solicitors legally
+responsible for the lender’s decision and all its financial consequences. All “no
+transaction” cases have this characteristic, whether or not the fact withheld or
+misrepresented goes to the viability of the transaction or the honesty of the
+counterparty, because in all of them the fact withheld or misrepresented is ex
+
+Page 26
+
+hypothesi sufficiently fundamental to have caused the lender to walk away had he
+known the truth. It is right to add that in at least one of the three cases before the
+House of Lords in SAAMCO (the York Montague case) the information withheld
+went to the viability of the transaction, and that in Banque Keyser Ullmann v Skandia
+Insurance Co [1991] 2 AC 249, which was regarded in SAAMCO as an application
+of the same principle, the information withheld not only went to the viability of the
+transaction but would also have revealed the dishonesty of the counterparty. Yet it
+was not suggested in either case that these were relevant considerations.
+The burden of proof
+53.
+The Court of Appeal considered that the burden of proving facts which
+engaged the SAAMCO principle lay upon the claimant. This is not a straightforward
+question, but in my judgment they were right about this. The legal burden of proving
+any averment of fact lies upon the person who is required to assert it as part of his
+case. In the ordinary course, this means that the claimant has the burden of pleading
+and proving his loss, whereas the defendant has the burden of proving facts (such as
+failure to mitigate) going to avoid or abate the consequent liability in damages. The
+practical effect of the principle formulated in SAAMCO in cases such as this is to
+limit the amount of the damages recoverable in respect of loss flowing from the
+claimant’s decision to enter into a transaction. But it is not a principle of assessment,
+let alone of avoidance or abatement. It is an essential part of the claimant’s case that
+he was owed a relevant duty. As Lord Hoffmann expressed it in SAAMCO, at p 220:
+“The appearance of a cap is actually the result of the plaintiff
+having to satisfy two separate requirements: first, to prove that
+he has suffered loss, and, secondly, to establish that the loss fell
+within the scope of the duty he was owed.”
+Application to the present case
+54.
+The first question is whether BPE Solicitors assumed responsibility for Mr
+Gabriel’s decision to lend money to Mr Little. In my judgment, it is clear that they
+did not. Their instructions were to draw up the facility agreement and the charge,
+nothing more. Mr Spencer did not know and did not need to know what had passed
+between Mr Gabriel and Mr Little, except that they had agreed upon a loan of
+£200,000 secured by a charge on Building 428. He knew nothing about the nature
+of the proposed development, its likely cost, the financial capacity of Mr Little to
+fund it without Mr Gabriel’s loan or the value of the property in its developed or
+undeveloped state. Indeed, he does not even appear to have known of Mr Gabriel’s
+assumption about the use to be made of the loan moneys. He simply included in the
+draft facility agreement by oversight language which by an unhappy chance
+
+Page 27
+
+confirmed that assumption. The only ground on which the Deputy Judge held that
+BPE were responsible for the decision was that, applying the approach adopted in
+Bristol and West Building Society v Fancy & Jackson and Portman Building Society
+v Bevan Ashford, “Mr Spencer’s breach of duty meant that Mr Gabriel was not able
+to know the true nature of the loan transaction into which he was entering” (para
+91). As in the two building society cases, this simply meant that this was a “no
+transaction” case in the discredited taxonomy of the Court of Appeal in SAAMCO.
+55.
+On the footing that BPE was not legally responsible for Mr Gabriel’s decision
+to lend the money, but only for confirming his assumption about one of a number of
+factors in his assessment of the project, the next question is what if any loss was
+attributable to that assumption being wrong. The answer is that if it had been right,
+Mr Gabriel would still have lost his money because the expenditure of £200,000
+would not have enhanced the value of the property. The development would have
+been left incomplete, the loan unpaid and the property substantially worthless when
+it came to be sold into a depressed market under the chargee’s power of sale. None
+of the loss which Mr Gabriel suffered was within the scope of BPE’s duty. None of
+it was loss against which BPE was duty bound to take reasonable care to protect
+him. It arose from commercial misjudgements which were no concern of theirs.
+Contributory negligence
+56.
+In these circumstances, no question of contributory negligence arises.
+Conclusion
+57.
+I would accordingly dismiss the appeal.

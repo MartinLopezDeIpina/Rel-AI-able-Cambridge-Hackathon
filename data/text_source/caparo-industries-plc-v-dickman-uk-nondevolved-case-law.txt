@@ -1,0 +1,2142 @@
+Caparo Industries plc (Respondents) v. Dickman and others
+(Appellants)
+Caparo Industries plc (Original Respondents and Cross-appellants) v.
+Dickman and others (Original Appellants and Cross-respondents)
+
+JUDGMENT
+
+Die Jovis 8° Februarii 1990
+
+Upon Report from the Appellate Committee to whom was referred
+the Cause Caparo Industries plc against Dickman and others et e
+contra; That the Committee had heard Counsel on Thursday the 19th
+Monday the 20th, Wednesday the 22nd, Thursday the 23rd, Monday the
+27th and Tuesday the 28th days of November last, upon the Petition
+and Appeal of Touche Ross and Company, of Hill House, 1 Little New
+Street, London EC4A 3TR, praying that the matter of the Order set
+forth in the Schedule thereto, namely an Order of Her Majesty's
+Court of Appeal of the 29th day of July 1988, might be reviewed
+before Her Majesty the Queen in Her Court of Parliament and that
+the said Order might be reversed, varied or altered or that the
+Petitioners might have such other relief in the premises as to Her
+Majesty the Queen in Her Court of Parliament might seem meet; as
+upon the case of Caparo Industries plc lodged in answer to the said
+Appeal; as also upon the Petition and Cross-appeal of Caparo
+Industries plc, of Caparo House, 103 Baker Street, London W1,
+praying that the matter of the Order set forth in the Schedule
+thereto, namely an Order of Her Majesty's Court of Appeal of the
+29th day of July 1988, might be reviewed before Her Majesty the
+Queen in Her Court of Parliament and that the said Order might be
+reversed, varied or altered or that the Petitioners might have such
+other relief in the premises as to Her Majesty the Queen in Her
+Court of Parliament might seem meet; as also upon the case of Touche
+Ross and Company lodged in answer to the said Cross-appeal; and due
+consideration had this day of what was offered on either side in
+this Cause:
+
+It is Ordered and Adjudged, by the Lords Spiritual and Temporal
+in the Court of Parliament of Her Majesty the Queen assembled, That
+the said Order of Her Majesty's Court of Appeal (Civil Division) of
+the 29th day of July 1988 complained of in the said Appeal and the
+said Cross-appeal be, and the same is hereby, Set Aside and that the
+Order of Sir Neil Lawson Q.C. (sitting as a Judge of the High Court)
+of the 17th day of December 1987 be, and the same is hereby,
+Restored: And it is further Ordered, that the said Cross-appeal be,
+and the same is hereby, dismissed this House: And it is also
+further Ordered, That the said Original Respondents and Cross-
+appellants do pay or cause to be paid to the said Original
+Appellants and Cross-respondents the costs incurred by them in the
+Courts below and also the costs incurred by them in respect of the
+said Appeal and the said Cross-appeal to this House, the amounts of
+such last-mentioned costs to be certified by the Clerk of the
+Parliaments if not agreed between the parties: And it is also
+further Ordered, That the Cause be, and the same is hereby, remitted
+to the Queen's Bench Division of the High Court of Justice to
+do therein as shall be just and consistent with this Judgment.
+
+Cler: Parliamentor:
+
+Judgment: 8.2.90
+
+HOUSE OF LORDS
+
+CAPARO INDUSTRIES PLC
+(RESPONDENTS)
+
+v.
+
+DICKMAN AND OTHERS
+(APPELLANTS)
+
+CAPARO INDUSTRIES PLC
+(ORIGINAL CROSS-RESPONDENTS AND CROSS-APPELLANTS)
+
+v.
+
+DICKMAN AND OTHERS
+(ORIGINAL APPELLANTS AND CROSS-RESPONDENTS)
+
+LORD BRIDGE OF HARWICH
+
+My Lords,
+
+Lord Bridge
+of Harwich
+Lord Roskill
+Lord Oliver
+of Aylmerton
+Lord Jauncey
+of Tullichettle
+
+The appellants are a well-known firm of chartered
+accountants. At all times material to this appeal, they were the
+auditors of a public limited company, Fidelity Plc. ("Fidelity"),
+which carried on business as manufacturers and vendors of
+electrical equipment of various kinds and whose shares were quoted
+on the London Stock Exchange. On 29 May 1984 the directors of
+Fidelity announced the results for the year ended 31 March 1984.
+These revealed that profits for the year fell well short of the
+figure which had been predicted, and this resulted in a dramatic
+drop in the quoted price of the shares which had stood at 143p
+per share on 1 March 1984 and which, by the beginning of June
+1984, had fallen to 63p. Fidelity's accounts for the year to 31
+March 1984 had been audited by the appellants and had been
+approved by the directors on the day before the results were
+announced. On 12 June 1984 they were issued to the shareholders
+with notice of the annual general meeting, which took place on 4
+July 1984 and at which the auditor's report was read and the
+accounts were adopted.
+
+Following the announcement of the result, the respondent
+Caparo Industries Plc. ("Caparo") began to purchase shares of
+Fidelity in the market. On 8 June 1984 they purchased 100,000
+shares but they were not registered as members of Fidelity until
+after 12 June 1984 when the accounts were sent to shareholders
+although they had been registered in respect of at least some of
+the shares which they purchased at the date of the annual general
+meeting, which they did not attend. On 12 June 1984, they
+
+purchased a further 50,000 shares, and by 6 July 1984 they had
+increased their holding in Fidelity to 29.9 per cent. of the issued
+capital. On 4 September 1984 they made a bid for the remainder
+at 120p per share, that offer being increased to 125p per share on
+24 September 1984. The offer was declared unconditional on 29
+October 1984, and two days later Caparo announced that it had
+acquired 91.8 per cent. of the issued shares and proposed to
+acquire the balance compulsorily, which it subsequently did.
+
+The action in which this appeal arises is one in which
+Caparo alleges that the purchases of shares which took place after
+12 June 1984 and the subsequent bid were all made in reliance
+upon the accounts and that those accounts were inaccurate and
+misleading in number of respects and in particular in overvaluing
+stock and underproviding for after-sales credits, with the result
+that an apparent pre-tax profit of some £1.3m. should in fact have
+been shown as a loss of over £400,000. Had the true facts been
+known, it is alleged, Caparo would not have made a bid at the
+price paid or indeed at all. Caparo accordingly commenced
+proceedings on 24 July 1985 against two of the persons who were
+directors at the material time, claiming that the overvaluations
+were made fraudulently, and against the appellants, claiming that
+they were negligent in certifying, as they did, that the accounts
+showed a true and fair view of Fidelity's position at the date to
+which they related. The substance of the allegation against the
+appellants is contained in paragraph 16 of the statement of claim
+which is in the following terms:
+
+"Touche Ross, as auditors of Fidelity carrying out their
+functions as auditors and certifiers of the accounts in April
+and May 1984, owed a duty of care to investors and
+potential investors, and in particular to Caparo, in respect
+of the audit and certification of the accounts. In support
+of that duty of care Caparo will rely upon the following
+matters:
+
+"(1) Touche Ross knew or ought to have known (a) that in
+early March 1984 a press release had been issued stating
+that profits for the financial year would fall significantly
+short of £2.2m., (b) that Fidelity's share price fell from
+143p per share on 1 March 1984 to 75p per share on 2 April
+1984, (c) that Fidelity required financial assistance.
+"(2) Touche Ross therefore ought to have foreseen that
+Fidelity was vulnerable to a take-over bid and that persons
+such as Caparo might well rely on the accounts for the
+purpose of deciding whether to take over Fidelity and might
+well suffer loss if the accounts were inaccurate.'"
+
+On 6 July 1987, Sir Neil Lawson, sitting as judge in
+chambers, made an order for the trial of a preliminary issue, as
+follows:
+
+"Whether on the facts set out in paragraphs 4 and 6 and in
+sub-paragraphs (1) and (2) of paragraph 16 of the statement
+of claim herein, the third defendants, Touche Ross & Co.,
+owed a duty of care to the plaintiffs, Caparo Industries
+Plc., (a) as potential investors in Fidelity Plc.; or (b) as
+shareholders in Fidelity Plc from 8 June 1984 and/or from
+
+- 2 -
+
+12 June 1984; in respect of the audit of the accounts of Fidelity Plc, for the year ended 31 March 1984 published on 12 June 1984."
+
+Paragraphs 4 and 6 of the Statement of Claim are those paragraphs which are set out the purchases of shares by Caparo to which I have referred and in which it is claimed that the purchases made after 12 June 1984 were made in reliance upon the information contained in the accounts. There is, however, one correction to be made. Paragraph 4 alleges that the accounts were issued on 12 June 1984 "to shareholders, including Caparo" but it is now accepted that at that date Caparo, although a purchaser of shares, had not been registered as a shareholder in Fidelity's register of members.
+
+On the trial of this preliminary issue Sir Neil Lawson, sitting as a judge of the Queen's Bench Division, held [1989] B.C.L.C. 387 (i) that the appellants owed no duty at common law to Caparo as investors and (ii) that, whilst auditors might owe statutory duties to shareholders as a class, there was no common law duty to individual shareholders such as would enable an individual shareholder to recover damages for loss sustained by him in acting in reliance upon the audited accounts.
+
+Caparo appealed to the Court of Appeal [1989] Q.B. 653 which, by a majority (O'Connor L.J. dissenting) allowed the appeal holding that, whilst there was no relationship between an auditor and a potential investor sufficiently proximate to give rise to a duty of care at common law, there was such a relationship with individual shareholders, so that an individual shareholder who suffered loss by acting in reliance on negligently prepared accounts, whether by selling or retaining his shares or by purchasing additional shares, was entitled to recover in tort. From that decision the appellants now appeal to your Lordships' House with the leave of the appeal to the Court of Appeal, and the respondents cross-appeal against the rejection by the Court of Appeal of their claim that the appellants owed them a duty of care as potential investors.
+
+In determining the existence and scope of the duty of care which one person may owe to another in the infinitely varied circumstances of human relationships there has for long been a tension between two different approaches. Traditionally the law finds the existence of the duty in different specific situations each exhibiting its own particular characteristics. In this way the law has identified a wide variety of duty situations, all falling within the ambit of the duty of negligence, but sufficiently distinct to require separate definition of the essential ingredients by which the existence of the duty is to be recognised. Commenting upon the outcome of this traditional approach Lord Atkin, in his seminal speech in Donoghue v. Stevenson [1932] A.C. 562, 579-580, observed:
+
+"The result is that the courts commune been engaged upon an elaborate classification of duties as they exist in respect of property, whether real or personal, with further divisions as to ownership, occupation or control, and distinctions based on the particular relations of the one side or the other, whether manufacturer, salesman or landlord, customer,
+
+- 3 -
+tenant, stranger, and so on. In this way it can be ascertained at any time whether the law recognises a duty, but only where the case can be referred to some particular species which has been examined and classified. And yet the duty which is common to all the cases where liability is established must logically be based upon some element common to the cases where it is found to exist."
+
+It is this last sentence which signifies the introduction of the more modern approach of seeking a single general principle which may be applied in all circumstances to determine the existence of a duty of care. Yet Lord Atkin himself sounds the appropriate note of caution by adding, at p. 580:
+
+"To seek a complete logical definition of the general principle is probably to go beyond the function of the judge, for the more general the definition the more likely it is to omit essentials or to introduce non-essentials."
+
+Lord Reid gave a large impetus to the modern approach in Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004, 1026-1027, where he said:
+
+"In later years there has been a steady trend towards regarding the law of negligence as depending on principle so that, when a new point emerges, one should ask not whether it is covered by authority but whether recognised principles apply to it. Donoghue v. Stevenson [1932] A.C. 562 may be regarded as a milestone, and the well-known passage in Lord Atkin's speech should I think be regarded as a statement of principle. It is not to be treated as if it were a statutory definition. It will require a qualification in new circumstances. But I think that the time has come when we can and should say that it ought to apply unless there is some justification or valid explanation for its exclusion."
+
+The most comprehensive attempt at to articulate a single general principle is reached in the well-known passage from the speech of Lord Wilberforce in Anns v. Merton London Borough Council [1978] A.C. 728, 751-752:
+
+"Through the trilogy of cases in this House - Donoghue v. Stevenson [1932] A.C. 562, Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C. 465, and Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004, the position has now been reached that in order to establish that a duty of care arises in a particular situation, it is not necessary to bring the facts of that situation within those of previous situations in which a duty of care has been held to exist. Rather the question has to be approached in two stages. First one has to ask whether, as between the alleged wrongdoer and the person who has suffered damage, there is a sufficient relationship of proximity or neighbourhood such that, in the reasonable contemplation of the former, carelessness on his part may be likely to cause damage to the latter - in which case a prima facie duty of care arises. Secondly, if the first question is answered affirmatively, it is necessary to consider whether there are any considerations which ought to negative, or to reduce or limit
+
+- 4 -
+the scope of the duty or the class of person to whom it is owed or the damages to which a breach of it may give rise: see Dorset Yacht case [1970] A.C. 1004 per Lord Reid at p. 1027."
+
+But since Anns a series of decisions of the Privy Council and of your Lordships' House, notably in judgments and speeches delivered by Lord Keith of Kinkel, have emphasised the inability of any single general principle to provide a practical test which can be applied to every situation to determine whether a duty of care is owed and, if so, what is its scope: see Governors of Peabody Donation Fund v. Sir Lindsay Parkinson & Co. Ltd. [1985] A.C. 210, 239F-241C; Yuen Kun Yeu v. Attorney-General of Hong Kong [1988] A.C. 175, 190E-194F; Rowling v. Takaro Properties Ltd. [1988] A.C. 473, 501D-G; Hill v. Chief Constable of West Yorkshire [1989] A.C. 53, 60 B-D. What emerges is that, in addition to the foreseeability of damage, necessary ingredients in any situation giving rise to a duty of care are that there should exist between the party owing the duty and the party to whom it is owed a relationship characterised by the law as one of "proximity" or "neighbourhood" and that the situation should be one in which the court considers it fair, just and reasonable that the law should impose a duty of a given scope upon the one party for the benefit of the other. But it is implicit in the passages referred to that the concepts of proximity and fairness embodied in these additional ingredients are not susceptible of any such precise definition as would be necessary to give them utility as practical tests, but amount in effect to little more than convenient labels to attach to the features of different specific situations which, on a detailed examination of all the circumstances, the law recognises pragmatically as giving rise to a duty of care of a given scope. Whilst recognising, of course, the importance of the underlying general principles common to the whole field of negligence, I think the law has now moved in the direction of attaching greater significance to the more traditional categorisation of distinct and recognisable situations as guides to the existence, the scope and the limits of the varied duties of care which the law imposes. We must now, I think, recapture the wisdom of the words of Brennan J. in the High Court of Australia in Sutherland Shire Council v. Heyman (1985) 60 A.L.R. 1, 43-44, where he said:
+
+"It is preferable in my view, that the law should develop novel categories of negligence incrementally and by analogy with established categories, rather than by a massive extension of a prima facie duty of care restrained only by indefinable 'considerations which ought to negative, or to reduce or limit the scope of the duty or the class of person to whom it is owed'."
+
+One of the most important distinctions always to be observed lies in the law's essentially different approach to the different kinds of damage which one party may have suffered in consequence of the acts or omissions of another. It is one thing to owe a duty of care to avoid causing injury to the person of property of others. It is quite another to avoid causing others to suffer purely economic loss. A graphic illustration of the distinction is embodied in the proposition that:
+
+- 5 -
+
+"In case of a wrong done to a chattel the common law does
+not recognise a person whose only rights are a contractual
+right to have the use or services of the chattel for purpose
+of making profits or gains without possession of or property
+in the chattel. Such a person cannot claim for injury done
+to his contractual right" (Elliott Steam Tug Co. Ltd. v.
+Shipping Controller [1922] 1 K.B. 127, 139 per Scrutton L.J.)
+
+The proposition derives from Cattle v. Stockton Waterworks Co.
+[1875] L.R. 10 Q.B. 453. It has recently been reaffirmed in
+Candlewood Navigation Corpn. v. Mitsui O.S.K. Lines Ltd. [1986]
+A.C. 1 and Leigh & Sillavan Ltd. v. Aliakmon Shipping Co. Ltd.
+[1986] A.C. 785. In the former case Lord Fraser of Tullybelton,
+delivering the judgment of the Privy Council, said [1986] A.C. 1,
+25:
+
+"Their Lordships consider that some limit or control
+mechanism has to be imposed upon the liability of a
+wrongdoer towards those who have suffered economic
+damage in consequence of his negligence. The need for
+such a limit has been repeatedly asserted in the cases, from
+Cattle's case, L.R. 10 Q.B. 453, to Caltex, 136 C.L.R. 529,
+and their Lordships are not aware that a view to the
+contrary has ever been judicially expressed."
+
+The damage which may be caused by the negligently spoken
+or written word will normally be confined to economic loss
+sustained by those who rely on the accuracy of the information or
+advice they receive as a basis for action. The question what, if
+any, duty is owed by the maker of a statement to exercise due
+care to ensure its accuracy arises typically in relation to
+statements made by a person in the exercise of his calling or
+profession. In advising the client who employs him the
+professional man owes a duty to exercise that standard of skill and
+care appropriate to his professional status and will be liable both
+in contract and in tort for all losses which his client may suffer
+by reason of any breach of that duty. But the possibility of any
+duty of care being owed to third parties with whom the
+professional man was in no contractual relationship was for long
+denied because of the general turning taken by the law in Le Lievre
+v. Gould [1893] 1 Q.B. 491 in overruling Cann v. Willson, 39 Ch.
+D. 39. In Candler v. Crane, Christmas & Co. [1951] 2 K.B. 164,
+Denning L.J., in his dissenting judgment, made a valiant attempt
+to correct the error. But it was not until the decision of this
+House in Hedley Byrne & Co. Ltd. v. Heller Partners Ltd. [1964]
+A.C. 465 that the law was once more set upon the right path.
+
+Consistently with the traditional approach is to these
+authorities and to subsequent decisions directly relevant to this
+relatively narrow corner of the field that we should look to
+determine the essential characteristics of a situation giving rise,
+independently of any contractual or fiduciary relationship, to a
+duty of care owed by one party to another to ensure that the
+accuracy of any statement which the one party makes and on
+which the other party may foreseeably rely to his economic
+detriment.
+
+In Cann v. Willson, 39 Ch. D. 39 mortgagees advanced
+money in reliance on a valuation of the mortgaged property
+
+- 6 -
+supplied to them by a valuer employed by the mortgagor. On the
+mortgagor's default, the property, having been negligently
+undervalued, proved insufficient to cover the mortgage loan. The
+mortgagees recovered their loss from the valuer. In his judgment,
+Chitty J. said at p. 42:
+
+"In this case the document called a valuation was sent by
+the defendants direct to the agents of the plaintiff for the
+purpose of inducing the plaintiff and his co-trustee to lay
+out the trust money on mortgage. It seems to me that the
+defendants knowingly had placed themselves in that position,
+and in point of law incurred a duty towards him to use
+reasonable care in the preparation of the document called a
+valuation."
+
+In Candler v. Crane, Christmas & Co. Ltd. [1951] 2 K.B.
+164 the plaintiff invested money in a limited company in reliance
+on accounts of the company prepared by the company's
+accountants at the request of the managing director, which were
+shown to the plaintiff and discussed with him by the accountants
+in the knowledge that he was interested as a potential investor in
+the company. The accounts were inaccurate and misleading and
+the plaintiff, having invested in the company in reliance upon
+them, lost his money. Denning L.J., in his dissenting judgment,
+held the plaintiff entitled to recover damages for the accountants'
+negligence.
+
+In Hedley Byrne [1964] A.C. 465 bankers were asked about
+the financial stability of a customer of the bank. They gave a
+favourable reference, albeit with a disclaimer of responsibility.
+The circumstances of the inquiry made it clear to the bankers that
+the party on whose behalf the inquiry was made wanted to know if
+they could safely extend credit to the bank's customer in a
+substantial sum. Acting on the reference given, the plaintiffs
+extended credit to the bank's customer who in due course
+defaulted. Although the House held that the bankers were
+protected by the disclaimer of responsibility, the case provided an
+opportunity to review the law, which led to the reinstatement of
+Cann v. Willson, the overruling of the majority decision in the
+Candler case and the approbation of the dissenting judgment of
+Denning L.J. in that case.
+
+The most recent decision of the House, which is very much
+in point, is that of the two appeals heard together of Smith v.
+Eric S. Bush and Harris v. Wyre Forest District Council [1989] 2
+W.L.R. 790. The plaintiffs in both cases were house purchasers
+who purchased in reliance on valuations of the properties made by
+surveyors acting for and on the instructions of the mortgagees
+proposing to advance money to the plaintiffs to enable them to
+effect their purchases. In both cases the surveyors' fees were
+paid by the plaintiffs and in both cases it turned out that the
+inspections and valuations had been negligently carried out and
+that the property was seriously defective so that the plaintiffs
+suffered financial loss. In the case of Smith the mortgagees were
+a building society, the surveyors who carried out the inspection
+and valuation were a firm employed by the building society and
+their report was shown to the plaintiff. In the case of Harris the
+mortgagees were the local authority who employed a member of
+their own staff to carry out the inspection and valuation. His
+
+- 7 -
+report was not shown to the plaintiff, but the plaintiff rightly
+assumed from the local authority's offer of a mortgage loan that
+the property had been professionally valued as worth at least the
+amount of the loan. In both cases the terms agreed between the
+plaintiff and the mortgagee purported to exclude any liability on
+the part of the mortgagee or the surveyor for the accuracy of the
+mortgage valuation. The House held that in both cases the
+surveyor making the inspection and valuation owed a duty of care
+to the plaintiff house purchaser and that the contractual clauses
+purporting to exclude liability were struck down by section 2(2)
+and section 11(3) of the Unfair Contract Terms Act 1977.
+
+The salient feature of all these cases is that the defendant
+giving advice or information was fully aware of the nature of the
+transaction which the plaintiff had in contemplation, knew that the
+advice or information would be communicated to him directly or
+indirectly and knew that it was very likely that the plaintiff would
+rely on that advice or information in deciding whether or not to
+engage in the transaction in contemplation. In these circumstances
+the defendant could clearly be expected, subject always to the
+effect of any disclaimer of responsibility, specifically to anticipate
+that the plaintiff would rely on the advice or information given by
+the defendant for the very purpose for which he did in the event
+rely on it. So also the plaintiff, subject again to the effect of
+any disclaimer, would in that situation reasonably suppose that he
+was entitled to rely on the advice or information communicated to
+him for the very purpose for which he received it. This situation
+is entirely different where a statement is put into more or less
+general circulation and may foreseeably be relied on by strangers
+to the maker of the statement for any one of a variety of
+different purposes which the maker of the statement has no
+specific reason to anticipate. To hold the maker of the statement
+to be under a duty of care in respect of the accuracy of the
+statement to all and sundry for any purpose for which they may
+choose to rely on it is not only to subject him, in the classic
+words of Cardozo C.J. to "liability in an indeterminate amount for
+an indeterminate time to an indeterminate class" (Ultramares
+Corporation v. Touche (1931) 174 N.E. 441, 444); it is also to
+confer on the world at large a quite unwarranted entitlement to
+appropriate for their own purposes the benefit of the expert
+knowledge or professional expertise attributed to the maker of the
+statement. Hence, looking only at the circumstances of these
+decided cases where a duty of care in respect of negligent
+statements has been held to exist I should expect to find that the
+"limit or control mechanism" imposed upon the liability of a
+wrongdoer towards those who have suffered economic damage in
+consequence of his negligence" rested in the necessity to prove, in
+this category of the tort of negligence, as an essential ingredient
+of the "proximity" between the plaintiff and the defendant, that
+the defendant knew that his statement would be communicated to
+the plaintiff, either as an individual or as a member of an
+identifiable class, specifically in connection with a particular
+transaction or transactions of a particular kind (e.g. in a
+prospective investing investment) and that the plaintiff would be very
+likely to rely on it for the purpose of deciding whether or not to
+enter upon that transaction or upon a transaction of that kind.
+
+I find this expectation fully supported by the dissenting
+judgment of Denning L.J. in Candler v. Crane, Christmas & Co.
+[1951] 2 K.B. 164, 179-184 in the following passages:
+
+- 8 -
+
+"Let me now be constructive and suggest the circumstances
+in which I say that a duty to use care in statement does
+exist apart from a contract in that behalf. First, what
+persons are under such duty? My answer is those persons
+such as accountants, surveyors, valuers and analysts, whose
+profession and occupation it is to examine books, accounts
+and other things and to make reports on which other people
+- other than their clients - rely in the ordinary course of
+business. . . .
+
+"Secondly, to whom do these professional people owe this
+duty? I will take accountants, but the same reasoning
+applies to the others. They owe the duty, of course, to
+their employer or client; and also, think to any third
+person to whom they themselves show the accounts, or to
+whom they know their employer is going to show the
+accounts, so as to induce him to invest money or take some
+other action on them. But I do not think the duty can be
+extended still further so as to include strangers of whom
+they have heard nothing and to whom their employer
+without their knowledge may choose to show their accounts.
+Once the accountants have handed their accounts to their
+employer they are not, as a rule, responsible for what he
+does with them without their knowledge or consent. . . .
+
+"The test of proximity in these cases is: did the accountants
+know that the accounts were required for submission to the
+plaintiff and use by him? . . .
+
+"Thirdly, to what transactions does the duty of care extend?
+It extends, I think, only to those transactions for which the
+accountants knew their accounts were required. For
+instance, in the present case it extends to the original
+investment of £2,000 which the plaintiff made in reliance on
+the accounts, because the accountants knew that the
+accounts were required for his guidance in making that
+investment; but it does not extend to the subsequent £200,
+which he made after he had been two months with the
+company. This distinction, that the duty only extends to
+the very transaction in mind at the time, is implicit in the
+decided cases . . .
+
+It will be noticed that I have confined the duty to cases
+where the accountant prepares his accounts and makes his
+report for the guidance of the very person in the very
+transaction in question. That is sufficient for the decision
+of this case. I can well understand that it would be going
+too far to make an accountant liable to any person in the
+land who chooses to rely on the accounts in matters of
+business, for that would expose him to 'liability in an
+indeterminate amount for an indeterminate time to an
+indeterminate class:' see Ultramares Corporation v. Touche
+per Cardozo, C.J. Whether he would be liable if he
+prepared his accounts for the guidance of a specific class of
+persons in a specific class of transactions, I do not say. I
+should have thought he might be, just as the analyst and lift
+inspector would be liable in the instances I have given
+earlier. It is perhaps worth mentioning that Parliament has
+
+- 9 -
+intervened to make the professional man liable for negligent
+reports given for the purposes of a prospectus: see sections
+40 and 43 of the Companies Act 1948. That is an instance
+of liability for reports made for the guidance of a specific
+class of persons -investors, in a specific class of
+transactions - applying for shares. That enactment does not
+help, one way or the other, to show what result the
+common law would have reached in the absence of such
+provisions; but it does show what result it ought to reach.
+
+"My conclusion is that a duty to use care in statement is
+recognised by English law, and that its recognition does not
+create any dangerous precedent when it is remembered that
+it is limited in respect of the persons by whom and to
+whom it is owed and the transactions to which it applies."
+
+It seems to me that this masterly analysis, if I may say so
+with respect, requires little, if any, amplification or modification
+in the light of later authority and is particularly apt to point the
+way to the right conclusion in the present appeal.
+
+Some of the speeches in the Hedley Byrne case derive a
+duty of care in relation to negligent statements from a voluntary
+assumption of responsibility on the part of the maker of the
+statement. In his speech in Smith v. Eric S. Bush, [1989] 2
+W.L.R. 790, 813 Lord Griffiths emphatically rejected the view that
+this was the true ground of liability and concluded that:
+
+"The phrase 'assumption of responsibility' can only have any
+real meaning if it is understood as referring to the
+circumstances in which the law will deem the maker of the
+statement to have assumed responsibility to the person who
+acts upon the advice."
+
+I do not think that in the context of the present appeal anything
+turns on the difference between these two approaches.
+
+These considerations amply justify the conclusion that
+auditors of a public company's accounts owe no duty of care to
+members of the public at large who rely upon the accounts in
+deciding to buy shares in the company. If a duty of care were
+owed so widely, it is difficult to see any reason why it should not
+equally extend to all who rely on the accounts in relation to other
+dealings with a company as lenders or merchants extending credit
+to the company. A claim that such a duty was owed by auditors
+to a bank lending to a company was emphatically and convincingly
+rejected by Millett J. in Al Saudi Banque v. Clark Pixley [1989] 3
+All E.R. 361. The only support for an unlimited duty of care
+owed by auditors for the accuracy of their accounts to all who
+may foreseeably rely upon them is to be found in some
+jurisdictions in the United States of America where there are
+striking differences in the law in different states. In this
+jurisdiction I have no doubt that the creation of such an unlimited
+duty would be a legislative step which it would be for Parliament,
+not the courts, to take.
+
+The main submissions for Caparo are that the necessary
+nexus of proximity between it and the appellants giving rise to a
+duty of care stems (1) from the pleaded circumstances indicating
+
+- 10 -
+the vulnerability of Fidelity to a take-over bid and from the
+consequent probability that another company, such as Caparo,
+would rely on the audited accounts in deciding to launch a take-
+over bid, or (2) from the circumstance that Caparo was already a
+shareholder in Fidelity when it decided to launch its take-over bid
+in reliance on the accounts. In relation to the first of these two
+submissions, Caparo applies in the course of the hearing, for leave
+to amend paragraph 16(2) of the statement of claim by adding the
+words "or alternatively that it was highly probable that such
+persons would rely on the accounts for that purpose."
+
+The case which gives most assistance to Caparo in support
+of this submission is Scott Group Ltd. v. McFarlane [1978] 1
+N.Z.L.R. 553. The audited consolidated accounts of a New
+Zealand public company and its subsidiaries overstated the assets
+of the group because of an admitted accounting error. Under the
+relevant New Zealand legislation its accounts were, as in England,
+accessible to the public. The circumstances of the group's affairs
+were such as to make it highly probable that it would attract a
+take-over bid. The plaintiff made such a bid successfully and
+when the accounting error was discovered claimed from the
+auditors in respect of the shortfall in the assets. Quilliam J. held
+that the auditors owed the plaintiffs no duty of care. The
+majority of the New Zealand Court of Appeal (Woodhouse and
+Cooke JJ.) held that the duty of care arose from the probability
+that the company would attract a take-over bid and the bidder
+would rely on the audited accounts, although Cooke J. held that
+the shortfall in the assets below that erroneously shown in the
+accounts did not amount to a low recoverable in tort. Richmond
+P. held that no duty of care was owed. He said, at p. 566:
+
+"All the speeches in Hedley Byrne seem to me to recognise
+the need for a 'special' relationship: a relationship which
+can properly be treated as giving rise to a special duty to
+use care in statements. The question in any given case is
+whether the nature of the relationship is such that one
+party can fairly be held to have assumed a responsibility to
+the other as regards the reliability of the advice or
+information. I do not think that such a relationship should
+be found to exist unless, at least, the maker of the
+statement was, or ought to have been, aware that his advice
+or information would in fact be made available to and be
+relied upon by a particular person or class of persons for the
+purposes of a particular transaction or type of transaction.
+I would especially emphasise that to my mind it does not
+seem reasonable to attribute an assumption of responsibility
+unless the maker of the statement ought in all the
+circumstances, both in preparing himself for what he said
+and in saying it, to have directed his mind, and to have
+been able to direct his mind, to some particular and specific
+purpose for which he was aware that his advice or
+information would be relied on. In many situations that
+purpose will be obvious. But the annual accounts of a
+company can be relied on in all sorts of ways and for many
+purposes."
+
+I agree with this reasoning, which seems to me to entirely in
+line with the principles to be derived from the authorities to
+which I have earlier referred and not to require modification in
+
+- 11 -
+
+any respect which is relevant for present purposes by reference to
+anything said in this House in Smith v. Eric S. Bush. I should in
+any event be extremely reluctant to hold that the question
+whether or not an auditor owes a duty of care to an investor
+buying shares in a public company depends on the degree of
+probability that the shares will prove attractive either en bloc to
+a take-over bidder or piecemeal to individual investors. It would
+be equally wrong, in my opinion, to hold an auditor under a duty
+of care to anyone who might lend money to a company by reason
+only that it was foreseeable as highly probable that the company
+would borrow money at some time in the year following
+publication of its audited accounts and that lenders might rely on
+those accounts in deciding to lend. I am content to assume the
+high probability of a take-over bid in reliance on the accounts
+which the proposed amendment of the statement of claim would
+assert but I do not think it assists Caparo's case.
+
+The only other English authority to which I need refer in
+this context in JEB Fasteners Ltd. v. Marks, Bloom & Co. [1981] 3
+All E.R. 289, a decision at first instance of Woolf J. This was
+another case where the plaintiffs, who had made a successful take-
+over bid for a company in reliance on audited accounts which had
+been negligently prepared, sued the accountants for damages.
+Woolf J. held that the auditors owed the plaintiffs a duty of care
+in the preparation of the accounts. He relied on both the Anns
+case [1978] A.C. 728 and Scott Group Ltd. v. McFarlane [1978] 1
+N.Z.L.R. 553, in reaching the conclusion that the duty could be
+derived from foreseeability alone. For the reasons already
+indicated I do not agree with this. It may well be, however, that
+the particular facts in the JEB case were sufficient to establish a
+basis on which the necessary ingredient of proximity to found a
+duty of care could be derived from the actual knowledge on the
+part of the auditors of the specific purpose for which the
+plaintiffs intended to use the accounts.
+
+The position of auditors in relation to the shareholders of a
+public limited liability company arising in the relevant provisions
+of the Companies Act 1985 is accurately summarised in the
+judgment of Bingham L.J. in the Court of Appeal [1989] Q.B. 653,
+680-681:
+
+"The members, or shareholders, of the company are its
+owners. But they are too numerous, and in most cases too
+unskilled, to undertake the day to day management of that
+which they own. So responsibility for day to day
+management of the company is delegated to directors. The
+shareholders, despite their overall powers of control, are in
+most companies for most of the time investors and little
+more. But it would of course be unsatisfactory, and open to
+abuse if the shareholders received no report on the financial
+stewardship of their investment save from those to whom
+the stewardship had been entrusted. So provision is made
+for the company in general meeting to appoint an auditor
+(section 384 of the Companies Act 1985), whose duty is to
+investigate and form an opinion on the adequacy of the
+company's accounting records and returns and the
+correspondence between the company's accounting records
+and returns and its accounts: section 237. The auditor has
+then to report to the company's members (among other
+
+- 12 -
+
+things) whether in his opinion the company's accounts give a
+true and fair view of the company's financial position:
+section 236. In carrying out his investigation and in forming
+his opinion the auditor necessarily works very closely with
+the directors and officers of the company. He receives his
+remuneration from the company. He naturally, and rightly,
+regards the company as his client. But he is employed for
+the purpose of giving the shareholders an independent
+report on the reliability of the company's accounts and thus
+on their investment.
+
+"No doubt he is acting antagonistically to the
+directors in the sense that he is appointed by the
+shareholders to be a check upon them: In re Kingston
+Cotton Mill Co. [1896] 1 Ch. 6, 11, per Vaughan
+Williams J.
+
+"The auditor's report must be read before the company in
+general meeting and must be open to inspection by any
+member of the company: section 241. It is attached to and
+forms part of the company's accounts: sections 238(3) and
+239. A copy of the company's accounts, including the
+auditor's report, must be sent to every member: section 240.
+Any member of the company, even if not entitled to have a
+copy of the accounts sent to him, is entitled to be furnished
+with a copy of the company's last accounts on demand and
+without charge: section 246."
+
+No doubt these provisions establish a relationship between
+the auditors and the shareholders of a company on which the
+shareholder is entitled to rely for the protection of his interest.
+But the crucial question concerns the extent of the shareholder's
+interest which the auditor has a duty to protect. The shareholders
+of a company have a collective interest in the company's proper
+management and in so far as a negligent failure of the auditor to
+report accurately on the state of the company's finances deprives
+the shareholders of the opportunity to exercise their powers in
+general meeting to call the directors to book and to ensure that
+errors in management are corrected, the shareholders ought to be
+entitled to a remedy. But in practice no problem arises in this
+respect since the interest of the shareholders in the proper
+management of the company's affairs is indistinguishable from the
+interest of the company itself and any loss suffered by the
+shareholders, e.g. by the negligent failure of an auditor to
+discover and expose a misappropriation of funds by a director of
+the company, will be recouped by a claim against the auditors in
+the name of the company, not by individual shareholders.
+
+I find it difficult to visualise a situation arising in the real
+world in which the individual shareholder could claim to have
+sustained a loss in respect of his existing shareholding referable to
+the negligence of the auditor which could not be recouped by the
+company. But on the part of the case your Lordships were much
+preoccupied with the argument that such a loss might occur by a
+negligent undervaluation of the company's assets in the auditor's
+report relied on by the individual shareholder in deciding to sell
+his shares at an undervalue. The argument then runs thus. The
+shareholder, qua shareholder, is entitled to rely on the auditor's
+
+- 13 -
+
+report as the basis of his investment decision to sell his existing
+shareholding. If he sells at an undervalue he is entitled to recoup
+the loss from the auditor. There can be no distinction in law
+between the shareholder's investment decision to sell the shares he
+has or to buy additional shares. It follows, therefore, that the
+scope of the duty of care owed to him by the auditor extends to
+cover any loss sustained consequent on the purchase of additional
+shares in reliance on the auditor's negligent report.
+
+I believe this argument to be fallacious. Assuming without
+deciding that a claim by a shareholder to recover a loss suffered
+by selling his shares at an undervalue attributable to an
+undervaluation of the company's assets in the auditor's report
+could be sustained at all, it would not be by reason of any
+reliance by the shareholder on the auditor's report in deciding to
+sell; the loss would be referable to the depreciatory effect of the
+report on the market value of the shares before ever the decision
+of the shareholder to sell was taken. A claim to recoup a loss
+alleged to flow from the purchase of overvalued shares, on the
+other hand, can only be sustained on the basis of the purchaser's
+reliance on the report. The specious equation of "investment
+decisions" to sell or to buy as giving rise to parallel claims thus
+appears to me to be untenable. Moreover, the loss in the case of
+the sale would be of a loss of part of the value of the
+shareholder's existing holding, which, assuming a duty of care, owes
+to individual shareholders, it might sensibly lie within the scope of
+the auditor's duty to protect. A loss on the other hand, resulting
+from the purchase of additional shares would result from a wholly
+independent transaction having no connection with the existing
+shareholding.
+
+I believe it is this last distinction which is of critical
+importance and which demonstrates the unsoundness of the
+conclusion reached by the majority of the Court of Appeal. It is
+never sufficient to ask simply whether A owes B a duty of care.
+It is always necessary to determine the scope of the duty by
+reference to the kind of damage from which A must take care to
+save B harmless. The question is always whether the defendant
+was under a duty to avoid or prevent that damage, but the actual
+nature of the damage suffered is relevant to the existence and
+extent of any duty to avoid or prevent it." (Sutherland Shire
+Council v. Heyman, 60 A.L.R. 1, 48, per Brennan J.). Assuming
+for the purpose of the argument that the relationship between the
+auditor of a company and individual shareholders is of sufficient
+proximity to give rise to a duty of care, I do not understand how
+the scope of that duty can possibly extend beyond the protection
+of any individual shareholder from losses in the value of the
+shares which he holds. As a purchaser of additional shares in reliance on
+the auditor's report, he stands in no different position from any
+other investing member of the public to whom the auditor owes no
+duty.
+
+I would allow the appeal and dismiss the cross-appeal.
+
+- 14 -
+
+LORD ROSKILL
+
+My Lords,
+
+I have had the advantage of reading in draft the speeches
+prepared by three of your Lordships. I agree with them and would
+allow the appeal and dismiss the cross-appeal for the reasons there
+given. I only add some observations of my own out of respect for
+the two Lords Justices from whom your Lordships are differing and
+because of the importance of this case in relation to the vexed
+question of the extent of liability of professional men, especially
+accountants, for putting into circulation allegedly incorrect
+statements whether oral or in writing which are claimed to have
+been negligently made or prepared and which have been acted on
+by a third party to that third party's detriment.
+
+That liability for such negligence if established can exist has
+been made clear ever since the decision of this House in Hedley
+Byrne & Co. v. Heller & Partners Ltd. [1964] A.C. 465 in which
+the well known dissenting judgment of Denning L.J. in Candler v.
+Crane, Christmas & Co. [1951] 2 K.B. 164 was held to have stated
+the law correctly. Thenceforth it was clear that such a duty of
+care could be owed by a professional man to third parties in cases
+where there was no contractual relationship between them, a view
+of the law long denied as the result of a succession of late
+nineteenth century cases of which this House then took the
+opportunity of disapproving.
+
+But subsequent attempts to define both the duty and its
+scope have created more problems than the decisions have solved.
+My noble and learned friend, have traced the evolution of the
+decisions from Anns v. Merton London Borough Council [1977] A.C.
+728 until and including the most recent decisions of your
+Lordship's House in Smith v. Eric S. Bush [1989] 2 W.L.R. 790. I
+agree with your Lordships that it has now to be accepted that
+there is no simple formula or touchstone to which recourse can be
+had in order to provide in every case a ready answer to the
+questions whether, given certain facts, the law will or will not
+impose liability for negligence or in cases where such liability can
+be shown to exist determine the extent of that liability. Phrases
+such as "foreseeability," "proximity," "neighbourhood," "just and
+reasonable," "fairness," "voluntary assumption of risk," or
+"voluntary assumption of responsibility" will be found from time
+to time in the different cases. But as your Lordships have
+said, such phrases are not precise definitions. At best they are
+but labels or phrases descriptive of the very different factual
+situations which can exist in particular cases and which must be
+carefully examined in each case before it can be programmatically
+determined whether a duty of care exists and, if so, what is the
+scope and extent of that duty. If this conclusion involves a return
+to the traditional categorisation of cases as pointing to the
+existence and scope of any duty of care, as my noble and learned
+friend Lord Bridge of Harwich, suggests, I think this is infinitely
+preferable to recourse to somewhat wide generalisations which
+leave their practical application matters of difficulty and
+uncertainty. This conclusion finds strong support from the
+judgment of Brennan J. in the High Court of Australia in the
+passage cited by my noble and learned friends.
+
+- 15 -
+
+My Lords, I confess that like my noble and learned friend,
+Lord Griffiths in Smith v. Eric S. Bush [1989] 2 W.L.R. 790, 813,
+I find considerable difficulty in phrases such as "voluntary
+assumption of responsibility" unless they are to be explained as
+meaning no more than the existence of circumstances in which the
+law will impose a liability upon a person making the alleged
+negligent statement to the person to whom that statement is
+made; in which case the phrase does not help to determine in
+what circumstances the law will impose that liability or indeed its
+scope. The submission that there is a virtually unlimited and
+unrestricted duty of care in relation to the performance of an
+auditor's statutory duty to certify a company's accounts, a duty
+extending to anyone who may use those accounts for any purpose
+such as investing in the company or lending the company money,
+seems to me untenable. No doubt it can be said to be foreseeable
+that those accounts may find their way into the hands of persons
+who may use them for such purposes or indeed other purposes and
+lose money as a result. But to impose a liability in those
+circumstances is to hold, contrary to all the recent authorities,
+that foreseeability alone is sufficient, and to ignore the statutory
+duty which enjoins the preparation and of certification of those
+accounts.
+
+I think that before the existence and scope of any liability
+can be determined, it is necessary first to determine for what
+purposes and in what circumstances the information in question is
+to be given. If a would-be investor or predator commissions a
+report which he will use, and which the maker of the report knows
+he will use, as a basis for his decision whether or not to invest or
+whether or not to make a bid, it may not be difficult to conclude
+that if the report is negligently prepared and as a result a
+decision is taken in reliance upon it and financial losses then
+follow, a liability will be imposed upon the maker of that report.
+But I venture to echo the caution expressed by my noble and
+learned friend, Lord Oliver of Aylmerton, that because different
+cases may display certain common features, there are necessarily
+all cases in which the same consequences regarding liability or the
+scope of liability will follow. Moreover, there may be cases in
+which the circumstances in which the report was commissioned
+justify the exclusion of and reliance upon a disclaimer such as
+succeeded in Hedley Byrne but by reason of subsequent statutory
+provisions failed in Smith v. Eric S. Bush.
+
+My Lords it is for these reasons, in addition to those given
+by my noble and learned friends, that, as already stated, I would
+allow this appeal and dismiss the cross-appeal.
+
+LORD ACKNER
+
+My Lords,
+
+I have had the advantage of reading the speeches of Lord
+Bridge of Harwich, Lord Roskill, Lord Oliver of Aylmerton and
+Lord Jauncey of Tullichettle and for the reasons they give I, too,
+would allow this appeal and dismiss the cross-appeal.
+
+- 16 -
+
+LORD OLIVER OF AYLMERTON
+
+My Lords,
+
+This appeal, having come to this House on a preliminary
+point, involves the making of a number of assumptions of fact
+which might or might not be substantiated at the trial of the
+action. To begin with, it is to be assumed against the appellants
+that they showed a lack of reasonable care in certifying that the
+accounts of Fidelity for the year ended 31 March 1984 gave a true
+and fair view of Fidelity's position. It is also to be assumed that,
+when they certified the accounts, the appellants knew or would, if
+they had thought about it, have known that Fidelity was vulnerable
+to take-over bids, that a potential bidder would be likely to rely
+upon the accuracy of the accounts in making his bid and that
+investors in the market generally, whether or not already members
+of Fidelity, would also be likely to or might well rely upon the
+accounts in deciding to purchase shares in that company.
+
+Your Lordships are not, however, either required or entitled
+to make any assumption that the purpose of the certification as
+anything other than that of fulfilling the statutory duty of carrying
+out the annual audit with a view to the circulation of the
+accounts to persons who were either registered shareholders or
+debenture-holders of Fidelity and the subsequent laying of the
+accounts before the annual general meeting of the company.
+
+Thus, if so far as the purpose for which the audit is
+carried out is a relevant consideration in determining the extent of
+any general duty in tort owed by the appellants to persons other
+than the company which is their immediate employer, that purpose
+was simply that of fulfilling the statutory requirements of the
+Companies Act. That, in turn, raises the question and it is one
+which lies at the threshold of the inquiry upon which your
+Lordships are invited to embark of what is the purpose behind
+the legislative requirement for the carrying out of an annual audit
+and the circulation of the accounts. For whose protection were
+these provisions enacted and what object were they intended to
+achieve?
+
+My Lords, the primary purpose of the statutory requirement
+that a company's accounts shall be audited annually is almost self-
+evident. The structure of the corporate trading entity, at least in
+the case of public companies whose shares are dealt with on an
+authorised Stock Exchange, involves the concept of a more or less
+widely distributed holding of shares rendering the personal
+involvement of each individual shareholder in the day-to-day
+management of the enterprise impracticable, with the result that
+management is necessarily separated from ownership. The
+management is confided to a board of directors which operates in
+a fiduciary capacity and is answerable to and removable by the
+shareholders who can act, if they act at all, only collectively and
+only through the medium of a general meeting. Hence the
+legislative provisions requiring the board annually to give an
+account of its stewardship to a general meeting of the
+shareholders. This is the only occasion in each year upon which
+the general body of shareholders is given the opportunity to
+
+- 17 -
+
+consider, to criticise and to comment upon the conduct by the
+board of the company's affairs, to vote upon the directors'
+recommendation as to dividends, to approve or disapprove the
+directors' remuneration and, if thought desirable, to remove and
+replace all or any of the directors. It is the auditors' function to
+ensure, so far as possible, that the financial information as to the
+company's affairs prepared by the directors accurately reflects the
+company's position in order, first, to protect the company itself
+from the consequences of undetected errors or, possibly,
+wrongdoing (by, for instance, declaring dividends out of capital)
+and, secondly, to provide shareholders with reliable intelligence for
+the purpose of enabling them to scrutinise the conduct of the
+company's affairs and to exercise their collective powers to reward
+or control or remove those to whom that conduct has been
+confided.
+
+The requirement of the appointment of auditors and annual
+audit of the accounts, now contained in sections 235-246 of the
+Companies Act 1985, was first introduced by the Companies Act
+1879 in relation to companies carrying on the business of banking
+and was extended to companies generally by the Companies Act
+1900. Section 23 of that Act required the auditors to make a
+report to the shareholders on the company's balance sheet laid
+before the company in general meeting, stating whether the
+balance sheet exhibited a true and correct view of the state of
+the company's affairs. By the same section, the report was
+required to be read before the company in general meeting.
+Section 19 of the Companies Act 1907 substituted a new section
+23 which, whilst repeating the requirement that the auditors'
+report should be read before the company in general meeting,
+added a requirement that it should be open to inspection by any
+shareholder who was entitled, on payment of the fee, to be
+furnished with a copy of the balance sheet and report. The new
+section also made it an offence for any officer of the company to
+be party to issuing, circulating or publishing any copy of the
+balance sheet which did not either append or contain a reference
+to the auditors' report. The matter was carried one stage further
+by section 130 of the Companies Act 1929 (consolidating provisions
+contained in sections 39 and 41 of the Companies Act 1928) which
+required the annual balance sheet and auditors' report of a public
+company to be sent not less than seven days before the date of
+the meeting to every member of the company entitled to receive
+notice of the meeting and entitled to members of the company
+and any debenture holder to be furnished on demand and without
+charge with a copy of the last balance sheet and the auditors'
+report. Finally, for relevant purposes, section 128 of the
+Companies Act 1948 required the accounts and report to be sent
+to every member of the company and to every debenture holder
+not less than 21 days before the general meeting before which the
+accounts are to be laid.
+
+Thus the history of the legislation is one of an increasing
+availability of information regarding the financial affairs of the
+company to those having an interest in its progress and stability.
+It cannot fairly be said that the purpose of making such
+information available is solely to assist those interested in
+attending general meetings of the company to an informed
+supervision and appraisal of the stewardship of the company's
+directors, for the requirement to supply audited accounts to, for
+
+- 18 -
+instance, preference shareholders having no right to vote at
+general meetings and to debenture holders cannot easily be
+attributed to any such purpose. Nevertheless, I do not, for my
+part, discern in the legislation any departure from what appears to
+me to be the original, central and primary purpose of these
+provisions, that is to say, the informed exercise by those
+interested in the property of the company, whether as proprietors
+of shares in the company or as the holders of rights secured by a
+debenture trust deed, of such powers as are vested in them by
+virtue of their respective proprietary interests.
+
+It is argued on behalf of the respondent that there is to be
+discerned in the legislation an additional or wider commercial
+purpose, namely that of enabling those to whom the accounts are
+addressed and circulated, to make informed investment decisions,
+for instance, by determining whether to dispose of their shares in
+the market or whether to apply any funds which they are
+individually able to command in seeking to purchase the shares of
+other shareholders. Of course, the provision of any information
+about the business and affairs of a trading company, whether it be
+contained in annual accounts or obtained from other sources, is
+capable of serving such a purpose just as it is capable of serving
+as the basis for the provision of financial advice to others, for
+arriving at a market price, for determining whether to extend
+credit to the company, or for the writing of financial articles in
+the press. Indeed, it is readily foreseeable by anyone who gives
+the matter any thought that it might well be relied on to a
+greater or less extent for all or any of such purposes. It is, of
+course, equally foreseeable that potential investors having no
+proprietary interest in the company, might well avail themselves of
+the information contained in a company's accounts published in the
+newspapers or culled from an inspection of the documents to be
+filed annually with the Registrar of Companies (which includes the
+audited accounts) in determining whether or not to acquire shares
+in the company. I find it difficult to believe, however, that the
+legislature, in enacting provisions clearly aimed primarily at the
+protection of the company and its informed control by the body of
+its proprietors, can have been inspired also by consideration for
+the public at large and investors in the market in particular.
+
+The question is, I think, one of some importance when one
+comes to consider the existence of that essential relationship
+between the appellants and the respondent to which in an
+discussion of the ingredients of the tort of negligence, there is
+accorded the description "proximity," for it is now clear from a
+series of decisions in this House that, at least in so far as concerns
+the law of the United Kingdom, the duty of care in tort depends
+not solely upon the existence of the essential ingredient of the
+foreseeability of damage to the plaintiff but upon its coincidence
+with a further ingredient to which has been attached the label
+"proximity" and which was described by Lord Atkin in the course
+of his speech in Donaghue v. Stevenson [1932] A.C. 562, 581 as:
+
+"such close and direct relations that the act complained of
+directly affects a person whom the person alleged to be
+bound to take care would know would be directly affected
+by his careless act."
+
+- 19 -
+It must be remembered, however, that Lord Atkin was using these
+words in the context of loss caused by physical damage where the
+existence of the nexus between the careless defendant and the
+injured plaintiff can rarely give rise to any difficulty. To adopt
+the words of Bingham L.J. in the instant case [1989] Q.B. 633,
+686:
+
+"It is enough that the plaintiff chances to be (out of the
+whole world) the person with whom the defendant collided
+or who purchased the offending ginger beer."
+
+The extension of the concept of negligence since the decision of
+this House in Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd.
+[1964] A.C. 463 to cover cases of pure economic loss not resulting
+from physical damage has given rise to a considerable and as yet
+unsolved difficulty of definition. The opportunities for the
+infliction of pecuniary loss from the imperfect performance of
+everyday tasks upon the proper performance of which people rely
+for regulating their affairs are illimitable and the effects are far
+reaching. A defective bottle of ginger beer may injure a single
+consumer but the damage stops there. A single statement may be
+repeated endlessly with or without the permission of its author and
+may be relied upon in a different way by many different people.
+Thus the postulate of a simple duty to avoid any harm that is,
+with hindsight, reasonably capable of being foreseen becomes
+untenable without the imposition of some intelligible limits to keep
+the law of negligence within the bounds of common sense and
+practicality. Those limits have been found by the requirement of
+what has been called a "relationship of proximity" between
+plaintiff and defendant and by the imposition of a further
+requirement that the attachment of liability for harm which has
+occurred be "just and reasonable." But although the cases in
+which the courts have imposed or withheld liability are capable of
+an approximate categorisation, one looks in vain for some common
+denominator by which the existence of the essential relationship
+can be tested. Indeed it is difficult to resist a conclusion that
+what have been treated as three separate requirements are, at
+least in most cases, in fact merely facets of the same thing, for
+in some cases the degree of foreseeability is such that it is from
+that alone that the requisite proximity can be deduced, whilst in
+others the absence of that essential relationship can most
+rationally be attributed simply to the court's view that it would
+not be fair and reasonable to hold the defendant responsible.
+"Proximity" is, no doubt, a convenient expression so long as it is
+realised that it is no more than a label which embraces not a
+definable concept but merely a description of circumstances from
+which, pragmatically, the courts conclude that a duty of care
+exists.
+
+There are, of course, cases where, in any ordinary meaning
+of the words, a relationship of proximity (in the literal sense of
+"closeness") exists but where the law, whilst recognising the fact
+of the relationship, nevertheless denies a remedy so the injured
+party on the ground of public policy. Rondel v. Worsley [1969] 1
+A.C. 191 was such a case as was Hill v. Chief Constable of West
+Yorkshire [1989] A.C. 53, so far as concerns the alternative ground
+of that decision. But such cases do nothing to assist in the
+identification of those features from which the law will deduce the
+essential relationship on which liability depends and, for my part, I
+
+- 20 -
+
+think that it has to be recognised that to search for any single formula which will serve as a general test of liability is to pursue a will-o'-the wisp. The fact is that once one discards, as it is now clear that one must, the concept of foreseeability of harm as the single exclusive test - even a prima facie test - of the existence of the duty of care, the attempt to state some general principle which will determine liability in an infinite variety of circumstances serves not to clarify the law but merely to bedevil its development in a way which corresponds with practicality and common sense. In Sutherland Shire Council v. Heyman, 60 A.L.R. 1, 43-44, Brennan J. in the course of a penetrating analysis, observed:
+
+"Of course, if foreseeability of injury to another were the exhaustive criterion of a prima facie duty to act to prevent the occurrence of that injury, it would be essential to introduce some kind of restrictive qualification - perhaps a qualification of the kind stated in the second stage of the general proposition in Anns. I am unable to accept that approach. It is preferable, in my view, that the law should develop novel categories of negligence incrementally and by analogy with established categories, rather than by a massive extension of a prima facie duty of care restrained only by indefinable considerations which ought to negative or to reduce or limit the scope of the duty or the class of person to whom it is owed.""
+
+The same approach is, I think, reflected in that passage in the speech of Lord Devlin in the Hedley Byrne case [1964] A.C. 465, 524-525 in which he considered the impact of Donoghue v. Stevenson on the facts of that case and in which he analysed and described the method by which the law develops:
+
+"In his celebrated speech in that case Lord Atkin did two things. He stated what he described as a 'general conception' and from that conception he formulated a specific proposition of law. In between he gave a warning against the dangers of stating propositions of law in wider terms than is necessary, lest essential factors be omitted in the wider survey and the inherent adaptability of English law be unduly restricted."
+
+"What Lord Atkin called a 'general conception of relations giving rise to a duty of care' is now often referred to as the principle of proximity. You must take reasonable care to avoid acts or omissions which you can reasonably foresee would be likely to injure your neighbour. In the eyes of the law your neighbour is a person who is so closely and directly affected by your act that you ought reasonably to have him in contemplation as being so affected when you are directing your mind to the acts or omissions which are called in question. . . .
+
+"Now, it is not, in my opinion, a sensible application of what Lord Atkin was saying for a judge to be invited on the facts of any particular case to say whether or not there was 'proximity' between the plaintiff and the defendant. That would be a misuse of a general conception and it is not the way in which English law develops. What Lord
+
+- 21 -
+Atkin did was to use his general conception to open up a category of cases giving rise to a special duty. It was already clear that the law recognises the existence of such a duty in the category of articles that were dangerous in themselves. What Donoghue v. Stevenson did may be described either as the widening of an old category or as the creation of a new and similar one. The general conception can be used to produce other categories in the same way. An existing category grows as instances of its application multiply until the time comes when the cell divides. . . .
+
+"In my opinion, the appellants in their argument tried to press Donoghue v. Stevenson too hard. They asked whether the principle of proximity should not apply as well to words as to deeds. I think it should, but as it is only a general conception it does not get them very far. Then they take the specific proposition laid down by Donoghue v. Stevenson and try to apply it literally to a certificate or a banker's reference. That will not do, for a general conception cannot be applied to pieces of paper in the same way as to articles of commerce or to printers in the same way as to manufacturers. An inquiry into the possibilities of intermediate examination of a certificate will not be fruitful. The real value of Donoghue v. Stevenson to the argument in this case is that it shows how the law can be developed to solve particular problems. Is the relationship between the parties in this case such that it can be brought within a category giving rise to a special duty? As always in English law, the first step in such an inquiry is to see how far the authorities have gone, for new categories in the law do not spring into existence overnight."
+
+Perhaps, therefore, the most that can be attempted is a broad categorisation of the decided cases according to the type of situation in which liability has been established in the past in order to found an argument by analogy. Thus, for instance, cases can be classified according to whether what is complained of is the failure to prevent the infliction of damage by the act of the third party (such as the Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004, P.C. [per Exporters] Ltd. v. Camden London Borough Council [1984] Q.B. 392, Smith v. Littlewoods Organisation Ltd. [1987] A.C. 241 and, indeed, Anns v. Merton London Borough Council [1978] A.C. 728 itself), in failure to perform properly a statutory duty claimed to have been imposed for the protection of the plaintiff either as a member of a class or as a member of the public (such as the Anns case, Ministry of Housing and Local Government v. Sharp [1970] 2 Q.B. 223, Yuen Kun Yeu v. Attorney-General of Hong Kong [1988] A.C. 175) or in the making by the defendant of some statement or advice which has been communicated, directly or indirectly, to the plaintiff and upon which he has relied. Such categories are not, of course, exhaustive. Sometimes they overlap as in the Anns case, and there are cases which do not readily fit into easily definable categories (such as Ross v. Caunters [1980] Ch. 297). Nevertheless, it is, I think, permissible to regard negligent statements or advice as a separate category displaying common features from which it is possible to find at least guidelines by which a test for the existence of the relationship which is essential to ground liability can be deduced.
+
+- 22 -
+The damage which may be occasioned by the spoken or written word is not inherent. It lies always in the reliance by somebody upon the accuracy of that which the word communicates and the loss or damage consequential upon that person having adopted a course of action upon the faith of it. In general, it may be said that when any serious statement, whether it makes the form of a statement of fact or of advice, is published or communicated, it is foreseeable that the person who reads or receives it is likely to accept it as accurate and to act accordingly. It is equally foreseeable that if it is inaccurate in a material particular, the recipient who acts upon it may suffer a detriment which, if the statement had been accurate, he would not have undergone. But it is now clear that mere foreseeability is not of itself sufficient to ground liability unless by reason of the proximity (as in the case of direct physical damage) or unless it is accompanied by other circumstances from which that element may be deduced. One must, however, be careful about seeking to find any general principle which will serve as a touchstone for all cases, for even within the limited category of what, for the sake of convenience, I may refer to as "the negligent statement cases", circumstances may differ infinitely and, in a swiftly developing field of law, there can be no necessary assumption that those features which have served in one case to create the relationship between the plaintiff and the defendant on which liability depends will necessarily be determinative of liability in the different circumstances of another case. There are, for instance, at least four and possibly more situations in which damage or loss may arise from reliance upon the spoken or written word and it must not be assumed that because they display common features of reliance and foreseeability they are necessarily in all respects analogous. To begin with, reliance upon a careless statement may give rise to direct physical injury which may be caused either to the person who acts on the faith of the statement or to a third person. One has only to consider, for instance, the chemist's assistant who mislabels a dangerous medicine, a medical man who gives negligent telephonic advice to a parent with regard to the treatment of a sick child, or an architect who negligently instructs a bricklayer to remove the keystone of an archway (as in Claydon v. Woodman & Son (Builders) Ltd. [1967] 2 Q.B. 543). In such cases it is not easy to divorce foreseeability simpliciter and the proximity which flows from the virtual inevitability of damage if the advice is followed. Again, economic loss may be inflicted upon a third party as a result of the act of the recipient of the advice or information carried out in reliance upon it (as, for instance, the testator Ross v. Caunters [1980] Ch. 297 or the purchaser in Ministry of Housing and Local Government v. Sharp [1970] 2 Q.B. 223, both cases which give rise to certain difficulties of analysis). For present purposes, however, it is necessary to consider only those cases of economic damage suffered directly by a recipient of the statement or advice as a result of his personally having acted in reliance upon it.
+
+In his dissenting judgment in Candler v. Crane, Christmas & Co. [1951] 2 K.B. 164, Denning L.J. suggested three conditions for the creation of a duty of care in tort in such cases. First, the advice must be given by one whose profession it is to give advice upon which others rely in the ordinary course of business, such as
+
+- 23 -
+
+- 24 -
+
+- 25 -
+
+- 26 -
+
+"can only have any real meaning if it is understood as
+referring to the circumstances in which the law will deem
+the maker of the statement to have assumed responsibility
+to the person who acts upon the advice."
+
+He continued, at pp. 813-816:
+
+"The essential distinction between the present case and the
+situation being considered in Hedley Byrne [1964] A.C. 465
+and in the two earlier cases, is that in those cases the
+advice was being given with the intention of persuading the
+recipient to act upon it. In the present case, the purpose
+of providing the report is to advise the mortgagee, but it is
+given in circumstances in which it is highly probable that
+the purchaser will in fact act on its contents, although that
+was not the primary purpose of the report. I have had
+considerable doubts whether it is wise to increase the scope
+of the duty for negligent advice beyond the person directly
+intended by the giver of the advice to act upon it to those
+whom he knows may do so. . . .
+
+"I therefore return to the question in what circumstances
+should the law deem those who give advice to have assumed
+responsibility to the person who acts upon the advice or, in
+other words, in what circumstances should a duty of care be
+owed by the adviser to those who act upon his advice? I
+would answer - only if it is foreseeable that if the advice is
+negligent the recipient is likely to suffer damage, that there
+is a sufficiently proximate relationship between the parties
+and that it is just and reasonable to impose the liability. In
+the case of a surveyor valuing a small house for a building
+society or local authority, the application of these three
+criteria leads to the conclusion that he owes a duty of care
+to the purchaser. If the valuation is negligent and is relied
+upon damage in the form of economic loss to the purchaser
+is obviously foreseeable. The necessary proximity arises
+from the surveyor's knowledge that the overwhelming
+probability is that the purchaser will rely upon his valuation,
+the evidence was that surveyors knew that approximately 90
+per cent. of purchasers did so, and the fact that the
+surveyor only obtains the work because the purchaser is
+willing to pay his fee. It is just and reasonable that the
+duty should be imposed for the advice is given in a
+professional as opposed to a social context and liability for
+breach of duty will be limited both as to its extent and
+amount. The extent of the liability is limited to the
+purchaser of the house - I would not extend it to subsequent
+purchasers. The amount of the liability cannot be very
+great because it relates to a modest house. There is no
+question here of creating a liability of indeterminate amount
+to an indeterminate class. I would certainly wish to stress
+that in cases where the advice has not been given for the
+specific purpose of the recipient acting upon it, it should
+only be in cases when the adviser knows that there is a
+high degree of probability that some other identifiable
+person will act upon the advice that a duty of care should
+be imposed. It would impose an intolerable burden upon
+those who give advice in a professional or commercial
+context if they were to owe a duty not only to those to
+
+- 27 -
+
+whom they give the advice but to any other person who
+might choose to act upon it."
+
+Finally, in relation to the Smith appeal, Lord Jauncey of
+Tullichhettle, observed at p. 822:
+
+"The four critical facts that are the appellants knew from
+the outset: (1) that the report would be shown to Mrs.
+Smith; (2) that Mrs. Smith would probably rely on the
+valuation contained therein in deciding whether to buy the
+house without obtaining an independent valuation; (3) that if,
+in those circumstances, the valuation was, having regard to
+the actual condition of the house, excessive, Mrs. Smith
+would be likely to suffer loss; and (4) that she had paid the
+building society a sum to defray the appellants' fee. In the
+light of this knowledge the appellants could have declined to
+act for the building society, but they chose to proceed. In
+these circumstances they must be taken not only to have
+assumed contractual obligations towards the building society
+but delictual obligations towards Mrs. Smith, whereby they
+became under a duty towards her to carry out their work
+with reasonable care and skill. It is critical to this
+conclusion that the appellants knew that Mrs. Smith would
+be likely to rely on the valuation without obtaining
+independent advice. In both Candler v. Crane, Christmas &
+Co. [1951] 2 K.B. 164 and Hedley Byrne & Co. Ltd. v.
+Heller & Partners Ltd. [1964] A.C. 465, the provider of the
+information was the obvious and most easily available, if not
+the only available, source of the information. It would not
+be difficult therefore to conclude that the person who
+sought such information was likely to rely upon it. In the
+case of an intending mortgagor the position is very different
+since, financial considerations apart, there is likely to be
+available to him a wide choice of sources of information, to
+wit, independent valuers to whom he can resort, in addition
+to the valuer acting for the mortgagee. I would not
+therefore conclude that the mere fact that a mortgagor's
+valuer knows that his valuation will be shown to an
+intending mortgagor of itself imposes upon him a duty of
+care to the mortgagor. Knowledge, actual or implied, of
+the mortgagor's likely reliance upon the valuation must be
+brought home to him. Such knowledge may be fairly readily
+implied in relation to a potential mortgagor seeking to enter
+the lower end of the housing market but non constat that
+such ready implication would arise in the case of a purchase
+of an expensive property whether residential or commercial."
+
+Thus Smith v. Eric S. Bush, although establishing beyond
+doubt that the law may attribute an assumption of responsibility
+duties regardless of the expressed intentions of the adviser, provides
+no support for the proposition that the relationship of proximity is
+to be extended beyond circumstances in which advice is tendered
+for the purpose of the particular transaction or type of transaction
+and the adviser knows or ought to know that it will be relied upon
+by a particular person or class of persons in connection with that
+transaction. The judgment of Millett J. in the recent case of Al
+Saudi Banque v. Clark Pixley [1989] 3 All E.R. 361 (decided after
+the decision of the Court of Appeal in the instant case) contains
+an analysis of the decision of this House in Smith v. Eric S. Bush
+
+- 28 -
+
+and concludes - and I agree - that it established a more stringent
+test of the requirements for proximity than that which had been
+applied by the Court of Appeal in the instant case. At p. 370 of
+his judgment, Millett J. gives what I find a helpful analysis of that
+case and of the features which distinguished it from the Hedley
+Byrne case and from the instant case:
+
+"In each of the cases considered by the House of Lords,
+therefore, there was a tripartite transaction in which the
+valuation could realistically be regarded as provided by the
+valuer to the purchaser. In each of the cases the valuation
+was given to the mortgagee with the intention of being
+acted on by him in a specific transaction known to the
+valuer, viz. the making of a mortgage offer in connection
+with a specific transaction of house purchase, and in the
+knowledge that the valuation or the gist of the valuation
+would be communicated to the purchaser and would in all
+probability be relied on by him in deciding whether to go
+ahead with the very transaction for which the mortgage
+offer was sought. This was a much more restricted context
+in which to found a duty of care than was present in the
+Caparo case, for there was in contemplation not only a
+particular and identified recipient of the information to
+whom the defendant knew that it would be communicated,
+but a particular and known purpose for which he could
+foresee that it would be relied on.
+
+"In Hedley Byrne and the cases which followed it, the
+statement was made directly to the plaintiff with the
+intention that the plaintiff should act on it. The JEB
+Fasteners case can be supported only on the basis that the
+statement was impliedly confirmed directly to the plaintiff
+without any such intention, but with a particular transaction
+in contemplation, and it was foreseeable that the plaintiff
+would rely on it in that transaction. In Caparo it was made
+to the plaintiff without any such intention and without any
+particular transaction in contemplation, but it was
+foreseeable that the plaintiff might rely on it in some
+unknown future transaction. In Smith v. Eric S. Bush it was
+made to a third party with the intention that he should act
+on it in a known and contemplated transaction, but in the
+knowledge that it would be communicated to the plaintiff
+and would almost certainly be relied on by him in
+connection with a transaction without which the transaction
+of the third party could not proceed.
+
+My Lords, no decision of this House has gone further than
+Smith v. Eric S. Bush, but your Lordships are asked by the
+respondents to widen the area of responsibility even beyond the
+limits to which it was extended by the Court of Appeal in this
+case and to find a relationship of proximity between the adviser
+and third parties to whose attention the advice may come in
+circumstances in which the reliance is said to have given rise to the
+loss is strictly unrelated either to the intended recipient or to the
+purpose for which the advice was required. My Lords, I discern no
+pressing reason or policy which would require such an extension
+and there seems to me to be powerful reasons against it. As Lord
+Reid observed in the course of his speech in Hedley Byrne [1964]
+A.C. 465, 483, words can be broadcast with or without the consent
+
+- 29 -
+
+or foresight of the speaker or writer; and in his speech in the
+same case, Lord Pearce drew attention to the necessity for the
+imposition of some discernible limits to liability in such cases. He
+said, at p. 534:
+
+"The reason for some divergence between the law of
+negligence in word and that of negligence in act is clear.
+Negligence in word creates problems different from those of
+negligence in act. Words are more volatile than deeds.
+They travel fast and far afield. They are used without
+being expended and take effect in combination with
+innumerable facts and other words. Yet they are dangerous
+and can cause vast financial damage. How far they are
+relied on unchecked ... must in many cases be a matter
+of doubt and difficulty. If the mere hearing or reading of
+words were held to create proximity, there might be no
+limit to the persons to whom the speaker or writer could be
+liable."
+
+As I have already mentioned, it is almost always foreseeable that
+someone, somewhere and in some circumstances, may choose to
+alter his position upon the faith of the accuracy of a statement or
+report which comes to his attention, and it is always foreseeable
+that a report - even a confidential report - may come to be
+communicated to persons other than the original or intended
+recipient. To apply a test of liability only the foreseeability of
+possible damage without some further control would be to create a
+liability wholly indefinite in area, duration and amount and would
+open up a limitless vista of uninsurable risk for the professional
+man.
+
+On the basis of the pleaded case, as amended, it has to be
+assumed that the appellants, as experienced accountants, were
+aware or should have been aware that Fidelity's results made it
+vulnerable to take-over bids and that they knew or ought to have
+known that a potential bidder might well rely upon the published
+accounts in determining whether to acquire shares in the market
+and to make a bid. It is not, however, suggested that the
+appellants, in certifying the accounts or Parliament, in providing
+for such certification, did so for the purpose of assisting those
+who might be minded to profit from dealings in the company's
+shares. The respondents, whilst accepting that it is no part of the
+purpose of the preparation, certification and publication of the
+accounts of a public company to provide information for the
+guidance of predators in the market, nevertheless argue that the
+appellants' knowledge that predators might well rely upon the
+accounts for this purpose sufficiently establishes between them and
+potential bidders that relationship of "proximity" which founds
+liability. On the face of it, this submission appears to equate
+"proximity" with mere foreseeability and to rely upon the very
+misinterpretation of the effect of the decision of this House in the
+Anns case [1978] A.C. 728 which was decisively rejected in the
+Governors of Peabody Donation Fund v. Sir Lindsay Parkinson &
+Co. Ltd. [1985] A.C. 210 and in Yuen Kun Yeu v. Attorney-
+General of Hong Kong [1988] A.C. 175. Your Lordships have been
+referred, however, to three authorities, one from New Zealand and
+two from the United Kingdom, which do undoubtedly support the
+respondents' contention.
+
+- 30 -
+
+In Scott Group Ltd. v. McFarlane [1978] N.Z.L.R. 553, the
+defendants were the auditors of a Company which had been
+successfully taken over in reliance upon certified consolidated
+accounts in which, as a result of double-counting, the assets were
+overstated. It was admitted that the failure of the defendants to
+discover the discrepancy was due to negligence. In the Supreme
+Court of New Zealand, Quilliam J. dismissed the plaintiffs' claim
+on the ground that the appellants, though careless, owed them no
+duty of care. An appeal to the Court of Appeal failed but the
+court was divided as to the reasons. Richmond P. held that the
+appeal failed for the same reason as that stated by the trial
+judge. Woodhouse J. would have allowed the appeal. Cooke J., on
+the other hand, whilst concurring with Woodhouse J. that the
+respondents did in fact owe a duty of care to the appellants, held
+that the appeal failed because they had failed to show any
+recoverable loss.
+
+The more restrictive view was expressed by Richmond P. in
+the following terms, at pp. 566-567:
+
+"The question in any given case is whether the nature of
+the relationship is such that one party can fairly be held to
+have assumed a responsibility to the other as regards the
+reliability of the advice or information. I do not think that
+such a relationship should be found to exist unless, at least,
+the maker of the statement was, or ought to have been
+aware that his advice or information would in fact be made
+available to and be relied on by a particular person or class
+of persons for the purpose of a particular transaction or
+type of transaction. I would especially emphasise that to
+my mind it does not seem reasonable to attribute an
+assumption of responsibility unless the maker of the
+statement ought in all the circumstances, both in preparing
+himself for what he said and in saying it, to have directed
+his mind, and to have been able to direct his mind, to some
+particular and specific purpose for which he was aware that
+his advice or information would be relied on. In many
+situations that purpose will be obvious. But the annual
+accounts of a company can be relied on in all sorts of ways
+and for many purposes. It would be going too far to treat
+accountants as assuming a responsibility towards all persons
+dealing with the company or its members in reliance on
+some greater or lesser degree on the accuracy of the
+accounts, merely because it was reasonably foreseeable, in a
+general way, that a transaction of the kind in which the
+plaintiff happened to become involved might indeed take
+place. The relationship between the parties would, I think,
+be too general and not sufficiently 'special' to come within
+the principles underlying the decision in Hedley Byrne. As I
+have said, I believe it to be essential to the existence of a
+'special relationship' that the maker of the statement was
+or should have been aware that his advice was required for
+use in a specific type of contemplated transaction. This
+requirement has not always required emphasis in the course
+of judicial discussion as to the nature of a special
+relationship. Probably this is because in most cases the
+purpose for which the information was required was, on the
+facts, quite obvious. But certainly this particular point was
+made very clear indeed in Lord Denning's judgment in
+
+- 31 -
+
+Candler v. Crane, Christmas & Co. I would think that it
+must almost inevitably follow, once the maker of the
+statement is aware of a specific purpose for which his
+information will be used, that he will also have in direct
+contemplation a specific person or class of persons, even
+though unidentified by name."
+
+The New Zealand Companies Act 1955 contained provisions
+relating to the auditors' report which is similar in substance to
+those contained in the United Kingdom legislation but, with this
+variation, that the "true and fair view" which group accounts are
+certified to give are qualified by the words "so far as concerns
+members of the company." In relation to these provisions,
+Richmond P. observed, at p. 568:
+
+"The provisions of the Act to which I have just referred are
+aimed essentially at the protection of the members of the
+company and of course the auditors, whose contract of
+employment is with the company itself, are under a
+contractual duty of care to the company. These provisions
+do not encourage me to take the view that there is any
+reason why the auditors of a public company should thereby
+come under a common law duty of care to third persons
+dealing with the company or its members on the faith of
+their audit certificate, such liability being in some way
+based on a much wider principle than would apply, for
+example, in the case of auditors certifying the accounts of
+a private company. Like Quilliam J., I can also see no
+reason to differentiate between auditors as such and a firm
+of chartered accountants employed to prepare the accounts
+of the company. The only point which has given me some
+concern, so far as the statutory provisions are concerned, is
+the requirement of section 133(1) whereby a copy of the
+balance sheet and auditors' report is required to be annexed
+to the annual return and thus becomes available to the
+public under section 9(1) of the Act. But on reflection, this
+only means that the auditor of the accounts of a public
+company knows that the accounts and his report will become
+available to the public generally and, consequently, may be
+relied on by one or more members of the public to some
+greater or lesser degree, as the basis of some business
+transaction. It is not suggested, however, that the
+Companies Act imposes any statutory duty of care as
+between auditors and members of the public who rely on the
+accounts. In the case of a company whose shares are listed
+on the Stock Exchange, the auditor will also know that under
+the Stock Exchange rules a copy of the accounts must be
+made available. He knows, too, that shareholders will
+receive copies of the accounts and that the company itself
+may well make copies available to business institutions and
+individuals for various purposes. In the end all these
+matters merely add up to the fact that the auditors of a
+public company will necessarily have in his contemplation
+the possibility that the accounts may be relied on in all
+sorts of ways by persons other than the company and its
+members. This, as I have said, is not sufficient to bring
+about a 'special relationship.'"
+
+- 32 -
+
+Both Woodhouse and Cooke JJ., who favoured a wider view of responsibility, based themselves upon an interpretation of the speech of Lord Wilberforce in the Anns case [1978] A.C. 728 which required, as the first stage of the two-stage inquiry to which he there referred, no more than a consideration of whether harm was foreseeable, thus equating the 'proximate relationship' as comprehending foresight and nothing more. This is made quite clear from the following passage in the judgment of Woodhouse J. at p. 774:
+
+"In this regard it will be noticed that although the first part of the inquiry outlined by Lord Wilberforce is to ask whether 'there is a sufficient relationship of proximity' in order to decide whether there is a prima facie duty of care, he would test the sufficiency of proximity simply by the reasonable contemplation of likely harm. And, with respect, I do not think that there is any need for or any sound reason in favour of a more restrictive approach. The issue has been made increasingly complex by the successive and varying formulas that have been used in an effort to confine the general area of responsibility, in particular for negligent words or in respect of purely economic losses. At this initial stage at least it should be possible to remove some degree of uncertainty in my opinion it is done by the comprehensible and straightforward test of foreseeability."
+
+Woodhouse J. again emphasised foreseeability as the relevant test for the creation of the relationship of proximity at p. 979 of his judgment where he said:
+
+"Although an audit is undertaken on behalf of the members of a public company it must be within the reasonable contemplation of any auditor that confidence in its ability to handle its commercial arrangements would depend upon the authenticity of its accounts. A confidence that would disappear if reliance could not be put upon the audit report. So I think that when auditors deliberately undertake to provide their formal report upon the accounts of a public company they must be taken to have accepted not merely a direct responsibility to the shareholders but a further duty to those persons whom they can reasonably foresee will need to use and rely upon them when dealing with the company or its members in significant matters affecting the company assets and business. An example, no doubt, would be the banker asked to make substantial advances on the security of the company undertaking. On the other hand, there would seem to be formidable difficulties for a plaintiff who attempted to prove that an auditor should have foreseen the plaintiff's likely reliance upon some newspaper or a Stock Exchange reference to a company's accounts. However, it is sufficient for present purposes to restrict consideration to a take over offer related, as so frequently is the position, to the value of shareholders' funds. In such a situation the need to rely upon audited accounts is, I think, quite obvious. As a matter of commercial reality I think the auditor and offeror are in a relationship of close proximity."
+
+Cooke J. was to the same effect. At p. 583 he adopted, as the first step of Lord Wilberforce's two-stage approach, the
+
+- 33 -
+
+formulation which equates the relationship of proximity with foreseeability, although at an earlier stage of his judgment he seemed to be disposed to regard the essential relationship as arising not simply from the foreseeability that a member of the public might rely on the accounts as a basis of some transaction but, for a reason which I confess I do not fully understand, from the foreseeability that some member of the public might rely on the accounts for the making of a take-over bid. At p. 581 he said:
+
+"The judge in the Supreme Court was disposed to regard the requirement of filing audited accounts, which are available for public inspection, as not imposed by Parliament for the purpose of enabling people to deal confidently in reliance on the accuracy of the accounts. He thought it much more likely that the purpose was to enable a proper supervision to be exercised over the activities of companies, and to enable those concerned to ensure that the companies were not trading illegally or dishonestly. With respect, I am unable to agree with him on that point. The statutory requirements regarding the filing of financial information stem, I think, from the view that those dealing with or investing in a limited liability company have a legitimate interest in being afforded reasonable access to relevant information; and that this interest has to be balanced against the wish for confidentiality naturally entertained by family companies, and the like which do not appeal to the public for funds. . . . I would agree, though, that the provisions are probably not aimed, or at least not primarily, at protecting purchasers of shares in the market."
+
+Thus the majority of the Court of Appeal favoured a more extensive view of the circumstances from which the essential relationship between plaintiff and defendant may be inferred in a negligent statement case than had yet emerged from any decision in the United Kingdom.
+
+Now, of course, any decision of the Court of Appeal of New Zealand is entitled to the very greatest respect, but it has to be observed that the majority view was based upon an interpretation of Lord Wilberforce's observations in the Anns case which has since been severely qualified by subsequent decisions of this House.
+
+The Scott Group case has, however, since been referred to and accepted in two cases decided in the United Kingdom. In JEB Fasteners Ltd. v. Marks Bloom & Co. [1981] 3 All E.R. 289, the plaintiffs who had acquired the shares of the company as a result of a take-over, claimed damages against the company's auditors who, it was claimed, had been negligent in certifying the accounts. Woolf J. dismissed the claim on the ground that the plaintiffs failed to show the causative connection between reliance on the erroneous accounts and the take-over and his decision was subsequently affirmed by the Court of Appeal [1983] 1 All E.R. 583. In the course of this judgment, however, Woolf J. made the following observation with regard to the auditors' liability [1981] 3 All E.R. 289, 296-297:
+
+"Without laying down any principle which is intended to be of general application, on the basis of the authorities which
+
+- 34 -
+
+I have cited, the appropriate test for establishing whether a duty of care exists appears in this case to be whether the defendants knew or reasonably should have foreseen at the time the accounts were audited that a person might rely on those accounts for the purpose of deciding whether or not to take over the company and therefore would suffer loss if the accounts were inaccurate. Such an approach does place a limitation on those entitled to contend that there has been a breach of duty owed to them. First of all, they must have relied on the accounts and, second, they must have done so in circumstances where the auditors either knew that they would or ought to have known that they might. If the situation is one where it would not be reasonable for the accounts to be relied on, then, in the absence of express knowledge, the auditor would be under no duty. This places a limit on the circumstances in which the audited accounts can be relied on and the period for which they can be relied on. The longer the period which elapses prior to the acquisition being relied on, from the date on which the auditor gave his certificate, the more difficult it will be to establish that the auditor ought to have foreseen that his certificate would, in those circumstances, be relied on."
+
+Now although he disclaimed any intention of laying down a general principle, it is clear that Woolf J., like Woodhouse and Cooke JJ., was interpreting Lord Wilberforce's two-stage approach in the Anns case as establishing a test of proximity which depended on the foreseeability of harm alone and that he regarded the limits of liability as being set not by the need for any relationship other than such as might be inferred from such foreseeability but by the factual difficulties likely to be encountered in establishing foreseeability in cases in which the reliance essential to the cause of action was separated in time from the statement or advice relied upon. In the light, therefore, of the observations of Lord Keith in Kinkei in the Peabody case [1985] A.C. 210 and in Yuen Kun Yeu case [1988] A.C. 175, this case provides no very convincing authority for the respondents' proposition, although, as Bingham L.J. observed in the instant case, the facts were such as to justify a finding of a relationship of proximity without any extension of the criteria suggested by Denning L.J. in his judgment in Candler's case [1951] 2 K.B. 164.
+
+The third case upon which the respondents rely is the decision of the Outer House of the Court of Session in Twomax Ltd. v. Dickson, McFarlane & Robinson 1983 S.L.T. 98, the facts of which have a broad similarity to those in the case of JEB Fasteners and in the instant case. The court was concerned with three separate claims from investors (one of whom was a company and two of whom were individuals) who had acquired shares in a private company which, shortly after the investments were made, went into receivership and was subsequently wound-up. All three investors claimed that their respective investments were made on the faith of the company's audited accounts which had been negligently prepared and certified by the defenders, the company's auditors, in the course of their statutory audit. The Lord Ordinary (Lord Stewart), having contrasted the limitations appearing from the speeches of Lord Morris and Lord Hodson in the Hedley Byrne case with the broader formulation of general principle in the
+
+- 35 -
+
+speech of Lord Wilberforce in the Anns case, accepted the latter as governing the proper approach to the question of whether or not the essential relationship between pursuers and defenders was established in a negligent statement case and followed the guidance of the majority judgments of the New Zealand Court of Appeal in the Scott group case save that he could not draw any sensible distinction between the case of the corporate pursuer, which had acquired the controlling interest, and that of the individual minority investors. He thus, by implication rejected the suggestion that a potential bidder in the market is in some special position as compared with other investors such as to create between him and the auditors carrying out their statutory duties, a special relationship which does not arise in the case of an investor concerned to acquire only a minority interest. And this, with respect, must be correct, for there can be no logical distinction according to whether an investor is likely to acquire many shares or only a few. Such distinction as there is lies only in the scale of the potential loss which may be little or great according to the magnitude of the investment. Indeed, as he pointed out it could legitimately be said that the smaller the investment the greater the likelihood of the investor accepting the audited accounts as the basis for his action without making any independent investigation. In his result, Lord Stewart held that the knowledge to be imputed to the defenders that there would or might well be potential investors in the market who would be interested in purchasing existing shares or subscribing for new shares and who might be influenced by the accounts was sufficient to create between them and such investors the relationship of proximity which gave rise to an enforceable duty of care.
+
+This case, therefore, falls into the same category as the other two cases. All three were based upon the view of Lord Wilberforce's exposition in the Anns case which would result in foreseeability and proximity being treated as synonymous, a view which this House (and, indeed, Lord Wilberforce himself in McLoughlin v. O'Brian [1983] 1 A.C. 410) has now decisively rejected. That, of course, does not conclude the question for it would still be open to your Lordships to find in the circumstances of this case that a special relationship existed between the auditor conducting an annual audit in pursuance of his statutory duty and every potential investor in the market or, indeed, any other person who might do business with the company without relying solely upon the foreseeability of potential damage to such person. Just as, for instance, in Smith v. Eric S. Bush [1989] 2 W.L.R. 790, one of the factors giving rise to the relationship in that case was the circumstance that the plaintiff was the person who paid for the report upon which the reliance was placed, so here it might be said that a special relationship was to be found in the nature and extent of the statutory duties which the auditor is called upon the fulfil.
+
+For my part, however, I can see nothing in the statutory duties of a company's auditor to suggest that they were intended by Parliament to protect the interests of investors in the market and I see no reason in policy or in principle why it should be either desirable or appropriate that the ambit of the special relationship required to give rise to liability in cases such as the present should be extended beyond those limits which are deductible from the cases of Hedley Byrne and Smith v. Eric S. Bush. Those
+
+- 36 -
+
+limits appear to me to be correctly and admirably stated in the passages from the judgment of Richmond P. in the Scott Group case to which I have already referred. In particular, I see no reason why any special relationship should be held to arise simply from the circumstance that the affairs of the company are such as to render it susceptible to the attention of predators in the market who may be interested in acquiring all of the majority of the shares rather than merely a parcel of shares by way of addition to a portfolio. It follows that I would dismiss the respondents' cross-appeal.
+
+I turn, therefore, to the question raised by the appellants' appeal. The Court of Appeal, whilst rejecting unanimously the respondents' contention that the appellant owed them a duty of care simply as potential investors in the market, nevertheless by a majority allowed their claim that a similar duty was owed to them in their capacity as shareholders from the date when they first became registered in respect of shares which they had purchased. Now it cannot be nor is it claimed that this event created for the appellants any new or greater risk of harm in relation to a certification which had already taken place nor can it be claimed that it brought about some change in the quality or extent of the respondents' reliance upon the (ex hypothesi) inaccurate information which they had previously received and digested. The only difference in their position before registration and their position afterwards was that, as registered shareholders, they now had the statutory right to receive the accounts on which they had already relied in acquiring their original shares and to receive notice of and attend the annual general meeting of Fidelity at which the accounts were to be read and, if thought fit, approved and passed. This change of position seems, on the face of it, less than momentous and in fact they did not trouble to appoint a representative to attend the meeting on their behalf. If a distinction is to be found at all, therefore, it can only be that the nature and purpose of the statutory provisions governing the appointment and duties of auditors and the certification and publication to shareholders and others of the accounts have the effect of creating, between the auditors and individual shareholders, as potential investors in that capacity, that special relationship of proximity which is required to give rise to the duty of care but which does not exist between the auditors and the investing public generally.
+
+Now if it be right, as, for my part, I believe that it is and as the Court of Appeal has held, that no relationship of proximity and thus no duty of care exists between auditors and the investing public generally in relation to the statutory audit, I say nothing, of course, about a case where accounts are audited specifically for the purpose of submission to a potential investor - the attribution of such a duty arising from the receipt of exactly the same information by a person who happens to be the registered holder of a share in the company whose accounts are in question produces entirely capricious results. O'Connor L.J. in his dissenting judgment (1987) Q.B. 653, 715, instanced the case of a shareholder who, having purchased further shares at an overvalue on the basis of the accounts, knows the accounts to a friend who has no existing shareholding but proceeds to make a similar purchase. Each receives exactly the same information; each relies upon it in exactly the same way and for the same purpose; and the loss
+
+- 37 -
+
+sustained in both cases is identical and is equally foreseeable. Yet liability is said to exist in the one case but not in the other. One has indeed only to consider the circumstances of the instant case which must ultimately result in drawing a distinction between the loss sustained as a result of the initial purchase of shares (irrecoverable) and that sustained as a result of purchases made after the first registration (recoverable) although all purchases were made in reliance upon exactly the same information.
+
+So unreasonable a distinction must call in question the analysis which leads to it. The majority in the Court of Appeal deduced the relationship from what Bingham L.J. described, at p. 680, as "the degree of closeness between the parties." It was pointed out that although the auditors are appointed and paid by the company that is the result of the vote in the shareholders in general meeting and their remuneration is paid out of funds which might otherwise be available for distribution to shareholders by way of dividend. Their duty is to report to the shareholders whether the accounts give a true and fair view of the company's financial position and their report is sent to each shareholder as an identifiable individual. Thus, it was said, the relationship, although not a contractual one, was very close to being contractual and was moreover one in which a lack of care would be likely directly to affect the very person whose interest the auditor is engaged to protect, should that person choose to rely upon the accounts for the purpose of making or disposing of an investment. My Lords, of course I see the force of this, but, as I have already suggested, "proximity" in cases such as this is an expression used not necessarily as indicating literally "closeness" in a physical or metaphorical sense but merely as a convenient label to describe circumstances from which the law will attribute a duty of care. It is to be borne in mind that the duty of care is inseparable from the damage which the plaintiff claims to have suffered from its breach. It is not a duty to take care in the abstract but a duty to avoid causing to the particular plaintiff damage of the particular kind which he has in fact sustained. I cannot improve on the analysis which is to be found in the judgment of Brennan J. in the High Court of Australia in the Shire of Sutherland case, 60 A.L.R. 1 to which I have already referred. After citing the speech of Viscount Simonds in The Wagon Mound [1961] A.C. 388, 425, where he observed that it was vain to isolate the liability from its context and to say that B is or is not liable and then to ask for what damage he is liable, Brennan J. continued, at p. 48:
+
+"The corollary is that a postulated duty of care must be stated in reference to the kind of damage that a plaintiff has suffered and in reference to the plaintiff or a class of which the plaintiff is a member. I venture to repeat what I said in John Pfeiffer Pty. Ltd. v. Canny [1981] 148 C.L.R. 218, 241-242:
+
+"'His duty of care is a thing written on the wind unless damage is caused by the breach of that duty; there is no actionable negligence unless duty, breach and consequential damage coincide . . . for the purposes of determining liability in a given case, each element can be defined only in terms of the others.'
+
+- 38 -
+
+"It is impermissible to postulate a duty of care to avoid one kind of damage - say, personal injury - and, finding the defendant guilty of failing to discharge that duty, to hold him liable for the damage actually suffered this is of another independent kind - say, economic loss. Not only may the respective duties differ in what is required to discharge them; the duties may be owed to different persons or classes of persons. That is not to say that a plaintiff who suffers damage of some kind will succeed if, fail in an action to recover damages according to his classification of the damage he suffered. The question is always whether the defendant was under a duty to avoid or prevent that damage, but the actual nature of the damage suffered is relevant to the existence and extent of any duty to avoid or prevent it."
+
+In seeking to ascertain whether there should be imposed on the adviser a duty to avoid the occurrence of the kind of damage which the advisee claims to have suffered it is not, I think, sufficient to ask simply whether there existed a "closeness" between them in the sense that the advisee had a legal entitlement to receive the information upon the basis of which he has acted or in the sense that the information was intended to serve his interest or to protect him. One must, I think, go further and ask, in what capacity was his interest to be served and from what was he intended to be protected? A company's annual accounts are capable of being utilised for a number of purposes and if one thinks about it it is entirely foreseeable that they may be so employed. But many of such purposes have absolutely no connection with the recipient's status or capacity, whether as a shareholder, voting or non-voting, or as a debenture holder. Before it can be concluded that the duty is imposed to protect the recipient against harm which he suffers by reason of the particular use that he chooses to make of the information which he receives, one must, I think, first ascertain the purpose for which the information is required to be given. Indeed the paradigmatic Donoghue v. Stevenson case of a manufactured article requires, as an essential ingredient of liability, that the article has been used by the consumer in the manner in which it was intended to be used. (Grant v. Australian Knitting Mills Ltd. [1933] A.C. 85, 106; Junior Books v. Veitchi [1983] 1 A.C. 520, 549, 592.) I entirely follow that if the conclusion is reached that the very purpose of providing the information is to serve as the basis for making investment decisions or giving investment advice, it is not difficult then to conclude also that the duty imposed upon the adviser extends to protecting the recipient against loss occasioned by an unfortunate investment decision which is based on carelessly inaccurate information. Bingham L.J. did, indeed, conclude that the provision of guidance for the making of investment decisions was one of the purposes to be discerned in the statutory provisions. He observed, [1989] Q.B. 693, 681-682:
+
+"I think these provisions also reflect a wider and more commercial intention. The growth and development of limited liability companies over a relatively very short period have been phenomenal. Their proliferation and expansion have depended on their acceptance by the investing public as an advantageous and (on the whole) reliable medium of investment. The statutory requirements
+
+- 39 -
+
+that companies account to their members and that auditors express an independent opinion to shareholders on the truth and accuracy of company accounts are in my view designed (in part at least) to fortify confidence in the holding of shares as a medium of investment by enabling shareholders to make informed investment decisions. There are obvious reasons, both economic and social, why this end should be regarded as desirable."
+
+How far he regarded this as an essential feature of the relationship of proximity which he held to exist between the appellants and the respondents as shareholders is not, however, entirely clear, for he attributed the same intention to the legislature in relation to investors generally. He said, at p. 682D:
+
+"The publication of accounts must limit, if it cannot eliminate, the scope for rumour-inspired speculation and thus promote an informed and orderly market. It enables prospective investors, like shareholders, to make informed decisions. For such prospective investors the independent opinion of the auditor has the same significance as for existing shareholders."
+
+As I have already indicated, I am not, for my part, able to share this view of the intention of the legislature. I do not believe and I see no grounds for believing that, in enacting the statutory provisions, Parliament had in mind the provision of information for the assistance of purchasers of shares or debentures in the market, whether they be already the holders of shares or other securities or persons having no previous proprietary interest in the company. It is unnecessary to decide the point on this appeal, but I can see more force in the contention that one purpose of providing the statutory information might be to enable the recipient to exercise whatever rights he has in relation to his proprietary interest by virtue of which he receives it, by way of, for instance, of disposing of that interest. I can, however, see no ground for supposing that the legislature was intending to foster a market for the existing holders of shares or debentures by providing information for the purpose of enabling them to acquire such securities from other holders who might be minded to sell.
+
+For my part, I think that the position as regards the auditor's statutory duty was correctly summarised by O'Connor L.J. in his dissenting judgment when he said, at p. 714:
+
+"The statutory duty owed by auditors to shareholders is, I think, a duty owed to them as a body. I appreciate that it is difficult to see how the over-statement of the accounts can cause damage to the shareholders as a body; it will be the underlying reasons for the over-statement which cause damage, for example fraudulent abstraction of assets by directors or servants, but such loss is recoverable by the company. I am anxious to limit the present case to deciding whether the statutory duty operates to protect the individual shareholder as a potential buyer of further shares. If I am wrong in thinking that under the statute no duty is owed to shareholders as individuals, then I think the duty must be confined to transactions in which the shareholder can only participate because he is a shareholder. The
+
+- 40 -
+
+Companies Act 1985 imposes a duty to shareholders as a class and the duty should not extend to an individual save as a member of the class in respect of some class activity. Buying shares in a company is not such an activity."
+
+In my judgment, accordingly, the purpose for which the auditors' certificate is made and published is that of providing those entitled to receive the report with information to enable them to exercise in conjunction those powers which their respective proprietary interests confer upon them and not for the purpose of individual speculation with a view to profit. The same considerations as limit the existence of a duty of care also, in my judgment, limit the scope of the duty and I agree with O'Connor L.J. that the duty of of care is one owed to the shareholders as a body and not to individual shareholders.
+
+To widen the scope of the duty to include loss caused to an individual by reliance upon the accounts for a purpose for which they were not supplied and were not intended would be to extend it beyond the limits which are so far deducible from the decisions of this House. It is not, as I think, an extension which either logic requires or policy dictates and I, for my part, am not prepared to follow the majority of the Court of Appeal in making. In relation to the purchase of shares of other shareholders in a company, whether in the open market or as a result of an offer made to all or a majority of the existing shareholders, I can see no sensible distinction, so far as a duty of care is concerned, between a potential purchaser who is, vis-a-vis the company, a total outsider and one who is already the holder of one or more shares. Accordingly agree with what has already fallen from my noble and learned friend, Lord Bridge of Harwich, and I, too, would allow the appeal and dismiss the cross-appeal.
+
+LORD JAUNCEY OF TULLICHETTLE
+
+My Lords,
+
+It no longer requires a detailed citation of authority to vouch the well-established proposition that a negligent statement may, in certain circumstances, render the maker thereof liable for economic loss occasioned thereby to another. It is sufficient to mention Cann v. Willson 39 Ch. D. 39, the dissenting judgment of Denning L.J. in Candler v. Crane, Christmas & Co [1951] 2 K.B. 164, and two cases in this House, Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd [1964] A.C. 465 and Smith v. Eric S. Bush [1989] 2 W.L.R. 790. Whether liability exists in any particular case will depend upon whether the maker of the statement owes a duty of care to the person who has suffered loss. In this connection I cannot do better than quote the words of Lord Keith of Kinkel in Governors of Peabody Donation Fund v. Sir Lindsay Parkinson & Co. Ltd. [1985] A.C. 210, 240-241:
+
+"The true question in each case is whether the particular defendant owed to the particular plaintiff a duty of care having the scope which is contended for, and whether he was in breach of that duty with consequent loss to the
+
+- 41 -
+
+plaintiff. A relationship of proximity in Lord Atkin's sense
+must exist before any duty of care can arise, but the scope
+of the duty must depend on all the circumstances of the
+case."
+
+"So in determining whether or not a duty of care of
+particular scope was incumbent upon a defendant it is
+material to take into consideration whether it is just and
+reasonable that it should be so."
+
+The relationship of proximity to which Lord Keith referred
+is not one which is created solely by the foreseeability of harm
+resulting from carelessness in the statement, but is one in which
+some further ingredient importing proximity is present. Thus in
+Hill v. Chief Constable of West Yorkshire [1989] A.C. 53, 60 Lord
+Keith said:
+
+"It has been said almost too frequently to require repetition
+that foreseeability of likely harm is not in itself a sufficient
+test of liability in negligence. Some further ingredient is
+invariably needed to establish the requisite proximity of
+relationship between plaintiff and defendant, and all the
+circumstances of the case must be carefully considered and
+analysed in order to ascertain whether such ingredient is
+present."
+
+Once foreseeability of likely harm from a careless statement
+has been established, it becomes necessary to examine the
+circumstances in and the purposes for which the statement was
+made in order to determine whether there are also present the
+further ingredients necessary to establish the requisite proximity of
+relationship between the maker of the statement and the person
+who has acted upon it. As Bingham L.J. observed in the present
+case, the concept of proximity is somewhat elusive, extending as it
+does beyond mere physical proximity. It might be described as the
+circumstances in which the law considers it proper that a duty of
+care should be imposed on one person towards another. If in any
+given circumstances a relation of proximity is found to exist,
+consideration must still be given to the scope of the duty which
+arises therefrom. In the case of physical proximity, few problems
+will arise, but where there exists a duty of care in relation to the
+making of statements, written or oral, problems may arise if those
+statements are capable of being used for more than one purpose.
+It is not disputed in the present case that economic loss to the
+plaintiff as a shareholder was foreseeable by the auditors as a
+result of any failure on their part to exercise reasonable care in
+the conduct of the audit. What is disputed is whether the auditors
+owed any duty to individual shareholders, and if so, what was the
+scope of that duty.
+
+Before examining the circumstances in this case which may
+be relevant to the existence of a relationship of proximity, it is
+helpful to look in a little more detail at the four cases dealing
+with negligent statements to which I have already referred. In
+Cann v. Willson, 39 Ch. D. 39, valuers instructed by an intending
+mortgagor sent the valuation to solicitors acting for an intending
+mortgagee knowing that it was hoped thereby to induce the
+
+- 42 -
+
+mortgagee to make a loan. Chitty J. held that in the
+circumstances the valuers owed a duty of care to the mortgagee.
+In Candler v. Crane, Christmas & Co [1951] 2 K.B. 164, the
+accountants were aware that the accounts were to be shown by
+their employer to the plaintiff who was a potential investor, and
+indeed their clerk discussed those accounts with him. Denning
+L.J., in suggesting the circumstances in which a duty to use care
+in a statement by professional persons would exist apart from
+contract, posed three questions:
+
+First, what persons are under such duty?
+
+Secondly, to whom do those professional people owe this
+duty?
+
+And thirdly, to what transactions does the duty of care
+extend?
+
+In relation to the second question, he said, at pp. 180-181:
+
+"I will take accountants, but the same reasoning applies to
+the others. They owe the duty, of course, to their
+employer or client; and also I hold to any third person to
+whom they themselves show the accounts, or to whom they
+know their employer is going to show the accounts, so as to
+induce him to invest money or take some other action on
+them. But I do not think the duty can be extended still
+further so as to include strangers of whom they have heard
+nothing and to whom their employer without their knowledge
+may choose to show their accounts. Once the accountants
+have handed their accounts to their employer, they are not
+as a rule responsible for what he does with them without
+their knowledge or consent . . . But excluding such cases as
+those, there are some cases - of which the present is one -
+where the accountants know all the time, even before they
+present their accounts, that their employer requires the
+accounts to show a third person so as to induce him to act
+on them: and then they themselves, or their employers,
+present the accounts to him for the purpose. In such cases
+I am of opinion that the accountants owe a duty of care to
+the third person.
+
+The test of proximity in these cases is: did the accountants
+know that the accounts were required for submission to the
+plaintiff and use by him?"
+
+In relation to the third question, he said, at pp. 182-184:
+
+"[The duty of care] extends, I think, only to those
+transactions for which the accountants knew their accounts
+were required. For instance, in the present case it extends
+to the original investment of £2,000 which the plaintiff
+made in reliance on the accounts, because the accountants
+knew that the accounts were required for his guidance in
+making that investment; but it does not extend to the
+subsequent £200, which he made after he had been two
+months with the company. This distinction, that the duty
+only extends to the very transaction in mind at the time, is
+implicit in the decided cases . . . It will be noticed that I
+
+- 43 -
+
+have confined the duty to cases where the accountant
+prepares his accounts and makes his report for the guidance
+of the very person in the very transaction in question. That
+is sufficient for the decision of this case. I can well
+understand that it would be going too far to make an
+accountant liable to any person in the land who chooses to
+rely on the accounts in matters of business, for that would
+expose him to 'liability in an indeterminate amount for an
+indeterminate time to an indeterminate class': see
+Ultramares Corporation v. Touche per Cardozo C.J.
+Whether he would be liable if he prepared his accounts for
+the guidance of a specific class of persons in a specific
+class of transactions, I do not say".
+
+Denning L.J. clearly considered that the scope of any duty
+of care was limited to the precise transaction for which the
+accountants knew that the accounts were to be used. In Hedley
+Byrne [1964] A.C. 465, a company's bankers were asked by the
+plaintiffs' bankers whether the company "would be good for an
+advertising contract of £8,000 to £9,000". The company's bankers
+answered the question in the affirmative but "without
+responsibility on the part of the bank". When the company failed,
+the plaintiffs sought to recover damages from the bankers for
+negligence in making the statement. The action failed because of
+the express disclaimer of responsibility, but this House, after
+detailed review of authority, held that a negligent statement, oral
+or written, could give rise to an action of damages for economic
+loss apart from any contractual or fiduciary relationship subsisting
+between the parties. In the context of this case Hedley Byrne is
+perhaps most important for its approval of the dissenting judgment
+of Denning L.J. in Candler v. Crane Christmas & Co. After
+setting out the facts in Candler, Lord Reid said [1964] A.C. 465,
+487:
+
+"This seems to me to be a typical case of agreeing to
+assume a responsibility; the [accountants] knew why the
+plaintiff wanted to see the accounts and why their
+employers, the company, wanted them to be shown to him,
+and agreed to show them to him without even a suggestion
+that he should not rely on them".
+
+Lord Reid is again there emphasising the fact that the
+maker of the statement was aware of the purpose for which the
+accounts were required to be seen. Finally, in Smith v. Eric S.
+Bush [1989] 2 W.L.R. 790, the plaintiff applied for a mortgage to
+a building society which in pursuance of its statutory duty under
+the Building Societies Act 1962 instructed independent surveyors to
+prepare a written report as to the value of the house in question.
+The plaintiff paid to the building society a fee in respect of the
+report, and subsequently a copy thereof was provided to her.
+Without obtaining an independent valuation, the plaintiff bought the
+house which later turned out to be structurally defective. The
+surveyor was found to have been negligent in failing to discover
+the defects. This House held that, notwithstanding the presence of
+an exclusion clause in his report, he was thereby in breach of a
+duty of care owed to the plaintiff. It is clear from the speeches
+which were delivered that the facts which created the proximate
+relationship between the surveyor and the plaintiff were that the
+former knew that the valuation had been paid for by the plaintiff
+
+- 44 -
+
+and would be shown to and probably relied upon by her in deciding
+whether or not to buy the house. Thus, Lord Templeman, at p.
+799E, said:
+
+"I agree that by obtaining and disclosing a valuation, a
+mortgagee does not assume responsibility to the purchaser
+for that valuation. But in my opinion the valuer assumes
+responsibility to both mortgagee and purchaser by agreeing
+to carry out a valuation for mortgage purposes, knowing that
+the valuation fee has been paid by the purchaser and
+knowing that the valuation will probably be relied upon by
+the purchaser in order to decide whether or not to enter
+into a contract to purchase the house."
+
+Lord Templeman undoubtedly considered that one of the
+necessary ingredients of the relationship of proximity was the fact
+that the valuer knew of the particular transaction for the purposes
+of which reliance would probably be placed on his report.
+
+Lord Griffiths, at p. 816A, after setting out three criteria
+for the imposition of a duty of care on an adviser, namely,
+foreseeability of damage, proximity of relationship and
+reasonableness continued:
+
+"The necessary proximity arises from the surveyor's
+knowledge that the overwhelming probability is that the
+purchaser will rely upon his valuation, the evidence was that
+surveyors knew that approximately 90 per cent. of
+purchasers did so, and the fact that the surveyor only
+obtains the work because the purchaser is willing to pay his
+fee. It is just and reasonable that the duty should be
+imposed for the advice is given in a professional as opposed
+to a social context and liability for breach of the duty will
+be limited both as to its extent and amount. The extent of
+the liability is limited to the purchaser of the house - I
+would not extend it to subsequent purchasers."
+
+Here Lord Griffiths is limiting the existence and scope of the duty
+of care to the individual and the very transaction which were in
+the contemplation of the surveyor at the material time.
+
+My Lords, in each of these cases where a duty of care has
+been held to exist, the statement in question has, to the
+knowledge of its maker, been made available to the plaintiff for a
+particular purpose upon which he has relied. In the present case,
+the auditors, by accepting office, came to under a statutory duty to
+make their report to the members of the company. The crucial
+issue is the purpose for which the report was made. To quote the
+words of Denning L.J. in Candler case [1951] 2 K.B. 164, 183,
+what was the "very transaction" for which it was provided? To
+answer this question, it is necessary to look at the relevant
+provisions of Part VII of the Companies Act 1985.
+
+Section 221 requires every company to cause accounting
+records to be kept which should be sufficient to show and explain
+the company's transactions, and should be such as (a) to disclose
+with reasonable accuracy, the financial position of the company at
+the time, and (b) to enable the directors to ensure that any profit
+and loss account complies with the requirements of the Act. If a
+
+- 45 -
+
+company's business involves dealing in goods, the accounting
+records require to contain statements of stock at the end of each
+financial year and all statements of stocktaking from which such
+statements of stock derive. Section 227 requires that the
+directors, by subsection (1) prepare a profit and loss account for
+the financial year in respect of each accounting reference period
+of the company and, by subsection (3), prepare a balance sheet as
+at the last day of the financial year. Section 228(2) is in the
+following terms:
+
+"The balance sheet shall give a true and fair view of the
+state of affairs of the company as at the end of the
+financial year; and the profit and loss account shall give a
+true and fair view of the profit or loss of the company for
+the financial year."
+
+In terms of section 235 the directors are required to
+prepare a report "containing a fair review of the development of
+the business of the company and its subsidiaries during the
+financial year and of their position at the end of it," and giving
+particulars of, inter alia, changes in asset values, directors'
+shareholdings and other interests and contributions for political and
+charitable purposes. Section 236 makes provision for an auditors'
+report in the following, inter alia, terms:
+
+"(1) A company's auditors shall make a report to its
+members on the accounts examined by them, and on every
+balance sheet and profit and loss account, and on all group
+accounts, copies of which are to be laid before the company
+in general meeting during the auditors' tenure of office.
+
+(2) The auditors' report shall state-
+
+(a) whether in the auditors' opinion the balance sheet and
+profit and loss account and (if it is a holding company
+submitting group accounts) the group accounts have been
+properly prepared in accordance with this Act; and
+
+(b) without prejudice to the foregoing, whether in their
+opinion a true and fair view is given-
+(i) in the balance sheet, of the state of the company's
+affairs at the end of the financial year;
+(ii) in the profit and loss account (if not framed as a
+consolidated account), of the company's profit or loss for
+the financial year . . ."
+
+Section 237(1) defines auditors' duties as follows:
+
+"It is the duty of the company's auditors, in preparing their
+report, to carry out such investigations as will enable them
+to form an opinion as to the following matters-
+
+(a) whether proper accounting records have been kept by
+the company and proper returns adequate for their audit
+have been received from branches not visited by them,
+
+(b) whether the company's balance sheet and (if not
+consolidated) its profit and loss account are in agreement
+with the accounting records and returns."
+
+- 46 -
+
+Section 241 provides, inter alia:-
+
+"(1) In respect of each financial year of a company the
+directors shall lay before the company in general meeting
+copies of the accounts for the company for that year.
+
+(2) The auditors' report shall be read before the company
+in general meeting, and be open to the inspection of any
+member of the company.
+
+(3) In respect of each financial year the directors-
+
+(a) shall deliver to the registrar of companies a copy of
+the accounts for the year . . . ."
+
+The accounts of a company are defined by section 239 to
+include, inter alia, the company's profit and loss account and
+balance sheet, and the directors' and auditors' reports. In terms
+of section 240, a copy of the company's accounts must be sent to
+every member not less than 21 days before the date of the
+meeting referred to in section 241(1). Finally, section 245 imposes
+penalties on directors whose defective accounts are laid before the
+company or delivered to the Registrar of Companies.
+
+Three matters emerge from the statutory provisions, namely:
+
+(1) That the responsibility for the preparation of accounts giving
+a true and fair view of the company's financial state is
+placed fairly and squarely on the shoulders of the directors;
+
+(2) That the role of the auditors is to provide an independent
+report to the members on the proper preparation of the
+balance sheet and profit and loss account, and as to whether
+those documents give a true and fair view respectively of
+the state of the company's affairs at the end of the
+financial year and of the company's profit and loss for that
+year. Their role is thus purely investigative rather than
+creative;
+
+(3) That the company's accounts, including the auditors' report,
+will be furnished to all members of the company as well as
+to debenture holders and any other persons entitled to
+receive notice of general meeting. The accounts will, of
+course, also be available to any member of the public who
+chooses to examine the company file in the office of the
+Registrar of Companies.
+
+So much for the circumstances in which company accounts
+reach the members. Circumstances which render it inevitable that
+auditors will be aware that their report will be seen and relied
+upon by the members. However, that does not answer the
+fundamental question of the purpose, and hence the very
+transactions, for which the annual accounts of a company are
+prepared and distributed to its members. Mr. Goldsmith, for the
+auditors, submitted that the principal purpose was to provide an
+account of the stewardship of the directors to the shareholders as
+a body, and not to provide individual investors, whether
+shareholders or members of the public, with comparative
+information. Lord Bledisloe, for Caparo, on the other hand, argued
+
+- 47 -
+
+that the purpose was to enable shareholders to make such
+individual decisions as they wished in relation to the company,
+including decisions as to investment, they already being investors,
+and decisons as to voting in general meetings.
+
+In the Court of Appeal, [1989] Q.B. 633, 685D-690F Bingham
+L.J. concluded that the auditors had voluntarily assumed direct
+responsibility to individual shareholders to whom they owed a duty
+to exercise reasonable care in carrying out their audit. He further
+concluded that such duty was owed to a shareholder in respect of
+any loss sustained by him in selling, retaining, or buying shares in
+the company. At p. 686 Bingham L.J. referred to the approval by
+Cardozo J. in Ultramares Corporation v. Touche, 174 N.E. 441,
+447 of an earlier statement that:
+
+"'negligent words are not actionable unless they are
+uttered directly, with knowledge or notice that they
+will be acted on, to one to whom the speaker is
+bound by some relation of duty, arising out of public
+calling, contract or otherwise, to act with care if he
+acts at all.'
+
+He then said:
+
+"This formulation would not exclude the finding of a
+sufficiently proximate relationship in the present case if the
+words 'will be acted upon' are replaced, as in English law I
+think they should be, by 'may be acted upon.'"
+
+Taylor L.J. at, p. 703G, said:
+
+"'... once proximity to the shareholder is established the
+auditor ought prima facie to be liable for any loss suffered
+in foreseeable reliance upon the report?"
+
+In my view these observations go too far. Possibility of reliance
+on a statement for an unspecified purpose will not impose a duty
+of care on the maker to the addressee. More is required. In
+Smith v. Eric S. Bush it was probable, if not highly probable, that
+the potential purchaser would rely on the valuer's reports. This
+probable reliance was an essential ingredient in establishing
+proximity. Had it merely been a possibility that the purchaser
+would rely on the report I very much doubt whether this House
+would have decided that the valuer owed a duty of care to the
+purchaser. Furthermore, reliance, even if probable, thereby
+establishing proximity, does not establish a duty of care of
+unlimited scope. Regard must be had to the transaction or
+transactions for the purpose of which the statement was made. It
+is loss arising from such transaction or transactions rather than
+"any loss" to which the duty of care extends.
+
+I do not understand that either Bingham L.J. or Taylor L.J.,
+in reaching their conclusions, relied to any material extent upon
+the purpose for which accounts of a company, including the
+auditors' report, are provided to members or, consequently, upon
+the transactions for which the members were expected to use
+them. O'Connor L.J., in a dissenting judgment, considered that
+the statutory duty owed by auditors to shareholders was owed to
+them as a body and not as individuals.
+
+- 48 -
+
+My Lords, Part VII of the Companies Act 1985 provides that
+the accounts of a company for each financial year shall be laid
+before the company's general meeting, that is to say before the
+members in general meeting. Copies of the accounts must be sent
+to the members at least 21 days in advance, and it is obvious that
+the reason for this is to enable the members to prepare
+themselves for attendance at and participation in the meeting.
+The annual general meeting provides the opportunity for members
+to question the stewardship of the company during the preceding
+year, to vote for or against election or re-election of directors, to
+approve or disapprove the appointment or re-appointment of
+auditors and to take other decisions affecting the company as a
+whole or themselves as members of a particular class of
+shareholders. There is nothing in Part VII which suggests that the
+accounts are prepared and sent to members for any purpose other
+than to enable them to exercise class rights in general meeting. I
+therefore conclude that the purpose of annual accounts, so far as
+members are concerned, is to enable them to question the past
+management of the company, to exercise their voting rights, if so
+advised, and to influence future policy and management. Advice
+to individual shareholders in relation to present or future
+investment in the company is no part of the statutory purpose of
+the preparation and distribution of the accounts. It follows that I
+am in agreement with the views of O'Connor L.J. as to the nature
+of the statutory duty owed by auditors to shareholders.
+
+If the statutory accounts are prepared and distributed for
+certain limited purposes, can there nevertheless be imposed upon
+auditors an additional common law duty to individual shareholders
+who choose to use them for another purpose, without the prior
+knowledge of the auditors? The answer must be no. Use for that
+other purpose would no longer be use for the "very transaction"
+which Denning L.J. in the Candler case [1951] 2 K.B. 164, 183
+regarded as determinative of the scope of any duty of care. Only
+where the auditor was aware that the individual shareholder was
+likely to rely on the accounts for a particular purpose, such as his
+present or future investment in or lending to the company would a
+duty of care arise. Such a situation does not obtain in the
+present case.
+
+The Court of Appeal unanimously rejected a submission by
+Caparo that an auditor owed a duty to a potential investor who
+held no shares. In this House it was argued that the relationship
+of the unwelcome bidder in a potential takeover situation was
+nearly as proximate to the shareholder as the relationship of a
+shareholder to whom the report was directed. Since I have
+concluded that the auditor owed no duty to an individual
+shareholder, it follows that this argument must also fail. The fact
+that a company may at a time when the auditor is preparing his
+report be vulnerable to a take-over bid cannot per se create a
+relationship of proximity between the auditor and the ultimate
+successful bidder. Not only is the auditor under no statutory duty
+to such a bidder but he will have reason to at the material time to
+know neither of his identity nor of the terms of his bid. In this
+context the recent case of Al Saudi Banque v. Clark Pixley [1989]
+3 All E.R. 361 is in point. There Millett J. held that the auditors
+of a company owed no duty of care to a bank which lent money
+to the company, regardless of whether the bank was an existing
+creditor or a potential one, because no sufficient proximity of
+
+- 49 -
+
+relationship existed in either case between the auditor and the
+bank. I have no doubt that this case was correctly decided and I
+would only add that that I am in entire agreement with the
+careful process of reasoning whereby the Judge reached his
+decision.
+
+It only remains to mention the case of Twomax Ltd. v.
+Dickson, McFarlane & Robinson [1982] S.C. 113 to which your
+Lordships were referred. The Lord Ordinary (Lord Stewart) held
+that auditors owed a duty of care to potential investors who were
+not shareholders by applying the test of whether the defenders
+knew or reasonably should have foreseen at the time the accounts
+were audited that a person might rely on those accounts for the
+purpose of deciding whether or not to take over the company and
+therefore would suffer loss if the accounts were inaccurate. There
+were in that case no such findings in fact as would support the
+existence of a relationship of proximity between the auditor and
+the unknown potential investor. I therefore consider that the
+reasoning of the Lord Ordinary was unsound and that the decision
+cannot be supported.
+
+For the foregoing reasons, I would allow the appeal.
+
+- 50 -

@@ -1,0 +1,1402 @@
+© Crown Copyright
+IN THE SUPREME COURT OF JUDICATURE CHANI 92/1492/B
+IN THE COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+(LORD JUSTICE HOFFMANN)
+ Royal Courts of Justice,
+ Strand, London, WC2A 2LL.
+ Wednesday 9th March 1994.
+
+Before:
+
+THE MASTER OF THE ROLLS
+
+(Sir Thomas Bingham)
+
+LORD JUSTICE BELDAM
+
+and
+
+LORD JUSTICE SAVILLE
+
+----------------------
+
+THE LAW DEBENTURE TRUST CORPORATION PLC
+
+ Plaintiff (Respondent)
+
+- v -
+
+(1) THE URAL CASPIAN OIL CORPORATION
+
+(2) THE NORTH CAUCASIAN OIL FIELDS LIMITED
+
+(3) THE NEW SCHIBAIEFF PETROLEUM COMPANY LIMITED
+
+(4) THE GROZNY-SUNDJA OIL FIELDS LIMITED
+
+(5) HILLDON LIMITED
+
+(6) CASPIAN RESOURCES LIMITED
+
+ Defendant (Appellant)
+
+-------------------------
+
+(Transcript of the Handed Down Judgment by John Larking,
+
+Chancery House, Chancery Lane, London WC2.
+
+Telephone No. 071 404 7464.
+
+ Official Shorthand Writers to the Court.)
+
+-----------------------------------
+MISS E. GLOSTER Q.C. and MR. R. GILLIS (instructed by Messrs.
+Linklaters & Paines, London EC4) appeared on behalf of the
+Plaintiff (Respondent).
+
+MR. R. POTTS Q.C. and MR. R. SNOWDEN (instructed by Messrs
+Nabarro Nathanson, London W1X) appeared on behalf of the
+Defendant (Appellant).
+
+------------------------
+
+J U D G M E N T
+
+(As approved)
+
+-------------------------
+
+2
+
+© Crown Copyright
+
+THE MASTER OF THE ROLLS: At issue in this appeal is the scope,
+today, of the rule in Lumley v Gye (1853) 2 E & B 216. Does
+it (as one side says) cover interference by a defendant with a
+plaintiff's secondary right to relief against a third party?
+Or is it limited (as the other side says) to cases where the
+defendant has interfered with a plaintiff's primary right to
+performance by the third party? The issue has never been
+raised before and the authorities accordingly give no direct
+answer to this conundrum.
+
+The facts giving rise to the issue have been summarised
+in the appellant's skeleton argument with admirable lucidity
+and comprehensiveness and I adopt that summary almost
+verbatim.
+The first four defendants in this action ("the Russian
+Companies") are companies incorporated in England which
+formerly owned oil producing assets in the former Soviet
+Union. Those assets were expropriated following the Bolshevik
+revolution of 1917. In about 1928 each of the Russian
+Companies
+registered
+with
+H.M.
+Government
+claims
+for
+compensation in respect of the expropriated assets. The
+claims were for amounts in excess of £27 million. Down to
+1986 The Shell Petroleum Company Limited ("Shell") had a
+controlling shareholding in each of the Russian Companies.
+However, each of the Russian Companies also had several
+hundred "outside" shareholders. None of the Russian Companies
+had any substantial assets other than the compensation claims.
+
+3
+
+© Crown Copyright
+ Shell provided administrative services to each company which
+meant, in effect, that Shell was subsidising each company.
+
+In 1984 Leisure Investments plc ("Leisure") approached
+Shell with a view to acquiring Shell's interest in the Russian
+Companies. The acquisition was to be made by a subsidiary of
+Leisure,
+namely
+Leisure
+Investments
+(Overseas)
+Limited
+("Overseas"). The negotiations were protracted. Shell were
+prepared to proceed but on the footing that :-
+
+(1)Overseas was to offer to buy the shares of outside
+shareholders on the same terms as it was to buy
+Shell's shareholdings; and
+
+(2)arrangements were to be made with the Russian
+Companies
+such
+that
+any
+compensation
+payments
+received by the Russian Companies would pass to
+Shell and the outside shareholders in proportion to
+their interests before the sale of the shares to
+Overseas.
+Following such negotiations, in April 1986 Overseas made a bid
+for the share capital of each of the Russian Companies and on
+2 May 1986 the interested parties executed a series of
+documents. Each Russian Company entered into an agreement
+dated 2 May 1986 with (1) Leisure (2) Overseas and (3) Law
+Debenture. These agreements are hereinafter described as "the
+Compensation Agreements". In addition, also on 2 May 1986,
+Law Debenture executed a trust deed which took the form of a
+deed poll ("the Trust Deed").
+
+The material terms of each of the Compensation Agreements
+
+4
+
+© Crown Copyright
+were as follows :
+
+(1)It was recited inter alia that the Russian Company
+making the Compensation Agreement ("the relevant
+company") had compensation claims, that an Offer
+had been made on behalf of Overseas for the whole
+of the issued share capital of the relevant
+company, and that Law Debenture was the present
+trustee of the trusts declared for the benefit of
+(inter alia) the shareholders of the relevant
+company by the Trust Deed.
+
+(2)The relevant company agreed with Law Debenture that in
+consideration of the payment of £250 to it by Law
+Debenture the relevant company :
+
+(a)would from time to time, and within 30 days of
+the receipt of the compensation, pay to Law
+Debenture sums measured by reference to the
+amount of any compensation received by the
+relevant
+company
+in
+respect
+of
+the
+compensation claims (i) within the period of
+10 years after the date of the Compensation
+Agreement or (ii) as a result of a claim
+submitted pursuant to an Order in Council
+under the Foreign Compensation Act 1950 made
+within that period;
+
+(b)would duly and promptly make and pursue any
+claim for compensation in respect of the
+compensation claims.
+
+5
+
+© Crown Copyright
+
+(3)Law Debenture agreed with the relevant company to
+retain a proportion of the sums received from the
+relevant company pending final determination of the
+amount of any tax payable by the relevant company
+in respect of its receipt of the compensation, and
+upon that final determination to repay to the
+relevant company a sum measured by reference to
+that amount.
+
+(4)Each of Leisure and Overseas jointly and severally
+undertook to and covenanted with Law Debenture :-
+
+(a)to procure that the respective Russian Companies
+complied with and performed any actions to be
+taken in respect of their covenants in the
+Compensation Agreements; and
+
+(b)not to part with control of or to sell or
+otherwise to dispose of any shares in the
+Russian Companies acquired pursuant to the
+offers
+except
+on
+terms
+that
+any
+buyer,
+transferee or new controller entered into like
+covenants,
+mutatis
+mutandis,
+with
+Law
+Debenture.
+
+The Trust Deed provided that Law Debenture would hold any
+payment received from any of the Russian Companies pursuant to
+the Compensation Agreement with that company on trust for the
+persons who at the date of the Trust Deed were shareholders in
+that company, the compensation payment being apportioned
+between those persons according to their respective interests
+
+6
+
+© Crown Copyright
+in the assets of that company on a winding up of that company
+commencing on that date.
+
+Following execution of the Compensation Agreements and
+the Trust Deed and pursuant to the offers, Shell sold its
+shares to Overseas. Many outside shareholders also accepted
+the offers but a considerable number did not. On 14 December
+1989 Leisure sold its 100% holding of the shares of Overseas
+to Hilldon. On 15 December 1989 and 4 June 1990 the Russian
+Companies received compensation in respect of the expropriated
+assets. The total received was over £13 million. On 5 March
+1990 Overseas transferred to Hilldon the shares which had been
+acquired from Shell and from the outside shareholders who had
+accepted the take-over offers. Overseas did not require
+Hilldon to enter into any covenants with Law Debenture and
+Hilldon did not do so.
+
+On 20 June 1990 Caspian made a general take-over offer
+for all shares in the issued share capital of each of the
+Russian Companies. Hilldon and certain other shareholders in
+the Russian Companies accepted Caspian's take-over offers. In
+about October 1990 Hilldon gave effect to its acceptance by
+transferring the shares held by it to Caspian.
+
+Each of the Russian Companies has refused to make any
+payment to Law Debenture in compliance with the terms of the
+Compensation Agreements. The Russian Companies assert that
+the arrangements were entirely invalid and illegal on a number
+of grounds which need not be considered at this stage.
+
+Law Debenture instituted this present action by writ
+
+7
+
+© Crown Copyright
+issued on 15 November 1990. By writ issued on 22 March 1990
+Shell sued their solicitors for negligence in respect of the
+advice given by the solicitors in relation to the Compensation
+Agreements, the Trust Deed and otherwise in relation to the
+arrangements concluded in respect of the take-overs by
+Overseas. Shell's action against the solicitors has now been
+settled. A hearing is fixed for June to decide whether the
+Compensation Agreements can be enforced.
+
+Law Debenture's original claims against Hilldon and
+Caspian,
+which
+were
+not
+parties
+to
+the
+2
+May
+1986
+arrangements, were set out in paragraphs 8 to 13 of the
+original Statement of Claim. The effect of these claims can
+be summarised as follows :-
+
+(1)Leisure and Overseas jointly and severally undertook
+to and covenanted with Law Debenture :-
+
+(a)to procure that the respective Russian Companies
+complied with and performed any actions to be
+taken in respect of their covenants in the
+Compensation Agreements; and
+
+(b)not to part with control of or to sell or
+otherwise to dispose of any shares in the
+Russian Companies acquired pursuant to the
+Overseas offer except on terms that any buyer,
+transferee or new controller entered into like
+covenants,
+mutatis
+mutandis,
+with
+Law
+Debenture.
+
+(2)Overseas breached the above covenants by transferring
+
+8
+
+© Crown Copyright
+the shares in the Russian Companies to Hilldon.
+
+(3)By causing or procuring or accepting the transfers,
+Hilldon knowingly caused or procured or induced
+Overseas to breach the relevant covenants.
+
+(4)Alternatively, by causing or procuring or accepting
+the
+transfers,
+Hilldon
+itself
+came
+under
+an
+"implied collateral obligation" (which was said to
+be contractual) to Law Debenture to observe and
+perform the like covenants, mutatis mutandis, as
+Overseas.
+
+(5)In transferring the shares to Caspian, Hilldon acted
+in breach of the supposed "implied collateral
+obligation".
+
+(6)By causing or procuring or accepting the transfers,
+Caspian knowingly caused or procured or induced
+Hilldon
+to
+breach
+the
+"implied
+collateral
+obligation".
+
+(7)Alternatively, by causing or procuring or accepting
+the
+transfers,
+Caspian
+itself
+came
+under
+an
+"implied collateral obligation" (which was again
+said to be contractual) to Law Debenture to observe
+and perform the like covenants, as originally
+imposed
+upon
+Overseas
+and
+as
+allegedly
+"transmitted" to Hilldon.
+
+(8)Further or alternatively Caspian failed to comply with
+its own alleged "implied collateral obligation" to
+procure the Russian Companies to make payment to
+
+9
+
+© Crown Copyright
+Law Debenture.
+
+In 1991 Caspian applied for the claims against it to be
+struck out in their entirety. In 1992 Hilldon applied for all
+claims against it other than in relation to the claim in tort
+under subparagraph (3) above to be struck out. On 9 March
+1992 Hoffmann J held that the allegations by Law Debenture
+against Hilldon (other than under subparagraph (3)) and
+against Caspian disclosed no reasonable cause of action and
+struck them out : [1993] 1 WLR 138 at 141D-148G. Hoffmann J
+held (at 142G-H) that there were no grounds for implying any
+contract between Law Debenture and either Hilldon or Caspian.
+
+Law Debenture then applied for leave to amend the
+Statement of Claim so as to add additional causes of action on
+two bases ([1993] 1 WLR at 143A-C, 146E-G and 147H) :-
+
+(1)that because Hilldon and thereafter Caspian took the
+shares
+with
+knowledge
+of
+the
+breach
+of
+the
+Compensation Agreements by Overseas, they took the
+shares subject to an obligation to perform the
+covenants therein, either under the principle of De
+Mattos v Gibson (1858) 4 De G. & J. 276, 282, or
+under the principle that he who takes the benefit
+of a transaction must also take the burden;
+
+(2)that as an extension to the relief available to Law
+Debenture as a consequence of Hilldon having
+committed the tort of inducing a breach of contract
+by Overseas, Law Debenture was entitled to an order
+requiring Caspian to re-transfer the shares to
+
+10
+
+© Crown Copyright
+Hilldon.
+
+In the course of the same hearing Hoffmann J held on 9
+March 1992 that these allegations disclosed no reasonable
+cause of action and refused leave to amend. Put briefly, he
+held :-
+
+(1)that the principle in De Mattos applied only to the
+grant of a negative injunction restraining a
+purchaser
+from
+acting
+inconsistently
+with
+covenants, but could not extend to Caspian which
+was not proposing to do anything inconsistent with
+the covenants given by Overseas to Law Debenture
+(at 146A-B);
+
+(2)that section 50 of the Supreme Court Act 1981 added
+nothing as it presupposed as a condition to the
+granting of damages "in substitution" for an
+injunction that an injunction could have been
+granted. As there were no grounds for an
+injunction there are no grounds for damages either
+(at 146D);
+
+(3)that the principle of benefit and burden could not
+apply where the right and burden arose under
+different instruments; where the covenants entered
+into
+by
+Overseas
+with
+Law
+Debenture
+were
+unconnected with the transfers of shares to Hilldon
+and Caspian; and where there was no inference from
+the transfer of shares that either Hilldon or
+Caspian was intended to assume the burden of the
+
+11
+
+© Crown Copyright
+covenants given by Overseas to Law Debenture at
+146G-147H);
+
+(4)that in order to give the Court any jurisdiction to
+make any injunctive order against Caspian, Law
+Debenture had to have a cause of action against it.
+ In addition to the fact that there was no cause of
+action
+in
+contract,
+or
+under
+the
+equitable
+principle in De Mattos as noted above, there was
+also no cause of action against Caspian for the
+tort
+of
+interfering
+with
+Law
+Debenture's
+contractual
+relations
+with
+Overseas.
+
+These
+contractual
+obligations
+had
+been
+irretrievably
+broken before Caspian appeared on the scene.
+Accordingly there was no jurisdiction to grant an
+injunction against Caspian on any of these grounds
+(at 148C-G).
+
+However, following a suggestion by Hoffmann J at the end
+of the judgment on 9 March 1992 (which had not previously been
+canvassed in argument between the parties - see [1993] 1 WLR
+at 148H-149A and 150D), on 29 September 1992 Law Debenture
+sought leave to amend the Statement of Claim for a second time
+to add a new cause of action in tort. The proposed amendment
+is included in paragraph 11 of the Amended Statement of Claim.
+ It alleges :-
+
+"In the premises by causing or procuring or accepting
+such transfers [from Hilldon to Caspian], Caspian ...
+knowingly, intentionally and/or wrongfully:-
+
+12
+
+© Crown Copyright
+
+(a)rendered ineffective or sought to render ineffective
+the potential claim by the Plaintiff against
+Hilldon for the re-transfer of the shares in the
+Russian Companies to Leisure Overseas so that
+Leisure Overseas would be able, or could be
+ordered, to comply with and perform its obligations
+[under the Compensation Agreements]; and/or
+
+(b)interfered with or sought to interfere with the
+remedies available to the Plaintiff against Leisure
+Overseas
+and/or
+Hilldon
+for
+the
+breaches
+of
+contract [by Leisure Overseas] and/or for the
+tortious conduct of Hilldon [in inducing a breach
+of contract by Overseas]."
+The relief sought against Caspian is identified in paragraph 2
+of the Prayer :-
+
+"(a) Damages;
+
+(b)Further or alternatively, a Mandatory Injunction that
+Caspian do forthwith transfer or re-transfer to
+Leisure Overseas, alternatively, that Caspian do
+forthwith transfer or re-transfer to Hilldon and
+that Hilldon do thereupon forthwith transfer or re-
+transfer to Leisure Overseas all such shares in the
+Russian Companies now held by Caspian as were
+originally acquired by Leisure Overseas pursuant to
+the Offers...or subsequently acquired... in right
+of such shares;
+
+(c)Further or alternatively, damages pursuant to Section
+
+13
+
+© Crown Copyright
+50 of the Supreme Court Act 1981 in addition to or
+in substitution for such injunctive relief."
+
+In his judgment of 9 March 1992, Hoffmann J approached
+the proposed amendment as one which sought to extend the scope
+of the principle in Lumley v Gye (1853) 2 E & B 216 beyond
+interference with contractual relations to interference with
+remedies arising out of a broken contract. He readily
+accepted that there was no authority supporting any such
+liability (at 148H). In his judgment delivered on 2 November
+1992 Hoffmann LJ commented that although the principle in
+Lumley v Gye is normally termed "procuring a breach of
+contract" it is in fact a wider principle. He cited the
+following formulation of Erle J in Lumley v Gye (at 232) :-
+"It is clear that the procurement of the violation of a right
+is a cause of action in all instances where the violation
+is an actionable wrong".
+He then proceeded to set out what he concluded were the three
+essential elements to the tort. They were:-
+
+(1)a right in the plaintiff;
+
+(2)violated by an actionable wrong;
+
+(3)procured by the defendant.
+He stated that the rights capable of being violated and giving
+rise to a tort have been held to include rights conferred by
+statute and fiduciary obligations imposed in equity, such as a
+company director's duty of fidelity to the company. He
+referred (at 151C-E) to what he characterised as a "debatable
+extension" to the principle that the actionable wrong must
+
+14
+
+© Crown Copyright
+involve an actual breach of contract (or of statutory duty or
+of an equitable obligation), namely that the actionable wrong
+could be extended to non-performance by the contracting party
+which does not involve a breach of contract, and held (as is
+accepted) that this "debatable extension" was not relevant in
+the instant case. He then referred in passing to the
+extension of the concept of procurement to include knowingly
+entering into a transaction inconsistent with the contracting
+party's obligation (at 151E-F), which he accepted as well-
+established. Having made these three points, the judge
+concluded that the general principle in Lumley v Gye (and also
+that formulated by Ralph Gibson LJ in F v Wirral Metropolitan
+Borough Council [1991] Fam 69 at 107) was wide enough to cover
+a case in which the right of the plaintiff which had been
+violated was the secondary right of the plaintiff to a remedy
+arising out of the antecedent tortious inducement of a breach
+by a third party of its primary obligation under a contract
+(at 151F-H). In using that language he borrowed and adapted
+Lord Diplock's well known analysis of contractual obligations
+in Photo Production Limited v Securicor Transport Limited
+[1980] AC 827, 848. This analysis itself developed earlier
+observations of Lord Diplock in Moschi v Lep Air Services
+Limited [1973] AC 331 at 350-1. The judge accordingly ruled
+that the facts pleaded in the draft amended statement of claim
+gave rise to a cause of action in tort against Caspian and he
+gave leave to amend.
+
+Against this second decision Caspian now appeal. There
+
+15
+
+© Crown Copyright
+is no appeal against the earlier decision and no appeal by
+Hilldon (who were not represented before us). The sole
+question is whether Law Debenture's amended statement of claim
+discloses a cause of action in tort against Caspian.
+
+Law Debenture's argument in support of the judge's
+decision proceeded by a series of steps, some of which were
+challenged and some of which were not. I hope the steps are
+fairly summarised as follows :
+(1) Law Debenture had a primary contractual right against
+Overseas requiring that company not to part with the
+shares save to a transferee bound by the same covenants
+as itself. This was common ground. Plainly Law
+Debenture was entitled to due performance of the May 1986
+agreements by the other parties to them.
+(2)Hilldon was under a primary duty in tort to Law
+ Debenture not to interfere with Law Debenture's primary
+contractual right against Overseas. This was so on a
+simple application of Lumley v Gye, and Hilldon never
+challenged that allegation in Law Debenture's original
+pleading. In accepting a transfer of the shares Hilldon
+infringed Law Debenture's right and so became liable to
+Law Debenture in tort. This also was common ground.
+(3) Having tortiously interfered with Law Debenture's primary
+contractual right to performance by Overseas, Hilldon
+became subject to a secondary liability to pay damages to
+Law Debenture. This proposition was not challenged.
+(4) As a tortfeasor, Hilldon also became subject to a
+
+16
+
+© Crown Copyright
+personal liability to undo the consequences of its tort.
+ The transfer to it could have been restrained before it
+was made. After it was made, Hilldon could and on
+appropriate facts would be ordered to re-transfer the
+shares to Overseas. This step of the argument depended
+on the decision of Bridge J in Esso Petroleum Co Limited
+v Kingswood Motors (Addlestone) Limited [1974] QB 142.
+Caspian did not challenge the correctness of that
+decision or throw doubt on the court's jurisdiction to
+order re-transfer by Hilldon to Overseas. But it did
+contend that Law Debenture had no legal right to have the
+shares re-transferred and that Hilldon was subject to no
+legal duty to re-transfer them unless and until the court
+made the necessary order.
+(5) Law Debenture's right to injunctive relief against
+Hilldon, although a secondary right, was no less a right
+recognised and entitled to protection in law than a
+primary right. Caspian did not accept this.
+(6) Law Debenture's right was matched by duties on Hilldon, a
+positive duty to re-transfer the shares to Overseas and a
+negative duty not to transfer the shares elsewhere and so
+put it out of its power to perform its positive duty.
+Caspian challenged this.
+(7) Hilldon's transfer of the shares to Caspian was a breach
+of
+these
+duties
+and
+accordingly
+amounted
+to
+the
+commission of a tort additional to and independent of the
+tort committed at step (2) above. Thus by making the
+
+17
+
+© Crown Copyright
+transfer Hilldon committed an actionable wrong. This was
+the proposition which Caspian most strongly sought to
+refute.
+(8) By accepting the transfer from Hilldon in this situation,
+with the requisite knowledge and intention, Caspian also
+violated
+Law
+Debenture's
+right
+and
+was
+itself
+a
+tortfeasor guilty of an actionable wrong. It was
+therefore properly joined as a defendant on this ground.
+ Caspian rejected this conclusion.
+
+I embark on consideration of the legal issues in this
+case with a strong inclination towards the conclusion at which
+the judge arrived. It is alleged that Overseas, Hilldon and
+Caspian were at all material times under common control and
+Caspian does not deny that it had full knowledge of the terms
+of the contract between Law Debenture and Overseas and of the
+nature and effect of the transaction between Overseas and
+Hilldon. Denial of a remedy against Caspian might, as the
+judge observed (at 151G), allow the introduction of an
+additional company under the same control as the original
+contract-breaker to provide an easy escape from the salutary
+remedy devised by Bridge J in Kingswood Motors. The suspicion
+must exist that these transfers were designed, all along, to
+deprive the majority shareholders in the Russian Companies of
+the benefit for which alone they were willing to part with
+their shares. No attempt has however been made in this action
+to pierce the corporate veil which protects Hilldon and
+Caspian, and we must resist the temptation to speculate on
+
+18
+
+© Crown Copyright
+other claims which might perhaps have been made by Law
+Debenture. We must rule on the legal issues raised. It seems
+to me that these are essentially twofold :
+
+(1)Does the rule in Lumley v Gye apply to the right which
+Law Debenture asserts (as in steps (4) and (5)
+above) against Hilldon?
+
+(2)Did the transfer between Hilldon and Caspian amount to
+an actionable wrong by either of them?
+
+(1) The right
+
+Many of the cases dealing with the application of Lumley
+v Gye have referred to contractual rights, because the cases
+were concerned with alleged inducement or procurement of
+contractual breaches. But Erle J's original formulation was
+not so limited (at 232) :
+"It is clear that the procurement of the violation of a right
+is a cause of action in all instances where the violation
+is an actionable wrong, as in violations of a right to
+property, whether real or personal, or to personal
+security : he who procures the wrong is a joint wrong-
+doer, and may be sued, either alone or jointly with the
+agent, in the appropriate action for the wrong complained
+of".
+
+Early summaries of the rule accepted this. Thus in Quinn v
+Leathem [1901] AC 495 at 510 Lord Macnaghten said :
+"Speaking for myself, I have no hesitation in saying that I
+think the decision was right, not on the ground of
+malicious intention - that was not, I think, the gist of
+the action - but on the ground that a violation of legal
+right committed knowingly is a cause of action, and that
+it is a violation of legal right to interfere with
+contractual relations recognised by law if there be no
+sufficient justification for the interference".
+
+The present state of the law is in my judgment well summarised
+by Professor John Fleming in The Law of Torts (8th edn, 1992)
+
+19
+
+© Crown Copyright
+at pages 689-90, where he writes :
+"Since then the action has been actively promoted by the
+courts. Leaving behind its original link with personal
+service, it now applies to every kind of contractual
+relation, including purely commercial. Viewed as an
+illustration of the generalisation that unjustified
+"violation of a legal right committed knowingly is a
+cause of action", it is now wide enough to include even
+civil rights existing independently of contract: thus it
+would be an actionable wrong to induce a common carrier
+to refuse, in breach of his common law duty, goods
+tendered to him for carriage. More doubtful is the role
+of the action for vindicating non-economic relations; it
+has been denied for the right of parental access in
+custody disputes because it would likely be exploited for
+spiteful litigation and is better left to matrimonial
+proceedings."
+
+I would not be willing to hold that interference with a
+secondary right to a remedy (as opposed to a primary right to
+performance) could never attract the application of the Lumley
+v Gye principle. For example, if, following default by the
+principal debtor, a third party induced a guarantor to
+dishonour his secondary obligation to pay the creditor, I
+would need much persuasion that the third party was not liable
+in tort. But it does not seem to me to follow that a third
+party is necessarily liable in tort for any interference with
+any right properly regarded as secondary, particularly where
+that right is contingent. So I think it is perhaps preferable
+to
+avoid
+elaborate
+analysis
+of
+secondary
+rights
+and
+obligations and instead to ask, perhaps at the price of some
+circularity, whether violation of the right in question is an
+actionable wrong.
+
+(2) The wrong
+
+It is not in dispute that Hilldon could, on timely
+application, have been ordered to re-transfer the shares to
+
+20
+
+© Crown Copyright
+Overseas and restrained from transferring them on to Caspian
+or anyone else. It is said that Hilldon could only be
+restrained from acting unlawfully and that it would not be
+liable to such restraint if such onward transfer were lawful.
+ Therefore onward transfer is to be regarded as unlawful, as
+violating Law Debenture's right that it should not take place.
+ As a party to this onward transfer Caspian are party to the
+unlawfulness and so liable.
+
+To my mind this chain of reasoning harbours a fallacy.
+It is of course true that the courts restrain the commission
+of unlawful acts such as threatened breaches of contract or
+torts or breaches of trust and grant mandatory orders for the
+doing of things which it would be unlawful not to do. But all
+injunctive orders are not of this kind. The court will
+restrain a defendant and potential judgment debtor from making
+himself judgment-proof by dissipating his assets and may order
+him to give disclosure of assets in support of the injunction.
+ But the defendant violates no legal right of the plaintiff if
+he makes himself judgment-proof by dissipating his assets
+before he is enjoined from doing so and he does not act
+unlawfully in failing to give disclosure before he is ordered
+to do so. These are measures the court adopts to protect the
+efficacy of its orders. The Kingswood Motors injunction was,
+I think, of a similar kind.
+
+Caspian can be liable to Law Debenture if and only if
+Hilldon's transfer of the shares to it was tortious. But at
+the time this transfer was made Hilldon was the full legal and
+
+21
+
+© Crown Copyright
+beneficial owner of the shares. It had no contractual
+relationship of any kind with Law Debenture. It was liable to
+Law Debenture for its tortious conduct in procuring Overseas'
+breach of its contract with Law Debenture, but that was all.
+It was open to Law Debenture to seek an interlocutory
+injunction restraining Hilldon from making onward transfer and
+a final injunction ordering re-transfer, but application had
+not been made and injunctions had not been granted. Until
+some injunction was granted, Hilldon was in my judgment
+entitled to do what it would with its own. I cannot regard
+the onward transfer as an actionable wrong, and it would in my
+view defeat the ingenuity of any pleader to frame a plausible
+statement of claim based on that transfer alone.
+
+Mr Robin Potts QC for Caspian criticised the judgment of
+Hoffmann LJ on the ground that although the judge listed an
+actionable wrong as one of the ingredients of the cause of
+action he failed to identify any relevant actionable wrong on
+the part of Hilldon and Caspian. That seems to me a fair
+criticism. In concentrating on the right, it seems to me that
+the judge did take his eye off the wrong.
+
+I would accordingly allow Caspian's appeal, refuse Law
+Debenture leave to amend and dismiss this action against
+Caspian.
+LORD JUSTICE BELDAM: In the circumstances set out fully in the
+judgment of the Master of the Rolls, did the appellants,
+Caspian, commit the common law tort of actionable interference
+with the contractual rights of the plaintiffs, Law Debenture?
+
+22
+
+© Crown Copyright
+ The elements of the tort were stated by Jenkins L.J. in
+D.C. Thomson & Co. Ltd. v. Deakin [1952] Ch. 646. At page 696
+he said:
+
+"Nevertheless, I think that in principle an actionable
+interference with contractual relations may be committed
+by a third party who, with knowledge of a contract
+between two other persons and with the intention of
+causing its breach, or of preventing its performance,
+persuades, induces or procures the servants of one of
+those parties, on whose services he relies for the
+performance of his contract, to break their contracts of
+employment with him, either by leaving him without notice
+or by refusing to do what is necessary for the
+performance of his contract, provided that the breach of
+contract between the two other persons intended to be
+brought about by the third party does in fact ensue as a
+necessary consequence of the third party's wrongful
+interference with the contracts of employment."
+ As Lord Diplock pointed out in Merkur Island Corporation
+v. Laughton [1983] 2 AC 570 at page 607, the only interference
+with contractual rights relied on by the plaintiff in D.C.
+Thomson & Co. Ltd. v. Deakin (supra) was procuring a breach by
+a third party of a contract between the third party and the
+plaintiff. But Lord Diplock said that Jenkins L.J., though
+using the expression "breach", was not intending to confine
+the tort of actionable interference with contractual rights to
+the procuring of such non-performance of primary obligations
+under a contract as would necessarily give rise to secondary
+obligations to make monetary compensation by way of damages.
+He said:
+
+"All prevention of due performance of a primary obligation
+under a contract was intended to be included even though
+no secondary obligation to make monetary compensation
+thereupon
+came
+into
+existence
+because
+the
+second
+obligation was excluded by some force majeure clause.
+
+If there were any doubt about this matter, it was resolved in
+
+23
+
+© Crown Copyright
+1969 by the judgment of the Court of Appeal in Torquay
+Hotel Co. Ltd. v. Cousins [1969] 2 Ch. 106. That was a
+case in which the contract the performance of which was
+interfered with was one for the delivery of fuel. It
+contained a force majeure clause excusing the seller from
+liability for non-delivery of delayed, hindered or
+prevented by (inter alia) labour disputes. Lord Denning
+M.R. stated the principle thus, at page 138:
+
+"there must be interference in the execution of a
+contract. The interference is not confined to the
+procurement of a breach of contract. It extends to
+a case where a third person prevents or hinders one
+party from performing his contract, even though it
+be not a breach." (The emphasis is that of Lord
+Denning)."
+ Thus it is an actionable tort knowingly to interfere with
+another's right to performance of a contractual obligation by
+preventing or hindering the other party from performing his
+obligations under the contract and as Lord Diplock in Merkur
+Island Shipping Corp. v. Laughton (supra) said of the common
+law tort of interfering with the trade or business of another
+person by doing unlawful acts:
+
+"To fall within this genus of torts the unlawful act need not
+involve procuring another person to break a subsisting
+contract or to interfere with the performance of a
+subsisting contract." (p. 609)
+ The type of case was described by Viscount Radcliffe in
+Stratford v. Lindley [1965] AC 269 at 328 as:
+
+"One in which the defendants have inflicted injury on the
+plaintiffs in the conduct of their business and have
+resorted to unlawful means to bring this about. It
+cannot be denied that to induce breaches of contract is
+to employ unlawful means."
+ The question in the present case is whether the action of
+Caspian in taking a transfer of shares from Hilldon which
+
+24
+
+© Crown Copyright
+could impede the plaintiff's rights against Hilldon can be
+categorized as unlawful means.
+ In the present case the plaintiff has asserted a cause of
+action against Hilldon alleging that by accepting the
+transfers of the shares in the Russian companies with
+knowledge of the terms of the agreements, it caused or
+procured Leisure Overseas to breach its covenants with the
+plaintiff. Hilldon does not dispute that this allegation
+discloses a cause of action.
+ Although at the material time Leisure Overseas, Hilldon
+and Caspian are alleged to have been under common control, it
+is not suggested that there was in this case a conspiracy to
+injure the plaintiffs nor that Caspian was party to Hilldon's
+conduct constituting the tort of interfering with the
+plaintiff's contractual rights.
+ The plaintiff originally attempted to base claims against
+Caspian on Caspian's action in taking a transfer of the shares
+in the Russian companies from Hilldon. The plaintiff argued
+that Caspian then became liable to perform the covenants
+either by implication or by the principle formulated by
+Knight-Bruce L.J. in De Mattos v. Gibson [1858] 4 De G & J
+276, or alternatively that in law or equity Caspian could not
+take the benefit of the shares without assuming the burden of
+the covenants. For the reasons given by the learned judge he
+held that the plaintiffs had failed to make out a cause of
+action against Caspian on any of these grounds. Finally the
+plaintiff claimed as an extension of the relief available for
+
+25
+
+© Crown Copyright
+the tort of inducing a breach of contract a mandatory order
+first against Caspian to re-transfer the shares to Hilldon and
+then against Hilldon to re-transfer them to Leisure Overseas.
+ The learned judge rejected these claims. Against Hilldon
+such an order was no longer possible because it had
+transferred its shares to Caspian and against Caspian the
+plaintiff could demonstrate no independent cause of action on
+which to found jurisdiction in the court to make an injunctive
+order. The judge decided the plaintiff had not demonstrated a
+cause of action in tort against Caspian. Caspian had not
+played any part in inducing Leisure Overseas to break its
+covenant to the plaintiff and accordingly no arguable case had
+been raised that Caspian had interfered with the plaintiff's
+contractual rights. But the learned judge added:
+
+"The effect of the transfer to Caspian was not to interfere
+with contractual relations but to deprive the plaintiff
+of the remedy which it would have had for the inducement
+of the earlier breach of contract by Hilldon. It
+rendered ineffective the potential claim to a retransfer
+of the shares."
+ Thus the question was raised whether interference with
+contractual rights extends to interference with or hindrance
+of remedies available for a breach of contract, and the scene
+was set for the final amendment which is the subject of this
+appeal.
+ The judge held that the general principle that "where
+there is a right the law gives a remedy" and that knowingly
+entering into a transaction inconsistent with a contracting
+party's obligations as the defendant had done in the case of
+
+26
+
+© Crown Copyright
+British Motor Trade Association v. Salvadori [1949] Ch. 556
+established a general principle wide enough to cover a case in
+which the plaintiff could show that it had been prevented or
+impeded from exercising a secondary right to a remedy
+available for the tortious inducement of a breach by a third
+party of its primary obligation under a contract. Holding
+that on grounds of policy there were no reasons to deny the
+suggested extension of the cause of action, he allowed the
+amendment.
+ Mr Potts Q.C. argues that the proposed amendment
+discloses no actionable wrong because the test for an
+actionable wrong arising from breach of a primary right is
+whether the plaintiff can maintain an action in respect of the
+relevant Act. There was no direct interference with the
+performance of an obligation which the plaintiff was entitled
+to expect from Leisure because no right of the plaintiff was
+violated by the sale of the shares in the Russian Companies by
+Hilldon to Caspian. Nor was there any indirect interference
+with such obligations because there was no independently
+unlawful act on the part of Caspian in taking a transfer of
+the shares from Hilldon.
+ The plaintiff supports the learned judge's decision that
+the plaintiff had a right to performance of the secondary
+obligation by Hilldon which it could enforce by seeking a
+mandatory restoratory injunction. The circumstances were
+similar to those in which Lord Bridge (then Bridge J.) granted
+an injunction in Esso Petroleum Co. Ltd. v. Kingswood Motors
+
+27
+
+© Crown Copyright
+(Addlestone) Ltd. and Others [1974] 1 QB 142. In that case
+Lord Bridge granted a mandatory order against the second and
+third defendants ordering them to reconvey property which they
+had procured to be transferred to them in direct breach of the
+first defendant's contractual obligations to the plaintiff.
+ Lord Bridge, however, emphasised the discretionary nature
+of the remedy of mandatory injunction. See page 157.
+ The Master of the Rolls has listed the steps in the
+argument of Miss Gloster Q.C. for the plaintiff. In essence
+her argument was that by accepting a transfer of the shares
+from Hilldon, Caspian had interfered with the plaintiff's
+right to obtain a mandatory injunction against Hilldon or
+alternatively
+had
+prevented
+or
+hindered
+Hilldon
+from
+performing a correlative obligation to retransfer the shares
+to Leisure.
+ Insofar as the plaintiff's argument depends upon the
+analysis of the contractual obligations as primary or
+secondary by Lord Diplock in Photo Productions Ltd. v.
+Securicor and which arise by implication from the terms of the
+contract at common law, it is not irrelevant that Lord Diplock
+began his exposition at page 848 by saying:
+
+"Leaving aside those comparatively rare cases in which the
+court is able to enforce a primary obligation by
+decreeing specific performance of it, breaches of primary
+obligations give rise to substituted or secondary
+obligations on the part of the party in default and, in
+some cases, may entitle the other party to be relieved
+from further performance of his own primary obligations."
+ A party whose contract can give rise to a claim for
+specific performance in equity may nevertheless prefer to
+
+28
+
+© Crown Copyright
+claim damages for breach. Although a court will not decree
+specific performance of some contracts, for example contracts
+of service, it may grant injunctions to restrain conduct which
+is inconsistent with the performance of primary contractual
+obligations. I can see the force of the argument that, if a
+plaintiff can obtain an injunction to restrain action
+inconsistent with the performance of a contractual obligation,
+he ought equally to be able to obtain an injunction to
+restrain a third party from procuring action inconsistent with
+his primary right to performance of the obligations under the
+contract. That is because the third party is threatening to
+commit a tort which is actionable. Equally, if as in the case
+of Acrow (Automation) Ltd. v. Rex Chainbelt [1971] 3 AER 1175,
+it is to be regarded as unlawful to do an act which amounts to
+contempt of court because it interferes with the rights of a
+party who has obtained an injunction, it is difficult to see
+why it should not similarly be regarded as unlawful to do acts
+which might prevent or hinder the obtaining of an injunction.
+ But I am not persuaded that an act, otherwise lawful but
+which to the knowledge of the person doing it might prevent a
+third party from seeking equitable relief against breach of a
+primary obligation under a contract, is in itself capable of
+giving rise to a cause of action in tort.
+ The claimed extension of the cause of action would appear
+to be confined to equitable remedies
+arising
+from
+breach
+of
+primary
+obligations.
+
+Although
+a
+secondary
+
+29
+
+© Crown Copyright
+obligation to pay damages will on Lord
+Diplock's analysis arise, the right to
+claim
+equitable
+relief
+by
+way
+of
+injunction
+is
+conditional
+upon
+the
+secondary obligation being inadequate to
+vindicate the plaintiff's primary right.
+ Injunctions compelling the performance
+of positive obligations have much in
+common
+with
+specific
+performance,
+excluded from Lord Diplock's analysis.
+So have mandatory restorative injunctions
+which compel the undoing of a wrong.
+They are remedies which a plaintiff may
+seek from the court, either to compel
+performance of a primary obligation or to
+restrain
+the
+defendant
+from
+actions
+inconsistent with the primary obligations
+under the contract. In my view they are
+not themselves secondary rights arising
+by implication from the terms of the
+agreement. Whilst I consider that, if an
+injunction had been obtained by the
+plaintiffs against Hilldon, action taken
+by Caspian which prevented or impeded
+Hilldon from complying with its terms
+would under the principle in the case of
+Acrow v. Rex Chainbelt (supra) have
+
+30
+
+© Crown Copyright
+amounted to an unlawful act actionable by
+the plaintiff, until such an injunction
+had been obtained the transfer of the
+shares from Hilldon to Caspian and their
+acceptance by Caspian was not actionable
+by
+the
+plaintiff
+and
+therefore
+not
+tortious. I accordingly agree with the
+Master of the Rolls that the appeal
+should be allowed.
+LORD JUSTICE SAVILLE: For the purposes of the appeal it is
+assumed that the Hilldon, by taking an unencumbered transfer
+of shares from Overseas, committed the tort of inducing
+Overseas to break a legal contractual obligation owed by the
+latter to the Plaintiffs not to make any such transfer.
+Caspian were not party to this tort, but afterwards took a
+transfer of the shares from Hilldon. It is also assumed for
+the purpose of this appeal that Caspian procured Hilldon to
+make this further transfer in order to put it out of the power
+of the Plaintiffs to seek an order requiring Hilldon to
+transfer the shares back to Overseas, by way of a remedy for
+the tort committed by Hilldon.
+
+The Plaintiffs have pleaded that this act of inducement
+by Caspian was a itself a tort. They accept that in order to
+sustain this pleading they must establish that what Caspian
+procured Hilldon to do was something unlawful ie a violation
+of a legal right of the Plaintiffs.
+
+Miss Gloster QC for the Plaintiffs submitted that when
+Hilldon committed the first tort, that company came under a
+legal obligation to the Plaintiffs to make recompense for that
+tort. The Plaintiffs therefore had a correlative legal right
+to such recompense, which included a right to have the shares
+transferred back to Overseas. Caspian procured Hilldon to put
+it out of their power to perform this obligation, by the
+
+31
+
+© Crown Copyright
+further transfer of the shares. Miss Gloster submitted that
+the transfer must have been an unlawful act on the part of
+Hilldon, since the Plaintiffs, had they known that it was
+about to take place, could have obtained a permanent
+injunction to restrain it, on the grounds that in consequence
+of the tort they had the right to require the shares to be
+returned whence they came: see Esso Petroleum Co. Ltd v
+Kingswood Motors(Addlestone) Ltd [1974] QB 142. A permanent
+injunction will only issue to prohibit acts which the law
+categorizes as unlawful. Thus it must follow that the transfer
+was an unlawful act. Since it was knowingly procured by
+Caspian, all the relevant ingredients of a tort by Caspian are
+present.
+
+Mr Potts QC for Caspian submitted that the transfer by
+Hilldon was not an actionable wrong, and that only unlawful
+acts that are actionable wrongs can form the basis of the tort
+under consideration. The transfer of the shares from Hilldon
+to Caspian was not in itself an actionable wrong. The
+Plaintiffs could not sue Hilldon and obtain a retransfer of
+the shares without relying on a different actionable wrong,
+namely the procurement of the transfer from Overseas. The
+latter actionable wrong was one for which it is not alleged
+that Caspian were responsible.
+
+In my judgment this is not conclusive. It seems to me
+that the basis of the tort is that it is wrong to procure
+another to do something unlawful by way of a violation of the
+rights of the plaintiff. The fact that what is done is
+unlawful by reason of some prior unlawfulness seems to me to
+be neither here nor there. Two wrongs do not make a right. For
+my own part I would respectfully accept and adopt the
+proposition of Lord MacNaughton in Quinn v Leatham [1901] AC
+495 at 510, that unjustified "violation of a legal right
+committed knowingly is a cause of action". The question
+therefore is whether Caspian did knowingly violate a legal
+right of the Plaintiffs by procuring Hilldon to transfer the
+shares.
+
+32
+
+© Crown Copyright
+
+The suggested legal right in the present case must be (if
+anything) what has been described as a secondary right, to
+distinguish it from the primary legal right to performance of
+the contract or other primary legal obligation. If the primary
+obligation is not performed then as a matter of law there
+arises a right to recompense. In the context of contract, for
+example, the contracting parties make promises to each other.
+It is their primary obligation to perform those promises. To
+the extent that they fail to do so, the primary obligation is
+(subject to contractual provisions to the contrary) replaced
+by a secondary obligation to make recompense for the breach.
+Both
+primary
+and
+secondary
+obligations
+give
+rise
+to
+correlative rights and I accept that both can properly be
+described as legal rights and obligations.
+
+In the present case the suggested legal right is the
+secondary right to obtain an order against Hilldon for the
+return of the shares. Mr Potts submitted that until such an
+order was actually obtained, it was not unlawful for Hilldon
+to dispose of the shares, so that in truth at the material
+time there was no violation of the Plaintiffs' legal rights.
+
+Mr Potts supported this submission by examining the case
+of another secondary right, namely that of damages. If the
+Plaintiffs were right in contending that there was a violation
+of a legal right in the present case, then the same would
+follow where, before a Mareva Injunction was obtained, a third
+party procured the defendant to dissipate his assets. This,
+submitted Mr Potts, cannot be right, for the defendant only
+acts unlawfully, in violation of the plaintiffs' secondary
+right to damages, if he seeks to dissipate his assets after
+the grant of a Mareva. Given this is the position, a third
+party procuring the defendant to dissipate his assets before
+the grant of a Mareva is not procuring the doing of anything
+unlawful at all.
+
+Not without some doubts I am convinced by this argument.
+It might be suggested that there is some distinction between a
+Mareva injunction and the type of injunctive relief under
+
+33
+
+© Crown Copyright
+discussion in the present case. It could be said that Mareva
+relief is not by way of recognizing and enforcing a secondary
+right to damages, but a means of protecting the value of that
+right, by way of temporarily creating a new right and
+obligation in respect of the defendant's assets. In other
+words, a Mareva injunction is not (unlike the injunction under
+consideration) the remedy for an existing wrong, but a means
+of temporarily preserving that remedy. Since the right does
+not exist until a Mareva injunction is granted there is indeed
+no question of the defendant being under any pre-existing
+legal obligation with regard to his assets so that a third
+party would not be violating any right of the plaintiff by
+procuring their disposal before a Mareva was granted.
+
+This distinction has some attractions, but in my view it
+contains a logical flaw. The Plaintiffs have to assert that
+they had the right, from the time of the original tort, to an
+injunction requiring Hilldon to transfer back the shares. An
+injunction is a discretionary remedy. As to this the
+Plaintiffs submit that on the pleaded facts the Court would
+have exercised its discretion in their favour. Thus they
+assert the existence of a legal right and obligation predating
+the grant of such an Injunction. However, by exactly the same
+process of reasoning, a plaintiff who has all the material
+required to obtain a Mareva injunction could say that he too
+therefore has a right (and the defendant a corresponding
+obligation) with regard to the defendants' assets even before
+a Mareva was granted; yet it seems to me clear that this
+cannot be the law.
+
+In the end therefore I am driven to the conclusion that
+the fallacy in the Plaintiffs' argument lies in the assertion
+that to dispose of the shares before an order was made
+prohibiting this and requiring their return, amounts to a
+violation of the Plaintiffs' legal rights. It seems to me that
+the right asserted by the Plaintiffs only arises when the
+Court makes the order in question.
+
+For these reasons I too would allow this appeal, refuse
+
+34
+
+© Crown Copyright
+leave to amend and dismiss the action against Caspian.
+
+Order: Appeal allowed with costs. Leave to appeal to the
+House of Lords refused.

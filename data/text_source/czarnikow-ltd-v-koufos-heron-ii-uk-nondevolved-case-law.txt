@@ -1,0 +1,1824 @@
+Die Martis, 17° Octobris 1967
+
+Upon Report from the Appellate Committee, to whom
+was referred the Cause Koufos against C. Czarnikow
+Limited, that the Committee had heard Counsel
+as well on Monday, the 12th, as on Tuesday, the 13th,
+Wednesday, the 14th, Thursday, the 15th, Monday, the
+19th, Tuesday, the 20th, Wednesday, the 21st and Thurs-
+day the 22nd days of June last, upon the Petition and
+Appeal of Nicolas Demitris Koufos, of 80b Vassileos
+Constantinou Avenue, Piraeus, Greece, praying, That
+the matter of the Order set forth in the Schedule thereto,
+namely, an Order of Her Majesty's Court of Appeal of
+the 5th of April 1966, might be reviewed before Her
+Majesty the Queen, in Her Court of Parliament, and
+that the said Order might be reversed, varied or altered,
+or that the Petitioner might have such other relief in the
+premises as to Her Majesty the Queen, in Her Court
+of Parliament, might seem meet; as also upon the Case
+of C. Czarnikow Limited, lodged in answer to the said
+Appeal; and due consideration had this day of what was
+offered on either side in this Cause:
+
+It is Ordered and Adjudged, by the Lords Spiritual
+and Temporal, in the Court of Parliament of Her
+Majesty the Queen assembled, That the said Order of
+Her Majesty's Court of Appeal, of the 5th day of April
+1966, complained of in the said Appeal, be, and the
+same is hereby, Affirmed, and that the said Petition and
+Appeal be, and the same is hereby, dismissed this House:
+And it is further Ordered, That the Appellant do pay,
+or cause to be paid, to the said Respondents the Costs
+incurred by them in respect of the said Appeal, the
+amount thereof to be certified by the Clerk of the Parlia-
+ments.
+
+Koufos v.
+Czarnikow
+Limited.
+
+HOUSE OF LORDS
+43
+
+KOUFOS
+v.
+C. CZARNIKOW LIMITED
+
+My Lords
+
+Lord Reid
+Lord
+Morris of
+Borth-y-
+Gest
+Lord
+Hodson
+Lord Pearce
+Lord
+Upjohn
+
+By charter Party of 15th October, 1960 the Respondents chartered the
+Appellant's Vessel, Heron II, to proceed to Constanza, there to load a cargo
+of 3,000 tons of sugar, and to carry it to Basrah, or, in the Charterer's option,
+to Jeddah. The vessel left Constanza on 1st November. The option was
+not exercised and the vessel arrived at Basrah on 2nd December. The Umpire
+has found that "a reasonably accurate prediction of the length of the voyage
+was twenty days". But the vessel had in breach of contract made deviations
+which caused a delay of nine days.
+
+It was the intention of the Respondents to sell the sugar "promptly after
+"arrival at Basrah and after inspection by merchants". The Appellant did
+not know this but he was aware of the fact that there was a market for sugar
+at Basrah. The sugar was in fact sold at Basrah in lots between 12th and 22nd
+December but shortly before that time the market price had fallen partly by
+reason of the arrival of another cargo of sugar. It was found by the Umpire
+that if there had not been this delay of nine days the sugar would have fetched
+£32 10s. 0d. per ton. The actual price realised was only £31 2s. 9d. per ton.
+The Respondents claim that they are entitled to recover the difference as
+damage for breach of contract. The Appellant admits that he is liable to pay
+interest for nine days on the value of the sugar and certain minor expenses but
+denies that fall in market value can be taken into account in assessing damages
+in this case.
+
+McNair J., following the decision in The Parana L.R. 2 P.D. 118, decided
+this question in favour of the Appellant. He said:
+
+"In those circumstances it seems to me almost impossible to say that
+"the shipowner must have known that the delay in prosecuting the
+"voyage would probably result, or be likely to result, in this kind of loss."
+
+The Court of Appeal by a majority (Diplock and Salmon L.JJ., Sellers L.J.
+dissenting) reversed the decision of the trial judge. The majority held that
+The Parana laid down no general rule and, applying the rule (or rules) in
+Hadley and Another v. Baxendale and Others (1854) 9 Ex. 341 as explained in
+Victoria Laundry (Windsor) Ltd. v. Newman Industries Ltd. [1949] 2 K.B. 528,
+they held that the loss due to fall in market price was not too remote in the
+recoverable as damages.
+
+It may be well first to set out the knowledge and intention of the
+parties at the time of making the contract so far as relevant or argued to be
+relevant. The Charterers intended to sell the sugar in the market at Basrah
+on arrival of the vessel. They could have changed their mind and exercised
+their option to have the sugar delivered at Jeddah but they did not do so.
+There is no finding that they had in mind any particular date as the likely date
+of arrival at Basrah or that they had any knowledge or expectation that in late
+November or December there would be a rising or a falling market. The
+shipowner was given no information about these matters by the Charterers.
+He did not know what the Charterers intended to do with the sugar. But
+he knew there was a market in sugar at Basrah, and it appears to me that
+if he had thought about the matter, he must have realised that at least it
+was not unlikely that the sugar would be sold in the market at market
+price on arrival. And he must be held to have known that in any ordinary
+market prices are apt to fluctuate from day to day; but he had no reason
+to suppose it more probable that during the relevant period such fluctuation
+
+2
+would be downwards rather than upwards—it was an even chance that the
+fluctuation would be downwards.
+
+So the question for decision is whether a plaintiff can recover as damages
+for breach of contract a loss of a kind which the defendant, when he made
+the contract, ought to have realised was not unlikely to result from a breach
+of contract causing delay in delivery. I use the words "not unlikely" as
+denoting a degree of probability considerably less than an even chance but
+nevertheless not very unusual and easily foreseeable.
+
+For over a century everyone has agreed that remoteness of damage in
+contract must be determined by applying the rule (or rules) laid down by A
+Court including Lord Wensleydale (then Parke B.), Martin B and Alderson B.
+in Hadley v. Baxendale. But many different interpretations of that rule
+have been adopted by judges at different times. So I think that one ought
+first to see just what was decided in that case, because it would seem wrong
+to attribute to that rule a meaning which, if it has been adopted in that
+case, would have resulted in a contrary decision of that case.
+
+In Hadley v. Baxendale the owners of a flour mill at Gloucester which
+was driven by a steam engine delivered to common carriers, Pickford & Co.,
+a broken crank shaft to be sent to engineers in Greenwich. A delay of
+five days in delivery there was held to be in breach of contract and the
+question at issue was the proper measure of damages. In fact the shaft
+was sent as a pattern for a new shaft and until it arrived the mill could
+not operate. So the owners claimed £300 as loss of profit for the five
+days in which resumption of work was delayed on this breach of contract.
+But the carriers did not know that delay would cause loss of this business.
+Alderson B. delivering the judgment of the Court said (at page 355):
+
+"We find that the only circumstances here communicated by the
+"plaintiffs to the defendants at the time the contract was made were
+"that the article to be carried was the broken shaft of a mill, and that
+"the plaintiffs were the millers of that mill. But how do these circum-
+"stances show reasonably that the profits of the mill must be stopped
+"by an unreasonable delay in the delivery of the broken shaft by the
+"carrier to the third person? Suppose the plaintiffs had another shaft
+"in their possession put up or putting up at the time, and that they
+"only wished to send back the broken shaft to the engineer who made
+"it; it is clear that this would be quite consistent with the above
+"circumstances, and yet the unreasonable delay in the delivery would
+"have no effect upon the intermediate profits of the mill. Or, again,
+"suppose that at the time of the delivery to the carrier the machinery
+"of the mill had been in other respects defective, then also the same
+"results would follow."
+
+Then, having said that in fact the loss of profit was caused by the delay,
+he continued:
+
+"But it is obvious that in the great multitude of cases of millers
+"sending off broken shafts to third persons by a carrier under ordinary
+"circumstances, such consequences would not, in all probability, have
+"occurred."
+
+Alderson B. clearly did not and could not mean that it was not reasonably
+foreseeable that delay might stop the resumption of work in the mill. He
+merely said that in the great multitude—which I take to mean the great
+majority—of cases this would not happen. He was not distinguishing
+between results which were foreseeable or unforeseeable, but between
+results which were likely because they would happen in the great majority
+of cases, and results which were unlikely because they would only happen
+in a small minority of cases. He continued:
+
+"It follows, therefore, that the loss of profits here cannot reasonably
+"be considered such a consequence of the breach of contract as could
+"have been fairly and reasonably contemplated by both the parties
+"when they made this contract."
+
+He clearly meant that a result which will happen in the great majority of
+cases should fairly and reasonably be regarded as having been in the
+
+3
+contemplation of the parties, but that a result which, though foreseeable
+as a substantial possibility, would only happen in a small minority of cases
+should not be regarded as having been in the contemplation of the parties,
+should not be regarded as having been in their contemplation. He was
+referring to such a result when he continued:
+"For such loss would neither have flowed naturally from the breach
+"of this contract in the great multitude of such cases occurring under
+"ordinary circumstances, nor were the special circumstances, which
+"perhaps would have made it a reasonable and natural consequence
+"of such breach of contract, communicated to or known by the
+"defendants."
+I have dealt with the latter part of the judgment before coming to the
+well known rule because the Court were there applying the rule and the
+language which was used in the latter part appears to me to throw consider-
+able light on the meaning which they must have attached to the rather vague
+expressions used in the rule itself. The rule is that the damages "should
+"be such as may fairly and reasonably be considered either arising naturally,
+"i.e. according to the usual course of things from such breach of contract
+"itself, or such as may reasonably be supposed to have been in the con-
+"templation of both parties at the time they made the contract as the
+"probable result of the breach of it."
+I do not think that it was intended that there were to be two rules
+or that two different standards or tests were to be applied. The last two
+passages which I quoted from the end of the judgment applied to the facts
+before the Court which did not include any special circumstances communicated
+to the defendants and the line of reasoning there is that because in
+the great majority of cases loss of profit would not in all probability have
+occurred, it followed that this could not reasonably be considered as having
+been fairly and reasonably contemplated by both the parties for it would
+not have flowed naturally from the breach in the great majority of cases.
+I am satisfied that the Court did not intend that every type of damage
+which was reasonably foreseeable by the parties when the contract was made
+should either be considered as arising naturally i.e. in the usual course of
+things or be supposed to have been in the contemplation of the parties.
+Indeed the decision makes it clear that a type of damage which was plainly
+foreseeable as a real possibility but which would only occur in a small minority
+of cases cannot be regarded as arising in the usual course of things or be
+supposed to have been in the contemplation of the parties; the parties are
+not supposed to contemplate as grounds for the recovery of damage any
+type of loss or damage which on the knowledge available to the defendant
+would appear to him as only likely to occur in a small minority of cases.
+In cases like Hadley v. Baxendale or the present case it is not enough that
+in fact the plaintiff's loss was directly caused by the defendant's breach of
+contract. It clearly was so caused in both. The crucial question is whether,
+on the information available to the defendant when the contract was made,
+he should, or the reasonable man in his position would, have realised that
+such loss was sufficiently likely to result from the breach of contract to make
+it proper to hold that the loss flowed naturally from the breach or that loss
+of that kind should have been within his contemplation.
+The modern rule in tort is quite different and it imposes a much wider
+liability. The defendant will be liable for any type of damage which is
+reasonably foreseeable as liable to happen even in the most unusual case,
+unless the risk is so small that a reasonable man would in the whole circum-
+stances feel justified in neglecting it. And there is good reason for the
+difference. In contract, if one party wishes to protect himself against a
+risk which to the other party would appear unusual, he can direct the other
+party's attention to it before the contract is made, and I need not stop to
+consider in what circumstances the other party will then be held to have
+accepted responsibility in that event. But in tort there is no opportunity
+for the injured party to protect himself in that way, and the tortfeasor cannot
+reasonably complain if he has to pay for some very unusual but nevertheless
+329304
+A 2
+
+4
+foreseeable damage which results from his wrongdoing. I have no doubt
+that to-day a tortfeasor would be held liable for a type of damage as unlikely
+as was the stoppage of Hadley's Mill for lack of a crankshaft; to anyone
+with the knowledge the carrier had that may have seemed unlikely but the
+chance of it happening would have been seen to be far from negligible. But
+it does not at all follow that Hadley v. Baxendale would to-day be differently
+decided.
+As long ago as 1872 Willes J. said in Horne v. Midland Railway Co. L.R.
+7 C.P. 583 at page 590:
+"The cases as to the measure of damages for a tort do not apply
+"to a case of contract. That was suggested in a case in Bulstrode but
+"the notion was corrected in Hadley v. Baxendale. The damages are
+"to be limited to those that are the natural and ordinary consequences
+"which may be supposed to have been in the contemplation of the
+"parties at the time of making the contract."
+And in Cory v. Thames Ironworks L.R. 3 Q.B. 181 Blackburn J said (at
+page 190):
+"I think in all comes to this: the measure of damages when a party
+"has not fulfilled his contract is what might be reasonably expected
+"in the ordinary course of things to flow from the non-fulfilment of the
+"contract, not more than that, but what might be reasonably expected
+"to flow from the non-fulfilment of the contract in the ordinary state of
+"things, and to be the natural consequence of it. The reason why the
+"damages are confined to that is, I think, pretty obvious, viz. that
+"if the damage were exceptional and unnatural damage, to be made
+"liable for that would be hard upon the seller, because if he had known
+"what the consequences would be he would probably have stipulated for
+"more time or, at all events, have used greater exertions if he knew
+"that that extreme mischief would follow from the non-fulfilment of
+"his contract."
+It is true that in some later cases opinions were expressed that the measure
+of damages is the same in tort as it is in contract, but those were generally
+cases where it was sought to limit damages due for a tort and not cases where
+it was sought to extend damages due for breach of contract, and I do
+not recollect any case in which such opinions were based on a full con-
+sideration of the matter. In my view these opinions must now be regarded
+as erroneous.
+For a considerable time there was a tendency to set narrow limits to
+awards of damages. Such phrases were used as that the damage was
+not "the immediate and necessary effect of the breach of contract" (per
+Cockburn C.J. in Hobbs v. The London and South Western Railway Com-
+pany L.R. 10 Q.B. 111 at page 118). The Parana was decided during that
+period. But later a more liberal tendency can be seen. I do not think it
+useful to review the authorities in detail but I do attach importance to what
+was said in this House in R. & H. Hall, Ltd. v. W. H. Pim (Junior)
+& Co. Ltd. (1928) 33 Com. Cas. 324.
+In that case Pim sold to a cargo of wheat to Hall but failed to deliver it.
+Hall had resold the wheat but as a result of Pim's breach of contract lost
+the profit which they would have made on their sub-sale. Three of their
+Lordships dealt with the case on the basis that the relevant question was
+whether it ought to have been in the contemplation of the parties that a
+resale was probable. The finding of the arbitrators was:
+"The arbitrators are unable to find that it was in the contemplation
+"of the parties or ought to have been in the contemplation of Messrs.
+"Pim at that time that the cargo would be resold or was likely to be
+"resold before delivery; in fact the chances of its being resold as a
+"cargo and of its being taken delivery of by Messrs. Hall were about
+"equal."
+On that finding the Court of Appeal had decided in favour of Pim, saying
+that, as the arbitrators had stated as a fact that the chances of the cargo
+
+5
+being resold or not being resold were equal, it was therefore "idle to
+"speak of a likelihood or of a probability of a resale".
+Lord Dunedin pointed out that it was for the Court to decide what was
+to be supposed to have been in the contemplation of the parties, and then
+said:
+"I do not think that 'probability' . . . means that the chances
+"are all in favour of the event happening. To make a thing probable
+"it is enough, in my view, that there is an even chance of its happening.
+"That is the criterion I apply, and in view of the facts, as I have said
+"above, I think there was here in the contemplation of the parties the
+"probability of a resale."
+He did not have to consider how much less than a fifty per cent chance would
+amount to a probability in this sense.
+Lord Shaw went rather farther. He said:
+"To what extent in a contract for goods for future delivery the
+"extent of damages is in contemplation of parties is always extremely
+"doubtful. The main business fact is that they are thinking of the
+"contract being performed and not of its being not performed. But
+"with regard to the latter if their contract shows that there were
+"instances or stages which made ensuing losses or damage a not un-
+"likely result of the breach of the contract, then all such results must
+"be reckoned to be within not only the scope of the contract, but the
+"contemplation of parties as to its breach."
+Lord Phillimore was less definite and perhaps went even farther. He
+said that the sellers of the wheat knew that the buyers "might well sell it
+"over again and make a profit on the resale", and that being so they "must
+"be taken to have consented to this state of things and thereby to have
+"made themselves liable to pay" the profit on a resale.
+It may be that there was nothing new in this but I think that Hall's
+case must be taken to have established that damages are not to be regarded
+as too remote merely because, on the knowledge available to the defendant
+when the contract was made, the chance of the occurrence of the event which
+caused the damage would have appeared to him to be rather less than an
+even chance. I would agree with Lord Shaw that it is generally sufficient
+that that event would have appeared to the defendant as not unlikely to occur.
+It is hardly ever possible in this matter to assess probabilities with any
+degree of mathematical accuracy. But I do not find in that case or in cases
+which preceded it any warrant for regarding as within the contemplation
+of the parties any event which would not have appeared to the defendant,
+had he thought about it, to have a very substantial degree of probability.
+So then is the law said that the liability of defendants has been further
+extended by Victoria Laundry (Windsor) Ltd. v. Newman Industries Ltd.
+[1949] 2 K.B. 528. I do not think so. The plaintiffs bought a large boiler
+from the defendants and the defendants were aware of the general nature of
+the plaintiffs' business and of the plaintiffs' intention to put the boiler into
+use as soon as possible. Delivery of the boiler was delayed in breach of
+contract and the plaintiffs claimed as damages loss of profit caused by the
+delay. A large part of the profit claimed would have resulted from some
+specially lucrative contracts which the plaintiffs could have completed if
+they had had the boiler; that was rightly disallowed because the defendants
+had no knowledge of these contracts. But Asquith L.J. then said:
+"It does not however follow that the plaintiffs are precluded from
+"recovering some general (and perhaps conjectural) sum for loss of
+"business in respect of dyeing contracts to be reasonably expected (any
+"more than in respect of laundering contracts to be reasonably
+"expected)."
+It appears to me that this was well justified on the earlier authorities. It
+was certainly not unlikely on the information which the defendants had
+when making the contract that delay in delivering the boiler would result
+in loss of business: indeed it would seem that that was more than an even
+329304
+A 3
+
+6
+
+chance. And there was nothing new in holding that damages should be
+estimated on a conjectural basis. This House had approved of that as early
+as 1813 in Hall v. Row 1 Dow. 201.
+
+But what is said is to create a “landmark” is the statement of principles
+by Asquith L. J. on pages 539-40. This does to some extent go beyond the
+older authorities and in so far as it does so, I do not agree with it. In
+paragraph (2) it is said that the plaintiff is entitled to recover “such part
+… of the loss actually resulting as was at the time of the contract reasonably
+… foreseeable as liable to result from the breach”. To bring in reasonable
+foreseeability appears to me to be confusing measure of damages in contract
+with measure of damages in tort. A great many extremely unlikely results
+are reasonably foreseeable, it is true that Lord Asquith may have meant
+foreseeable as a likely result, and if that is all he meant I would not object
+further than to say that I think that the phrase is liable to be misunder-
+stood. For the same reason I would take exception to the phrase “liable
+… to result” in paragraph (5). Liable is a very vague word but I think that
+one would usually say that when a person foresees a very improbable result
+he foresees that it is liable to happen.
+
+I agree with the first half of paragraph (6). For the best part of a century
+it has not been required that the defendant could have foreseen that a breach
+of contract must necessarily result in the loss which has occurred. But I cannot
+agree with the second half of that paragraph. It has never been held to be
+sufficient in contract that the loss was foreseeable as “a serious possibility”
+or “a real danger” or as being “on the cards”. It is on the cards that one can
+win £100,000 or more for a stake of a few pence—several people have done
+that. And anyone who backs a hundred to one chance regards a win as a
+serious possibility—many people have won on such a chance. And the
+Wagon Mound No. 2 [1966] 1 W.L.R. 498 could not have been decided as it
+was unless the extremely unlikely fire should have been foreseen by the chief
+officer as a real danger. It appears to me that in the ordinary use of
+language there is wide gulf between saying that some event is not unlikely to
+happen and saying merely that it is on the cards; it is a serious possibility; a real
+danger, or on the cards. Suppose one takes a well shuffled pack of cards, it
+is quite likely or not unlikely that the top card will prove to be a diamond: the
+odds are only 3 to 1 against. But most people would not say that it is quite
+likely to be the nine of diamonds for the odds are then 51 to 1 against. On
+the other hand I think that most people would say that there is a serious
+possibility or a real danger of its being turned up first and of course it is on the
+cards. If the tests of “real danger” or “serious possibility” are in future
+to be authoritative then the Victoria Laundry case would indeed be a landmark
+because it would mean that Hadley v. Baxendale would be differently decided
+today. I certainly could not understand any Court deciding that, on the
+information available to the carrier in that case, the stoppage of the mill was
+neither a serious possibility nor a real danger. If those tests are to prevail in
+future then let us cease to pay lip service to the rule in Hadley v. Baxendale.
+But in my judgment to adopt these tests would extend liability for breach of
+contract beyond what is reasonable or desirable. From the limited knowledge
+which I have of commercial affairs I would not expect such an extension to be
+welcomed by the business community and from the legal point of view I can
+find little or nothing to recommend it.
+
+Lord Asquith took the phrases “real danger” and “serious possibility”
+from the speech of Lord du Parcq in Monarch Steamship Co., Ltd. v.
+Karlshamns Oljefabriker (A/B) [1949] A.C. 196 so I must examine that case.
+The facts were complicated but it is sufficient to say that a voyage was
+prolonged by breach of contract so that war broke out before it was completed,
+and by reason of an embargo imposed on the outbreak of war the cargo owner
+had to incur great expense in transhipping his goods and having them carried
+to the contract destination. The contract was made in April 1935. The
+question was whether he was entitled to recover this expense as damages for
+the breach of contract and that depended on whether the outbreak of war and
+
+7
+
+consequent embargo were or ought to have been within the contemplation of
+the contracting parties in April, 1939. By that time war was much more than
+merely a serious possibility. Lord Porter said (at page 219) “Accepting the
+… view that the appellants ought to have foreseen the likelihood of war
+… occurring. …”. Lord Wright said (at page 222) “There was indeed in 1939
+… the general fear that there might be a war. … The possibility must have been
+… in the minds of both parties”. Lord Uthwatt said (at page 232) that a
+reasonable shipowner “could regard the chance of war, not as a possibility
+… of academic interest to the venture, but as furnishing matter which commer-
+… cially ought to be taken into account”. And Lord Morton said (at page 235)
+that the shipowner “would feel that there was a grave risk of war breaking out
+… in Europe”. On those assessments of the situation holding that the damage
+which flowed from the outbreak of war was not too remote to be recoverable
+was well within the existing law.
+
+I do not think that Lord du Parcq intended to say that his view was
+materially different. Indeed he quoted from Sir Winston Churchill “No one
+… who understood the situation could doubt that it meant in all human proba-
+… bility a major war in which we should be involved”. So there was no need
+for him to go further than the existing law and I do not think that he intended
+to do so. It is only by taking these two phrases out of their context that any
+such intention could be inferred.
+
+It appears to me that, without relying in any way on the Victoria Laundry
+case, and taking the principles that had already been established, the loss of
+profit claimed in this case was not too remote to be recoverable as damages.
+So it remains to consider whether the decision in The Parana established a rule
+which, though now anomalous, should nevertheless still be followed. In that
+case owing to the defective state of the ship’s engines a voyage which ought to
+have taken 65 to 70 days took 127 days, and as a result a cargo of hemp fetched
+a much smaller price than it would have done if there had been no breach of
+contract. But the Court of Appeal held that the plaintiffs could not recover
+this loss as damages. The vital part of their judgment is on page 123:
+
+“In order that damages may be recovered, we must come to two
+… conclusions—first, that it was reasonably certain that the goods would
+… not be sold until they did arrive: and secondly, that it was reasonably
+… certain that they would be sold immediately after they arrived, and that
+… there was known to the carrier at the time when the bills of lading were
+… “signed.”
+
+If that was the right test then the decision was right, and I think that that
+test was in line with a number of cases decided before or about that time (1877),
+but, as I have already said, to strict it, it has long been obsolete. And, if one
+substitutes for “reasonably certain” the words “not unlikely” or some
+similar words denoting a much smaller degree of probability, then the whole
+argument in the judgment collapses. I need not consider whether there were
+other facts which might be held to justify the decision, but I must say that
+I do not see why the mere duration of the voyage should make such difference.
+
+If The Parana had always been regarded as laying down a rule so that
+carriage by sea was to be treated as different from carriage by land, one
+would have to consider whether it would be proper to alter a rule which
+had stood for nearly a century. But in Dunn v. Bucknall Brothers [1902]
+2 K.B. 614 it was held that there was no general rule that damages could
+not be recovered by loss of market on a voyage by sea, and for special
+reasons such damages have been awarded in a number of later cases. So
+whether The Parana is formally overruled or not, it cannot be relied on as
+establishing a rule so as to require the present case to be decided in a way
+inconsistent with the general law as it exists today.
+
+Some importance was attached in argument to Slater v. Hoyle & Smith,
+Ltd. [1920] 2 K.B. 11 and the earlier cases there cited. Those cases deal
+with sale of goods, and I do not think it necessary or desirable in the present
+case to consider what the rule there is, whether it conflicts with the general
+principles now established as to measure of damages, or whether, if it does,
+329304 A 4
+
+8
+
+it ought or ought not to stand. Those are much too important questions
+to be decided obiter in the present case, and I refrain from expressing any
+opinion about them.
+
+For the reasons which I have given I would dismiss this appeal.
+
+Lord Morris of Borth-y-Gest
+
+MY LORDS,
+
+The Appellant (a shipowner) made a contract with the Respondents (as
+Charterers) for the carriage of goods by sea. As a result of an admitted
+breach of contract on the part of the shipowner the goods were delivered at
+the port of destination several days later than they should have been delivered.
+The Respondents as a result undoubtedly suffered financial loss. They had
+intended to sell the goods as soon as the ship arrived at its destination.
+They did sell the goods after the ship arrived but in the period of the delay
+in arrival there was a fall in the market price. In consequence they suffered
+loss in that they received less than they would have received if the Appellant
+had not been in breach. They claimed to recover their loss as damages for
+breach of contract.
+
+The classic judgment in Hadley v. Baxendale (1854) 9 Ex. 341 has con-
+tinuously been recognised as enshrining and formulating the guiding rules
+which are to be followed in deciding whether damage which has been the
+result of a breach of contract should be paid for by the contract breaker.
+The numerous reported decisions in the years since Hadley v. Baxendale was
+decided show that sometimes there have been problems relating to the
+meaning and intention of the principles used in the judgment in that case and
+that sometimes the problems have been those of ascertaining facts and then
+of relating accepted principles to the facts as found. When consideration
+has been given to the meaning and intention of the words used in the
+judgment in Hadley v. Baxendale it has so often been manifest that words
+which are put in servant to convey and express meanings—cannot always be
+servants of precision and may sometimes be given a dominance which is
+above their status. If “Language is the dress of thought”, it is the thought
+that must be understood.
+
+In the present case the problem is that of relating principle to ascertained
+facts. The facts are carefully set out in the stated special case the clarity of
+which earned the commendation of the learned judge. It is not necessary
+to summarise them here. It will suffice to state that the Umpire found that
+the Respondents were the shippers and were the owners of the cargo of
+Hungarian sugar at shipment and at and after discharge. Had there been
+no breach of contract the vessel would have arrived at Basrah some nine
+days or so earlier than she did arrive. The time that would be taken in the
+voyage from Constanza to Basrah would with reasonable accuracy be pre-
+dicted to be twenty days. At the date of the charter party and at all times
+thereafter it was the intention of the Respondents to sell the sugar cargo
+against delivery order promptly after arrival at Basrah and after inspection
+by merchants. They did in fact do so. Immediately after discharge the
+Respondents proceeded to permit inspection and to negotiate sales. Had
+there been no deviation and consequently no breach of contract the selling
+price of the sugar would have been one of £32 10s. 0d. per ton. The
+average price realised after the late arrival of the sugar was £31 2s. 9d. per
+ton. The fall in the market price was caused inter alia by the arrival on
+schedule (between the dates i.e. the 22nd November, when the Appellant’s
+ship should have arrived had it not deviated and the date, i.e. the 2nd
+December, when it did arrive) of a ship carrying 8,000 tons of Formosan
+sugar. The London price fell during November and the first half of
+December. The Basrah prices do not conform to a set pattern but they
+tend to decline during October and November to a low point in about
+December. There was however no evidence that the decline in the London
+and Basrah prices in November and the first half of December was caused by
+
+9
+
+any unusual or unpredictable factor. To these facts in May be added
+that there was at all material times a market for sugar in Basrah. Sugar
+was regularly bought and sold there in large quantities at prices which were
+published. Some 200,000 tons were sold on the Basrah market in a year.
+Prices would fluctuate considerably. The arrival of a steamer with a cargo
+of sugar would affect the prices. The existence of the Basrah sugar market
+was known to the Appellant at and before and after the date of the charter
+party but the Appellant did not have detailed knowledge of the markets in
+Basrah nor of those in London. The London daily price influences the Basrah
+price though the latter is not directly related to the London price. The
+carriage of sugar from the Black Sea to Iraqi ports including Basrah is a
+recognised trade but a shipowner would ordinarily have no knowledge
+whether a particular cargo has been or is to be sold prior to its arrival in
+Iraq, or whether the sugar is being shipped in order that it should be sold
+in the arrival. The Appellant had no actual knowledge (nor had
+his brokers) that the Respondents intended to sell the sugar promptly after its
+arrival at Basrah.
+
+The famous rule in Hadley v. Baxendale postulates a contract which one
+party has broken and relates to the “damages which the other party ought to
+“receive”. They are “such as may fairly and reasonably be considered
+“either arising naturally, i.e. according to the usual course of things, from
+“such breach of contract itself, or such as may reasonably be supposed
+“to have been in the contemplation of both parties, at the time they made
+“the contract, as the probable result of the breach of it”. The judgment
+proceeds to give illustrative guidance. Thus a contract may be one actually
+made under special circumstances. If they were “communicated by the
+“plaintiffs to the defendants, and thus known to both parties, the damages
+“resulting from the breach of such a contract, which they would reasonably
+“contemplate, would be the amount of injury which would ordinarily follow
+“from a breach of contract under these special circumstances so known and
+“communicated”. If however such special circumstances were wholly
+unknown to the contract breaker then he “at the most could only be
+“supposed to have had in his contemplation the amount of injury which
+“would arise generally, and in the great multitude of cases not affected by
+“any special circumstances from such a breach of contract”. The judgment
+proceeds to point out that if special circumstances have been known, then
+the parties could have been provided in special terms as to the damages to be
+payable in the event of a breach: it would be unjust to deprive them of the
+advantage of so providing.
+
+In the present case there was no special communication of special cir-
+cumstances by reference to which the contract of carriage was made. The
+problem presented was therefore whether with the knowledge possessed by
+the parties at the time when the contract was made the loss in fact suffered
+by the Respondents due to the delayed arrival (in breach of contract) of
+the sugar could fairly and reasonably be considered as arising naturally (i.e.
+according to the usual course of things) from such breach. When parties
+enter into a contract they do not ordinarily at such time seek to work out
+or to calculate the exact consequences of a breach of their contract. On the
+facts of the present case it is however pertinent to pose the enquiry as to
+what the natural ordinary and sensible answer of the Appellant would have
+been if he had asked himself when the result for the Respondents would be
+if he (the Appellant) in breach of contract and therefore unjustifiably caused
+his ship to arrive at Basrah some nine or ten days later than it could and
+should have arrived. While the Appellant did not know precisely what plans
+the Respondents had made he could be reasonably sure of one thing, namely
+that they had contracted for the Appellant’s ship to proceed at all convenient
+speed to its destination because they wanted to have their cargo delivered
+at its destination at such time as the ship could be expected to arrive. The
+Appellant knew when the charter party was made (on the 15th October,
+1960) that if the vessel arrived for loading at Constanza it had been con-
+fidently expected that she would arrive, as she in fact did, on the 27th
+October and if the Respondents did not (not later than five days prior to
+329304 A 5
+
+10
+
+the commencement of loading) declare that they exercised the option of
+discharging the cargo at Jeddah then there was the obligation after loading
+the cargo to proceed with all convenient speed to Basrah. The Appellant
+could and should at the very least have contemplated that if his ship was
+nine days later in arriving than it could and should have arrived some
+financial loss to the Respondents or to an endorsee of the bill of lading
+might result. I use the words “at the very least” and the word “might”
+at this stage so as to point to the problem which is highlighted in this case.
+It is here that words and phrases begin to crowd in and to compete. Must
+the loss of the Respondents be such that the Appellant could see that it was
+certain to result? Or could it suffice if the loss was probable or was likely
+to result or was liable to result? In the present context what do these words
+denote? If there must be selection as between them which one is to be
+employed to convey the intended meaning?
+
+I think that it is clear that the loss need not be such that the contract
+breaker could see that it was certain to result. The question that arises
+concerns the measure of prevision which should fairly and reasonably be
+ascribed to him.
+
+My Lords, in applying the guidance given in Hadley v. Baxendale I would
+hope that no undue emphasis would be placed upon any one word or phrase.
+If a party has suffered some special and peculiar loss in reference to some
+particular arrangements of his which were unknown to the other party and
+were not communicated to the other party and were not therefore in the
+contemplation of the parties at the time when they made their contract, then
+it would be unfair and unreasonable to charge the contract-breaker with
+such special and peculiar loss. If, however, there are no “special and extra-
+“ordinary circumstances beyond the reasonable prevision of the parties”
+(see the speech of Lord Wright in Monarch Steamship Co., Ltd. v. Karlshamns
+Oljefabriker (A/B) [1949] A.C. 196, 221) then it becomes very largely a
+question of fact as to whether in any particular case a loss can “fairly and
+“reasonably” be considered as arising in the normal course of things.
+Though in these days commercial cases are not tried with juries, in his speech
+in the Monarch Steamship case (supra) Lord du Parcq pointed out that in
+the end what has to be decided is a question of fact and therefore a question
+proper for a jury and he added:—
+
+“Circumstances are so infinitely various that, however carefully general
+“rules are framed, they must be construed with some liberality and not
+“too rigidly applied. It was necessary to lay down principles lest juries
+“should be persuaded to do injustice by imposing an undue, or perhaps
+“an inadequate, liability on a defendant. The Court must be careful,
+“however, to see that the principles laid down are never so narrowly
+“interpreted as to prevent a jury, or judge of fact, from doing justice
+“between the parties. So to use them would be to misuse them.”
+
+If this approach is followed then I doubt whether the necessity arises to
+express a preference or any definite preference as between words and phrases
+that were submitted for your Lordships’ consideration. The result in any
+particular case need not depend upon giving pride of place to any one of
+such phrases as “liable to result” or “likely to result” or “not unlikely to
+“result”. Each one of these phrases may be of help but so may many others.
+
+In Smeed v. Foord in 1859, 1 El. & El. 602, Compton, J. referred in his
+judgment (at page 616) to the doctrine of Hadley v. Baxendale, and said:
+
+“The second branch of the rule there laid down appears to me to come
+“to much the same thing as the first; for damages which may reasonably
+“be supposed to have been contemplated by the contracting parties, are
+“damages which naturally arise from a breach of the contract. I doubt
+“whether, in these cases, it is the duty of a Judge to lay down more to
+“the jury than that the plaintiff is entitled to such damages as are the
+“natural consequences of the breach of contract. The question what
+“are such natural consequences is, I think, in each case, rather for the
+
+11
+
+“jury than for the Judge; just as it is for them, not for him, to assess
+“the amount of damages.”
+
+Somewhat comparable language was used in 1868 by Bovill, C.J., in his
+judgment in British Columbia Saw-Mill Co. v. Nettleship, L.R. 3 C.P. 490,
+when (at page 505) he said:
+
+“The extent of carrier’s liability is to be governed by the contract he
+“has entered into, and the obligations which the law imposes upon him.
+“He is not to be made liable for damages beyond what may fairly be
+“presumed to have been contemplated by the parties at the time of
+“entering into the contract. It must be something which could have been
+“foreseen and reasonably expected, and to which he has assented
+“expressly or impliedly by entering into the contract.”
+
+In his speech in the Monarch Steamship case (supra) Lord Porter refers
+(at page 214) to what “could reasonably have been foreseen” and to what
+“a shipowner ought to have foreseen” as “likely to occur”. At page 215
+he spoke of what a shipowner “ought reasonably to have contemplated”.
+Lord Wright in the same case (at page 221) refers to cases where “it would
+“not be fair or reasonable to hold the defendant responsible for losses which
+“he could not be taken to contemplate as likely to result from his breach of
+“contract”. Lord Wright pointed out that the Court will assume that the
+parties, as business men, will have all reasonable acquaintance with the
+ordinary course of business, and he spoke (at page 224) of what “a reasonable
+“business man must be taken to have contemplated as the natural or probable
+“result if the contract was broken”. Lord Uthwatt in his speech referred to
+what a reasonable shipowner ought reasonably to have foreseen; he would
+in the circumstances of that case have regarded the chance of war “not as
+“a possibility of academic interest to the venture, but as furnishing matter
+“which commercially ought to be taken into account”. Lord du Parcq said
+at page 233:
+
+“Damage arises ‘according to the usual course of things’ if, in the
+“circumstances existing at the date of the contract, both parties to it,
+“supposing them to have considered the probable effects of a breach of
+“the contract, with due regard to events which might reasonably be
+“expected to occur, must be assumed as reasonable men to have foreseen
+“such damage as at least a serious possibility.”
+
+Furthermore, in reference to the facts in that case, Lord du Parcq (at
+page 233) said:
+
+“In order that the Respondents might succeed in establishing their
+“case, it was not necessary, in my opinion, that the parties to the contract
+“should be shown to have contemplated the outbreak of war as something
+“certain and unavoidable. They are not to be supposed to have had
+“the gift of prophecy. It is enough if they may reasonably be assumed
+“to have contemplated a war, and the likelihood that it would lead
+“to such an embargo as was in fact imposed, as a real danger which
+“must be taken into account.”
+
+My Lords, the words phrases and passages to which I have referred
+are useful and helpful indications of the application of the rule in Hadley v.
+Baxendale. But they neither add to the rule nor do they modify it. I regard
+the illuminating judgment of the Court of Appeal in Victoria Laundry
+(Windsor) Ltd. v. Newman Industries Ltd. [1949] 2 K.B. 528 as a most
+valuable analysis of the rule. It was there pointed out (at page 540) that
+in order to make a contract-breaker liable under what was called “either”
+rule in Hadley v. Baxendale it is not necessary that he should actually
+have asked himself what loss is liable to result from a breach but that
+it suffices that if he had considered the question he would as a reasonable
+man have concluded that the loss in question was liable to result. Nor
+need it be proved, in order to recover a particular loss, that upon a given
+state of knowledge he could, as a reasonable man, foresee that a breach
+must necessarily result in that loss. Certain illustrative phrases are employed
+in that case. They are valuable by way of exposition but for my part I
+329304 A 6
+
+12
+
+doubt whether the phrase "on the cards" has a sufficiently clear meaning
+or possesses such a comparable shade of meaning as to qualify it to take its
+place with the various other phrases which make up the propositions of the rule.
+
+If the problem in the present case is that of relating accepted principle
+to the facts which have been found, I entertain no doubt that if at the time
+of their contract the parties had considered what the consequence would be
+if the arrival of the ship at Basrah was delayed they would have contemplated
+that some loss to the Respondents was likely or was liable to result. The
+Appellant at the time that he made his contract must have known that if
+in breach of contract his ship did not arrive at Basrah when it ought to
+arrive he would be liable to pay damages. He would not know that a loss
+to the Respondents was certain or inevitable but he must, as a reasonable
+business man, have contemplated that the Respondents would very likely
+suffer loss, and that it would be or would be likely to be a loss referable
+to market price fluctuations at Basrah. I cannot think that he should escape
+liability by saying that he would only be aware of a possibility of loss but
+not of a probability or certainty of it. He might have used any one of many
+phrases. He might have said that a loss would be likely or that a loss
+would not be unlikely; or that a loss was liable to result; or that the risk
+that delay would cause loss to the Respondents was a serious possibility;
+or that there would be a real danger of a loss; or that the risk of his being
+liable to have to pay for the loss was one that he ought commercially to
+take into account. As a practical business man he would not have paused
+to reflect on the possible nuances of meaning of any one of these phrases.
+Nor would he have sent for a dictionary.
+
+The carriage of sugar from the Black Sea to Iraqi ports (including Basrah)
+is a recognised trade. The Appellant knew that there was a sugar market at
+Basrah. When he contracted with the Respondents to carry their sugar to
+Basrah, though he did not know what were the actual plans of the
+Respondent, he had all the information to enable him to appreciate that a
+delay in arrival might in the ordinary course of things result in their suffering
+some loss. He must have known that the price in a market may fluctuate.
+He must have known that if a price goes down someone whose goods are
+late in arrival may be caused loss.
+
+Since in awarding damages the aim is to award a sum which as nearly
+as possible will put the injured party into the position in which he would
+have been in the breach of contract had not caused him loss and if in all
+the circumstances he had acted reasonably in an effort to mitigate his loss,
+I think that it must follow that, where there is delay in arrival in many
+cases the actual loss suffered (above the amount of which there ought not
+to be recovery) can be measured by comparing the market price of the goods
+at the time when they should have arrived and the market price when they
+did arrive. That prima facie is the measure of the damages.
+I can see no fault, therefore, in the assessment of the damages in the
+present case unless there is some rule of law that in the case of carriage of
+goods by sea damages for delay in arrival will ordinarily be limited to
+interest on the value of goods over the period of their delay. It is said
+that such a rule underlies the decision in The Parana L.R. 2 P.D. 118. In
+reference to the suggestion that there is a special rule limiting damages for
+delay in delivery in the case of carriage of goods by sea Lord Porter in
+his speech in the Monarch Steamship case (supra) said at page 519:
+
+No doubt expressions of opinions to that effect are to be found,
+"perhaps more frequently in the days of sailing ship when prolonged
+"delay was to be expected, but it never was a rule of law whereby a
+"working practice answering to the circumstances of the time and subject
+"to the consideration that the contract must be reasonably performed."
+
+The Parana (which was decided in 1877) was a case in which, owing to the
+weakness and defective state of her engines, a ship took 127 days on a
+voyage from Manila and Ilo-Ilo to London for which a period of 65 or
+70 days was said to be a fair average time. As a result an assignee of bills of
+lading of certain goods on the ship claimed to recover damages resulting
+
+13
+
+from unreasonable delay in the carriage of goods. The owner of the ship
+admitted liability and what in issue was was the amount of the damages.
+As to one portion of the cargo damages were given for a deterioration in
+quality due to delay. As to another portion of the cargo the claim was
+for the difference between the market price at the time when the goods
+arrived and at the time when they ought to have arrived. As to that part
+of the claim the Registrar, who was directed to report upon the amount of
+damages, considered that the Court should refuse to entertain any claim
+for loss of market in such cases. In his report (see The Parana L.R. 1 P.D.
+152) he said that the practice of the Court of Admiralty should be followed
+which was merely to allow a sum representing loss of interest for the period
+of delay on the capital value of the cargo. One reason given was that the
+loss of market "could not by any possibility have been within the con-
+"templation of the parties" when the cargo was put on board at Manilla.
+He appeared to think that a fall in the price of the goods could not have
+been in the contemplation of the parties when the contract was made because
+for aught they knew the price might have risen.
+
+On appeal, in objection to the report of the Registrar, it was held by Sir
+Robert Phillimore that the registrar ought not to have included in the damages
+the difference between the market price of the cargo at the time when it was
+delivered and at the time when it ought to have been delivered. He said
+at page 464):—
+
+"Why should not the ascertained difference between the market price
+"when the goods might have been sold, had there been no delay, and
+"the market price which they would fetch after the delay, be a reason-
+"able measure of the loss of the merchant's profits? The depreciation is
+"the direct consequence of the carrier's default; in other words, he
+"must be taken to have known or contemplated that the merchant desired
+"a safe and a quick transport of his marketable goods to their intended
+"market."
+
+On appeal to the Court of Appeal L.R. 2 P.D. 118 the judgment was
+reversed though the principle was accepted that if circumstances are known
+to the carrier from which the object of the sender ought in reason to be
+inferred so that the object may be taken to have been within the contempla-
+tion of both parties damages may be recovered for the natural consequence
+of the failure of that object. Mellish L.J. in his judgment pointed to differ-
+ences between cases where there was delay by carriers on land and cases
+of carriage of goods for a long distance by sea. My Lords, I confess
+that the differences do not seem to me to be differences in principle. Mellish
+L.J. considered that there was an uncertainty as to whether the plaintiff was
+affected by the delay in arrival of the goods. Pointing to the circumstance
+that the plaintiff did not sell the goods on arrival Mellish L.J. considered
+that he might have acted in the same way if the goods had arrived in time
+—with the result that the delay did not affect the plaintiff and to give him
+damages would be to give him speculative damages. So far as principle is
+concerned I prefer the judgment of Sir Robert Phillimore. It is to be
+remembered however that Mellish L.J. accepted as applicable to carriage
+of goods by sea both the language used in Simpson v. London & North
+Western Railway Co. 1 Q.B.D. 274, 277 (as cited by Sir Robert Phillimore)
+and also the language of the Lord Chief Baron in Horne v. Midland Railway
+Co. L.R. 8 C.P. 131 at page 137. The language used by the Lord Chief
+Baron in Horne's case was the language of Hadley v. Baxendale. In prin-
+ciple it seems to me that the rule in Hadley v. Baxendale must in these days
+be applied in cases of carriage by goods by sea. If the parties for some
+particular reason have contracted on the basis that there is no obligation to
+proceed normally to a destination then delay would not constitute a breach.
+If, however, there is delay which amounts to a breach of contract I see no
+reason for adopting some special formula in the assessment of damages (such
+as giving interest on the capital value of the goods carried) or for any artificial
+divergence from the principles that govern the assessment of damages.
+329304
+A 7
+
+14
+
+In The Notting Hill L.R. 9 P.D. 105 which was decided in 1884, Hannen J.
+expressed disagreement with the decision in The Parana but reluctantly
+felt that he was bound by it. The Court of Appeal agreed that it was an
+authority binding on them. Brett M.R. did not wish to say that, had it
+been for him to decide the case, he would have decided it differently.
+
+In Dunn v. Bucknall Brothers, [1902] 2 K.B. 614 it was known to the
+Defendants that the reason why the plaintiffs had shipped goods was the ship
+of which the defendants were charterers) for carriage to Algoa Bay was so
+that the goods should be supplied to British troops in South Africa and the
+defendants knew that the goods would sell at a much higher price if delivered
+in due course than if delivered at a later time when a large importation of
+similar goods would force prices down. For a breach of duty which resulted
+in the delayed arrival of the goods the defendants were held liable in damages.
+It was contended in the Court of Appeal that damages for loss of market
+are not recoverable in the case of delay in carriage by sea and that a shipper
+is only entitled to interest on the value of the goods from the date when they
+should have been delivered down to the date of actual delivery. The con-
+tention was held to be ill-founded and Collins M.R. giving the judgment of
+the Court consisting of himself, Stirling L.J. and Cozens-Hardy L.J. said that
+they did not understand The Parana (supra) as establishing any such general
+proposition as that damages could not be recovered for loss of market on a
+voyage by sea. He said:
+
+"There can be no absolute peremptory rule taking voyages by sea
+"out of the principles which regulate the measure of damages on
+"breach of other contracts. It is only because the possible length of
+"voyages and the consequent uncertainty as to the times of arrival
+"may in many cases eliminate the supposition of any reasonable
+"expectation as to the state of the market at the time of arrival that
+"as a general rule damages for loss of market by late delivery are not
+"recoverable from the carrier by sea. It is certainly not a rule of
+"law, it is only an inference of fact, that from the circumstances of
+"the case no reasonable assumption as to the state of the market
+"at the time of arrival could have been a factor in the contract
+"between the parties."
+
+He proceeded to point out that as the means of sea transit improved then
+voyages of three or four weeks duration could be accomplished with
+almost absolute certainty and furthermore that the state of the market
+at such reasonably calculated date of arrival could well be "a vital factor
+"present to the minds of both parties at the time of making the contract".
+He then added:
+
+"Wherever the circumstances admit of calculations as to the time
+"of arrival and the probable fluctuations of the market being made with
+"the same degree of reasonable certainty in the case of a sea as
+"of a land transit, there can be no reason why damages for late delivery
+"should not be calculated according to the same principles in both
+"cases."
+
+On the facts of that case it was known to the defendants that the goods
+would sell at a much higher price if duly delivered than if tardily delivered
+and the words I have quoted were uttered in that context. I do not consider
+however that where in breach of contract there is delay in delivery, damages
+will only be recoverable if there can be a calculation in advance of the
+precise financial consequences that delay will cause. If there can be such
+a calculation then the carrier would know at the time of his contract of
+carriage exactly what the effect would be if by delaying delivery he broke
+his contract. But I cannot think that he should be partially exonerated
+merely by the circumstance that he could not calculate in advance the extent
+of the damage that he would cause if he broke his contract. With the
+knowledge possessed by the Appellant in the present case, if, at the time
+of the contract, he had considered what the consequences would be if, in
+breach of contract, he delayed the delivery of the goods he was carrying,
+
+15
+he must at least have contemplated that there might well be market fluctua-
+tions as between the due date of delivery and the actual date of delivery
+if by the actual date of delivery the market price had advanced he might
+be freed of any serious liability. But he must have contemplated that
+if the market went the other way the would be causing loss. In running
+the risk of causing that loss it would not be reasonable to concede him
+merely because in advance the measure of the loss could not be calculated.
+
+In R. & H. Hall Limited v. W. H. Pim (Junior) & Co. Ltd. 33 Com.
+Cas. 324 there was a failure by sellers to deliver goods to buyers: there
+had been a sub-sale by the buyers and then a further sub-sale. The buyers
+were held entitled to recover both their loss of profit and also to recover
+the damages that they would have to pay to their sub-purchaser. It was
+a case where the parties had actually provided for the very case of sub-
+sales. Non-performance of the contract would therefore be known before-
+hand by both parties to be non-performance of a contract in which inter-
+mediate sales might take place. A question was raised as to whether the
+parties would have considered all the damage to be probable. Lord
+Shaw of Dunfermline said:
+
+"To what extent in a contract of goods for future delivery the
+"extent of damages is in contemplation of parties is always extremely
+"doubtful. The main business fact is that they are thinking of the
+"contract being performed and not of its being not performed. But
+"with regard to the latter if their contract shows that there were
+"instances or stages which made ensuing losses or damage a not
+"unlikely result of the breach of the contract, then all such results
+"must be recognised to be within not only the scope of the contract,
+"but the contemplation of parties as to its breach."
+
+Further Lord Shaw said that he did not think-
+
+"that in such a contract people come to contemplate with any
+"exactitude the particular probable results which would follow from
+"a breach; but that there would be a probable chance of reselling
+"at a profit or that the chance of that would be even with their not
+"selling at a profit. What the parties to a contract such as this do
+"is not to estimate that the chances will be one way or the other or
+"will have this amount of probability or the other, but simply to
+"contemplate that trade chances are not unlikely to occur, and to make
+"a contract to cover such chances if any."
+
+In the same case Lord Phillimore referred to damages "which naturally
+"flow from a breach of contract and to damages which "the law super-
+"adds in appropriate cases" being "those damages which though they
+"do not always or even usually flow from the breach of contract, are, at
+"the time of making the contract, recognised by the parties as those which
+"in a particular case may result from a breach." He added:
+
+"These are called damages in the contemplation of the parties, not
+"because the parties contemplate a breach of contract, but because
+"they recognise that a breach is possible, and they reckon that these
+"damages may flow from that breach. I designedly use the word
+" 'may'. There may be cases where the word to be used might be
+" 'will', but there are also cases and more common cases where the
+"word to use is 'may'."
+
+Though that case was one in which the parties had made express pro-
+visions in regard to sub-sales with the result that they must have "recog-
+"nised" that a purchaser might have to pay damages to his sub-purchaser
+if the vendor failed to deliver, the expressions used in the speeches
+illustrate that damages could be recoverable in respect of a loss which
+might occur or which the parties could contemplate as not unlikely to
+occur. The present case is one in which no special information was given
+to the carrier as to what the Respondents intended to do with the goods
+after they arrived at Basrah. In those circumstances in deciding what
+damages would fairly and reasonably be regarded as arising if the delivery
+329304
+A 8
+
+16
+of the goods was delayed I think that the reasonable contemplation of
+a reasonable shipowner at the time of the making of the charter-party must
+be considered. I think that such a shipowner must reasonably have con-
+templated that if he delivered the sugar at Basrah some nine or ten days
+late then he would and should have delivered it then a loss by reason of
+a fall in the market price of sugar at Basrah was one that was liable
+to result or at least was not unlikely to result. This results from the facts
+of this case. It is a question of what the parties contemplated. Even without
+notice of special circumstances or special considerations there may be
+situations where it is plain that there was a common contemplation. In his
+dissenting judgment in The Arpad [1934] P. 189 Scrutton L.J. (at page 203)
+said:
+
+"I am inclined to think that in contracts of carriage from wheat-
+"producing districts, it is always so probable that the shipper is sending
+"for resale, or for sale to a person who will resell, that the carrier will
+"be liable if there is no market, for the effect on a contract of sale of
+"the conversion or unjustifiable failure to deliver."
+
+Whether this be so or not the Appellant in the present case must at least have
+appreciated that the Respondents wanted to have the goods at Basrah at the
+date when they should have been delivered there. What could clearly be
+foreseen was that the Respondents would be without their goods at the place
+where, and on the date when, they were entitled to expect to have them.
+Had there not been delivery at all the damages would have been measured
+by relation to the market price of the goods at the date when they should
+have been delivered. In such an eventuality the Respondents would have
+been entitled to acquire goods to replace those which, either by reason of
+their having been lost or for some other reason, were not delivered. By a
+parity of reasoning since the parties had not contracted on the basis that
+the Appellant could deliver as and when he liked but on the basis that he
+should proceed at all convenient speed and so should deliver on the date
+that could with reasonable accuracy be predicted, the Respondents would be
+entitled, if it were necessary, to acquire goods to replace those which had
+not arrived. If when the goods later arrived the market price had advanced
+the Respondents would suffer no loss: if the market price had declined they
+would suffer loss. If they actually suffered loss it would prima facie be
+measured as the difference between the market price at the date when the
+goods should have been delivered and the market price at the date when
+they were delivered.
+
+I would dismiss the appeal.
+
+Lord Hodson
+
+MY LORDS,
+
+The broad question which arises on the appeal is what is the correct
+measure of damages for wrongful delay by a shipowner in the performance
+of a contract for the carriage of goods by sea.
+
+The Respondents contend that the ordinary measure of damages for delay
+in delivery of goods for which there is a market is the difference between
+the market value of the goods at their destination on the date when they
+arrive, and the value at the date when they should have arrived if there
+had been no breach of contract. The loss so measured is one which arises
+naturally according to the usual course of things. This right to recover does
+not depend on any special knowledge of the party in breach. It applies to
+contracts of carriage by sea and by land in all ordinary cases.
+
+The Appellant contends, on the other hand, that except in special circum-
+stances, which are not to be found in this case, the measure of damages
+is limited to the interest on the value of the goods during the period of delay.
+
+In these circumstances the Appellant admitted liability for £172 consisting
+of £12 10s. 0d. icable expenses) and £159 9s. 6d. (interest at 6 per cent. per
+
+17
+annum on the full value of the cargo during the period of the delay) upon
+the facts found and stated in the Special Case.
+
+The Umpire awarded the charterers, in addition to the above sum of £172,
+£4,010 16s. 8d. in respect of the fall in value of the goods during the delay.
+McNair J. on questions of law being submitted for the decision of the Court
+as to (inter alia) the correct measure of damages held that the Umpire was
+wrong in law and that the Respondents were entitled only to the admitted
+sum of £172, made up in the main of interest charges.
+
+The Court of Appeal, Diplock and Salmon, L.JJ. (Sellers L.J. dissenting)
+restored the Umpire's award.
+
+The ultimate question for decision is whether, as a matter of law, contracts
+for the carriage of goods by sea are in a special class, having regard to the
+intrinsic differences there are between such contracts and contracts for the
+carriage of goods by land. For example, in the former class it is pointed
+out that goods may be sold before shipment or during the voyage or intended
+for the purposes of stocking or consumption at the port of destination and
+that the contemplation of the parties that the goods may be resold by the
+charterer at the port of destination is not necessarily to be inferred. In
+addition it is urged that ocean voyages are liable to be affected by weather,
+by congestion at loading and discharging ports and similar factors which
+account for a different treatment being given to cases of carriage of goods
+by sea.
+
+There is on the face of it no reason why the charterer should not be
+entitled to the value of that of which he has been deprived by the breach of
+contract independently of his intention to sell again and sale during the
+voyage or before the shipment if in any case irrelevance since the purchaser
+would stand in the charterer's shoes. There is nothing speculative about the
+claim and what the charterer does with the goods should not make any
+difference. This should apply to contracts of carriage by land or sea.
+
+Consideration of sea and weather conditions has been thought to be the
+basis of the decision in The Parana (1877) 2 P.D. 118. This appears from
+the judgment of Sir Richard Henn Collins M.R. in Dunn and Others v.
+Bucknall Brothers [1902] 2 K.B. 614. The uncertainties of The Parana's
+voyage were so great, said the Master of the Rolls in Dunn v. Bucknall, that
+the parties could not be said to have contracted on the footing that the goods
+would arrive at any particular moment. The headnote to Dunn v. Bucknall,
+however, concisely states as a summary of the judgment that there is no rule
+of law that damages cannot be recovered for loss of market on a contract
+of carriage by sea. This, I think, was really accepted by the Appellant
+and also in the main by McNair J. although Sellers L.J. went so far as to
+say that it was desirable in establishing a basis for damages to avoid
+fatuous arguments unless the parties have already contracted that the
+chance change of market price should fall on the shipowner if it happened
+to be less and not equal to or more than the price which could have been
+obtained without a breach of contract.
+
+That was in substance the position taken up by the Appellant before
+your Lordships. He accepted the established authority of the judgment in
+Hadley v. Baxendale (1854) 9 Ex. 341. The case concerned a broken crank
+shaft delivered to common carriers to be sent to engineers for repair. There
+was a delay of five days in delivery and the issue was as to the measure of
+damages for breach of contract. In the judgment of the Court, which
+consisted of Barons Parke, Martin and Alderson, at page 354 it was said:
+
+"We think the proper rule in such a case as the present is this:
+"Where two parties have made a contract which one of them has broken,
+"the damages which the other party ought to receive in respect of such
+"breach of contract should be such as may fairly and reasonably be
+"considered either arising naturally, i.e. according to the usual course
+"of things, from such breach of contract itself, or such as may be
+"reasonably be supposed to be in the contemplation of both parties, at
+
+18
+
+" the time they made the contract, as the probable result of the breach
+of it."
+The phrases beginning "either" and "or" are commonly said to divide
+the rule laid down by the court into two parts, the one arising "according
+" to the usual course of things" and the other relating to special circumstances
+in which the contract was made.
+The Appellant argued that the fluctuations of market due to unforeseen
+and unpredictable causes during the period of delay is not of itself "according
+" to the usual course of things". He argued that there were no facts here
+to bring the second part of the rule into operation, and in this I agree with
+him. For no special notice was given. Hence he said that damages for loss
+of market are not recoverable and that these damages could only be
+recovered in special cases covered by the second part of the rule.
+The word "probable" in Hadley v. Baxendale covers both parts of the
+rule and it is of vital importance in applying the rule to consider what the
+court meant by using this word in its context. The common use of this word
+is no doubt to imply that something is more likely to happen than not. In
+commonation, if one says to another, "if you go out in this weather you will
+" probable catch a cold" this is I think equivalent to saying that you believe
+there is an odds on chance that the other will catch a cold.
+The word "probable" need not, however, bear this narrow meaning.
+In R. & H. Hall Limited v. W. H. Pim (Junior) & Company Limited (1928)
+33 Com. Cas. 324, Lord Dunedin, after what he believe to be a general
+agreement that the law as to calculation of damages, due under breach of a
+contract was settled by the case of Hadley v. Baxendale, said that the
+difficulty lies in the application to the facts of each case.
+The instant case furnishes an example of this difficulty. Assistance is to
+be gained from some of the expressions used in Hall v. Pim which concerned
+a loss of profit on resale. On failure by sellers to deliver goods to buyers,
+the buyers were held entitled to recover the damages they would have to pay
+to a sub-purchaser. Lord Dunedin thought it was enough that there was an
+even chance of a resale happening. Lord Shaw thought it not unlikely that
+a resale would take place and Lord Phillimore that the parties contemplated
+that a resale may take place.
+In the Monarch Steamship Co. Ltd. v. Karlshamns Oljefabriker (AB) 1949
+A.C. 196 Lord Du Parcq used in applying the first part of the rule in Hadley
+v. Baxendale the words "serious possibility" and "real danger" while Lord
+Morton of Henryton spoke of "grave risk".
+A close study of the rule was made by the Court of Appeal in the case
+of the Victoria Laundry (Windsor) Ltd. v. Newman Industries Ltd., Coulson
+& C. Ltd. (Third Parties) [1949] 2 K.B. 528. The judgment of the Court,
+consisting of Tucker, Asquith and Singleton, L.JJ. was delivered by
+Asquith L.J., who referred to the Monarch Steamship case (supra) and
+suggested the phrase "liable to result" as appropriate to describe the degree
+of probability required. This may be a colourless expression but I do not find
+it possible to improve on it. If the word "likelihood" is used it may convey
+the impression that the chances are all in favour of the thing happening, an
+idea which I would reject.
+I find guidance in the use of the expression "in the great multitude of
+cases" which is to be found in more than one place in the judgment in
+Hadley v. Baxendale which indicates that the damages recoverable for breach
+of contract are such as flow naturally in most cases from the breach, whether
+under ordinary circumstances or from special circumstances due to the
+knowledge either in the possession of or communicated to the defendants.
+This expression throws light on the whole field of damages for breach of
+contract and points to a different approach from that taken in tort cases.
+True that where the facts are the same in two cases the damages will no
+doubt be the same whether the claim is made in contract or in tort; compare
+The Notting Hill (1884) 9 P.D. 105 where although the claim was in tort
+the Court of Appeal in a case like The Parana followed the later decision.
+
+19
+
+The approach in tort will, however, normally be different simply because
+the relationship of the parties is different. The claim against the tortfeasor
+who has inflicted tortious damage is not the same as the claim against an
+opposite party for breach of contract for the latter claim depends on the
+contemplation of the parties to the contract and questions of remoteness as
+such do not arise. Consequently liability in tort may often be of a wider
+kind. The observations of Willes, J. in Horne v. Midland Railway Co.
+L.R. 7 CP 583 at page 590 state the distinction in clear language in the
+passage cited by my noble and learned friend Lord Reid and I agree that
+this passage is to be preferred to the opinion sometimes expressed that the
+measure of damages is the same in tort as it is in contract.
+It seems that Mellish, L.J. in The Parana (supra) took a different view
+of the rule in Hadley v. Baxendale when he said:
+"In order that damages may be recovered, we must come to two
+"conclusions-first, that it was reasonably certain that the goods would
+"not be sold until they did arrive; and, secondly, that it was reasonably
+"certain that they would be sold immediately after they arrived, and
+"that that was known to the carrier at the time when the bills of lading
+"were signed."
+With respect to the Lord Justice this is putting the test too high. The con-
+clusion reached on the facts of the case in The Parana need not however
+be criticised because the voyage took about twice as long as might have been
+expected and no reasonably accurate prediction of the length of the voyage
+could be expected. He did, however, make use of the general observations
+which have no doubt been treated as laying down a practice to be followed.
+In reaching the conclusion that the Registrar and merchants were right
+in their report he stated:
+"They said that it had never been the practice in the City of
+"Admiralty to give such damages, and though it constantly happened
+"that by accidents such as collisions goods were delayed in their arrival,
+"it never had been the custom to include in the damages the loss of
+"market; and we are of opinion that the conclusion which the Registrar
+"and merchants came to was right."
+This decision has been treated as authoritative by text writers in this
+country and has never been overruled but the rule of practice which it
+purports to lay down is not followed universally and is intensely debated.
+In the United States of America it seems that the Courts have never
+followed the principle of assessment of damages laid down in The Parana.
+Salmon, L.J. has pointed out that in the Corpus Juris Secundum, Vol. 80,
+para. 124, it is stated that "in the ordinary case of deviation or delay, the
+measure of damages is the difference in the market value of the goods at
+the time when actually delivered and when they should have been delivered."
+In the case of the United States v. Middleton et al. (1924) 3 F (2d) 384 and
+in other cases in the United States of America this position has been accepted.
+It would I think be unfortunate if the law as to the measure of damages
+based on the decision in Hadley v. Baxendale in the two countries would
+be held to have developed on different lines and I am glad to find that in my
+opinion it has not in truth done so.
+I have not dealt in detail with the fairness of the instant case. These have
+been sufficiently set out in the opinion of my noble and learned friend Lord
+Reid. I need only say that I agree with the majority of the Court of Appeal
+that, on the correct application of the decision in Hadley v. Baxendale to the
+facts stated in the Special Case, although no special circumstances bring the
+second rule in Hadley v. Baxendale into operation, the Appellant is liable
+in damages for breach of contract in the larger sum awarded, viz.
+£4,188 10s. 8d., a sum which includes damages for loss of market which in
+this case arise "according to the ordinary course of things".
+I do not find it necessary to say that the decision in The Parana was wrong
+on the facts. Somehow or other from the language used in the judgment it
+
+20
+
+appears to have been elevated to a pronouncement on legal principle which is
+not sustainable.
+Lastly there is, in my opinion, no need to enter into the difficult question
+whether there may be differences between cases of non-delivery by carriers
+and cases of delay by them. Certain decisions upon this topic have been
+criticised and I express no opinion about them.
+I would dismiss the appeal.
+
+Lord Pearce
+
+MY LORDS,
+In Hadley v. Baxendale the Court attempted to clarify and define the
+boundaries of damages in contract. In The Wagon Mound [1961] A.C. 388
+the Privy Council attempted a similar task with regard to damages in tort.
+In the present case (as in the Wagon Mound No. 2 (reported as Overseas
+Tankship (U.K.) Ltd. v. Miller Steamship Co. Pty. Ltd. [1966] 2 All E.R.
+709)) I was suggested in argument that there was or should be one principle of
+damages for both contract and tort and that guidance for one could be
+obtained from the other. I do not find such a comparison helpful. In the
+case of contract the parties, usually with some knowledge of one another,
+deliberately undertake mutual duties. They have the opportunity to define
+clearly in respect of what they shall and shall not be liable. The law has
+to say what shall be the boundaries of their liability where this is not ex-
+pressed, defining that boundary in relation to what has been expressed and
+implied. In tort two persons, usually unknown to one another, find that the
+acts or utterances of one have collided with the rights of the other, and the
+Court has to define what is the liability for the ensuing damage, whether
+it shall be shared, and how far it extends. If one tries to find a concept of
+damages which will fit both these different problems there is a danger of
+distorting the rules to accommodate one or the other and of producing a rule
+that is satisfactory for neither. The problems certainly have one thing in
+common. In both the use of words with differing shades of meaning in the
+various cases makes it hard to discern with exactitude where the boundaries
+lie. See Wagon Mound No. 2 [1966] 2 All E.R. 709 at 715.
+The underlying rule of the common law is this "where a party sustains a
+"loss by means of a breach of contract he is, so far as money can do it, to
+"be placed in the same situation with regard to damages as if the contract
+"had been performed" (Baron Parke in Robinson v. Harman (1 Ex. 850).
+But since so wide a principle might be too harsh on a contract-breaker in
+making him liable for a chain of unforeseen and fortuitous circumstances,
+the law limited the liability in which was crystallised in the rule in Hadley
+v. Baxendale. This was designed as a direction to juries but it has become
+an integral part of the law.
+Since an Olympian cloud shrouded any doubts, difficulties and border-line
+troubles that might arise in the jury room and the jury could use a common
+sense liberality in applying the rule to the facts, the rule worked admirably
+as a general guidance for deciding facts. But when the acuations of
+judges who have to give reasons superseded the reticence of juries, there
+were certain matters which needed clarification. That service was well per-
+formed by the judgment of the Court of Appeal in the case of the Victoria
+Laundry (Windsor) Ltd. [1949] 2 K.B. 528. I do not think that there was
+anything startling or novel about it. In my opinion it represented (in felici-
+tous language) the approximate view on Hadley v. Baxendale taken by many
+judges in trying ordinary cases of breach of contract.
+It is argued that it was an erroneous departure from Hadley v. Baxendale
+in that it allowed damages where the loss was "a serious possibility" or
+"a real danger" instead of maintaining that the loss must be "probable". In
+the sense that it was more likely to result than not. But, over twenty years
+
+21
+before, in Hall v. Pim (1927) 33 Com. Cas. 324, Lord Dunedin had said
+(at 330) that it was enough if there was an even chance of the loss happening.
+Lord Shaw (at 333) said that the two parts of the rule need not be anti-
+thetically treated but might run into each other and be one; and (at 334)
+he read probable as meaning a “not unlikely” result. Lord Phillimore
+(at 336) said:
+“(They) are called damages in contemplation of the parties, not
+“because the parties contemplate a breach of contract, but because
+“they recognise that a breach is possible and they reckon that these
+“damages may flow from that breach. I designedly use the word
+“‘may’. There may be cases where the word to be used might be
+“‘will’, but there are also cases, and more common cases, where the
+“word to use is ‘may’.”
+Lord Blanesburgh expressed agreement with the others, and presumably
+did not dissent from the views set out above. Lord Haldane (at 327) dealt
+with the matter as one of construction: “Whether such a resale was likely
+“or not does not matter if, as I think, the buyers stipulated for power to
+“make it being provided.”
+I believe that even at that date that observations would not be regarded
+as novel. And the fact that the case was not included in the Law Reports
+may be some slight confirmation of this belief. Inevitably there is some
+evolution of thought in such matters, and such as there was tended in the
+direction of taking a wider view of probability. In 1948 in The Monarch
+Steamship Co. Ltd. [1949] A.C. 196, a case of damages for delay in
+arriving by sea, Lord Du Parcq (at 223) used the words “at least a serious
+“possibility” and “a real danger which must be taken into account.”
+Lord Uthwatt (at 230) spoke of “the chance of war, not as a possibility
+“of academic interest . . . but as furnishing matter which commercially
+“ought to be taken into account.” And Lord Morton of Henryton spoke
+of “a grave risk” (235).
+Accordingly in my opinion the expressions used in the Victoria Laundry
+case were right. I do not however accept the colloquialism “on the cards”
+as being a useful text because I am not sure just what nuance it has either
+in my own personal vocabulary or in that of others. I suspect that it owes
+its attraction, like many other colloquialisms, to the fact that one may
+utter it without having the trouble of really thinking out with precision what
+one means oneself or what others will understand by it, a spurious attraction
+which in general makes colloquialism unsuitable for definition, though it is
+often useful as shorthand for a collection of definable ideas. It was in this
+latter convenient sense that the judgment uses the ambiguous words “liable
+“to result”. They were not intended as a further or different test from
+“serious possibility” or “real danger”.
+The whole rule in Hadley v. Baxendale limits damages to that which may
+be regarded as being within the contemplation of the parties. The first
+part deals with those things that “may fairly and reasonably be considered
+“as arising naturally, i.e. according to the usual course of things”. Those
+are presumed to be within the contemplation of the parties. As Lord
+Wright said in the case of the Monarch Steamship [1949] A.C. 196 at 224:
+“As reasonable business men each must be taken to understand the
+“ordinary practices and exigencies of the other’s trade or business.
+“That need not, generally be the subject of special discussion or
+“communication”.
+After referring to the Banco de Portugal case [1932] A.C. 452 he continued:
+“Both parties were tacitly taken to be acquainted sufficiently with
+“the general business position. The same is true in many cases of
+“complicated consequences flowing from an unanticipated breach of
+“contract, but the damages are not treated either as special or remote
+“if they flow from the normal business position of the parties which
+“the court assumes must be reasonably known to them. It would not
+
+22
+“be helpful to cite the familiar authorities which are numerous but
+“depend primarily upon the facts of each case.”
+Even the first part of the rule however contains the necessity for the know-
+ledge of certain basic facts e.g. in Hadley v. Baxendale the fact that it was
+a mill shut to be carried. On this limited basis of knowledge the horizon
+of contemplation is confined to things “arising naturally, i.e. according to
+the usual course of things”.
+Additional or “special” knowledge, however, may extend the horizon to
+include losses that are outside the natural course of events. And of course
+the extension of the horizon need not always increase the damages; it
+might introduce a knowledge of particular circumstances e.g. a subcontract,
+which show that the plaintiff would in fact suffer less damage than a more
+limited view of the circumstances might lead one to expect. According to
+whether one categorises a fact as basic knowledge or special knowledge
+the case may under the first part of the rule or the second. For that
+reason there is sometimes difference of opinion as to which is the part
+which governs a particular case and it may be that both parts govern it.
+I do not think that Baron Alderson was directing his mind to whether
+something resulting in the natural course of events was an odds-on chance
+or not. A thing may be a natural (or even an obvious) result even though
+the odds are against it. Suppose a contractor was employed to repair the
+ceiling of one of the Law Courts and did it so negligently that it collapsed
+on the heads of those in Court. I should be inclined to think that any
+tribunal (including the learned Baron himself) would have found as a fact
+that the damage arose “naturally, i.e. according to the usual course of
+“things”. Yet if one takes into account the nights, week ends, and
+vacations, when the ceiling might have collapsed, the odds against it
+collapsing on top of anybody’s head are nearly ten to one. I do not believe
+that this aspect of the matter was fully considered and worked out in the
+judgment. He was thinking of causation and type of consequence rather
+than of odds. The language of the judgment in the Victoria Laundry case
+was a justifiable and valuable clarification of the principles which Hadley
+v. Baxendale was intending to express. Even if it went further than that,
+it was in my opinion right.
+Nor do I consider that the Victoria Laundry case is inconsistent with the
+actual decision on the facts in Hadley v. Baxendale. The carriers were asked
+(without special directions, as the Court found) to transport a broken shaft
+away from a mill. In the great multitude of cases” (to quote the learned
+Baron’s own phrase—one would not expect the whole working of a mill
+to be stopped by a delay in transportation. The mere absence of urgent
+instructions spoke immediately on such a contingency. The fact that the
+shaft was to be used immediately by engineers for measurements which one
+would have rather expected to go on paper by post for making a new shaft
+would not, I think, have been in the contemplation of the carriers, on the
+meagre information available.
+The facts of the present case lead to the view that the loss of market arose
+naturally, i.e. according to the usual course of things, from the shipowner’s
+deviation. The sugar was being exported to Basrah where, as the
+Respondents knew, there was a sugar market. It was sold on arrival and
+fetched a lower price than it would have done had it arrived on time. The
+fall in market price was not due to any unusual or unpredictable factor.
+Had this been a case of non-delivery on sale of goods whether by sea or
+land it is uncontested that the defendants would be liable for the loss of
+market. Had it been a case of delay in sale of goods the prima facie rule
+is that the damage is the difference between the value of the article un-
+“tracted for at the time when it ought to have been and the time when it
+“actually was delivered” (per Blackburn J. Elbinger Actien-Gesellschaft v.
+Angusfrang 1 R. 9 Q.B. 473 at 477. Nor can it really be contended that it
+would have been otherwise if this had been a case of delay in delivery in
+carriage by land. For this has been long established by such cases as
+
+23
+Collard v. South Eastern Railway Company 158 E.R. 400; Wilson v.
+Lancashire and Yorkshire Railway Company 142 E.R. 248; and Horne v.
+Midland Railway Company 7 C.P. 583; 8 C.P. 131.
+It is however argued that different considerations arise in delay in carriage
+at sea. The decision in The Parana 2 P.D. 118, it is said, established a
+special principle or practice with regard to delay in carriage by sea which
+should apply to this case and should confine the damages to loss of interest
+on the value of the goods. The Court of Appeal in The Parana appeared
+to decide largely on the ground that it was not “reasonably certain” that
+the goods would not be sold until they arrived and that they would be sold
+as soon as they did arrive. The estimates of the duration of the voyage
+appear to have varied between 65 days and 90 days, and in fact it took
+127 days. And no doubt the chief factor which influenced the Court was
+that “the uncertainties of the voyage were so great that the parties could
+“not be said to have contracted on the footing that the goods would arrive
+“at any particular moment”. Sir Richard Henn Collins M.R. said this
+when he dealt with The Parana in Dunn v. Bucknall Bros. [1902] 2 K.B.
+614 at 622. He pointed out that “it is certainly not a rule of law but an
+“inference of fact that from the circumstances of the case no reasonable
+“assumption as to the state of the market at the time of arrival could have
+“been a factor in the contract between the parties”. In the latter case the
+Court did award damages for loss of market. So too in The Ardennes [1951]
+1 K.B. 55.
+In the United States the Corpus Juris Secundum states that “in the
+“ordinary case of deviation or delay, the measure of damages is the
+“difference in the market value of the goods at the time when actually
+“delivered and when they should have been delivered, with interest”. In
+1924 in Middleton’s case (3 Fed. Rep. 2nd Series 384 at 393) His Honour
+Judge Rose of the Federal Court of Appeals said:
+“The Parana was decided 27 years ago. It is by no means certain that,
+“even in England, it would now be unhesitatingly followed. . . .
+“Nearly half a century has elapsed since the decision of The Parana and
+“more than two decades since that of Dunn v. Bucknall Bros. In the
+“meanwhile steam has more and more taken the place of the sail.
+“The winds as the motive power upon the sea, with the result that the
+“duration of voyages may now be calculated with at some reasonable
+“to certainty, even when they are to the ends of the earth. In these
+“days merchants make their calculations accordingly, and it is not
+“unreasonable to insist that shipowners shall do the like. There would
+“seem to be little injustice in so doing, when it is remembered that they
+“are not answerable at all when they are able to show that the delay
+“was caused by something which due diligence on their part was
+“powerless to prevent.”
+In The Parana (and in the present case) reliance was placed on the fact
+that in cases of carriage by sea the goods are likely to have been sold in
+transit while still afloat and that therefore the shippers would not suffer by
+their late arrival. But if they were so sold, under the bill of lading the buyer
+would stand in the shoes of the shipper, would suffer the loss, and would
+sue in respect of it. This fact makes the contemplation of the loss neither
+more nor less likely.
+In my opinion the line of approach in Dunn v. Bucknall Bros. and in the
+United States cases is correct. In most cases the loss of market will be found
+to be within the contemplation of the parties in carriage of goods by sea.
+It is however ultimately a question of fact. And it may be that in some
+unusual cases it will be found that the situation between the parties showed
+that the shipper was indifferent to the time of arrival and that the parties did
+not contract on the basis that in case of deviation or delay the shipowner
+would be liable for loss of market. But the absence of an express clause
+(which could easily be inserted) to that effect will obviously make it hard to
+establish. I have not dealt with the natural decision of the facts in this case
+
+24
+
+which Mr. Kerr's able argument seeks to show that these particular parties did not contemplate damage by loss of market. For I agree with the remarks of the majority of the Court of Appeal on this subject.
+
+Accordingly if The Parana purported to lay down any general proposition or rule of law, it was wrongly decided. Even if it was merely purporting to draw an inference of facts from the particular case, I have some doubt of its correctness even at that date, and it has no applicability to-day. And in my opinion The Notting Hill 9 P.D. 105 which applied The Parana to a case of tort, was wrongly decided.
+
+I would dismiss the appeal.
+
+Lord Upjohn
+
+MY LORDS,
+
+This appeal is considered with solely the proper measure of damages for an admitted breach of contract by a shipowner resulting in the late delivery of a cargo which he contracted to deliver to the port of discharge. The practical question is whether the charterer can claim damages for loss of market in the cargo of sugar was to be delivered to a port where there is a market in that commodity.
+
+The general principle upon which damages are assessed for breach of contract is succinctly stated by Baron Parke in Robinson v. Harman 1 Ex. 850 at page 855—"Where a party sustains a loss by reason of a breach of "contract he is, so far as money can do it, to be placed in the same situation "with respect to damages, as if the contract had been performed ". A statement approved in your Lordships' House in Watts, Watts & Co. Ltd. v. Mitsui & Co. Ltd. [1917] A.C. 227 at 241. The same rule has been laid down in your Lordships' House for the assessment of damages generally including torts (see Livingstone v. Rawyards Coal Co. 5 A.C. 25 at page 39.
+
+Such general principles were, however, applied rather strictly to what Hadley v. Baxendale 9 Ex. 341, decided in 1854, the rule that the damage resulting must be the proximate damage: thus in Smeed v. Foord (1 El. & El. 602) during argument where Hadley v. Baxendale was under discussion Campbell, C.J. interjected at page 608—"The old rule was that, in estimating "damages, only the proximate injury sustained could be looked to ". With the increasing complications of life and the upsurge of industrial activities these simple rules failed to give sufficient guidance to juries or indeed judges for the assessment of damages for breach of contract in more complicated cases. But when Messrs. Hadley, owners of a flour mill in Gloucester, having sent a broken mill shaft to the well-known carriers Pickfords to their suppliers in Greenwich to provide a pattern for a new shaft and there being a delay in delivery by Pickfords amounting to a breach of contract, claimed damages on the footing that the whole activities of their mill were held up for want of the shaft, it was clear that the rule, though requiring some expansion, must nevertheless receive some limitation. This led to the famous statement of Alderson B. in that case 9 Ex. 341 at page 354:—
+
+"Now we think the proper rule in such a case as the present is this:—
+"Where two parties have made a contract which one of them has
+"broken, the damages which the other party ought to receive in respect
+"of such breach of contract should be such as may fairly and reason-
+"ably be considered either arising naturally, i.e., according to the usual
+"course of things, from such breach of contract itself, or such as may
+"reasonably be supposed to have been in the contemplation of both
+"parties, at the time they made the contract, as the probable result of
+"the breach of it. . . ."
+
+Though stated by the learned Baron in one sentence it contains and has always been interpreted as containing two branches and for my part I care not whether it is regarded as stating two rules or two branches of one rule, though I prefer the latter. Thus:
+
+25
+
+(1) Damages should be such as may naturally and usually arise from the breach, or
+
+(2) Damages should be such as in the special circumstances of the case known to both parties may be reasonably supposed to have been in the contemplation of the parties, as the result of a breach, assum-ing the parties to have applied their minds to the contingency of there being such a breach.
+
+See Hammond & Co. v. Bussey 20 Q.B.D. 79 approved in this House in R. & H. Hall Ltd. v. W. H. Pim (Junior) & Co. Ltd. 33 Com. Cas. 324. How-ever there is no dichotomy between these branches for as Lord Shaw pointed out in the last-mentioned case at page 334 "they may run into each other "and indeed be one ".
+
+In British Columbia & Vancouver Island Spar, Lumber & Saw-Mill Co. Ltd. v. Nettleship R. 3 C.P. 499 it was decided on the second branch of the rule that there must not only be common knowledge of some special circumstances but liability for damages resulting therefrom must be made a term of the contract. This was followed in Horne v. Midland Railway Co. L.R. 8 C.P. 131. I do not see why that should be so. If parties enter into the contract with knowledge of some special circumstances and it is reasonable to infer a particular loss as a result of those circumstances that is something which both must contemplate as a result of a breach. It is quite unnecessary that it should be a term of the contract. I agree with the learned editor of the Third Edition of Halsbury Vol. 11 page 243 note (m) that those authorities ought not to be followed. In any event, as Diplock L.J. has pointed out, this point had little application in practice.
+
+So the claim for damages must be the natural consequence of the breach or in the contemplation of both parties. But in tort a different test has been adopted in extending the basic law of damages and I cannot accept the argument addressed to your Lordships that they remain the same. The test in tort, as now developed in the authorities, is that the tortfeasor is liable for any damage which he can reasonably foresee may happen as a result of the breach however unlikely it may be, unless it can be brushed aside as far fetched. See the Wagon Mound cases [1961] A.C. 388; [1966] 3 W.L.R. 498.
+
+This difference is very reasonable. Once an examination of the facts establishes a breach of duty on the part of the tortfeasor, the acts and omissions of the innocent party are irrelevant until the question of con-tributory negligence comes to be considered. A tortfeasor may and frequently is a complete stranger to the innocent party but he is, however fleetingly in many cases, his neighbour for the purposes of the law and bound to act with due regard to his neighbour's rights, whoever he may be. If he fails in such duty the law has rightly laid down a more stringent test for the assessment of damages. But in contract the parties have only to consider the consequences of a breach to the other: it is fair that the assessment of damages should depend on their assumed common knowledge and con-templation and not on a foreseeable but most unlikely consequence. The parties may moreover agree to limit or exclude liability for damage, or agree on a liquidated sum, or one party can disclose to the other special circumstances which will render a breach especially serious to him. So the rules as to the assessment of damages have diverged in the two cases and nowadays the concept of "foreseeability" and "contemplation of the "parties" are different concepts in the law. It is true that as a matter of language there will in many cases be no great difference between foreseeing the possibility of an event happening and contemplating the possibility of that event happening and in some of the cases, from Lord Blackburn in Cory v. Thames Ironworks L.R. 3 Q.B. 181 at 188 onwards, the word foresee or foreseeable is used in connection with contract but it is clear that it has really been used in the sense of reasonable contemplation and in my view it is better to use contemplate or contemplation in the case of contract, leaving foresee or foreseeability to the realm of torts.
+
+26
+
+The rule in Hadley v. Baxendale was approved in express terms in Bank of Portugal v. Waterlow [1932] A.C. 452 and in The Monarch Steamship Co. Ltd. v. Karlshamns Oljefabriker (A/B) [1949] A.C. 196, and has been followed in a multitude of cases ever since it was decided. I think that apart from some very early criticisms it would be true to say that it stood without question until the case of Victoria Laundry (Windsor) Ltd. v. Newman Industries Ltd. [1949] 2 K.B. 528 when it received a colourful interpretation from Asquith L.J. delivering the judgment of the Court.
+
+My Lords, in my opinion this appeal renders it necessary to determine the following questions:—
+
+(1) Has the Victoria Laundry case purported to alter the law and estab-lish a somewhat different rule from that laid down in Hadley v. Baxendale for the assessment of damages in contract;
+
+(2) What, as a practical matter, is the test to be applied in ascertaining whether any particular consequences of a breach of contract should tend to recoverable damages, as arising either naturally or such as may have been within the contemplation of the parties in the special circumstances of the case;
+
+(3) Applying that test, what on the facts of this case is the proper measure of damages; unless
+
+(4) Is there some special rule of practice in relation to carriage of goods by sea established by The Parana [1877] 2 P.D. 118 which precludes the recovery of damages, beyond interest on the value of the goods over the period of the delay, unless the plaintiff can bring the case on its special circumstances within the second branch of the rule.
+
+(1) Upon the first point it is, I think, clear that on a fair reading of the judgment of the majority of the Court of Appeal they considered that the Victoria Laundry case did alter the law. That case was one plainly within the second branch of the rule, but nevertheless the observations of Asquith L.J. were in general terms applicable to both branches. I do not myself think that the learned Lord Justice intended to alter the law. He was para-phrasing it and putting it into modern language, and I shall refer to this under the next heading. If he was doing more, I would disagree with him. But for my part I prefer to state the broad rule as follows:—
+
+What was in the assumed contemplation of both parties acting as reasonable men in the light of the general or special facts as the case may be known to both parties in regard to damages as the result of a breach of contract;
+
+I omit for the moment any adjectival qualification of the result which I deal with in (2) below. Lord Wright pointed out in The Monarch (supra) at 224 that each must be taken to understand the ordinary practices and exigencies of the other's trade but it must be remembered when dealing with the case of a carrier of goods by land, sea or air, he is not carrying on the same trade as the consignor of the goods and his knowledge of the practices and exigencies of the other's trade may be limited and less than between buyer and seller of goods who probably know far more about one another's business.
+
+(2) Upon the second point, what as a practical matter is to be taken as within the contemplation of both parties as the result of a breach? The words "probable result" should be held at first; they were used in the enunciation of the rule itself and by Esher M.R. in Hammond v. Bussey (supra) and adopted by Lord Dunedin in Hall v. Pim (supra) at 330 who, however, was careful to add that "probable" in his view did not mean more than an even chance. Lord Shaw in that case interpreted the word probable in the sense of the not unlikely result (page 334). In The Monarch their Lordships used a variety of different expressions. I will very briefly enumerate them,—likelihood; possibility must have been in the minds of both parties; a matter commercially to be taken into account; a serious possibility or a real danger; a grave risk.
+
+27
+
+Asquith L.J. in Victoria Laundry (supra) used the words "likely to result"
+and he treated that as synonymous with a serious possibility or a real danger.
+He went on to equate that with the expression "on the cards" but like
+all your Lordships I deprecate the use of that phrase which is far too im-
+precise and to my mind is capable of denoting a most improbable and unlikely
+event, such as winning a prize or a premium bond on any given drawing.
+
+But in my opinion Asquith L.J. was not attempting to do more than explain
+the rule in the light of the observations made in this House in The Monarch.
+It is curious that Hall v. Pim seems to have escaped citation in all the later
+cases until this appeal to your Lordships.
+
+It is clear that on the one hand the test of foreseeability as laid down in
+the case of tort is not the test for breach of contract; nor on the other hand
+must the loser establish that the loss was a near certainty or an oddson
+probability. I am content to adopt as the test a "real danger" or a
+"serious possibility". There may be a shade of difference between these
+two phrases but the assessment of damages is not an exact science and what
+to one judge or jury will appear a real danger may appear to another judge
+or jury to be a serious possibility. I do not think that the application of
+that test would have led to a different result in Hadley v. Baxendale. I
+cannot see why Pickfords in the absence of express mention should have con-
+templated as a real danger or serious possibility that work at the factory
+would be brought to a half while the shaft was away.
+
+(3) Applying this test to the facts of this case the first and most important
+matter for consideration is the contract contained in the Charter Party which
+was dated 15th October, 1960. It provided that the Heron II should pro-
+ceed to Constanza and there load 3,000 tons of sugar and then proceed with
+all convenient speed to Basrah. At the date of the contract the ship was
+dry-docked in Piraeus and was expected to be ready to load about 25/27th
+October, so it was provided that lay days were not to run before then. It
+was further provided that if the ship was not ready to load by 10th November,
+1960, the charterers were to have the option to cancel the Charter Party.
+The charterers were also given the option of discharging the cargo at Jeddah
+to be declared 5 days before the commencement of loading. The distance
+from Constanza to Basrah is 5,370 miles and a reasonably accurate predic-
+tion of the length of the voyage was 20 days. The Heron II arrived at
+Constanza on 27th October, duly loaded and sailed on 1st November, 1960.
+Due to a number of breaches of contract which I need not specify the vessel
+took 29 days to complete the voyage instead of the predicted 20. The ship-
+owner knew of the existence of a sugar market at Basrah but had no detailed
+knowledge thereof. Those in essence are the relevant facts upon which the
+question of damages has to be determined. It is common ground that the
+question falls within the first branch of the rule in Hadley v. Baxendale.
+
+Both McNair J. in the Court of first instance and Sellers L.J. in his dis-
+senting judgment in the Court of Appeal were impressed by the fact that the
+ship might lawfully have presented itself for loading at any time up to
+10th November and might have been directed to go to Jeddah and this cir-
+cumstance influenced each of them in reaching the conclusion that loss of
+market due to delay could not have been within the contemplation of the
+parties. I cannot agree with this. Diplock, and Salmon L.JJ., have, in my
+opinion, answered this point. The cancellation clause was put in to protect
+the charterer from undue delay if the repairs to the ship in dry-dock should
+take longer than anticipated; its existence does nothing in my opinion to alter
+the common contemplation of the parties as to the consequences of a failure
+of the ship to carry out the primary obligation to proceed on its journey with
+all convenient speed; if anything it supports the view that time was an
+important element in the voyage. Nor can I see the relevance of the fact
+in this respect that another port of discharge might have been designated.
+It was not and the Heron II was under contract to carry with all convenient
+speed one cargo to one port of discharge where there was a market for that
+cargo.
+
+28
+
+This case is quite different from those cases where cargo ships used
+in the old days literally to tramp up and down, for example, the Mediter-
+ranean, with liberty to call at any port in any order (though that phrase,
+as the authorities show, must receive a limited and not a literal con-
+struction) collecting and discharging cargo as they steamed from port to
+port; so that delay in carrying cargo to a particular port within a particular
+time or even with all convenient speed cannot have been within the con-
+templation of the parties as giving rise to damage for loss of market:
+see, for example, Connolly Shaw, Ltd. v. A/S Det Nordenfieldske D/S
+49 Ll.L. Rep. 183 at page 191 per Branson J. The Ardennes 84 Ll.L. Rep.
+340 might have been such a case if the facts had not brought it clearly within
+the second branch of the rule.
+
+It has long been established that in carrying marketable goods by rail
+to a place where there is a market it must be assumed to be in the contem-
+plation of the parties as a grave danger that the goods may be sold on arrival
+or that if there is a delay one of the consequences may be loss of market.
+See Collard v. South Eastern Railway Company 7 H. & N. 79 and Horne
+v. Midland Railway (supra). The plaintiff failed in the last case because
+there was no market loss and he failed to communicate the circumstances
+which led to his special loss. Is there any reason why this rule should not
+in principle apply to carriage of goods by sea?
+
+As long ago as 1892 in the case of Dunn v. Bucknall Brothers [1902]
+2 K.B. 614 Collins M.R. pointed out that sea voyages of three to four
+weeks duration are accomplished with almost absolute certainty and the
+state of the market may well be a vital fact present to the minds of both
+parties at the time of making the contract.
+
+In Jensen v. Hollis Bros. & Co. Ltd. 54 Ll. L. Rep. 133 Branson J. at
+page 137 did not over-exaggerate when he said that ships with modern
+facilities run with somewhat of the regularity of railway trains. So I see no
+reason why in principle the normal rule as to carriage of goods by land
+should not apply to the type of voyage undertaken by the Heron II. I do not
+refer to the authorities to which your Lordships were referred where there
+is a complete loss of or some physical damage to, goods such as Rodocanachi
+v. Milburn 18 Q.B.D. 67, for although the same general principles apply,
+both Lord Dunedin and Lord Atkinson pointed out in Williams v. Agius
+[1914] A.C. 510, that there are substantial differences in practice between
+late delivery and non-delivery. Where marketable goods are lost it is
+almost automatic that the market price measures the damage, the same
+cannot be said of delay; it all depends on circumstances. Different con-
+siderations apply to cases between buyer and seller as I have already
+pointed out. Nor do I think it necessary to discuss Wertheim v. Chicoutimi
+Pulp Co. [1911] A.C. 301 and the criticisms of Scrutton L.J. of that case
+in Slater v. Hoyle & Smith [1920] 2 K.B. 11; that controversy was really
+concerned with the measure of damages on sub-sales.
+
+But the Heron II took very nearly fifty per cent more than the reasonably
+predicted time and for no other reason than her owner's breaches of
+contract.
+
+It is perfectly true that at the time of the contract nothing was said to as
+to the price for which the charterer wanted the sugar delivered at Basrah;
+he might have wanted it so as to back up his supply of sugar or to carry
+out a contract already entered into which had nothing to do with the market
+at Basrah; or he might sell it during the voyage, but all that is pure
+speculation. It seems to me that on the facts of this case the parties must
+be assumed to have contemplated that there would be a punctual delivery
+to the port of discharge and that port having a market in sugar there was
+a real danger that as a result of a delay in breach of contract the charterer
+would miss the market and would suffer loss accordingly. It being estab-
+lished that the goods were in fact destined for the market the shipowner
+is liable for that loss.
+
+(4) I turn, then, to the last question. Does The Parana (supra) lead to a different
+conclusion that in the case of carriage of goods by sea there is a market
+
+29
+
+of practice; it is not suggested that there is any different rule of law.
+McNair J. and Sellers L.J. thought so and that damages were limited to
+loss of interest on the value of the goods detained.
+
+No doubt in the days of sail pure and simple, when ships might be delayed
+by head winds for days, loss of market would not be within the contemplation
+of the parties. In 1877, when The Parana was decided, the steam engine
+was coming into its own but it was still the golden age of sail and over
+half the ships built in this country were sailing ships; at this time, these
+matters may well have influenced Mellish L.J. when he pointed out the
+difference between delay in delivery by carriers on land and cases of
+carriage of goods on long voyages by sea. Perhaps he was right as matters
+then stood but the rapid improvement in the steam engine led to a different
+statement of principle in Dunn v. Bucknall Bros. (supra) a statement in
+accordance with general principle and which must govern the assessment
+of damages in the present case. The Parana, and the cases which followed it,
+Notting Hill 9 P.D. 105 and frequently criticised, must be regarded as either
+obsolete, being overtaken by events or as overruled. It may be noted that
+The Parana was not treated by Mellish L.J. as a tramp steamer in the sense
+in which I have used that phrase earlier in this judgment.
+
+In Dunn v. Bucknall (supra) an explanation of the decision in The
+Parana was suggested, that the estimates of the proper time for completion
+of the voyage of The Parana varied very greatly so that the time of arrival
+was not predictable. This explanation was not given by Mellish L.J.
+himself and I doubt if it is valid.
+
+Even today, when very long journeys half-way round the world are under-
+taken, the estimate of the time which a ship ought to take may vary within
+wide limits; see, for example, two cases in the U.S.A., the United States v.
+Middleton 3 Fed. Reporter 2nd Series 984 (an Atlantic port to Japan
+60 to 90 days) and the Iossifoglu 32 Fed. Reporter 2nd Series 928 (Phillipines
+to a U.S. Atlantic port 46 to 66 days). Nevertheless, in both those cases
+it was held that in the case of marketable commodities being carried to a
+market if the ship greatly exceeds the larger estimate through breach of
+contract and the cargo owner thereby misses his market he is entitled to
+damages for loss of market. I agree with those decisions, so far as the
+Judges who decided those cases fail to qualify by reason of the fact that
+the time of arrival could only be estimated within broad limits.
+
+For these reasons I would dismiss this appeal.
+
+of damages today.
+The Parana is that
+has only once been
+followed in the
+
+(329304) D d.c. 196999 100 10/67 St.S.
