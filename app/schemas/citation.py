@@ -69,7 +69,6 @@ class SourceMetadata(SourceMetadataFields):
 
     source: str  # filename identifier (the resource id), e.g. "obg-...-case-l.pdf"
     status: str = "ok"  # "ok" | "error" (error -> review this source manually)
-    pages_used: int = 0  # how many leading pages were fed before essentials were filled
     error: str | None = None  # populated when status == "error"
 
 

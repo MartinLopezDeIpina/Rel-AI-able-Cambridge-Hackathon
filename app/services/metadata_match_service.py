@@ -24,6 +24,8 @@ same field names, so the comparison is a direct field-by-field one.
 from __future__ import annotations
 
 import json
+import re
+import sys
 from pathlib import Path
 
 from app.core.config import Settings, get_settings
@@ -242,6 +244,44 @@ def _confirm_same_case(cite: EnrichedCitation, meta: dict,
     return None, "verification agent did not return valid JSON"
 
 
+def _norm_for_match(name: str) -> str:
+    """Normalised case name for fuzzy matching, with runs of single-letter initials
+    collapsed ("d c thomson" -> "dc thomson") so "DC Thomson" matches "D. C. Thomson"."""
+    n = citelib.normalize_name(name)
+    return re.sub(r"\b([a-z])\s+(?=[a-z]\b)", r"\1", n)
+
+
+def _match_by_name_year(cite: EnrichedCitation, sources: dict[str, dict]):
+    """Index-free fallback for cites without a neutral ``number`` (law-report /
+    nominate): match directly against the sources DB on **year (±1) + fuzzy case
+    name**. Returns ``(identifier, "name_year")`` or ``None``.
+
+    The ±1-year tolerance absorbs report-year vs decision-year differences (e.g. a case
+    decided in 1971 but reported in 1972). This is what makes the "check against the
+    JSON" work standalone — no vector index — for authorities cited by name.
+    """
+    if cite.year is None:
+        return None
+    name = cite.full_case_name or cite.case_name
+    if not name:
+        return None
+    from rapidfuzz import fuzz
+
+    target = _norm_for_match(name)
+    best, best_score = None, 0.0
+    for ident, meta in sources.items():
+        s_year = meta.get("year")
+        if s_year is None or abs(int(s_year) - cite.year) > 1:
+            continue
+        score = fuzz.token_set_ratio(
+            target, _norm_for_match(str(meta.get("case_name") or "")))
+        if score > best_score:
+            best, best_score = ident, score
+    if best is not None and best_score >= NAME_MATCH_THRESHOLD:
+        return best, "name_year"
+    return None
+
+
 def _semantic_confirm(cite: EnrichedCitation, sources: dict[str, dict],
                       fname_index: dict[str, str], resolver,
                       settings: Settings | None = None):
@@ -251,7 +291,10 @@ def _semantic_confirm(cite: EnrichedCitation, sources: dict[str, dict],
     tuples ``("__none__", reason)`` / ``("__review__", reason)`` for
     non-existent and unsure outcomes respectively.
     """
-    res = resolver.resolve(_cite_string(cite))
+    try:
+        res = resolver.resolve(_cite_string(cite))
+    except Exception as error:  # noqa: BLE001 - no/broken vector index -> can't confirm
+        return "__review__", f"semantic resolver unavailable: {error}"
     if res.get("needs_web"):
         return "__none__", "not found in the sources database (no confident match)"
 
@@ -283,11 +326,17 @@ def _semantic_confirm(cite: EnrichedCitation, sources: dict[str, dict],
 # Other-attribute comparison (everything beyond the required triple)
 # --------------------------------------------------------------------------
 
-# Fields compared once a source is matched. year/court/number are excluded
-# because the triple match already established them.
-_COMPARE_FIELDS = (
-    "case_name", "division", "reporter", "volume", "page", "citation_type", "raw",
-)
+# Fields compared once a source is matched. year/court/number are excluded (the match
+# established them); citation_type and raw are excluded too — a case has several valid
+# citation formats (neutral vs law-report), so comparing them is noise, not a
+# misrepresentation.
+_COMPARE_FIELDS = ("case_name", "division", "reporter", "volume", "page")
+
+# Law-report coordinates: when the source has no value (it recorded the case under a
+# different citation system, e.g. a neutral cite), we can't contradict the document, so
+# a null source here is skipped rather than flagged. (division stays compared — a null
+# division on a no-division court genuinely contradicts a claimed one.)
+_SKIP_IF_SOURCE_NULL = {"reporter", "volume", "page"}
 
 
 def _coerce(value):
@@ -305,13 +354,23 @@ def _scalar_equal(field: str, citing, source) -> bool:
 
 
 def _judges_mismatch(citing: list[str], source) -> list[str]:
-    """Return citing judge names not found in the source's judge list."""
-    src_norm = {citelib.normalize_name(j) for j in (source or []) if j}
+    """Return citing judge names not found in the source's judge list.
+
+    Matching is lenient: a citing judge counts as present if its normalised form is a
+    substring of (or a close fuzzy match to) any source judge — so "Baroness Hale"
+    matches "Baroness Hale of Richmond" and only genuinely absent judges are flagged.
+    """
+    from rapidfuzz import fuzz
+
+    src_norm = [citelib.normalize_name(j) for j in (source or []) if j]
     missing = []
     for j in citing:
         if not j:
             continue
-        if citelib.normalize_name(j) not in src_norm:
+        cj = citelib.normalize_name(j)
+        present = any(
+            cj in s or s in cj or fuzz.token_set_ratio(cj, s) >= 88 for s in src_norm)
+        if not present:
             missing.append(j)
     return missing
 
@@ -320,17 +379,18 @@ def _compare_fields(cite: EnrichedCitation, meta: dict) -> list[FieldMismatch]:
     """Flag every non-null citing attribute that disagrees with the source."""
     mismatches: list[FieldMismatch] = []
 
-    # case_name is fuzzy (tolerates Ltd/Limited, Co/Company, "v"/"v.").
-    if cite.case_name:
+    # case_name is fuzzy (tolerates Ltd/Limited, Co/Company, "v"/"v.", initials). Use
+    # the repaired full_case_name when available — the regex case_name is often a
+    # truncated fragment that would misfire here.
+    citing_name = cite.full_case_name or cite.case_name
+    if citing_name:
         from rapidfuzz import fuzz
         s_name = meta.get("case_name")
         score = fuzz.token_set_ratio(
-            citelib.normalize_name(cite.case_name),
-            citelib.normalize_name(str(s_name or "")),
-        )
+            _norm_for_match(citing_name), _norm_for_match(str(s_name or "")))
         if not s_name or score < NAME_MATCH_THRESHOLD:
             mismatches.append(FieldMismatch(
-                field="case_name", citing_value=cite.case_name, source_value=s_name))
+                field="case_name", citing_value=citing_name, source_value=s_name))
 
     for field in _COMPARE_FIELDS:
         if field == "case_name":
@@ -339,6 +399,8 @@ def _compare_fields(cite: EnrichedCitation, meta: dict) -> list[FieldMismatch]:
         if citing_value is None:
             continue
         source_value = meta.get(field)
+        if source_value is None and field in _SKIP_IF_SOURCE_NULL:
+            continue  # source used a different citation system -> can't contradict
         if not _scalar_equal(field, citing_value, source_value):
             mismatches.append(FieldMismatch(
                 field=field, citing_value=citing_value, source_value=source_value))
@@ -359,26 +421,35 @@ def _compare_fields(cite: EnrichedCitation, meta: dict) -> list[FieldMismatch]:
 def verify_one(cite: EnrichedCitation, sources: dict[str, dict],
                fname_index: dict[str, str], resolver,
                settings: Settings | None = None) -> MetadataMatchResult:
-    """Existence + metadata-equality verdict for a single citation."""
-    primary = _match_required(cite, sources)
-    used_semantic = False
+    """Existence + metadata-equality verdict for a single citation.
 
+    Match tiers, in order: (1) the neutral ``year+court+number`` triple; (2) an
+    index-free ``year + fuzzy name`` match against the JSON; (3) the semantic resolver
+    (only if one was supplied and a vector index exists). The first two need only the
+    JSON DB, so the check works without an index.
+    """
+    primary = _match_required(cite, sources)
     if primary is not None:
         ident, method = primary
     else:
-        ident, method = _semantic_confirm(cite, sources, fname_index, resolver, settings)
-        used_semantic = True
+        name_year = _match_by_name_year(cite, sources)
+        if name_year is not None:
+            ident, method = name_year
+        elif resolver is not None:
+            ident, method = _semantic_confirm(cite, sources, fname_index, resolver, settings)
+        else:
+            ident, method = "__none__", "not found in the sources database (no metadata match)"
 
     if ident == "__none__":
         return MetadataMatchResult(
             id=cite.id, exists=False, match_method=None,
-            used_semantic_fallback=used_semantic, required_params_matched=False,
+            used_semantic_fallback=False, required_params_matched=False,
             reason=method or "case does not appear to exist",
         )
     if ident == "__review__":
         return MetadataMatchResult(
             id=cite.id, exists=False, match_method=None,
-            used_semantic_fallback=used_semantic, required_params_matched=False,
+            used_semantic_fallback=True, required_params_matched=False,
             needs_review=True, reason=method or "existence could not be confirmed",
         )
 
@@ -393,7 +464,8 @@ def verify_one(cite: EnrichedCitation, sources: dict[str, dict],
     return MetadataMatchResult(
         id=cite.id, exists=True, matched_source=ident, match_method=method,
         used_semantic_fallback=(method == "semantic"),
-        required_params_matched=True, field_mismatches=mismatches, reason=reason,
+        required_params_matched=method in ("direct", "fuzzy"),
+        field_mismatches=mismatches, reason=reason,
     )
 
 
@@ -407,9 +479,8 @@ def verify_citations_metadata(
     settings = settings or get_settings()
     sources = sources if sources is not None else load_sources_metadata()
     fname_index = _filename_index(sources)
-    if resolver is None:
-        from app.services.resolver_service import get_resolver_service
-        resolver = get_resolver_service()
+    # The resolver (semantic, needs a vector index) is an OPTIONAL deepest fallback; by
+    # default we run JSON-only (triple + name+year). Pass a resolver to enable it.
     return [verify_one(c, sources, fname_index, resolver, settings) for c in enriched]
 
 
@@ -462,3 +533,80 @@ def get_metadata_match_service() -> MetadataMatchService:
     if _service is None:
         _service = MetadataMatchService()
     return _service
+
+
+# --------------------------------------------------------------------------
+# CLI: uploaded document -> extract citations -> check against the JSON DB
+# --------------------------------------------------------------------------
+
+def _verdict(r: MetadataMatchResult) -> str:
+    if r.exists:
+        return "EXISTS" if not r.field_mismatches else "EXISTS (metadata mismatch)"
+    return "NEEDS REVIEW" if r.needs_review else "DOES NOT EXIST"
+
+
+def run_report(pdf_path: str | Path) -> dict:
+    """Full pipeline for one document: extract enriched citations, verify each against
+    the sources DB, print a partner-readable report, and return the structured result."""
+    from app.services.citation_llm_service import extract_enriched_citations
+
+    enriched = extract_enriched_citations(pdf_path)
+    results = verify_citations_metadata(enriched)
+    by_id = {r.id: r for r in results}
+
+    print(f"\nCitation integrity report — {pdf_path}", file=sys.stderr)
+    print(f"{len(enriched)} citation(s) checked against the sources database\n"
+          + "=" * 72, file=sys.stderr)
+    counts = {"exist": 0, "mismatch": 0, "review": 0, "none": 0}
+    for c in enriched:
+        r = by_id[c.id]
+        if r.exists:
+            counts["exist"] += 1
+            counts["mismatch"] += bool(r.field_mismatches)
+        elif r.needs_review:
+            counts["review"] += 1
+        else:
+            counts["none"] += 1
+        name = c.full_case_name or c.case_name or "(name not extracted)"
+        matched = f"  [matched {r.matched_source} via {r.match_method}]" if r.exists else ""
+        print(f"\n[{c.id}] {name}  {c.raw or ''}", file=sys.stderr)
+        print(f"     {_verdict(r)}{matched}", file=sys.stderr)
+        for m in r.field_mismatches:
+            print(f"       ! {m.field}: document={m.citing_value!r} "
+                  f"vs source={m.source_value!r}", file=sys.stderr)
+        if r.reason:
+            print(f"     {r.reason}", file=sys.stderr)
+
+    print("\n" + "=" * 72, file=sys.stderr)
+    print(f"Summary: {counts['exist']} exist "
+          f"({counts['mismatch']} with metadata mismatches), "
+          f"{counts['none']} do not exist, {counts['review']} need review.",
+          file=sys.stderr)
+
+    report = {"document": str(pdf_path),
+              "citations": [{**c.model_dump(), "verification": by_id[c.id].model_dump()}
+                            for c in enriched]}
+    return report
+
+
+def main(argv: list[str] | None = None) -> int:
+    argv = sys.argv[1:] if argv is None else argv
+    pdf_path = Path(argv[0]) if argv else Path("case_demo.pdf")
+    out_path = Path(argv[1]) if len(argv) > 1 else Path("data/citation_report.json")
+
+    if not Path(pdf_path).is_file():
+        print(f"Error: document not found: {pdf_path}", file=sys.stderr)
+        return 2
+    try:
+        report = run_report(pdf_path)
+    except Exception as exc:  # noqa: BLE001 - surface a clean CLI error
+        print(f"Error: {exc}", file=sys.stderr)
+        return 1
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\nJSON report -> {out_path}", file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

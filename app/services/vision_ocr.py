@@ -30,7 +30,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 from langsmith import traceable
-from langsmith.run_helpers import get_current_run_tree
+from langsmith.run_helpers import get_current_run_tree, tracing_context
 
 from app.core.config import _ENV_FILE, Settings, get_settings
 
@@ -245,11 +245,16 @@ def transcribe_images(llm, images: list[bytes]) -> str:
         })
     message = [HumanMessage(content=content)]
     sem = _VISION_SEMAPHORE
-    if sem is None:
-        response = invoke_with_backoff(llm, message)
-    else:
-        with sem:
+    # Don't trace the raw model call: its inputs carry the base64 page images (tens of
+    # MB), which exceed LangSmith's per-run size limit and make the whole run fail to
+    # ingest. The enclosing ``_ocr_page_batch`` span still records the page label and
+    # the transcribed text, so progress stays visible without the image payload.
+    with tracing_context(enabled=False):
+        if sem is None:
             response = invoke_with_backoff(llm, message)
+        else:
+            with sem:
+                response = invoke_with_backoff(llm, message)
     return _clean_vision_text(str(response.content))
 
 
@@ -289,9 +294,13 @@ def transcribe_full_document(llm, pdf_path: Path, settings: Settings) -> str:
 
     min_chars = settings.text_layer_min_chars
     batch = max(1, settings.vision_ocr_batch_pages)
-    total = count_vision_batches(pdf_path, settings)  # for the (k/total) labels
+    scanned_total, total = count_vision(pdf_path, settings)  # pages, batches
     intra = settings.vision_intra_concurrency or (total or 1)
     intra = max(1, min(intra, total or 1))
+
+    # Per-file live page bar (pages done / total) when running under a corpus build.
+    prog = _PROGRESS
+    handle = prog.open_file(pdf_path.name, scanned_total) if (prog and scanned_total) else None
 
     segments: list[dict] = []  # ordered; each is text (has result) or vision (has future)
     n_text = n_scan = 0
@@ -310,9 +319,12 @@ def transcribe_full_document(llm, pdf_path: Path, settings: Settings) -> str:
             seg = {"kind": "vision", "result": None}
             segments.append(seg)
 
+            n_pages = len(images)
+
             def work() -> None:
                 seg["result"] = _ocr_page_batch(llm, images, label)
-                _tick_batch()  # advance the shared terminal progress bar
+                if handle is not None:  # advance this file's bar + the global pages bar
+                    prog.advance(handle, n_pages)
 
             ctx = contextvars.copy_context()  # carry the trace context into the worker
             seg["future"] = pool.submit(ctx.run, work)
@@ -351,10 +363,12 @@ def transcribe_full_document(llm, pdf_path: Path, settings: Settings) -> str:
                 seg["result"] = seg["future"].result() or seg["result"]
     finally:
         pool.shutdown(wait=True)
+        if handle is not None:
+            prog.close_file(handle)
 
     try:
         from tqdm import tqdm
-        tqdm.write(f"  {pdf_path.name[:50]}: {n_text} text page(s), "
+        tqdm.write(f"  done {pdf_path.name[:50]}: {n_text} text page(s), "
                    f"{n_scan} scanned in {total} batch(es)")
     except Exception:  # noqa: BLE001 - logging only
         pass
@@ -397,7 +411,7 @@ def build_text_corpus(source_dir: Path, texts_dir: Path,
 
     # Bound total in-flight vision calls across the two layers of fan-out (files ×
     # page-batches). Set the module-global the workers consult.
-    global _VISION_SEMAPHORE, _BATCH_BAR
+    global _VISION_SEMAPHORE, _PROGRESS
     _VISION_SEMAPHORE = threading.Semaphore(max(1, settings.vision_max_concurrent_calls))
 
     llm = build_vision_llm(settings)
@@ -410,16 +424,30 @@ def build_text_corpus(source_dir: Path, texts_dir: Path,
         if p not in pending:
             statuses[p.name] = "cached"
 
-    # Two live progress bars: files completed, and vision page-batches completed
-    # (the batch bar is what moves while a big scanned doc is being processed).
-    total_batches = sum(count_vision_batches(p, settings) for p in pending)
-    file_bar = tqdm(total=len(pdfs), initial=n_cached, desc="files (pdf->txt)",
-                    position=0, unit="file")
-    _BATCH_BAR = tqdm(total=total_batches, desc="vision page-batches",
-                      position=1, unit="batch")
+    # Classify the to-do files: digital (text layer only, no vision) vs scanned (needs
+    # vision), and tally scanned pages/batches — so the run starts with a clear picture.
+    work = {p: count_vision(p, settings) for p in pending}  # path -> (pages, batches)
+    digital = [p for p, (pg, _b) in work.items() if pg == 0]
+    vision_files = [p for p, (pg, _b) in work.items() if pg > 0]
+    total_scanned_pages = sum(pg for pg, _b in work.values())
+    total_batches = sum(b for _pg, b in work.values())
 
     requested = concurrency if concurrency is not None else settings.vision_ocr_concurrency
     conc = requested if requested and requested > 0 else len(pending)
+
+    tqdm.write(
+        f"Sources: {len(pdfs)} files | cached/skip: {n_cached} | to do: {len(pending)}\n"
+        f"  - digital (text layer, no vision): {len(digital)}\n"
+        f"  - need vision OCR: {len(vision_files)} files, "
+        f"{total_scanned_pages} pages, {total_batches} batches\n"
+        f"  - {min(conc, max(1, len(pending)))} file(s) at a time, "
+        f"up to {settings.vision_max_concurrent_calls} vision calls in flight")
+
+    # Live bars: files completed; global vision pages; and one per-file page bar per
+    # concurrent scanned file (created/freed by transcribe_full_document via _PROGRESS).
+    file_bar = tqdm(total=len(pdfs), initial=n_cached, desc="files done",
+                    position=0, unit="file")
+    _PROGRESS = _Progress(total_scanned_pages, slots=max(1, min(conc, len(pending) or 1)))
 
     try:
         while pending:
@@ -454,9 +482,9 @@ def build_text_corpus(source_dir: Path, texts_dir: Path,
                 conc = max(1, conc // 2)  # adaptive batching: shrink and retry
             pending = rate_limited
     finally:
-        _BATCH_BAR.close()
+        _PROGRESS.close()
         file_bar.close()
-        _BATCH_BAR = None
+        _PROGRESS = None
 
     for other in others:
         statuses[other.name] = "skipped: not a PDF"

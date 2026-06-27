@@ -126,12 +126,26 @@ def test_judges_not_in_source_flagged():
 def test_missing_number_routes_to_semantic_and_confirms(monkeypatch):
     patch_llm(monkeypatch, {"same_case": True, "reason": "same case"})
     resolver = FakeResolver({"chosen_source": "obg-ltd-v-allan.pdf", "needs_web": False})
-    c = cite(number=None, citation_type="law_report", raw="[2008] 1 AC 1")
+    # year 2010 is >1 from any SOURCES year, so the index-free name+year tier misses and the
+    # citation falls through to the semantic resolver.
+    c = cite(year=2010, number=None, citation_type="law_report", raw="[2010] 1 AC 1")
     res = mm.verify_one(c, SOURCES, index(), resolver=resolver)
     assert res.exists is True
     assert res.match_method == "semantic"
     assert res.used_semantic_fallback is True
     assert res.matched_source == "1"
+
+
+def test_name_year_fallback_matches_without_resolver():
+    # No neutral number and no resolver: the case name + year alone resolve it against
+    # the JSON DB (the index-free fallback that makes the check standalone).
+    c = cite(case_name="OBG Limited v Allan", number=None, citation_type="law_report",
+             raw="[2007] 1 AC 1")
+    res = mm.verify_one(c, SOURCES, index(), resolver=None)
+    assert res.exists is True
+    assert res.match_method == "name_year"
+    assert res.matched_source == "1"
+    assert res.used_semantic_fallback is False
 
 
 def test_needs_web_is_non_existent(monkeypatch):
@@ -158,7 +172,8 @@ def test_agent_unavailable_sets_needs_review(monkeypatch):
         raise RuntimeError("no credentials")
     monkeypatch.setattr("app.services.citation_llm_service.build_llm", boom)
     resolver = FakeResolver({"chosen_source": "obg-ltd-v-allan.pdf", "needs_web": False})
-    c = cite(number=None, raw="[2007] AC 1")
+    # year 2010 (>1 from any source) -> skip the name+year tier and reach the agent.
+    c = cite(year=2010, number=None, raw="[2010] AC 1")
     res = mm.verify_one(c, SOURCES, index(), resolver=resolver)
     assert res.exists is False
     assert res.needs_review is True

@@ -65,10 +65,17 @@ class Settings(BaseSettings):
     vision_max_pages: int = 3                                 # max leading pages for metadata
     source_request_sleep: float = 1.0                        # throttle between documents (s)
 
+    # Source-metadata builder (app.services.source_metadata_builder): one-off step that
+    # reads the vision-OCR transcripts in source_texts_dir and extracts each source's
+    # Citation-shaped metadata to source_metadata_out via Gemini structured output.
+    source_metadata_chars: int = 12000       # leading transcript chars fed per source
+    source_metadata_concurrency: int = 8     # transcripts extracted at once (batch control)
+
     # Sources metadata database for the existence + metadata-equality check
-    # (the metadata-match layer). Keyed by source identifier; each entry mirrors
-    # the EnrichedCitation field schema plus a `source` filename.
-    sources_metadata_path: str = "data/sources_metadata.json"
+    # (the metadata-match layer). This is the file the builder above writes
+    # (source_metadata_out); keep them in sync. Keyed by source identifier; each
+    # entry mirrors the EnrichedCitation field schema plus a `source` filename.
+    sources_metadata_path: str = "data/source_metadata.json"
 
 
 @lru_cache

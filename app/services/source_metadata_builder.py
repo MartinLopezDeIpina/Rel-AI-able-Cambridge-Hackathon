@@ -1,39 +1,32 @@
-"""One-off builder: extract citation metadata for every source judgment in ``data/``.
+"""One-off builder: source transcripts -> ``data/source_metadata.json``.
 
-This is a **preprocessing step, not part of the runtime pipeline** — the moral
-equivalent of :mod:`app.services.indexer` (which builds the vector index once). Run
-it once whenever the source corpus changes; it writes a JSON metadata "database"
-(``data/source_metadata.json``) that the runtime pipeline reads back later.
+Run **once** to create the source-metadata database the verify layer
+(:mod:`app.services.metadata_match_service`) reads. It is NOT part of the request
+path, and it does NOT touch the PDFs or re-run OCR — the PDF->text pipeline
+(:mod:`app.services.vision_ocr`) is a separate, already-completed step that produced
+one transcript per source at ``data/text_source/<stem>.txt``.
 
-Per document it does the minimum it needs (just the first page or two), in two stages:
+For each transcript it feeds the **filename (title) + a generous leading-text window**
+(``source_metadata_chars``; the identifying metadata sits in the first ~1-2k chars, so
+the default is a wide safety margin) to Gemini, which returns the standard
+Citation-shaped object (:class:`SourceMetadataFields`) via **structured output** — never
+fabricating, leaving any field not present as ``null``.
 
-1. **Get the leading text.** If the full-document transcript produced by
-   :mod:`app.services.vision_ocr` already exists under ``data/text_source/``, a prefix
-   of it is used (no re-OCR). Otherwise the first page is vision-OCR'd on demand.
-2. **Extract metadata.** A text LLM reads that text plus the filename title and returns
-   the :class:`SourceMetadataFields` JSON, leaving any field not stated as ``null``
-   (it never fabricates).
+Files are processed **concurrently with batch control**
+(``source_metadata_concurrency`` worker threads) with a ``tqdm`` progress bar; each
+extraction is one LangSmith trace.
 
-If the essential fields (case name + year) are missing, the builder escalates — more
-of the cached text, or the next OCR'd page — up to ``vision_max_pages``. A document
-still missing essentials after that is recorded with ``status="error"`` for manual
-review rather than guessed.
+CLI::
 
-Each document runs inside one ``@traceable`` span, so LangSmith shows a single grouped
-trace per document. The provider is forced to the multimodal builder provider
-(``source_llm_provider``, default Gemini via Vertex) — see
-:func:`app.services.vision_ocr.build_vision_llm`.
-
-CLI (mirrors the indexer's run-once invocation)::
-
-    python -m app.services.source_metadata_builder [source_dir] [out_json]
+    python -m app.services.source_metadata_builder [texts_dir] [out_json]
 """
 
 from __future__ import annotations
 
 import json
 import sys
-import time
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -44,237 +37,138 @@ from app.core.config import _ENV_FILE, Settings, get_settings
 # Load .env so LANGSMITH_* (tracing) and provider creds are in os.environ.
 load_dotenv(_ENV_FILE)
 
-from app.schemas.citation import (
-    SourceExtraction,
-    SourceMetadata,
-    SourceMetadataFields,
-)
-from app.services.vision_ocr import (
-    build_vision_llm,
-    invoke_with_backoff,
-    render_pages,
-    transcribe_images,
-)
+from app.schemas.citation import SourceMetadata, SourceMetadataFields
+from app.services.citation_llm_service import build_llm
+from app.services.vision_ocr import invoke_with_backoff
 
-# Fields that must be present for an extraction to count as successful; missing them
-# triggers escalation and, ultimately, an error entry for manual review.
-_ESSENTIAL_FIELDS = ("case_name", "year")
-
-# Rough chars-per-page, used to grow the slice of cached full text per escalation.
-_CHARS_PER_PAGE = 4000
-
-_META_SYSTEM_PROMPT = """You are a UK legal citation analyst. You are given the \
-transcribed text of the FIRST page(s) of a single law-report/judgment, plus the \
-source file's title. Extract metadata for THIS case STRICTLY from what is present.
+_SYSTEM_PROMPT = """You are a UK legal citation analyst. You are given the leading text \
+of a single law report / judgment, plus the source file's title. Extract metadata for \
+THIS case STRICTLY from what is present.
 
 Rules:
-- Use ONLY information in the transcribed text or unambiguously in the title. Never \
-invent or use outside knowledge. If a field is not stated, set it to null.
+- Use ONLY information in the provided text or unambiguously in the title. Never invent \
+or use outside knowledge. If a field is not stated, leave it null.
 - case_name: the parties as written, e.g. "OBG Ltd v Allan".
 - year: the decision/report year as an integer, e.g. 2007.
-- court: the neutral court code ONLY for a genuine neutral citation actually printed \
-in the text, e.g. UKHL, UKSC, EWHC, EWCA Civ. Do NOT infer a modern code for an old \
+- court: the neutral court code ONLY for a genuine neutral citation actually printed in \
+the text, e.g. UKHL, UKSC, EWHC, EWCA Civ. Do NOT infer a modern code for an old \
 nominate report (e.g. an 1854 Exchequer case) — leave null and use court_name instead.
 - division: bracketed EWHC division if shown, e.g. Comm, Ch, TCC.
 - reporter: law-report series if shown, e.g. AC, QB, Ch, WLR, All ER, Ex.
 - volume: report volume number if shown (integer).
 - number: neutral citation case number if shown (integer), e.g. 21 in [2007] UKHL 21.
 - page: law-report page if shown (integer).
-- citation_type: one of "neutral" (court-assigned, e.g. [2007] UKHL 21), \
-"law_report" (modern series, e.g. [1952] Ch 646), or "nominate" (old round-bracket \
-report, e.g. (1853) 2 E&B 216); null if unclear.
+- citation_type: one of "neutral" (court-assigned, e.g. [2007] UKHL 21), "law_report" \
+(modern series, e.g. [1952] Ch 646), or "nominate" (old round-bracket report, e.g. \
+(1853) 2 E&B 216); null if unclear.
 - raw: the case's own primary citation exactly as printed, e.g. "[2007] UKHL 21".
 - court_name: the deciding court in words, e.g. "House of Lords", "Court of Appeal".
 - judges: list of judges named, exactly as written (e.g. "Lord Hoffmann"); [] if none.
-- decision_date: the judgment date as printed, e.g. "2 May 2007"; null if absent.
+- decision_date: the judgment date as printed, e.g. "2 May 2007"; null if absent."""
 
-Respond with ONLY a JSON object of the form:
-{"item": {"case_name": ..., "year": ..., "court": ..., "division": ..., \
-"reporter": ..., "volume": ..., "number": ..., "page": ..., "citation_type": ..., \
-"raw": ..., "court_name": ..., "judges": [...], "decision_date": ...}}
-No prose, no markdown fences."""
+_HUMAN_TEMPLATE = """SOURCE FILE TITLE: {title}
 
-_META_HUMAN_TEMPLATE = """SOURCE FILE TITLE: {title}
-
-TRANSCRIBED PAGE TEXT:
+LEADING TEXT OF THE JUDGMENT:
 \"\"\"
 {text}
 \"\"\""""
 
 
-def _parse_extraction(content: str) -> SourceExtraction:
-    """Parse the stage-2 reply, tolerating markdown fences / surrounding prose.
-
-    Mirrors ``citation_llm_service._parse_extraction``.
-    """
-    text = content.strip()
-    if text.startswith("```"):
-        text = text.strip("`")
-        if text.lstrip().lower().startswith("json"):
-            text = text.lstrip()[4:]
-    start, end = text.find("{"), text.rfind("}")
-    if start != -1 and end != -1:
-        text = text[start : end + 1]
-    return SourceExtraction.model_validate_json(text)
+def _build_structured_llm(settings: Settings):
+    """Gemini (forced multimodal/Vertex provider) bound to return the standard
+    Citation-shaped object directly via structured output."""
+    model = build_llm(settings.model_copy(
+        update={"llm_provider": settings.source_llm_provider}))
+    return model.with_structured_output(SourceMetadataFields)
 
 
-def _extract_metadata(llm, text: str, title: str) -> SourceMetadataFields:
-    """Stage 2: extract citation metadata from the transcribed text (one retry)."""
+@traceable(run_type="chain", name="source_metadata_document",
+           process_inputs=lambda i: {k: v for k, v in i.items() if k != "structured_llm"})
+def extract_one(structured_llm, source_id: str, title: str, text: str) -> SourceMetadata:
+    """Extract one source's metadata from its leading text (one structured call)."""
     from langchain_core.messages import HumanMessage, SystemMessage
 
-    human = _META_HUMAN_TEMPLATE.format(title=title, text=text)
-    messages = [SystemMessage(content=_META_SYSTEM_PROMPT), HumanMessage(content=human)]
-
-    last_error: Exception | None = None
-    for _ in range(2):
-        response = invoke_with_backoff(llm, messages)
-        try:
-            return _parse_extraction(str(response.content)).item
-        except Exception as error:  # noqa: BLE001 - retry on any parse/validation issue
-            last_error = error
-            messages.append(HumanMessage(
-                content='Your previous reply was not valid JSON matching the schema. '
-                        'Reply with ONLY {"item": {...}} and nothing else.'))
-    raise RuntimeError(f"stage-2 LLM did not return valid JSON: {last_error}")
+    messages = [SystemMessage(content=_SYSTEM_PROMPT),
+                HumanMessage(content=_HUMAN_TEMPLATE.format(title=title, text=text))]
+    fields = invoke_with_backoff(structured_llm, messages)
+    if not isinstance(fields, SourceMetadataFields):
+        raise RuntimeError("model did not return structured metadata")
+    return SourceMetadata(source=source_id, **fields.model_dump())
 
 
-def _has_essentials(fields: SourceMetadataFields) -> bool:
-    return all(getattr(fields, name) is not None for name in _ESSENTIAL_FIELDS)
+def collect_texts(texts_dir: Path) -> list[Path]:
+    """Every transcript ``.txt`` in ``texts_dir``, sorted by name."""
+    return sorted(Path(texts_dir).glob("*.txt"), key=lambda p: p.name)
 
 
-def _leading_text(llm, pdf_path: Path, n: int, settings: Settings,
-                  cached: str | None, _ocr_state: dict) -> str | None:
-    """Return the text for escalation step ``n`` (1-based): a growing slice of the
-    cached full transcript when available, otherwise the first ``n`` pages OCR'd
-    on demand (each page transcribed once, accumulated in ``_ocr_state``)."""
-    if cached is not None:
-        if (n - 1) * _CHARS_PER_PAGE >= len(cached) and n > 1:
-            return None  # no more text to add
-        return cached[: n * _CHARS_PER_PAGE]
+def build(texts_dir: Path, out_path: Path, settings: Settings | None = None) -> dict:
+    """Build the source-metadata database from the transcripts; write it and return it."""
+    from tqdm import tqdm
 
-    images = render_pages(pdf_path, n - 1, 1, settings.vision_dpi)
-    if not images:
-        return None  # ran out of pages
-    page_text = transcribe_images(llm, images)
-    _ocr_state["text"] = f"{_ocr_state.get('text', '')}\n\n{page_text}".strip()
-    return _ocr_state["text"]
-
-
-@traceable(run_type="chain", name="source_metadata_document")
-def process_pdf(llm, pdf_path: Path, settings: Settings) -> SourceMetadata:
-    """Extract metadata for one source PDF, escalating pages until essentials appear.
-
-    Runs in a single traced span so the OCR (if any) and the metadata call(s) for this
-    document group under one LangSmith trace.
-    """
-    cache_file = Path(settings.source_texts_dir) / f"{pdf_path.stem}.txt"
-    cached = (cache_file.read_text(encoding="utf-8", errors="replace")
-              if cache_file.is_file() else None)
-
-    best: SourceMetadataFields | None = None
-    last_error: str | None = None
-    ocr_state: dict = {}
-    used = 0
-
-    for n in range(1, settings.vision_max_pages + 1):
-        try:
-            text = _leading_text(llm, pdf_path, n, settings, cached, ocr_state)
-        except Exception as error:  # noqa: BLE001 - render/OCR failure -> stop escalating
-            last_error = str(error)
-            break
-        if not text:
-            break
-        used = n
-        try:
-            fields = _extract_metadata(llm, text, pdf_path.name)
-        except Exception as error:  # noqa: BLE001 - record and try the next page slice
-            last_error = str(error)
-            continue
-        best = fields
-        if _has_essentials(fields):
-            return SourceMetadata(source=pdf_path.name, pages_used=n,
-                                  **fields.model_dump())
-
-    # Exhausted the page/text budget without the essential fields.
-    if best is None:
-        return SourceMetadata(source=pdf_path.name, status="error",
-                              pages_used=used, error=last_error or "extraction failed")
-    missing = [f for f in _ESSENTIAL_FIELDS if getattr(best, f) is None]
-    return SourceMetadata(source=pdf_path.name, status="error", pages_used=used,
-                          error=f"missing essential field(s) {missing}",
-                          **best.model_dump())
-
-
-def _docx_entry(path: Path) -> SourceMetadata:
-    """Flag a .docx source for manual review (the vision path can't render it)."""
-    return SourceMetadata(source=path.name, status="error",
-                          error="docx not supported by the vision OCR path")
-
-
-def collect_sources(source_dir: Path) -> list[Path]:
-    """Every .pdf and .docx in the source directory, sorted by name."""
-    return sorted(
-        [p for p in source_dir.iterdir() if p.suffix.lower() in (".pdf", ".docx")],
-        key=lambda p: p.name,
-    )
-
-
-def build(source_dir: Path, out_path: Path, settings: Settings | None = None) -> dict:
-    """Build the source-metadata database; write it to ``out_path`` and return it."""
     settings = settings or get_settings()
-    source_dir, out_path = Path(source_dir), Path(out_path)
+    texts_dir, out_path = Path(texts_dir), Path(out_path)
 
-    sources = collect_sources(source_dir)
-    if not sources:
-        raise ValueError(f"No .pdf/.docx sources found in {source_dir}.")
+    txts = collect_texts(texts_dir)
+    if not txts:
+        raise ValueError(f"No .txt transcripts found in {texts_dir}.")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    llm = build_vision_llm(settings)
+    structured_llm = _build_structured_llm(settings)
+    n_chars = settings.source_metadata_chars
+    conc = max(1, settings.source_metadata_concurrency)
+
     results: dict[str, dict] = {}
     errors: list[str] = []
+    lock = threading.Lock()
 
-    for i, src in enumerate(sources, start=1):
-        print(f"  [{i}/{len(sources)}] {src.name} ...", file=sys.stderr, flush=True)
+    def work(txt: Path) -> tuple[str, SourceMetadata]:
+        source_id = f"{txt.stem}.pdf"  # the original source filename / identifier
+        text = txt.read_text(encoding="utf-8", errors="replace")[:n_chars]
         try:
-            if src.suffix.lower() == ".docx":
-                meta = _docx_entry(src)
+            meta = extract_one(structured_llm, source_id, source_id, text)
+        except Exception as error:  # noqa: BLE001 - one bad file never aborts the batch
+            meta = SourceMetadata(source=source_id, status="error", error=str(error))
+        return source_id, meta
+
+    print(f"Extracting metadata for {len(txts)} source(s) | "
+          f"{n_chars} leading chars each | {conc} at a time", file=sys.stderr)
+    bar = tqdm(total=len(txts), desc="source metadata", unit="doc")
+    with ThreadPoolExecutor(max_workers=conc) as pool:
+        futures = [pool.submit(work, t) for t in txts]
+        for future in as_completed(futures):
+            source_id, meta = future.result()
+            with lock:
+                results[source_id] = meta.model_dump()
+                if meta.status == "error":
+                    errors.append(source_id)
+            bar.update(1)
+            if meta.status == "error":
+                tqdm.write(f"  ERR  {source_id}: {meta.error}")
             else:
-                meta = process_pdf(llm, src, settings)
-        except Exception as error:  # noqa: BLE001 - never let one doc abort the run
-            meta = SourceMetadata(source=src.name, status="error", error=str(error))
+                tqdm.write(f"  ok   {source_id}: {meta.case_name} ({meta.year})")
+    bar.close()
 
-        results[src.name] = meta.model_dump()
-        if meta.status == "error":
-            errors.append(src.name)
-            print(f"      ERROR: {meta.error}", file=sys.stderr, flush=True)
-        else:
-            print(f"      ok: {meta.case_name} ({meta.year}) "
-                  f"[{meta.pages_used} page(s)]", file=sys.stderr, flush=True)
-
-        # Idempotent partial save so an aborted long run keeps its progress.
-        out_path.write_text(json.dumps(results, ensure_ascii=False, indent=2),
-                            encoding="utf-8")
-        if i < len(sources) and settings.source_request_sleep > 0:
-            time.sleep(settings.source_request_sleep)
-
-    ok = len(results) - len(errors)
-    print(f"\nDone: {ok} ok, {len(errors)} error(s) -> {out_path}", file=sys.stderr)
+    ordered = {k: results[k] for k in sorted(results)}  # stable, name-sorted DB
+    out_path.write_text(json.dumps(ordered, ensure_ascii=False, indent=2),
+                        encoding="utf-8")
+    print(f"\nDone: {len(results) - len(errors)} ok, {len(errors)} error(s) -> {out_path}",
+          file=sys.stderr)
     if errors:
         print("  review manually: " + ", ".join(errors), file=sys.stderr)
-    return results
+    return ordered
 
 
 def main(argv: list[str] | None = None) -> int:
     settings = get_settings()
     argv = sys.argv[1:] if argv is None else argv
-    source_dir = Path(argv[0]) if len(argv) > 0 else Path(settings.source_dir)
+    texts_dir = Path(argv[0]) if len(argv) > 0 else Path(settings.source_texts_dir)
     out_path = Path(argv[1]) if len(argv) > 1 else Path(settings.source_metadata_out)
 
-    if not source_dir.is_dir():
-        print(f"Error: source directory not found: {source_dir}", file=sys.stderr)
+    if not texts_dir.is_dir():
+        print(f"Error: transcripts directory not found: {texts_dir}", file=sys.stderr)
         return 2
     try:
-        build(source_dir, out_path, settings)
+        build(texts_dir, out_path, settings)
     except Exception as exc:  # noqa: BLE001 - surface a clean CLI error
         print(f"Error: {exc}", file=sys.stderr)
         return 1
