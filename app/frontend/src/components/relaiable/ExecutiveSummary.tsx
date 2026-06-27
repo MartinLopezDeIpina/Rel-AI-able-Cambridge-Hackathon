@@ -1,15 +1,14 @@
-import { useReport } from "@/lib/report";
+import { useLiveCitations, useLiveDocument } from "@/lib/live-data";
 import { ShieldCheck, AlertTriangle, BadgeCheck } from "lucide-react";
 
 export function ExecutiveSummary() {
-  const { citations, document } = useReport();
+  const citations = useLiveCitations();
+  const doc = useLiveDocument();
   const total = citations.length;
   const risky = citations.filter((c) => c.status === "risk").length;
   const mischar = citations.filter((c) => c.status === "mischar").length;
   const review = citations.filter((c) => c.status === "review").length;
-  const score = total
-    ? Math.round(citations.reduce((s, c) => s + c.confidence, 0) / total)
-    : 0;
+
 
   const verdict =
     risky > 0
@@ -51,29 +50,23 @@ export function ExecutiveSummary() {
               </span>
             </h2>
             <p className="mt-2 text-sm text-muted-foreground">
-              {document.name} · analysed {document.uploadedAt} by{" "}
-              <span className="font-medium text-foreground">{document.model}</span>.
+              {doc.name} · analysed {doc.uploadedAt} by{" "}
+              <span className="font-medium text-foreground">{doc.model}</span>.
             </p>
           </div>
         </div>
 
-        <div className="flex shrink-0 items-center gap-6 rounded-xl border bg-muted/40 px-6 py-4">
-          <div>
-            <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
-              Trust score
-            </p>
-            <p className="font-display text-4xl leading-none text-navy">{score}%</p>
-          </div>
-          <div className="h-12 w-px bg-border" />
-          <div>
+        <div className="flex shrink-0 items-center rounded-xl border bg-muted/40 px-10 py-5">
+          <div className="text-center">
             <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
               Action items
             </p>
-            <p className="font-display text-4xl leading-none text-navy">
+            <p className="mt-1 font-display text-5xl leading-none text-navy">
               {risky + mischar + review}
             </p>
           </div>
         </div>
+
       </div>
 
       <RiskBar />
@@ -82,14 +75,14 @@ export function ExecutiveSummary() {
 }
 
 function RiskBar() {
-  const { citations } = useReport();
+  const citations = useLiveCitations();
   const counts = {
     verified: citations.filter((c) => c.status === "verified").length,
     review: citations.filter((c) => c.status === "review").length,
     mischar: citations.filter((c) => c.status === "mischar").length,
     risk: citations.filter((c) => c.status === "risk").length,
   };
-  const total = citations.length || 1;
+  const total = citations.length;
   return (
     <div className="border-t bg-muted/30 px-6 py-4">
       <div className="flex items-center justify-between text-xs">
