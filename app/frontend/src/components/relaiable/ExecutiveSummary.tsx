@@ -1,14 +1,15 @@
-import { MOCK_CITATIONS, MOCK_DOCUMENT } from "@/lib/mock-citations";
+import { useReport } from "@/lib/report";
 import { ShieldCheck, AlertTriangle, BadgeCheck } from "lucide-react";
 
 export function ExecutiveSummary() {
-  const total = MOCK_CITATIONS.length;
-  const risky = MOCK_CITATIONS.filter((c) => c.status === "risk").length;
-  const mischar = MOCK_CITATIONS.filter((c) => c.status === "mischar").length;
-  const review = MOCK_CITATIONS.filter((c) => c.status === "review").length;
-  const score = Math.round(
-    MOCK_CITATIONS.reduce((s, c) => s + c.confidence, 0) / total,
-  );
+  const { citations, document } = useReport();
+  const total = citations.length;
+  const risky = citations.filter((c) => c.status === "risk").length;
+  const mischar = citations.filter((c) => c.status === "mischar").length;
+  const review = citations.filter((c) => c.status === "review").length;
+  const score = total
+    ? Math.round(citations.reduce((s, c) => s + c.confidence, 0) / total)
+    : 0;
 
   const verdict =
     risky > 0
@@ -50,8 +51,8 @@ export function ExecutiveSummary() {
               </span>
             </h2>
             <p className="mt-2 text-sm text-muted-foreground">
-              {MOCK_DOCUMENT.name} · analysed {MOCK_DOCUMENT.uploadedAt} by{" "}
-              <span className="font-medium text-foreground">{MOCK_DOCUMENT.model}</span>.
+              {document.name} · analysed {document.uploadedAt} by{" "}
+              <span className="font-medium text-foreground">{document.model}</span>.
             </p>
           </div>
         </div>
@@ -81,13 +82,14 @@ export function ExecutiveSummary() {
 }
 
 function RiskBar() {
+  const { citations } = useReport();
   const counts = {
-    verified: MOCK_CITATIONS.filter((c) => c.status === "verified").length,
-    review: MOCK_CITATIONS.filter((c) => c.status === "review").length,
-    mischar: MOCK_CITATIONS.filter((c) => c.status === "mischar").length,
-    risk: MOCK_CITATIONS.filter((c) => c.status === "risk").length,
+    verified: citations.filter((c) => c.status === "verified").length,
+    review: citations.filter((c) => c.status === "review").length,
+    mischar: citations.filter((c) => c.status === "mischar").length,
+    risk: citations.filter((c) => c.status === "risk").length,
   };
-  const total = MOCK_CITATIONS.length;
+  const total = citations.length || 1;
   return (
     <div className="border-t bg-muted/30 px-6 py-4">
       <div className="flex items-center justify-between text-xs">

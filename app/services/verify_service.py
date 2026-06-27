@@ -86,6 +86,8 @@ def _to_item(c, r: MetadataMatchResult, report: dict | None) -> dict:
         "id": c.id,
         # --- frontend contract (assert_verify_response) ---
         "citation_name": c.full_case_name or c.case_name or c.raw,
+        "year": c.year,
+        "court": c.court_name or c.court,
         "status": status.value,
         "confidence_score": _confidence(status, report),
         "associate_claim": c.relevant_text or c.proposition or "",

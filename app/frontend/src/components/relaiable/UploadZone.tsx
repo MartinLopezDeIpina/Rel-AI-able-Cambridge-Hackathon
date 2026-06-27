@@ -2,7 +2,7 @@ import { useRef, useState } from "react";
 import { Upload, FileText } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-export function UploadZone({ onFile }: { onFile: (name: string) => void }) {
+export function UploadZone({ onFile }: { onFile: (file: File) => void }) {
   const [drag, setDrag] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -17,7 +17,7 @@ export function UploadZone({ onFile }: { onFile: (name: string) => void }) {
         e.preventDefault();
         setDrag(false);
         const f = e.dataTransfer.files?.[0];
-        if (f) onFile(f.name);
+        if (f) onFile(f);
       }}
       className={`group relative rounded-2xl border-2 border-dashed bg-card p-12 text-center shadow-elegant transition-all ${
         drag ? "border-brand bg-brand-soft/40" : "border-border hover:border-brand/50"
@@ -30,7 +30,7 @@ export function UploadZone({ onFile }: { onFile: (name: string) => void }) {
         className="hidden"
         onChange={(e) => {
           const f = e.target.files?.[0];
-          if (f) onFile(f.name);
+          if (f) onFile(f);
         }}
       />
       <div className="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-brand-soft text-brand">

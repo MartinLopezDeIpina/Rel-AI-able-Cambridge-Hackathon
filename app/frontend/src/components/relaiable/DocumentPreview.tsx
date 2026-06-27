@@ -1,5 +1,5 @@
-import { MOCK_DOC_PARAGRAPHS, MOCK_CITATIONS } from "@/lib/mock-citations";
 import type { CitationStatus } from "@/lib/mock-citations";
+import { useReport } from "@/lib/report";
 import { useEffect, useRef } from "react";
 
 const HIGHLIGHT: Record<CitationStatus, string> = {
@@ -16,6 +16,7 @@ export function DocumentPreview({
   selectedId: string | null;
   onSelect: (id: string) => void;
 }) {
+  const { citations, paragraphs } = useReport();
   const scrollerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -34,8 +35,8 @@ export function DocumentPreview({
         <p className="text-xs text-muted-foreground">10 of 47 pages</p>
       </div>
       <div ref={scrollerRef} className="prose-legal flex-1 overflow-y-auto px-7 py-6 text-[13.5px] leading-7 text-foreground">
-        {MOCK_DOC_PARAGRAPHS.map((p, idx) => {
-          const cite = MOCK_CITATIONS.find((c) => c.paragraph === idx);
+        {paragraphs.map((p, idx) => {
+          const cite = citations.find((c) => c.paragraph === idx);
           if (!cite) return <p key={idx} className="mb-4">{p}</p>;
           const re = new RegExp(`(${cite.caseName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`);
           const parts = p.split(re);

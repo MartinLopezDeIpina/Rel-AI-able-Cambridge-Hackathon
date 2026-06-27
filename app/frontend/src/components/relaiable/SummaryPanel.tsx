@@ -1,34 +1,36 @@
-import { MOCK_CITATIONS, MOCK_DOCUMENT } from "@/lib/mock-citations";
+import { type Citation } from "@/lib/mock-citations";
+import { useReport } from "@/lib/report";
 
-const STATS = () => {
-  const total = MOCK_CITATIONS.length;
+const STATS = (citations: Citation[]) => {
+  const total = citations.length;
   return [
     { label: "Total", value: total, bg: "" },
     {
       label: "Verified",
-      value: MOCK_CITATIONS.filter((c) => c.status === "verified").length,
+      value: citations.filter((c) => c.status === "verified").length,
       bg: "bg-verified/25",
     },
     {
       label: "Needs review",
-      value: MOCK_CITATIONS.filter((c) => c.status === "review").length,
+      value: citations.filter((c) => c.status === "review").length,
       bg: "bg-review/35",
     },
     {
       label: "Mischar.",
-      value: MOCK_CITATIONS.filter((c) => c.status === "mischar").length,
+      value: citations.filter((c) => c.status === "mischar").length,
       bg: "bg-mischar/25",
     },
     {
       label: "High risk",
-      value: MOCK_CITATIONS.filter((c) => c.status === "risk").length,
+      value: citations.filter((c) => c.status === "risk").length,
       bg: "bg-risk/25",
     },
   ];
 };
 
 export function StatBar() {
-  const stats = STATS();
+  const { citations } = useReport();
+  const stats = STATS(citations);
   return (
     <div className="flex overflow-hidden rounded-xl border bg-card shadow-elegant">
       {stats.map((s, i) => (
@@ -49,19 +51,20 @@ export function StatBar() {
 }
 
 export function TimelineBar() {
+  const { document } = useReport();
   return (
     <div className="rounded-xl border bg-card p-4 shadow-elegant">
       <p className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground">
         Processing timeline
       </p>
       <ol className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
-        {MOCK_DOCUMENT.steps.map((s, i) => (
+        {document.steps.map((s, i) => (
           <li key={i} className="relative">
             <div className="flex items-center gap-2">
               <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-brand-soft font-mono text-[10px] font-medium text-brand ring-2 ring-brand-soft">
                 {i + 1}
               </span>
-              {i < MOCK_DOCUMENT.steps.length - 1 && (
+              {i < document.steps.length - 1 && (
                 <span className="hidden h-px flex-1 bg-border lg:block" />
               )}
             </div>
@@ -74,15 +77,15 @@ export function TimelineBar() {
   );
 }
 
-const AUDIT_ITEMS: { k: string; v: string }[] = [
-  { k: "Model", v: MOCK_DOCUMENT.model },
-  { k: "Jurisdiction", v: MOCK_DOCUMENT.jurisdiction },
-  { k: "Practice area", v: MOCK_DOCUMENT.practiceArea },
-  { k: "Sources", v: "BAILII · ICLR · Westlaw UK" },
-  { k: "Run ID", v: "rel-2026-06-26-0942-bw" },
-];
-
 export function SummaryPanel() {
+  const { document } = useReport();
+  const AUDIT_ITEMS: { k: string; v: string }[] = [
+    { k: "Model", v: document.model },
+    { k: "Jurisdiction", v: document.jurisdiction },
+    { k: "Practice area", v: document.practiceArea },
+    { k: "Sources", v: "Sources metadata DB · Gemini judge" },
+    { k: "Document", v: document.name },
+  ];
   return (
     <aside className="w-full rounded-xl border bg-card p-4 shadow-elegant">
       <p className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground">

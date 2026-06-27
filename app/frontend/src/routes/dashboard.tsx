@@ -10,7 +10,8 @@ import { DocumentPreview } from "@/components/relaiable/DocumentPreview";
 import { CitationTable } from "@/components/relaiable/CitationTable";
 import { AnalysisDrawer } from "@/components/relaiable/AnalysisDrawer";
 import { ReportView } from "@/components/relaiable/ReportView";
-import { SORTED_CITATIONS, type Citation } from "@/lib/mock-citations";
+import { type Citation } from "@/lib/mock-citations";
+import { useReport } from "@/lib/report";
 import { LayoutDashboard, FileText } from "lucide-react";
 
 export const Route = createFileRoute("/dashboard")({
@@ -24,7 +25,8 @@ export const Route = createFileRoute("/dashboard")({
 });
 
 function Dashboard() {
-  const [selected, setSelected] = useState<string | null>(SORTED_CITATIONS[0]?.id ?? null);
+  const { sorted } = useReport();
+  const [selected, setSelected] = useState<string | null>(sorted[0]?.id ?? null);
   const [drawer, setDrawer] = useState<Citation | null>(null);
   const [view, setView] = useState<"dashboard" | "report">("dashboard");
 
@@ -58,11 +60,11 @@ function Dashboard() {
                     <div className="flex items-center justify-between">
                       <h3 className="font-display text-lg text-navy">Citations</h3>
                       <span className="text-xs text-muted-foreground">
-                        {SORTED_CITATIONS.length} extracted · click to locate in document
+                        {sorted.length} extracted · click to locate in document
                       </span>
                     </div>
                     <div className="max-h-[760px] space-y-3 overflow-y-auto pr-1">
-                      {SORTED_CITATIONS.map((c) => (
+                      {sorted.map((c) => (
                         <CitationCard
                           key={c.id}
                           citation={c}

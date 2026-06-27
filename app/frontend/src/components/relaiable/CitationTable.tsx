@@ -8,10 +8,12 @@ import {
 } from "@/components/ui/table";
 import { StatusBadge } from "./StatusBadge";
 import { ConfidenceBar } from "./ConfidenceBar";
-import { MOCK_CITATIONS, SORTED_CITATIONS, type Citation } from "@/lib/mock-citations";
+import { type Citation } from "@/lib/mock-citations";
+import { useReport } from "@/lib/report";
 import { ArrowUpRight } from "lucide-react";
 
 export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
+  const { citations, sorted } = useReport();
   return (
     <div className="overflow-hidden rounded-xl border bg-card shadow-elegant">
       <div className="flex items-center justify-between border-b px-5 py-4">
@@ -22,7 +24,7 @@ export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
           </p>
         </div>
         <span className="rounded-full bg-muted px-3 py-1 text-xs text-slate-ink">
-          {MOCK_CITATIONS.length} citations
+          {citations.length} citations
         </span>
       </div>
       <Table>
@@ -37,7 +39,7 @@ export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
           </TableRow>
         </TableHeader>
         <TableBody>
-          {SORTED_CITATIONS.map((c) => (
+          {sorted.map((c) => (
             <TableRow
               key={c.id}
               onClick={() => onOpen(c)}

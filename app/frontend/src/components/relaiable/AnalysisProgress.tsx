@@ -15,24 +15,31 @@ const TICK_MS = 550;
 
 export function AnalysisProgress({
   fileName,
+  done = false,
   onDone,
 }: {
   fileName: string;
+  /** Flips true when the real /verify request resolves; drives the finish. */
+  done?: boolean;
   onDone: () => void;
 }) {
   const [tick, setTick] = useState(0);
 
   useEffect(() => {
-    if (tick >= MESSAGES.length) {
-      const t = setTimeout(onDone, 500);
+    if (done) {
+      const t = setTimeout(onDone, 600);
       return () => clearTimeout(t);
     }
+    // Cycle the status messages while the request is in flight.
     const t = setTimeout(() => setTick((s) => s + 1), TICK_MS);
     return () => clearTimeout(t);
-  }, [tick, onDone]);
+  }, [tick, done, onDone]);
 
-  const message = MESSAGES[Math.min(tick, MESSAGES.length - 1)];
-  const pct = Math.min(100, Math.round((tick / MESSAGES.length) * 100));
+  const message = done
+    ? "Verification report ready"
+    : MESSAGES[tick % MESSAGES.length];
+  // Climb toward ~90% while pending, snap to 100% on completion.
+  const pct = done ? 100 : Math.min(92, 10 + tick * 7);
 
   // Circle geometry
   const R = 32;

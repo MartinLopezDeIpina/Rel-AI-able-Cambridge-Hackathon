@@ -1,5 +1,7 @@
 import { createFileRoute, useNavigate, Link } from "@tanstack/react-router";
 import { useState } from "react";
+import { useMutation } from "@tanstack/react-query";
+import { toast } from "sonner";
 import { ShieldCheck, Sparkles, ArrowRight, FileCheck2, Building2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Logo } from "@/components/relaiable/Logo";
@@ -7,6 +9,7 @@ import { UploadZone } from "@/components/relaiable/UploadZone";
 import { AnalysisProgress } from "@/components/relaiable/AnalysisProgress";
 import { JurisdictionFilter } from "@/components/relaiable/JurisdictionFilter";
 import { useAnalysisStore } from "@/lib/analysis-store";
+import { verifyFile, toReport } from "@/lib/api";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -25,14 +28,33 @@ export const Route = createFileRoute("/")({
 function Landing() {
   const [analysing, setAnalysing] = useState<string | null>(null);
   const navigate = useNavigate();
-  const start = useAnalysisStore((s) => s.startAnalysis);
+  const setReport = useAnalysisStore((s) => s.setReport);
+  const startDemo = useAnalysisStore((s) => s.startDemo);
 
-  const begin = (name: string) => setAnalysing(name);
+  const mutation = useMutation({
+    mutationFn: (file: File) => verifyFile(file),
+    onSuccess: (resp, file) => {
+      const { citations, paragraphs } = toReport(resp);
+      setReport(file.name, citations, paragraphs);
+      // navigation happens once AnalysisProgress shows 100% (done) -> onDone
+    },
+    onError: (err) => {
+      setAnalysing(null);
+      toast.error("Verification failed", { description: String((err as Error)?.message ?? err) });
+    },
+  });
 
-  const finish = () => {
-    if (analysing) start(analysing);
+  const begin = (file: File) => {
+    setAnalysing(file.name);
+    mutation.mutate(file);
+  };
+
+  const openDemo = () => {
+    startDemo();
     navigate({ to: "/dashboard" });
   };
+
+  const finish = () => navigate({ to: "/dashboard" });
 
   return (
     <div className="min-h-screen bg-background">
@@ -54,10 +76,7 @@ function Landing() {
           <Button
             variant="ghost"
             size="sm"
-            onClick={() => {
-              start("Demo — Halberd Trading v Orient Pacific.docx");
-              navigate({ to: "/dashboard" });
-            }}
+            onClick={openDemo}
           >
             Try Demo
           </Button>
@@ -90,10 +109,7 @@ function Landing() {
               <Button
                 size="lg"
                 variant="outline"
-                onClick={() => {
-                  start("Demo — Halberd Trading v Orient Pacific.docx");
-                  navigate({ to: "/dashboard" });
-                }}
+                onClick={openDemo}
               >
                 Try Demo
               </Button>
@@ -173,7 +189,13 @@ function Landing() {
         </div>
       </footer>
 
-      {analysing && <AnalysisProgress fileName={analysing} onDone={finish} />}
+      {analysing && (mutation.isPending || mutation.isSuccess) && (
+        <AnalysisProgress
+          fileName={analysing}
+          done={mutation.isSuccess}
+          onDone={finish}
+        />
+      )}
     </div>
   );
 }
