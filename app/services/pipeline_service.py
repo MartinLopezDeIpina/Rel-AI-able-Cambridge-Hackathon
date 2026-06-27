@@ -14,7 +14,12 @@ without a built index or live LLM. The FABRICATED short-circuit (``needs_web`` -
 """
 from __future__ import annotations
 
+import logging
+import os
+import re
 from collections import Counter
+from datetime import datetime, timezone
+from pathlib import Path
 
 from app.schemas.citation import (
     CitationVerdict,
@@ -22,7 +27,11 @@ from app.schemas.citation import (
     EnrichedCitation,
     VerifyResponse,
 )
+from app.schemas.report import ReportCitation, ReportDocument
 from app.services.distortion_service import analyze
+
+logger = logging.getLogger(__name__)
+_REPO_ROOT = Path(__file__).resolve().parents[2]
 
 # --------------------------------------------------------------------------
 # Verdict helpers (M5)
@@ -143,6 +152,132 @@ def verify_enriched(enriched: list[EnrichedCitation], resolver, backend,
 
 
 # --------------------------------------------------------------------------
+# report.json serialization (Step 5 deliverable)  — see documentation/Sprint4/STEP-5.md
+# --------------------------------------------------------------------------
+# Per-status fallbacks so every field is non-empty even when the detector was skipped
+# (FABRICATED) or the LLM returned blanks. LLM-produced text always takes precedence.
+_STATUS_DEFAULTS: dict[str, dict[str, str]] = {
+    "verified": {
+        "issue": "None", "action": "Retain", "recommendation": "No action required.",
+        "summary": "This authority exists and is correctly applied.",
+        "holding": "The cited source supports the proposition it is relied on for.",
+        "howUsed": "Cited in support of the argument.",
+        "reasoning": "The proposition aligns with the source; the citation is correctly applied.",
+    },
+    "mischar": {
+        "issue": "Authority mischaracterised", "action": "Revise paragraph",
+        "recommendation": "Reformulate to match the actual holding.",
+        "summary": "This authority is real but materially mischaracterised.",
+        "holding": "The cited source does not support the proposition as stated.",
+        "howUsed": "Cited in support of the argument.",
+        "reasoning": "The brief's characterisation is not supported by the cited source.",
+    },
+    "risk": {
+        "issue": "Authority cannot be verified", "action": "Remove / verify",
+        "recommendation": "Remove the citation or verify it against a legal database.",
+        "summary": "This authority could not be verified and may be fabricated.",
+        "holding": "No matching source judgment was found; the holding could not be confirmed.",
+        "howUsed": "Cited in support of the argument.",
+        "reasoning": "No matching source was found in the corpus, so the citation could not be verified.",
+    },
+}
+
+
+def _frontend_status(v: CitationVerdict) -> str:
+    """Map the 3 user-facing verdicts to the 3 challenge categories the frontend renders.
+
+    These are the only three buckets the challenge defines:
+      DOESNT_EXIST                            -> risk      (fabricated)
+      EXISTS_MISCHARACTERISED…/out_of_context -> mischar   (real but misused)
+      EXISTS_CORRECTLY_APPLIED                -> verified  (real + correctly applied)
+    """
+    if v.status == ClassificationType.DOESNT_EXIST:
+        return "risk"
+    if v.status == ClassificationType.EXISTS_MISCHARACTERISED_TAKEN_OUT_OF_CONTEXT:
+        return "mischar"
+    return "verified"  # EXISTS_CORRECTLY_APPLIED
+
+
+def _first_sentence(text: str) -> str:
+    text = (text or "").strip()
+    m = re.search(r"\.(?:\s|$)", text)
+    return text[: m.end()].strip() if m else text
+
+
+def _report_citation(v: CitationVerdict, e: EnrichedCitation | None) -> ReportCitation:
+    """Map one verdict (+ its enriched citation for year/court/ground) to the UI shape."""
+    status = _frontend_status(v)
+    d = _STATUS_DEFAULTS[status]
+
+    court = ((e.court_name or e.court) if e else None) or "Unknown court"
+    holding = (v.actual_holding or "").strip() or d["holding"]
+    how_used = (v.associate_claim or "").strip() or (e.proposition if e else None) or d["howUsed"]
+    reasoning = (v.explanation or "").strip() or d["reasoning"]
+    return ReportCitation(
+        id=f"c{v.id}",
+        caseName=(v.citation_name or "").strip() or v.raw,
+        court=court.strip() or "Unknown court",
+        year=e.year if e else 0,
+        citation=v.raw,
+        status=status,  # type: ignore[arg-type]
+        confidence=max(0, min(100, round((v.confidence_score or 0.0) * 100))),
+        summary=_first_sentence(holding) or d["summary"],
+        holding=holding,
+        howUsed=how_used,
+        reasoning=reasoning,
+        recommendation=d["recommendation"],
+        issue=d["issue"],
+        action=d["action"],
+        ground=(v.ground or (e.ground if e else None) or "Unassigned"),
+        paragraph=max(0, v.id - 1),
+    )
+
+
+def to_report(response: VerifyResponse, enriched: list[EnrichedCitation],
+              *, status: str = "complete") -> ReportDocument:
+    """Build the validated `report.json` model from a VerifyResponse + its enriched cites.
+
+    Enriched citations carry year/court/ground that the verdict drops; they're matched
+    back by ``id``. Validation is fail-loud (an empty/invalid field raises here)."""
+    by_id = {e.id: e for e in enriched}
+    cits = [_report_citation(v, by_id.get(v.id)) for v in response.citations]
+    counts = Counter(c.status for c in cits)
+    summary = {k: counts[k] for k in ("verified", "mischar", "risk")}
+    summary["total"] = len(cits)
+    return ReportDocument(
+        status=status,  # type: ignore[arg-type]
+        generated_at=datetime.now(timezone.utc).isoformat(),
+        summary=summary,
+        citations=cits,
+    )
+
+
+def write_report(report: ReportDocument, path: str | os.PathLike | None = None) -> Path:
+    """Atomically write `report.json` (temp file + os.replace) so a polling frontend
+    never reads a half-written file. Relative paths resolve against the repo root."""
+    from app.core.config import get_settings
+
+    target = Path(path or get_settings().report_output_path)
+    if not target.is_absolute():
+        target = _REPO_ROOT / target
+    target.parent.mkdir(parents=True, exist_ok=True)
+    tmp = target.with_name(target.name + ".tmp")
+    tmp.write_text(report.model_dump_json(indent=2), encoding="utf-8")
+    os.replace(tmp, target)
+    return target
+
+
+def _persist_report(response: VerifyResponse, enriched: list[EnrichedCitation]) -> None:
+    """Serialize + write report.json as a side effect. Validation errors propagate
+    (fail-loud, inconsistent report); IO errors are logged and swallowed."""
+    report = to_report(response, enriched)
+    try:
+        write_report(report)
+    except OSError:
+        logger.exception("Failed to write report.json")
+
+
+# --------------------------------------------------------------------------
 # Entry points wiring in the real services (used by the API)
 # --------------------------------------------------------------------------
 def _default_backend():
@@ -161,8 +296,10 @@ def verify_document(pdf_path, resolver=None, backend=None,
     """M1 from a PDF, then orchestrate. Uses the real resolver/backend by default."""
     from app.services.citation_llm_service import extract_enriched_citations
     enriched = extract_enriched_citations(pdf_path)
-    return verify_enriched(enriched, resolver or _default_resolver(),
-                           backend or _default_backend(), document_name)
+    response = verify_enriched(enriched, resolver or _default_resolver(),
+                               backend or _default_backend(), document_name)
+    _persist_report(response, enriched)
+    return response
 
 
 def verify_text(text: str, resolver=None, backend=None,
@@ -170,5 +307,7 @@ def verify_text(text: str, resolver=None, backend=None,
     """M1 from pasted text, then orchestrate."""
     from app.services.citation_llm_service import enrich_from_text
     enriched = enrich_from_text(text)
-    return verify_enriched(enriched, resolver or _default_resolver(),
-                           backend or _default_backend(), document_name)
+    response = verify_enriched(enriched, resolver or _default_resolver(),
+                               backend or _default_backend(), document_name)
+    _persist_report(response, enriched)
+    return response

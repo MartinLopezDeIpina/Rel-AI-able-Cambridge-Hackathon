@@ -23,14 +23,15 @@ root `STEP-4.md`, `Sprint2/step4_status.md` (all folded in here).
 - **Step 5 orchestrator + endpoint now EXIST** (new this sprint): `pipeline_service.py`
   joins M1→M3→M4→verdict and `POST /api/citations/verify` is mounted
   (`router.py` → `endpoints/citations.py`), returning a `VerifyResponse`.
-- **Remaining Step-5 gap:** persist the verdict as **`app/frontend/report.json`**
-  (frontend-ready shape, validated) — specified in `STEP-5.md`, not yet implemented.
-  `config.json` (document metadata) is **Step #2/#3's** responsibility and is deferred.
+- **Step-5 `report.json` DONE** (Sprint 5): serializer + atomic write to
+  `app/frontend/public/report.json`, 3 challenge categories (`verified/mischar/risk`),
+  validated. See `../Sprint5/`. `config.json` (document metadata) remains **Step #2/#3's**
+  responsibility and is deferred.
 - **Steps 1–4 have tests; Steps 2/3 bodies exist but are module-skipped.**
-- **Test suite:** **51 tests collected** across `tests/` (steps 1/4/5 active; 2/3
+- **Test suite:** **55 tests collected** across `tests/` (steps 1/4/5 active; 2/3
   written but skipped; some step-1/4 cases hit live Vertex).
 
-Readiness by step: **1** 🟡 · **2** 🟡 · **3** 🟡 · **4** ✅ · **5** 🟡 (orchestrator ✅, `report.json` ❌).
+Readiness by step: **1** 🟡 · **2** 🟡 · **3** 🟡 · **4** ✅ · **5** 🟢 (orchestrator ✅, `report.json` ✅).
 
 ---
 

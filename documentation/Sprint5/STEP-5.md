@@ -54,16 +54,19 @@ PDF / Text
 ### 5.1 — Mapping `(EnrichedCitation, CitationVerdict)` → `ReportCitation`
 Reines Daten-Mapping, keine I/O.
 
-**Status-Mapping** (Backend 3-wertig + `needs_review`  →  Frontend 4-wertig):
+**Status-Mapping** (die **3 Challenge-Kategorien** — kein 4. Bucket):
 
-| `CitationVerdict.status`                        | `needs_review` | → `status` |
-|-------------------------------------------------|:--------------:|------------|
-| `DOESNT_EXIST`                                  | (egal)         | `risk`     |
-| `EXISTS_MISCHARACTERISED_TAKEN_OUT_OF_CONTEXT`  | (egal)         | `mischar`  |
-| `EXISTS_CORRECTLY_APPLIED`                      | `True`         | `review`   |
-| `EXISTS_CORRECTLY_APPLIED`                      | `False`        | `verified` |
+| `CitationVerdict.status`                        | → `status` |
+|-------------------------------------------------|------------|
+| `DOESNT_EXIST`                                  | `risk`     |
+| `EXISTS_MISCHARACTERISED_TAKEN_OUT_OF_CONTEXT`  | `mischar`  |
+| `EXISTS_CORRECTLY_APPLIED`                      | `verified` |
 
-> `needs_review` stuft nur `verified → review` herab; `mischar`/`risk` bleiben.
+> Es gibt nur diese **3** Kategorien. `needs_review` ist eine interne Verdict-Notiz und
+> erzeugt **keine** eigene Frontend-Kategorie (ein „correct"-Cite bleibt `verified`,
+> auch wenn der Resolver unsicher war). Step #4 (`correct | mischaracterised |
+> out_of_context`) ist bereits im Verdict zusammengefasst: `mischaracterised` **und**
+> `out_of_context` → `mischar`.
 
 **Feld-Mapping** (Quelle → `ReportCitation`):
 
@@ -92,7 +95,6 @@ Reines Daten-Mapping, keine I/O.
 | status     | `issue`                          | `action`             | `recommendation` |
 |------------|----------------------------------|----------------------|------------------|
 | `verified` | `"None"`                         | `"Retain"`           | `"No action required."` |
-| `review`   | `"Minor contextual inaccuracy"`  | `"Review paragraph"` | `"Confirm the characterisation before filing."` |
 | `mischar`  | `"Authority mischaracterised"`   | `"Revise paragraph"` | `"Reformulate to match the actual holding."` |
 | `risk`     | `"Authority cannot be verified"` | `"Remove / verify"`  | `"Remove the citation or verify against a database."` |
 
@@ -108,7 +110,7 @@ class ReportCitation(BaseModel):        # ein Element von report.json.citations
     court: str
     year: int
     citation: str
-    status: Literal["verified", "review", "mischar", "risk"]
+    status: Literal["verified", "mischar", "risk"]   # 3 Challenge-Kategorien
     confidence: int                     # 0..100
     summary: str
     holding: str
@@ -124,7 +126,7 @@ class ReportCitation(BaseModel):        # ein Element von report.json.citations
 class ReportDocument(BaseModel):        # -> report.json
     status: Literal["pending", "complete"]   # Polling-Signal; Backend schreibt "complete"
     generated_at: str                   # ISO-8601 UTC
-    summary: dict[str, int]             # verified/review/mischar/risk/total
+    summary: dict[str, int]             # verified/mischar/risk/total
     citations: list[ReportCitation]     # darf NUR bei status=="pending" leer sein
 ```
 
@@ -185,11 +187,11 @@ brechen ab (inkonsistenter Report).
    `confidence` ist eine **Zahl** (auch bei `risk`: `0`, nie `""`).
 4. **Komplett befüllt:** jede Citation hat alle Pflichtfelder gesetzt & nicht leer
    (`""`/`null`/`[]` zählen als fehlend; nur `supporting` optional).
-5. **Wertebereiche:** `status ∈ {verified,review,mischar,risk}`; `confidence ∈ [0,100]` int;
+5. **Wertebereiche:** `status ∈ {verified,mischar,risk}`; `confidence ∈ [0,100]` int;
    `year` int; `id` matcht `^c\d+$`; `paragraph ≥ 0`.
 6. **Status-Mapping** durch Tests abgedeckt (insb. `DOESNT_EXIST→risk` mit `confidence==0`;
    `EXISTS_CORRECTLY_APPLIED+needs_review→review`).
-7. **Summary konsistent:** `summary.total == len(citations)` und `verified+review+mischar+risk == total`.
+7. **Summary konsistent:** `summary.total == len(citations)` und `verified+mischar+risk == total`.
 8. **Atomar:** Temp + `os.replace`; Leser sieht alt **oder** vollständig neu.
 9. **Reproduzierbar:** erneuter Lauf überschreibt sauber; `generated_at` gültiges ISO-8601 (UTC).
 10. **Getestet:** Unit-Test serialisiert eine gemischte Verdict-Liste (alle 4 Status) →
@@ -200,17 +202,20 @@ brechen ab (inkonsistenter Report).
 
 ---
 
-## Offene Code-Änderungen (Step 5 — Implementierungs-Checkliste)
+## Implementierungs-Status (Sprint 5)
 
-- [ ] `app/schemas/report.py` — `ReportCitation`, `ReportDocument` (`extra="forbid"`).
-- [ ] `pipeline_service`: `verify_enriched` behält `EnrichedCitation` neben Verdict (parallele Liste).
-- [ ] `pipeline_service.to_report(verify_response, enriched) -> ReportDocument` (Mapping 5.1).
-- [ ] `pipeline_service.write_report(...)` — atomar nach `REPORT_OUTPUT_PATH`.
-- [ ] `app/core/config.py` — `REPORT_OUTPUT_PATH` (Default `app/frontend/public/report.json`),
-      optional `EMIT_PENDING_REPORT` (Default aus).
-- [ ] `api/endpoints/citations.py` — `write_report(...)` nach dem Build aufrufen.
-- [ ] `tests/test_step5_report.py` — Akzeptanzkriterien 1–10 als `pytest.mark.unit`.
-- [ ] `tests/contracts.py` — `assert_report_document(...)` + `Step5ReportCase`-Enum.
+- [x] `app/schemas/report.py` — `ReportCitation`, `ReportDocument` (`extra="forbid"`,
+      `min_length=1` auf Pflicht-Strings).
+- [x] `pipeline_service.to_report(verify_response, enriched) -> ReportDocument` (Mapping 5.1);
+      enriched wird per `id` an die Verdicts zurückgematcht (statt paralleler Liste in
+      `verify_enriched`).
+- [x] `pipeline_service.write_report(...)` — atomar (`tmp` + `os.replace`) nach `REPORT_OUTPUT_PATH`.
+- [x] `app/core/config.py` — `report_output_path` (Default `app/frontend/public/report.json`).
+- [x] Persistenz verdrahtet — in `verify_document` / `verify_text` via `_persist_report`
+      (deckt PDF- **und** Text-Pfad ab; Endpoint unverändert).
+- [x] `tests/test_step5_report.py` — 4 Unit-Tests, Akzeptanzkriterien abgedeckt (12/12 Step-5-Tests grün).
+- [ ] `tests/contracts.py` — `assert_report_document(...)` + `Step5ReportCase`-Enum *(optional, offen)*.
+- [ ] `config.json` (Metadaten) — Verantwortung Step #2/#3, weiterhin deferred.
 
 ---
 

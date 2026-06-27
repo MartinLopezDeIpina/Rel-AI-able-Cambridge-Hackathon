@@ -43,6 +43,10 @@ class Settings(BaseSettings):
     corpus_dir: str = "index/texts"    # sources to build the index from if it's missing
     distortion_backend: str = "mock"   # "mock" (offline) | "vertex" (LLM judge)
 
+    # Step 5 report sink — the frontend (Vite) serves public/ at /, so it fetches
+    # /report.json. Relative paths resolve against the repo root.
+    report_output_path: str = "app/frontend/public/report.json"
+
 
 @lru_cache
 def get_settings() -> Settings:
