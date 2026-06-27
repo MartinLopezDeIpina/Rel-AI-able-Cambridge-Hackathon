@@ -40,7 +40,10 @@ class Settings(BaseSettings):
 
     # Citation resolution / semantic index (the fallback resolver).
     index_dir: str = "index"           # holds embeddings.npy / chunks.json / sources.json
-    corpus_dir: str = "index/texts"    # sources to build the index from if it's missing
+    # Source corpus the index auto-builds from. MUST point at the source judgments
+    # (pdfs/), NOT index/texts (that is the indexer's extracted-text cache under
+    # index_dir). With the wrong dir the index can't build and Step 3 resolution fails.
+    corpus_dir: str = "pdfs"
     distortion_backend: str = "mock"   # "mock" (offline) | "vertex" (LLM judge)
 
     # Step 5 report sink — the frontend (Vite) serves public/ at /, so it fetches

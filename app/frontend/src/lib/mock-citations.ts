@@ -288,7 +288,7 @@ export const MOCK_DOCUMENT = {
   uploadedAt: "26 Jun 2026, 09:42",
   jurisdiction: "England & Wales",
   practiceArea: "Commercial Litigation",
-  model: "rel{AI}able Verifier v2.4",
+  model: "rel{AI}able Verifier Alpha ver",
   steps: [
     { t: "09:42:11", label: "Document uploaded" },
     { t: "09:42:14", label: "12 citations extracted" },

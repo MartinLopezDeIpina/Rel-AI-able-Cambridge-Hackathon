@@ -1,21 +1,20 @@
-import { Search, Download, Printer } from "lucide-react";
-import { SidebarTrigger } from "@/components/ui/sidebar";
-import { Input } from "@/components/ui/input";
+import { Download, Printer } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { JurisdictionFilter } from "./JurisdictionFilter";
+import { Logo } from "./Logo";
+import { toggleDashboard } from "@/lib/dashboard-toggle";
 
 export function TopBar() {
   return (
     <header className="no-print sticky top-0 z-30 flex h-16 items-center gap-3 border-b bg-card/80 px-4 backdrop-blur">
-      <SidebarTrigger />
+      <button
+        onClick={toggleDashboard}
+        className="cursor-pointer border-0 bg-transparent p-0"
+        aria-label="Toggle workspace navigation"
+      >
+        <Logo />
+      </button>
       <div className="flex-1" />
-      <div className="relative hidden md:block">
-        <Search className="pointer-events-none absolute left-2.5 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-muted-foreground" />
-        <Input
-          placeholder="Search citations…"
-          className="h-9 w-72 pl-8 bg-background"
-        />
-      </div>
       <JurisdictionFilter compact />
       <Button
         variant="outline"

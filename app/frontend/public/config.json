@@ -1,0 +1,14 @@
+{
+  "name": "Skeleton Argument — Halberd Trading Ltd v Orient Pacific Shipping Co.docx",
+  "uploadedAt": "26 Jun 2026, 09:42",
+  "jurisdiction": "England & Wales",
+  "practiceArea": "Commercial Litigation",
+  "model": "rel{AI}able Verifier Alpha ver",
+  "steps": [
+    { "t": "09:42:11", "label": "Document uploaded" },
+    { "t": "09:42:14", "label": "12 citations extracted" },
+    { "t": "09:42:38", "label": "Authorities cross-checked against BAILII, ICLR, Westlaw UK" },
+    { "t": "09:43:02", "label": "Contextual application analysed" },
+    { "t": "09:43:21", "label": "Verification report generated" }
+  ]
+}

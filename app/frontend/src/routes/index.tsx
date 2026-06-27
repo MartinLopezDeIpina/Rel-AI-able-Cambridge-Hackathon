@@ -1,11 +1,11 @@
 import { createFileRoute, useNavigate, Link } from "@tanstack/react-router";
 import { useState } from "react";
-import { ShieldCheck, Sparkles, ArrowRight, FileCheck2, Building2 } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { toggleDashboard } from "@/lib/dashboard-toggle";
+import { ShieldCheck, Sparkles, FileCheck2, Scale } from "lucide-react";
 import { Logo } from "@/components/relaiable/Logo";
 import { UploadZone } from "@/components/relaiable/UploadZone";
 import { AnalysisProgress } from "@/components/relaiable/AnalysisProgress";
-import { JurisdictionFilter } from "@/components/relaiable/JurisdictionFilter";
+
 import { useAnalysisStore } from "@/lib/analysis-store";
 
 export const Route = createFileRoute("/")({
@@ -26,11 +26,13 @@ function Landing() {
   const [analysing, setAnalysing] = useState<string | null>(null);
   const navigate = useNavigate();
   const start = useAnalysisStore((s) => s.startAnalysis);
+  const startReportPolling = useAnalysisStore((s) => s.startReportPolling);
 
   const begin = (name: string) => setAnalysing(name);
 
   const finish = () => {
     if (analysing) start(analysing);
+    startReportPolling();
     navigate({ to: "/dashboard" });
   };
 
@@ -42,34 +44,23 @@ function Landing() {
         className="pointer-events-none fixed inset-x-0 top-0 -z-10 h-[520px] bg-gradient-to-b from-brand-soft/40 via-background to-background"
       />
 
-      <header className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-        <Logo />
-        <nav className="hidden items-center gap-7 text-sm text-slate-ink md:flex">
-          <a href="#features" className="hover:text-navy">Capabilities</a>
-          <a href="#workflow" className="hover:text-navy">Workflow</a>
-          <a href="#trust" className="hover:text-navy">Trust & audit</a>
-        </nav>
+      <header className="mx-auto flex max-w-7xl items-center justify-between border-b border-border px-6 py-5">
+        <button onClick={toggleDashboard} className="cursor-pointer bg-transparent border-0 p-0"><Logo /></button>
+
         <div className="flex items-center gap-2">
-          <JurisdictionFilter compact />
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={() => {
-              start("Demo — Halberd Trading v Orient Pacific.docx");
-              navigate({ to: "/dashboard" });
-            }}
-          >
-            Try Demo
-          </Button>
+          <span className="inline-flex items-center gap-1.5 rounded-md border border-border bg-card text-muted-foreground h-8 px-3 text-xs">
+            <Scale className="h-3.5 w-3.5 text-slate-ink" />
+            UK
+          </span>
         </div>
       </header>
 
       <main className="mx-auto max-w-7xl px-6 pb-24 pt-12">
-        <section className="grid grid-cols-1 gap-12 lg:grid-cols-[1.05fr_1fr] lg:items-start">
-          <div>
+        <section className="flex flex-col gap-12">
+          <div className="max-w-3xl">
             <span className="inline-flex items-center gap-1.5 rounded-full border border-brand/20 bg-brand-soft/60 px-3 py-1 text-xs font-medium text-brand">
               <Sparkles className="h-3.5 w-3.5" />
-              For lawyers, judges, and legal counsels{"\u00a0"}
+              For lawyers and explorers{"\u00a0"}
             </span>
             <h1 className="mt-5 font-display text-5xl leading-[1.05] text-navy md:text-6xl">
               Verify legal citations <span className="italic text-brand">before</span> they reach court.
@@ -79,57 +70,34 @@ function Landing() {
               identify mischaracterised cases and verify legal citations before filing.
             </p>
 
-            <div className="mt-8 flex flex-wrap items-center gap-3">
-              <Button
-                size="lg"
-                className="bg-navy text-primary-foreground hover:bg-navy-soft"
-                onClick={() => document.getElementById("upload")?.scrollIntoView({ behavior: "smooth" })}
-              >
-                Upload Document <ArrowRight className="ml-1.5 h-4 w-4" />
-              </Button>
-              <Button
-                size="lg"
-                variant="outline"
-                onClick={() => {
-                  start("Demo — Halberd Trading v Orient Pacific.docx");
-                  navigate({ to: "/dashboard" });
-                }}
-              >
-                Try Demo
-              </Button>
-            </div>
-
-            <dl className="mt-10 grid grid-cols-3 gap-6 border-t pt-8 text-sm">
-              <Stat k="98.4%" v="Detection rate on synthetic hallucinations" />
-              <Stat k="6 sec" v="Mean verification per citation" />
-              <Stat k="11+" v="Jurisdictions supported" />
-            </dl>
+            <hr className="mt-8 border-t border-border" />
           </div>
 
-          <div id="upload" className="lg:sticky lg:top-8">
+          <div id="upload" className="mx-auto w-full max-w-3xl">
             <UploadZone onFile={begin} />
             <p className="mt-3 text-center text-xs text-muted-foreground">
-              AI-assisted verification — human legal review remains recommended. Documents are processed
-              in-memory and never stored.
+              AI-assisted verification — human legal review remains recommended.
             </p>
           </div>
+
+          <dl className="grid grid-cols-3 gap-6 border-t pt-8 text-sm">
+            <Stat k="Extract" v="Automatically identify citations" />
+            <Stat k="Verify" v="Cross-check legal authorities" />
+            <Stat k="Explain" v="Plain-language reasoning for every result" />
+          </dl>
         </section>
 
-        <section id="features" className="mt-28 grid gap-4 md:grid-cols-3">
+
+        <section id="features" className="mt-28 grid gap-4 md:grid-cols-2">
           <Feature
             icon={ShieldCheck}
             title="Authority verification"
-            body="Cross-checks every cited case against BAILII, ICLR, Westlaw UK and Lexis indexes to flag authorities that do not exist."
+            body="Cross-checks the provided Data Base to flag anything suspicious."
           />
           <Feature
             icon={FileCheck2}
             title="Contextual accuracy"
             body="Compares the proposition asserted in the document against the actual ratio of the judgment, surfacing mischaracterisations."
-          />
-          <Feature
-            icon={Building2}
-            title="Jurisdiction aware"
-            body="Recognises citation conventions across England & Wales, US Federal, EU and major commercial seats."
           />
         </section>
 
@@ -142,11 +110,11 @@ function Landing() {
           </h2>
           <ol className="mt-8 grid gap-6 md:grid-cols-5">
             {[
-              "Upload PDF, DOCX or TXT",
+              "Upload PDF",
               "Citations extracted",
-              "Authorities searched",
-              "Context analysed",
-              "Report delivered",
+              "Retrieval from test Data Base",
+              "3-level structured approach",
+              "Report delivered in natural language",
             ].map((step, i) => (
               <li key={step} className="relative">
                 <span className="font-display text-3xl text-brand">Step {i + 1}</span>
@@ -158,7 +126,7 @@ function Landing() {
 
         <section id="trust" className="mt-20 text-center">
           <p className="font-display text-xl italic text-slate-ink">
-            "Catches in seconds what would take a trainee an afternoon to spot."
+            "Could catch in seconds what could take a trainee an afternoon to spot."
           </p>
           <p className="mt-3 text-xs uppercase tracking-wider text-muted-foreground">
             {"\n"}
@@ -167,11 +135,19 @@ function Landing() {
       </main>
 
       <footer className="border-t bg-muted/30">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6 text-xs text-muted-foreground">
-          <span>© 2026 rel{`{AI}`}able · Built for litigation teams</span>
-          <Link to="/dashboard" className="hover:text-navy">Open dashboard →</Link>
+        <div className="mx-auto grid max-w-7xl grid-cols-3 items-center px-6 py-6 text-xs text-muted-foreground">
+          <span>{"\u00a0"}2026 rel{`{AI}`}able · Built for lawyers and explorers</span>
+          <div className="text-center">
+            This product was created for a Hackathon and can make mistakes.
+          </div>
+          <div className="text-right">
+            <Link to="/about" className="hover:text-navy">
+              About Us
+            </Link>
+          </div>
         </div>
       </footer>
+
 
       {analysing && <AnalysisProgress fileName={analysing} onDone={finish} />}
     </div>

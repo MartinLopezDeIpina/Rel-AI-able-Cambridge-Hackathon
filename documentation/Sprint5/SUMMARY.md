@@ -63,6 +63,22 @@ atomic write, ISO-8601 `generated_at`, reload-revalidation. (See `STEP-5.md` §A
 4. **Build the real index** + enable Step 2/3 tests; Step 4 subtype-scoring fix
    (see `../Sprint4/STATUS.md`).
 
+## Pipeline integration audit (Step 1→5)
+
+Replaced the fake "e2e" test (stubbed resolver, monkeypatched source, hand-written
+verdict map) with a **real** chain test, and un-skipped Steps 2/3. This surfaced a real
+break:
+
+- **Root cause:** `corpus_dir = "index/texts"` (empty) — the resolver's index auto-build
+  found no sources → `ValueError` at Step 3. `verdict_for`'s broad `except` then turned
+  that into `mischar`+`needs_review` for **every** citation, so `/verify` returned 200
+  with an entirely wrong report. **Fix:** `corpus_dir = "pdfs"`.
+- **Verified:** `tests/test_integration_e2e.py::test_full_pipeline_live` now runs
+  Step 1 (LLM enrich) → 3 (real resolve) → 4 (Vertex judge) → 5 → `report.json` green.
+- **Residual risk (not changed):** the orchestrator still masks a *total* resolver/index
+  failure as per-citation `mischar`. Recommend a document-level error when all citations
+  fail to resolve, so a broken index can't masquerade as a valid report.
+
 ## Handing to the human intermediary (open checks)
 
 - **Mapping alignment:** `to_report` matches enriched↔verdict by `id`; confirm ids stay

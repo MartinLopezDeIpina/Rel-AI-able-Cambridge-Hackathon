@@ -2,7 +2,8 @@ import { useState } from "react";
 import { ChevronDown, Info, BookOpen } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { StatusBadge } from "./StatusBadge";
-import { ConfidenceBar } from "./ConfidenceBar";
+
+
 import {
   Popover,
   PopoverContent,
@@ -43,12 +44,7 @@ export function CitationCard({
         {citation.summary}
       </p>
 
-      <div className="mt-4">
-        <div className="mb-1 flex items-center justify-between text-xs text-muted-foreground">
-          <span>AI confidence</span>
-        </div>
-        <ConfidenceBar value={citation.confidence} />
-      </div>
+
 
       <div className="mt-4 flex items-center justify-between">
         <Popover>
@@ -91,10 +87,10 @@ export function CitationCard({
             transition={{ duration: 0.25, ease: "easeOut" }}
             className="overflow-hidden"
           >
-            <div className="mt-4 space-y-4 border-t pt-4 text-sm">
-              <Section label="Actual holding">{citation.holding}</Section>
-              <Section label="How it is used in the argument">{citation.howUsed}</Section>
-              <Section label="Recommendation">{citation.recommendation}</Section>
+            <div className="mt-4 space-y-3 border-t pt-4 text-sm">
+              <p className="leading-relaxed text-foreground">{citation.holding}</p>
+              <p className="leading-relaxed text-foreground">{citation.howUsed}</p>
+
               {citation.supporting && (
                 <div className="flex items-start gap-2 rounded-md bg-muted/60 p-3 text-xs text-slate-ink">
                   <BookOpen className="mt-0.5 h-3.5 w-3.5 text-brand" />
@@ -109,13 +105,3 @@ export function CitationCard({
   );
 }
 
-function Section({ label, children }: { label: string; children: React.ReactNode }) {
-  return (
-    <div>
-      <p className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground">
-        {label}
-      </p>
-      <p className="mt-1 leading-relaxed text-foreground">{children}</p>
-    </div>
-  );
-}

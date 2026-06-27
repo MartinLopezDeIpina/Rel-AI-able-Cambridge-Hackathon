@@ -5,7 +5,7 @@ import {
   SheetTitle,
 } from "@/components/ui/sheet";
 import { StatusBadge } from "./StatusBadge";
-import { ConfidenceBar } from "./ConfidenceBar";
+
 import type { Citation } from "@/lib/mock-citations";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Copy } from "lucide-react";
@@ -36,14 +36,7 @@ export function AnalysisDrawer({
               </p>
             </SheetHeader>
 
-            <div className="mt-4 rounded-lg border bg-muted/40 p-4">
-              <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
-                AI confidence
-              </p>
-              <div className="mt-2">
-                <ConfidenceBar value={citation.confidence} />
-              </div>
-            </div>
+
 
             <div className="mt-6 space-y-6 text-sm">
               <Field label="Original citation as it appears">
@@ -53,7 +46,7 @@ export function AnalysisDrawer({
               <Field label="Actual legal principle">{citation.holding}</Field>
               <Field label="How the citation was used">{citation.howUsed}</Field>
               <Field label="Potential problem">{citation.issue}</Field>
-              <Field label="AI recommendation">{citation.recommendation}</Field>
+              
               {citation.supporting && <Field label="Supporting authority">{citation.supporting}</Field>}
             </div>
 

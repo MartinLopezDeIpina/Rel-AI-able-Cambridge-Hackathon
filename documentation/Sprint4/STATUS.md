@@ -27,9 +27,12 @@ root `STEP-4.md`, `Sprint2/step4_status.md` (all folded in here).
   `app/frontend/public/report.json`, 3 challenge categories (`verified/mischar/risk`),
   validated. See `../Sprint5/`. `config.json` (document metadata) remains **Step #2/#3's**
   responsibility and is deferred.
-- **Steps 1–4 have tests; Steps 2/3 bodies exist but are module-skipped.**
-- **Test suite:** **55 tests collected** across `tests/` (steps 1/4/5 active; 2/3
-  written but skipped; some step-1/4 cases hit live Vertex).
+- **Steps 1–5 all have running tests** (Steps 2/3 un-skipped this audit); the e2e test
+  now drives the **real** Step 1→5 chain instead of stubs.
+- **Pipeline fix:** `corpus_dir` pointed at `index/texts` (empty) → Step 3 could never
+  build its index → the orchestrator silently degraded every citation to
+  `mischar`+`needs_review`. Repointed to `pdfs/`; the live full-pipeline test now passes.
+- **Test suite:** **57 passing** (`pytest` ~56s, includes live Vertex calls).
 
 Readiness by step: **1** 🟡 · **2** 🟡 · **3** 🟡 · **4** ✅ · **5** 🟢 (orchestrator ✅, `report.json` ✅).
 

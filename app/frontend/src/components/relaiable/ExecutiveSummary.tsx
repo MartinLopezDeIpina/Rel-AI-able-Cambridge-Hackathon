@@ -6,9 +6,7 @@ export function ExecutiveSummary() {
   const risky = MOCK_CITATIONS.filter((c) => c.status === "risk").length;
   const mischar = MOCK_CITATIONS.filter((c) => c.status === "mischar").length;
   const review = MOCK_CITATIONS.filter((c) => c.status === "review").length;
-  const score = Math.round(
-    MOCK_CITATIONS.reduce((s, c) => s + c.confidence, 0) / total,
-  );
+
 
   const verdict =
     risky > 0
@@ -56,23 +54,17 @@ export function ExecutiveSummary() {
           </div>
         </div>
 
-        <div className="flex shrink-0 items-center gap-6 rounded-xl border bg-muted/40 px-6 py-4">
-          <div>
-            <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
-              Trust score
-            </p>
-            <p className="font-display text-4xl leading-none text-navy">{score}%</p>
-          </div>
-          <div className="h-12 w-px bg-border" />
-          <div>
+        <div className="flex shrink-0 items-center rounded-xl border bg-muted/40 px-10 py-5">
+          <div className="text-center">
             <p className="text-[11px] uppercase tracking-wider text-muted-foreground">
               Action items
             </p>
-            <p className="font-display text-4xl leading-none text-navy">
+            <p className="mt-1 font-display text-5xl leading-none text-navy">
               {risky + mischar + review}
             </p>
           </div>
         </div>
+
       </div>
 
       <RiskBar />

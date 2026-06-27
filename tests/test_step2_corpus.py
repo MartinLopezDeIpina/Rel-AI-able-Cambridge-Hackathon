@@ -1,8 +1,7 @@
 """STEP 2 — source corpus: PDF->text + chunking + semantic index.
 
-DEFERRED: skipped for now at the user's request; bodies are written so they can be
-enabled shortly (just remove the module-level skip). Unit parts need no heavy deps;
-the index-build integration needs fastembed.
+Unit parts (chunking, source collection) need no heavy deps; the index-build
+integration needs fastembed and is skipped cleanly when it is absent.
 """
 from __future__ import annotations
 
@@ -10,8 +9,6 @@ import pytest
 
 from app.services import citelib, indexer
 from tests.conftest import requires_fastembed
-
-pytestmark = pytest.mark.skip(reason="STEP 2 tests deferred — to be enabled shortly in this task")
 
 
 @pytest.mark.unit

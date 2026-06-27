@@ -1,8 +1,8 @@
 """STEP 3 — resolution / existence (name + semantic fusion).
 
-DEFERRED: skipped for now at the user's request; bodies are written so they can be
-enabled shortly. Unit tests pin the fusion branches (every Step3Case) with a
-monkeypatched query embedding; integration resolves against a real tiny index.
+Unit tests pin the fusion branches (every Step3Case) with a monkeypatched query
+embedding; the integration test resolves against a real tiny index (skipped without
+fastembed).
 """
 from __future__ import annotations
 
@@ -12,8 +12,6 @@ import pytest
 from app.services import citelib, resolver_service as rs
 from tests.conftest import requires_fastembed
 from tests.contracts import Step3Case, assert_resolver_result
-
-pytestmark = pytest.mark.skip(reason="STEP 3 tests deferred — to be enabled shortly in this task")
 
 # A 3-chunk fake index over 3 sources, unit basis vectors so we can steer cosine.
 _SOURCES = ["Lumley v Gye (1853) 2 E&B 216.txt", "Hadley v Baxendale.txt", "Foo v Bar.txt"]
@@ -57,12 +55,12 @@ def test_not_in_corpus_needs_web(agent, monkeypatch):
 
 @pytest.mark.integration
 @requires_fastembed
-def test_resolve_on_real_index(agent, tiny_index, monkeypatch):
-    monkeypatch.setattr(rs, "load_index", lambda _d: rs.load_index.__wrapped__(tiny_index)
-                        if hasattr(rs.load_index, "__wrapped__") else rs.load_index(tiny_index))
+def test_resolve_on_real_index(agent, tiny_index):
+    # Resolve a named citation against a REAL index built from tiny_corpus.
     emb, chunks, sources = rs.load_index(tiny_index)
     d = rs.resolve_one("Lumley v Gye (1853) 2 E&B 216", emb, chunks, sources)
     assert_resolver_result(d)
     agent.case(Step3Case.NAME_HIT, "resolve_one[real]").expect(
-        chosen_contains="Lumley").check(
-        method=d["method"], chosen_contains="Lumley" in d["chosen_source"])
+        chosen_contains=True, in_corpus=True).check(
+        method=d["method"], chosen_contains="Lumley" in d["chosen_source"],
+        in_corpus=not d["needs_web"])
