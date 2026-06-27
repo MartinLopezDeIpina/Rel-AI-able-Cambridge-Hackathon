@@ -21,6 +21,7 @@ export interface VerifyItem {
   matched_source: string | null;
   match_method: string | null;
   used_semantic_fallback: boolean;
+  uncertainty: number | null; // semantic-entropy uncertainty, 0..1 normalised
   field_mismatches: { field: string; citing_value: unknown; source_value: unknown }[];
   distortion: {
     classification: string;
@@ -122,6 +123,7 @@ export function toCitation(item: VerifyItem): Citation {
     issue,
     action: ACTION[status],
     paragraph: 0, // set by toReport (document order)
+    uncertainty: item.uncertainty,
   };
 }
 
