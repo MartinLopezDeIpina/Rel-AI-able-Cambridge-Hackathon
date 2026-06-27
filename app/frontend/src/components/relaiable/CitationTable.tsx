@@ -1,0 +1,63 @@
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/ui/table";
+import { StatusBadge } from "./StatusBadge";
+import { ConfidenceBar } from "./ConfidenceBar";
+import { MOCK_CITATIONS, SORTED_CITATIONS, type Citation } from "@/lib/mock-citations";
+import { ArrowUpRight } from "lucide-react";
+
+export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
+  return (
+    <div className="overflow-hidden rounded-xl border bg-card shadow-elegant">
+      <div className="flex items-center justify-between border-b px-5 py-4">
+        <div>
+          <h3 className="font-display text-lg text-navy">All citations</h3>
+          <p className="text-xs text-muted-foreground">
+            Click a row to open the full analysis.
+          </p>
+        </div>
+        <span className="rounded-full bg-muted px-3 py-1 text-xs text-slate-ink">
+          {MOCK_CITATIONS.length} citations
+        </span>
+      </div>
+      <Table>
+        <TableHeader>
+          <TableRow className="hover:bg-transparent">
+            <TableHead>Citation</TableHead>
+            <TableHead>Status</TableHead>
+            <TableHead className="w-[180px]">Confidence</TableHead>
+            <TableHead>Issue</TableHead>
+            <TableHead>Recommended action</TableHead>
+            <TableHead className="w-8" />
+          </TableRow>
+        </TableHeader>
+        <TableBody>
+          {SORTED_CITATIONS.map((c) => (
+            <TableRow
+              key={c.id}
+              onClick={() => onOpen(c)}
+              className="cursor-pointer"
+            >
+              <TableCell>
+                <div className="font-medium text-navy">{c.caseName}</div>
+                <div className="font-mono text-xs text-muted-foreground">{c.citation}</div>
+              </TableCell>
+              <TableCell><StatusBadge status={c.status} /></TableCell>
+              <TableCell><ConfidenceBar value={c.confidence} /></TableCell>
+              <TableCell className="text-sm text-slate-ink">{c.issue}</TableCell>
+              <TableCell className="text-sm text-slate-ink">{c.action}</TableCell>
+              <TableCell>
+                <ArrowUpRight className="h-4 w-4 text-muted-foreground" />
+              </TableCell>
+            </TableRow>
+          ))}
+        </TableBody>
+      </Table>
+    </div>
+  );
+}
