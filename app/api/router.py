@@ -1,6 +1,7 @@
 from fastapi import APIRouter
 
-from app.api.endpoints import items
+from app.api.endpoints import citations, items
 
 api_router = APIRouter()
+api_router.include_router(citations.router, prefix="/citations", tags=["citations"])
 api_router.include_router(items.router, prefix="/items", tags=["items"])

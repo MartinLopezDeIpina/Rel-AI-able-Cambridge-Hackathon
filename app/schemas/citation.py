@@ -104,3 +104,35 @@ class AnalysisDict(BaseModel):
     out_of_context_pct: float
     plain_language_holding: str
     evaluations: list[dict] = []
+
+
+class CitationVerdict(BaseModel):
+    """One citation's end-to-end verdict — the object the frontend renders.
+
+    Carries the challenge blueprint fields (``citation_name``, ``status``,
+    ``confidence_score``, ``associate_claim``, ``actual_holding``, ``explanation``)
+    plus provenance for transparency (resolver/detector internals)."""
+
+    id: int
+    citation_name: str
+    raw: str
+    status: ClassificationType
+    confidence_score: float                 # 0..1, how robustly the source supports the claim
+    associate_claim: str                    # the brief's own wording (relevant_text)
+    actual_holding: str                     # what the case actually decided ("" if fabricated)
+    explanation: str                        # 2-3 sentence "why it's wrong" ("" if verified)
+    ground: str | None = None               # Ground 1/2/3 of the dispute
+    needs_review: bool = False
+    used_semantic_fallback: bool = False
+    chosen_source: str | None = None
+    detector_classification: str | None = None   # correct|mischaracterised|out_of_context
+    mischaracterised_pct: float | None = None
+    out_of_context_pct: float | None = None
+
+
+class VerifyResponse(BaseModel):
+    """Full document report returned by ``POST /api/citations/verify``."""
+
+    document_name: str | None = None
+    citations: list[CitationVerdict] = []
+    summary: dict[str, int] = {}            # counts per status (verified / mischar / fabricated)

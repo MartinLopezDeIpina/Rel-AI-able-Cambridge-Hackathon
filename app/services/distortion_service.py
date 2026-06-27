@@ -18,6 +18,12 @@ from app.services.distortion_backend import get_backend  # noqa: F401 (re-export
 # Classification thresholds (calibrate on the eval set).
 TAU_LOW = 25.0                          # both axes below -> correct
 LEVEL_W = {"micro": 0.5, "meso": 0.7, "macro": 1.0}   # severity per level
+# A contradiction (VIOLATED) is a stronger integrity signal than silence
+# (UNADDRESSED): decomposing a brief's claim yields many party-specific premises the
+# old judgment cannot address, inflating out_of_context. So when choosing the
+# *subtype*, weight the mischar axis up — mischaracterised wins once it reaches this
+# fraction of the out_of_context axis (a present contradiction is not drowned out).
+SUBTYPE_BIAS = 0.5
 
 # Detector classes -> eval labels (kept for parity with the eval harness).
 CLASS_TO_LABEL = {
@@ -56,7 +62,7 @@ def score(evals: list[dict]) -> tuple[float, float, str]:
     ooc = 100.0 * unaddressed / n
     if max(mischar, ooc) < TAU_LOW:
         cls = "correct"
-    elif mischar >= ooc:
+    elif mischar >= SUBTYPE_BIAS * ooc:     # a real contradiction outweighs mere silence
         cls = "mischaracterised"
     else:
         cls = "out_of_context"

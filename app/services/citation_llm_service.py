@@ -196,10 +196,16 @@ def _merge(citation: Citation, metadata: CitationMetadata | None) -> EnrichedCit
 
 def extract_enriched_citations(pdf_path: str | Path) -> list[EnrichedCitation]:
     """Extract citations (regex) then enrich their metadata with the LLM."""
-    citations = extract_citations(pdf_path)
+    return enrich_from_text(read_pdf_text(pdf_path))
+
+
+def enrich_from_text(document: str) -> list[EnrichedCitation]:
+    """Extract + enrich citations from already-extracted document text (paste path)."""
+    from app.services.citation_service import extract_citations_from_text
+
+    citations = extract_citations_from_text(document)
     if not citations:
         return []
-    document = read_pdf_text(pdf_path)
     metadata = _enrich(citations, document)
     return [
         _merge(c, _verify(metadata[c.id], document) if c.id in metadata else None)
