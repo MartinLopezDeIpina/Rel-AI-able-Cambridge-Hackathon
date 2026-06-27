@@ -70,10 +70,31 @@ FULL DOCUMENT TEXT:
 
 
 def build_llm(settings: Settings | None = None):
-    """Construct the chat model. Modular: tier/endpoint come from settings."""
+    """Construct the chat model for the configured provider.
+
+    Modular: ``LLM_PROVIDER`` selects the backend and the rest of the pipeline is
+    unchanged. "openrouter" -> Nemotron via OpenAI-compatible API; "vertex" ->
+    Google Gemini via Vertex AI (Application Default Credentials).
+    """
+    settings = settings or get_settings()
+
+    if settings.llm_provider == "vertex":
+        from langchain_google_vertexai import ChatVertexAI
+
+        if not settings.google_project:
+            raise RuntimeError(
+                "GOOGLE_PROJECT is not set; required for the vertex provider."
+            )
+        return ChatVertexAI(
+            model=settings.google_model,
+            project=settings.google_project,
+            location=settings.google_location,
+            temperature=settings.llm_temperature,
+            thinking_budget=settings.google_thinking_budget,
+        )
+
     from langchain_openai import ChatOpenAI
 
-    settings = settings or get_settings()
     if not settings.openrouter_api_key:
         raise RuntimeError(
             "OPENROUTER_API_KEY is not set. Add it to .env (or the environment) "

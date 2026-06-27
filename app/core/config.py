@@ -17,11 +17,21 @@ class Settings(BaseSettings):
     debug: bool = True
     api_prefix: str = "/api"
 
-    # LLM citation enrichment (OpenRouter, OpenAI-compatible).
+    # LLM citation enrichment. Provider picks the backend: "openrouter" (Nemotron)
+    # or "vertex" (Google Gemini via Vertex AI + ADC).
+    llm_provider: str = "openrouter"
+    llm_temperature: float = 0.0
+
+    # OpenRouter (OpenAI-compatible).
     openrouter_api_key: str | None = None
     llm_base_url: str = "https://openrouter.ai/api/v1"
     llm_model: str = "nvidia/nemotron-3-nano-30b-a3b:free"  # swap tier via .env
-    llm_temperature: float = 0.0
+
+    # Google Vertex AI (uses Application Default Credentials).
+    google_model: str = "gemini-2.5-flash"
+    google_project: str | None = None  # GCP project id (required for vertex)
+    google_location: str = "us-central1"
+    google_thinking_budget: int = 0  # 0 disables Gemini 2.5 "thinking" (~40% faster)
 
 
 @lru_cache
