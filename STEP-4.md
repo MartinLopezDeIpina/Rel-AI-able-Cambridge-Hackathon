@@ -9,7 +9,7 @@ decided. This is the input to **Step 5** (report generation / frontend).
   `app/services/distortion_prompts.py` (strict-JSON templates).
 - Schemas: `app/schemas/citation.py` (`Classification`, `ClassificationType`, `AnalysisDict`).
 - Detailed log: `documentation/Sprint2/step4_status.md`.
-- Test harnesses: `example_matched/test_analyze.py`, `example_mismatched/test_analyze.py`.
+- Test harnesses: `example_matched/run_analyze.py`, `example_mismatched/run_analyze.py`.
 
 ---
 
@@ -49,7 +49,7 @@ enrichment and the distortion judge share one client.
 Backends (`get_backend`): `"mock"` (offline, deterministic lexical heuristics),
 `"vertex"` (real LLM). `"openrouter"` is kept as a **back-compat alias** for `"vertex"`.
 
-Run: `.venv/bin/python example_matched/test_analyze.py vertex`
+Run: `.venv/bin/python example_matched/run_analyze.py vertex`
 (or `example_mismatched/...`; `mock` for offline).
 
 ---
