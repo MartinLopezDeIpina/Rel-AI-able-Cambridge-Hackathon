@@ -39,6 +39,11 @@ class Settings(BaseSettings):
     corpus_dir: str = "index/texts"    # sources to build the index from if it's missing
     distortion_backend: str = "mock"   # "mock" (offline) | "openrouter" (LLM judge)
 
+    # Sources metadata database for the existence + metadata-equality check
+    # (the metadata-match layer). Keyed by source identifier; each entry mirrors
+    # the EnrichedCitation field schema plus a `source` filename.
+    sources_metadata_path: str = "data/sources_metadata.json"
+
 
 @lru_cache
 def get_settings() -> Settings:
