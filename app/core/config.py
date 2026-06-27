@@ -41,7 +41,7 @@ class Settings(BaseSettings):
     # Citation resolution / semantic index (the fallback resolver).
     index_dir: str = "index"           # holds embeddings.npy / chunks.json / sources.json
     corpus_dir: str = "index/texts"    # sources to build the index from if it's missing
-    distortion_backend: str = "mock"   # "mock" (offline) | "openrouter" (LLM judge)
+    distortion_backend: str = "mock"   # "mock" (offline) | "vertex" (LLM judge)
 
 
 @lru_cache

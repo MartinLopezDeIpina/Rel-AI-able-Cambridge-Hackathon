@@ -51,14 +51,14 @@ API. `.env` sets `LLM_PROVIDER=vertex` + `GOOGLE_PROJECT=llm-law-cambridge26cbx-
 so it routes through Vertex unchanged. (A `gemini` Developer-API provider was also
 added for portability but is **not** the configured path.)
 
-Run: `.venv/bin/python example_mismatched/test_analyze.py openrouter`
-(uses `.env`; the `openrouter` arg just selects the LLM-judge backend, which drives Vertex).
+Run: `.venv/bin/python example_mismatched/test_analyze.py vertex`
+(uses `.env`; the `vertex` arg selects the LLM-judge backend).
 
 ---
 
 ## Test run on `example_mismatched/Mismatched.pdf` (3 hand-built cases)
 
-Harness: `example_mismatched/test_analyze.py` (`mock` for offline, `openrouter` for the LLM judge).
+Harness: `example_mismatched/test_analyze.py` (`mock` for offline, `vertex` for the LLM judge).
 
 | # | Case | PDF defect | mock | **Vertex/Gemini** | mischar%/ooc% |
 |---|------|-----------|------|-------------------|---------------|

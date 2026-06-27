@@ -4,11 +4,11 @@ new schemas (app/schemas/citation).
 These cover the parts that are actually implemented today: the deterministic
 MockBackend, the detector's scoring + classification thresholds, the
 ``analyze`` tuple/``id`` contract, the ``relevant_text`` mapping helpers, the
-schema round-trips, and the OpenRouter backend's graceful offline fallback.
+schema round-trips, and the Vertex backend's graceful offline fallback.
 
-The OpenRouter LLM path itself is not exercised (needs OPENROUTER_API_KEY); we
-only assert it degrades to the mock heuristic instead of crashing when no key is
-present.
+The real LLM path itself is not exercised (needs Vertex/ADC credentials); we
+only assert it degrades to the mock heuristic instead of crashing when the
+credentials/client are unavailable.
 """
 
 from types import SimpleNamespace
@@ -195,16 +195,22 @@ def test_analysis_dict_mirrors_report():
 # Backends
 # --------------------------------------------------------------------------
 
-def test_get_backend_mock_and_openrouter():
+def test_get_backend_mock_and_vertex():
     assert get_backend("mock").name == "mock"
-    assert get_backend("openrouter").name == "openrouter"
+    assert get_backend("vertex").name == "vertex"
+    # "openrouter" is kept as a back-compat alias for the renamed Vertex backend.
+    assert get_backend("openrouter").name == "vertex"
 
 
-def test_openrouter_select_falls_back_without_key(monkeypatch):
-    # With no API key, the OpenRouter stages must degrade to the mock heuristic
-    # rather than raise, so the pipeline still returns a result offline.
-    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
-    backend = get_backend("openrouter")
+def test_vertex_select_falls_back_without_client(monkeypatch):
+    # If the LLM client can't be built (no credentials), the Vertex stages must
+    # degrade to the mock heuristic rather than raise, so the pipeline still
+    # returns a result offline.
+    def _raise(*_a, **_k):
+        raise RuntimeError("no credentials")
+
+    monkeypatch.setattr("app.services.citation_llm_service.build_llm", _raise)
+    backend = get_backend("vertex")
     scored = [(0, "para zero", 0.9), (1, "para one", 0.5)]
     selected = backend.select("a claim", scored, k=1)
     assert selected == [0]                   # same as MockBackend.select
