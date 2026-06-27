@@ -56,8 +56,8 @@ def score(evals: list[dict]) -> tuple[float, float, str]:
     n = len(evals)
     if n == 0:
         return 0.0, 0.0, "correct"
-    violated = sum(LEVEL_W.get(e["level"], 0.5) for e in evals if e["label"] == "VIOLATED")
-    unaddressed = sum(1 for e in evals if e["label"] == "UNADDRESSED")
+    violated = sum(LEVEL_W.get(e.get("level"), 0.5) for e in evals if e.get("label") == "VIOLATED")
+    unaddressed = sum(1 for e in evals if e.get("label") == "UNADDRESSED")
     mischar = 100.0 * violated / n
     ooc = 100.0 * unaddressed / n
     if max(mischar, ooc) < TAU_LOW:
@@ -116,7 +116,7 @@ def _report(relevant_text, cls, mischar, ooc, r_ids, evals, holding) -> dict:
         "mischaracterised_pct": mischar,
         "out_of_context_pct": ooc,
         "r_top_ids": r_ids,
-        "premise_summary": [e for e in evals if e["label"] in ("VIOLATED", "UNADDRESSED")],
+        "premise_summary": [e for e in evals if e.get("label") in ("VIOLATED", "UNADDRESSED")],
         "evaluations": evals,
         "plain_language_holding": holding,
     }

@@ -40,11 +40,51 @@ class Settings(BaseSettings):
 
     # Citation resolution / semantic index (the fallback resolver).
     index_dir: str = "index"           # holds embeddings.npy / chunks.json / sources.json
-    # Source corpus the index auto-builds from. MUST point at the source judgments
-    # (pdfs/), NOT index/texts (that is the indexer's extracted-text cache under
-    # index_dir). With the wrong dir the index can't build and Step 3 resolution fails.
+    # Source corpus the (legacy) semantic resolver auto-builds its index from. MUST
+    # point at the source judgments (pdfs/), NOT index/texts (that is the indexer's
+    # extracted-text cache under index_dir). The runtime pipeline now resolves via the
+    # metadata-match layer (sources_metadata_path), so this only matters if the semantic
+    # resolver is used directly.
     corpus_dir: str = "pdfs"
-    distortion_backend: str = "mock"   # "mock" (offline) | "vertex" (LLM judge)
+    distortion_backend: str = "vertex"  # "vertex" (Gemini judge) | "mock" (offline)
+
+    # One-off source-metadata builder (app.services.source_metadata_builder): a
+    # preprocessing step, NOT part of the runtime pipeline. Vision-OCRs the first
+    # pages of each source judgment, then extracts its citation metadata to JSON.
+    # Vision OCR needs a multimodal model, so the builder forces its own provider
+    # (default Gemini via Vertex) independent of the runtime ``llm_provider``, which
+    # may be a text-only model like Nemotron.
+    source_llm_provider: str = "vertex"                       # "vertex" | "openrouter"
+    source_dir: str = "data"                                  # the source PDFs/judgments
+    source_metadata_out: str = "data/source_metadata.json"    # the metadata "database"
+    # Full-document vision-OCR transcripts (ALL pages), for later pipeline steps.
+    source_texts_dir: str = "data/text_source"               # one <stem>.txt per source
+    vision_dpi: int = 170                                     # page render DPI for OCR
+    # A page with at least this many embedded-text chars is treated as digital (use
+    # its text layer for free); below it the page is a scan and goes to vision OCR.
+    text_layer_min_chars: int = 100
+    vision_ocr_batch_pages: int = 3                           # pages per vision call (full OCR)
+    # Files rendered/OCR'd at once. Kept small on purpose: PDF page rendering holds the
+    # GIL, so too many files at once starves the progress bars and the vision calls.
+    # Throughput comes from per-file batch parallelism + the global call cap, not from
+    # rendering many files at once. (0 = all files — avoid for big scanned corpora.)
+    vision_ocr_concurrency: int = 4
+    vision_intra_concurrency: int = 10                        # page-batches per file in parallel
+    vision_max_concurrent_calls: int = 16                     # global cap on simultaneous vision calls
+    vision_max_pages: int = 3                                 # max leading pages for metadata
+    source_request_sleep: float = 1.0                        # throttle between documents (s)
+
+    # Source-metadata builder (app.services.source_metadata_builder): one-off step that
+    # reads the vision-OCR transcripts in source_texts_dir and extracts each source's
+    # Citation-shaped metadata to source_metadata_out via Gemini structured output.
+    source_metadata_chars: int = 12000       # leading transcript chars fed per source
+    source_metadata_concurrency: int = 8     # transcripts extracted at once (batch control)
+
+    # Sources metadata database for the existence + metadata-equality check
+    # (the metadata-match layer). This is the file the builder above writes
+    # (source_metadata_out); keep them in sync. Keyed by source identifier; each
+    # entry mirrors the EnrichedCitation field schema plus a `source` filename.
+    sources_metadata_path: str = "data/source_metadata.json"
 
     # Step 5 report sink — the frontend (Vite) serves public/ at /, so it fetches
     # /report.json. Relative paths resolve against the repo root.

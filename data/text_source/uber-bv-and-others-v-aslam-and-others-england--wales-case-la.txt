@@ -1,0 +1,1411 @@
+Hilary Term
+[2021] UKSC 5
+On appeal from: [2018] EWCA Civ 2748
+JUDGMENT
+Responden
+Oliver Sega
+Melanie Te
+(Instructed by
+Respondents:-
+(1) Yaseen Aslam
+(2) James Farrar
+Uber BV and others (Appellants) vAslam and others (Respondents)
+before
+Lord Reed, President
+Lord Hodge, Deputy President
+Lady Arden
+Lord Kitchin
+Lord Sales
+Lord Hamblen
+Lord Leggatt
+JUDGMENT GIVEN ON
+19 February 2021
+Heard on 21 and 22 July 2020
+Appellants
+Respondents (1 and 2)
+Dinah Rose QC
+Jason Galbraith-Marten QC
+Fraser Campbell
+Sheryn Omeri
+(Instructed by DLA Piper (UK) LLP
+(London))
+(Instructed by Bates Wells & Braithwaite LLP
+(London))
+
+(3) Robert Dawson and others
+LORD LEGGATT: (with whom Lord Reed, Lord Hodge, Lady Arden, Lord Sales and Lord
+Hamblen agree)
+Introduction
+1.
+New ways of working organised through digital platforms pose pressing questions about the
+employment status of the people who do the work involved. The central question on this appeal is
+whether an employment tribunal was entitled to find that drivers whose work is arranged through
+Uber’s smartphone application (“the Uber app”) work for Uber under workers’ contracts and so
+qualify for the national minimum wage, paid annual leave and other workers’ rights; or whether, as
+Uber contends, the drivers do not have these rights because they work for themselves as independent
+contractors, performing services under contracts made with passengers through Uber as their
+booking agent. If drivers work for Uber under workers’ contracts, a secondary question arises as to
+whether the employment tribunal was also entitled to find that the drivers who have brought the
+present claims were working under such contracts whenever they were logged into the Uber app
+within the territory in which they were licensed to operate and ready and willing to accept trips; or
+whether, as Uber argues, they were working only when driving passengers to their destinations.
+2.
+For the reasons given in this judgment, I would affirm the conclusion of the Employment Appeal
+Tribunal and the majority of the Court of Appeal that the employment tribunal was entitled to decide
+both questions in the claimants’ favour.
+The parties
+3.
+The first appellant, Uber BV, is a Dutch company which owns the rights in the Uber app. The second
+appellant, Uber London Ltd (“Uber London”), is a UK subsidiary of Uber BV which, since May 2012,
+has been licensed to operate private hire vehicles in London. The third appellant, Uber Britannia Ltd,
+is another UK subsidiary of Uber BV which holds licences to operate such vehicles outside London. In
+this judgment I will use the name “Uber” to refer to the appellants collectively when it is not
+necessary to differentiate between them.
+4.
+The claimants, and respondents to this appeal, are individuals who work or used to work as private
+hire vehicle drivers, performing driving services booked through the Uber app. For the purpose of the
+decision which has given rise to this appeal, the employment tribunal limited its consideration to two
+test claimants, Mr Yaseen Aslam and Mr James Farrar, both of whom were licensed to drive private
+hire vehicles in London. Like the employment tribunal, I will use masculine pronouns for brevity when
+referring to Uber drivers in this judgment in circumstances where all the claimant drivers are male.
+5.
+At the time of the employment tribunal hearing in 2016, there were about 30,000 Uber drivers
+operating in the London area and 40,000 in the UK as a whole. Some two million people were
+registered to use the Uber app as passengers in London.
+The Uber system
+
+6.
+As described in more detail in the decision of the employment tribunal, Uber’s business model is
+simple. Prospective customers download the Uber app (for free) to their smartphone and create an
+account by providing personal information including a method of payment. They are then able to
+request rides. To do so, they open the Uber app on their phone and make a request. In the period
+considered by the employment tribunal, users did not have to enter their destination when booking a
+ride through the app, but they generally did so. The Uber app identifies the passenger’s location
+through the smartphone’s geolocation system. Using the same technology, the app identifies the
+nearest available driver who is logged into the app and informs him (via his smartphone) of the
+request. At this stage the driver is told the passenger’s first name and Uber rating (as to which, see
+below) and has ten seconds in which to decide whether to accept the request. If the driver does not
+respond within that time, the next closest driver is located and offered the trip. Once a driver accepts,
+the trip is assigned to that driver and the booking confirmed to the passenger, who is sent the driver’s
+name and car details.
+7.
+At this point the driver and passenger are put into direct contact with each other through the Uber
+app, but this is done in such a way that neither has access to the other’s mobile telephone number.
+The purpose is to enable them to communicate with each other in relation to the pick-up, for example
+to identify the passenger’s precise location or to advise of problems such as traffic delay. The
+passenger can also track the driver’s progress on a map on their smartphone.
+8.
+The driver is not informed of the passenger’s destination until the passenger is collected. At that point
+the driver learns the destination either directly from the passenger or through the app (if the
+destination was entered when the ride was requested) when the driver presses “start trip” on his
+phone. The Uber app incorporates route planning software and provides the driver with detailed
+directions to the destination. The driver is not bound to follow those directions but departure from the
+recommended route may result in a reduction in payment if the passenger complains about the route
+taken.
+9.
+On arrival at the destination, the driver presses “complete trip” on his smartphone. The fare is then
+calculated automatically by the Uber app, based on time spent and distance covered. At times and
+places of high demand, a multiplier is applied resulting in a higher fare. Drivers are permitted to
+accept payment in a lower, but not a higher, sum than the fare calculated by the app (although, in the
+unlikely event that a driver accepts a lower sum, the “service fee” retained by Uber BV is still based
+on the fare calculated by the app). Drivers are at liberty to accept tips but are discouraged by Uber
+from soliciting them.
+10.
+The fare is debited to the passenger’s credit or debit card registered on the Uber app and the
+passenger is sent a receipt for the payment by email. Separately, the Uber app generates a document
+described as an “invoice” addressed on behalf of the driver to the passenger (showing the passenger’s
+first name but not their surname or contact details). However, the passenger never sees this
+document, which is not sent to the passenger but is accessible to the driver on the Uber app and
+serves as a record of the trip and the fare charged.
+11.
+
+Uber BV makes a weekly payment to the driver of sums paid by passengers for trips driven by the
+driver less a “service fee” retained by Uber BV. In the cases of Mr Aslam and Mr Farrar, the service
+fee was 20% of the fares.
+12.
+Drivers are prohibited by Uber from exchanging contact details with a passenger or contacting a
+passenger after the trip ends other than to return lost property.
+13.
+Uber operates a ratings system whereby, after the trip, the passenger and driver are each sent a
+message asking them to rate the other anonymously on a scale of 1 to 5.
+Working as a driver
+14.
+To become an Uber driver, a person can sign up online. They must then attend and present certain
+documents at the offices of the local Uber company (which, for the London area, is Uber London). The
+required documents comprise a national insurance certificate, driving licence, licence to drive a
+private hire vehicle, vehicle logbook, MOT certificate and certificate of motor insurance. The applicant
+must also take part in what the employment tribunal described as “an interview, albeit not a searching
+one”, and watch a video presentation about the Uber app and certain Uber procedures. This process
+is referred to by Uber as “onboarding”.
+15.
+Individuals accepted as drivers are given free access to the Uber app through their own smartphone
+or may hire a smartphone for £5 a month from Uber BV configured so that it can only be used to
+operate the Uber app. The driver has to provide and pay for his own vehicle, which must be on a list of
+accepted makes and models, in good condition, no older than a specified age and preferably silver or
+black. Drivers must also bear all the costs of running their vehicles, including fuel, insurance, road tax
+and the cost of obtaining a private hire vehicle licence.
+16.
+Individuals approved to work as drivers are free to make themselves available for work, by logging
+onto the Uber app, as much or as little as they want and at times of their own choosing. They are not
+prohibited from providing services for or through other organisations, including any direct competitor
+of Uber operating through another digital platform. Drivers can also choose where within the territory
+covered by their private hire vehicle licence they make themselves available for work. They are not
+provided with any insignia or uniform and in London are discouraged from displaying Uber branding
+of any kind on their vehicle.
+17.
+The employment tribunal made a number of findings about standards of performance which drivers
+are expected to meet and actions taken where drivers fail to meet these standards. For example, the
+tribunal found that a “Welcome Packet” of material issued by Uber London to new drivers included
+numerous instructions as to how drivers should conduct themselves, such as “Polite and professional
+at all times”, “Avoid inappropriate topics of conversation” and “Do not contact the rider after the trip
+has ended”. Other material in the Welcome Packet, under the heading “What Uber looks for”, stated:
+“High Quality Service Stats: We continually look at your driver rating, client comments, and feedback
+provided to us. Maintaining a high rating overall helps keep a top tier service to riders.
+
+Low Cancellation Rate: when you accept a trip request you have made a commitment to the rider.
+Cancelling often or cancelling for unwillingness to drive to your clients leads to a poor experience.
+High Acceptance Rate: Going on duty means you are willing and able to accept trip requests.
+Rejecting too many requests leads to rider confusion about availability. You should be off duty if not
+able to take requests.”
+18.
+Taking these three metrics in reverse order, drivers whose acceptance rate for trip requests falls
+below a set level - which according to evidence before the tribunal was 80% - receive warning
+messages reminding the driver that being logged into the Uber app is an indication that the driver is
+willing and able to accept trip requests. If the driver’s acceptance rate does not improve, the
+warnings escalate and culminate in the driver being automatically logged off the Uber app for ten
+minutes if the driver declines three trips in a row. A similar system of warnings, culminating in a ten-
+minute log-off “penalty”, applies to cancellations by drivers after a trip has been accepted. The
+driver’s ratings from passengers are also monitored and the employment tribunal found that drivers
+who have undertaken 200 trips or more and whose average rating is below 4.4 become subject to a
+graduated series of “quality interventions” aimed at assisting them to improve. If their ratings do not
+improve to an average of 4.4 or better, they are “removed from the platform” and their accounts
+“deactivated”.
+19.
+Uber also operates a “driver offence process” to address misconduct by drivers. This again involves a
+graduated series of measures, beginning with a “warning” message and potentially leading to
+“deactivation”.
+20.
+In addition, Uber London handles passenger complaints, including complaints about a driver, and
+decides whether to make any refund to the passenger (sometimes without even referring the matter
+to the driver concerned). Such a refund will generally result in a correspondingly reduced payment to
+the driver, though the tribunal found that on occasions, when Uber London considers it necessary or
+politic to make a refund but there is no proper ground for holding the driver to be at fault, Uber
+London will bear the cost of the refund itself.
+21.
+Uber will in some circumstances pay drivers the cost, or a contribution towards the cost, of cleaning
+vehicles soiled by passengers. The employment tribunal noted that it was not suggested that such
+payments were conditional upon Uber recovering this sum from the passenger.
+Written agreements between Uber BV and drivers
+22.
+Before using the Uber app as drivers for the first time, the claimants were required to sign a “partner
+registration form” stating that they agreed to be bound by and comply with terms and conditions
+described as “Partner Terms” dated 1 July 2013. In October 2015 a new “Services Agreement” was
+introduced to which drivers were required to signify their agreement electronically before they could
+again log into the Uber app and accept trip requests. The differences between the old and new terms
+are not material for present purposes and it is sufficient to refer to the new terms contained in the
+Services Agreement.
+
+23.
+The Services Agreement is formulated as a legal agreement between Uber BV and “an independent
+company in the business of providing transportation services”, referred to as “Customer”. It contains
+an undertaking by “Customer” to enter into a contract with each driver in the form of an
+accompanying “Driver Addendum”. This arrangement is inapposite for the vast majority of drivers
+who sign up as individuals and not on behalf of any “independent company” which in turn engages
+drivers.
+24.
+In the typical case where “Customer” is an individual driver, the nature of the relevant services and
+relationships as characterised by the Services Agreement is that Uber BV agrees to provide electronic
+services (referred to as the “Uber Services”) to the driver, which include access to the Uber app and
+payment services, and the driver agrees to provide transportation services to passengers (referred to
+as “Users”). The agreement states that Customer acknowledges and agrees that Uber BV does not
+provide transportation services and that, where Customer accepts a User’s request for transportation
+services made through the Uber app, Customer is responsible for providing those transportation
+services and, by doing so, “creates a legal and direct business relationship between Customer and the
+User, to which neither Uber [BV] nor any of its Affiliates in the Territory is a party” (see clause 2.3).
+25.
+Clause 4.1 of the Services Agreement states that:
+“… Customer: (i) appoints Uber [BV] as Customer’s limited payment collection agent solely for the
+purpose of accepting the Fare … on behalf of the Customer via the payment processing functionality
+facilitated by the Uber Services; and (ii) agrees that payment made by User to Uber [BV] shall be
+considered the same as payment made directly by User to Customer.”
+Clause 4.1 also states that the “Fare” is determined by Uber BV but describes it as charged by
+Customer and as “a recommended amount” which Customer may choose to reduce (but not increase)
+without the agreement of Uber BV. The clause further provides that Uber BV agrees to remit to
+Customer on at least a weekly basis the fare less a “service fee”, calculated as a percentage of the
+fare.
+26.
+Clause 4.2 gives Uber BV the right to change the fare calculation at any time in its discretion “based
+upon local market factors”; and clause 4.3 provides that Uber BV and/or its Affiliates reserve the right
+to adjust the fare for a particular instance of transportation services (eg where the driver took an
+inefficient route) or to cancel the fare (eg in response to a User complaint).
+Written agreements between Uber and passengers
+27.
+In addition to the written agreements between drivers and Uber BV, Uber also relies in these
+proceedings on written terms and conditions (the “Rider Terms”) which passengers are required to
+accept before they can use the Uber app. The version of the Rider Terms current at the time of the
+tribunal hearing was last updated on 16 June 2016. These Rider Terms state that they constitute an
+agreement between the rider, Uber BV and the local Uber company operating in the relevant part of
+the UK. As mentioned, in the case of London, the relevant company is Uber London.
+28.
+
+Clause 2 of Part 1 of the Rider Terms states that, as set out in clause 3, “Uber UK” (a term defined to
+include Uber London) accepts private hire vehicle bookings (“PHV Bookings”) made using the Uber
+app. Clause 3 states:
+“Uber UK accepts PHV Bookings acting as disclosed agent for the Transportation Provider (as
+principal). Such acceptance by Uber UK as agent for the Transportation Provider gives rise to a
+contract for the provision to you of transportation services between you and the Transportation
+Provider (the ‘Transportation Contract’). For the avoidance of doubt: Uber UK does not itself provide
+transportation services, and is not a Transportation Provider. Uber UK acts as intermediary between
+you and the Transportation Provider. You acknowledge and agree that the provision to you of
+transportation services by the Transportation Provider is pursuant to the Transportation Contract and
+that Uber UK accepts your booking as agent for the Transportation Provider, but is not a party to that
+contract.”
+29.
+Under Part 2 of the Rider Terms, riders are granted a licence by Uber BV to use the Uber app,
+described in clause 2 as “a technology platform that enables users ... to pre-book and schedule
+transportation, logistics, delivery, and/or vendor services with independent third party providers of
+such services, including independent third party transportation providers.”
+The licensing regime
+30.
+The operation of private hire vehicles in London is regulated by the Private Hire Vehicles (London) Act
+1998 and regulations made under it. Under that Act a vehicle may only be used for private hire if both
+vehicle and driver are licensed by the licensing authority, which is Transport for London. A licence is
+also required to accept bookings (referred to in the Act as “private hire bookings”) for the hire of a
+private hire vehicle to carry one or more passengers. Thus, section 2(1) provides:
+“No person shall in London make provision for the invitation or acceptance of, or accept, private hire
+bookings unless he is the holder of a private hire vehicle operator’s licence for London …”
+Pursuant to section 2(2), a person who makes provision for the invitation or acceptance of private hire
+bookings, or accepts such a booking, without such a licence is guilty of a criminal offence.
+31.
+At all relevant times Uber London has held a private hire vehicle (“PHV”) operator’s licence for
+London. Section 4(2) of the Act places an obligation on the holder of such a licence to secure that:
+“any vehicle which is provided by him for carrying out a private hire booking accepted by him in
+London is -
+(a) a vehicle for which a London PHV licence is in force driven by a person holding a London PHV
+driver’s licence; …”
+32.
+Pursuant to regulation 9(3) of the Private Hire Vehicles (London) (Operators’ Licences) Regulations
+2000, as originally formulated, it was a condition of the grant of a London PHV operator’s licence that:
+“The operator shall, if required to do so by a person making a private hire booking:
+(a) agree the fare for the journey booked, or
+
+(b) provide an estimate of that fare.”
+With effect from 27 June 2016, this regulation was amended to add a requirement that any estimate of
+the fare must be accurate, in accordance with criteria specified by the licensing authority.
+33.
+The obligations of the operator under the Act and regulations also include keeping records of all
+bookings accepted and of all private hire vehicles and drivers available to the operator for carrying
+out bookings accepted by him.
+Statutory rights of “workers”
+34.
+The rights claimed by the claimants in these proceedings are: rights under the National Minimum
+Wage Act 1998 and associated regulations to be paid at least the national minimum wage for work
+done; rights under the Working Time Regulations 1998 which include the right to receive paid annual
+leave; and in the case of two claimants, one of whom is Mr Aslam, a right under the Employment
+Rights Act 1996 not to suffer detrimental treatment on the grounds of having made a protected
+disclosure (“whistleblowing”).
+35.
+All these rights are conferred by the legislation on “workers”. The term “worker” is defined by section
+230(3) of the Employment Rights Act 1996 to mean:
+“an individual who has entered into or works under (or, where the employment has ceased, worked
+under) -
+(a) a contract of employment, or
+(b) any other contract, whether express or implied and (if it is express) whether oral or in writing,
+whereby the individual undertakes to do or perform personally any work or services for another party
+to the contract whose status is not by virtue of the contract that of a client or customer of any
+profession or business undertaking carried on by the individual;
+and any reference to a worker’s contract shall be construed accordingly.”
+36.
+A “contract of employment” is defined in section 230(2) of the Act to mean “a contract of service or
+apprenticeship, whether express or implied, and (if it is express) whether oral or in writing.” An
+“employee” means an individual who has entered into or works under a contract of employment: see
+section 230(1). However, the terms “employer” and “employed” are defined more broadly to refer to
+the person by whom an employee or worker is (or was) employed under a worker’s contract: see
+section 230(4) and (5).
+37.
+Similar definitions of all these terms are contained in section 54 of the National Minimum Wage Act
+1998 and regulation 2(1) of the Working Time Regulations 1998.
+38.
+The effect of these definitions, as Baroness Hale of Richmond observed in Bates van Winkelhof v Clyde
+& Co LLP[2014] UKSC 32; [2014] 1 WLR 2047, paras 25 and 31, is that employment law distinguishes
+between three types of people: those employed under a contract of employment; those self-employed
+
+people who are in business on their own account and undertake work for their clients or customers;
+and an intermediate class of workers who are self-employed but who provide their services as part of
+a profession or business undertaking carried on by someone else. Some statutory rights, such as the
+right not to be unfairly dismissed, are limited to those employed under a contract of employment; but
+other rights, including those claimed in these proceedings, apply to all “workers”.
+These proceedings
+39.
+Following a preliminary hearing, the employment tribunal decided that the claimants were “workers”
+who, although not employed under contracts of employment, worked for Uber London under
+“workers’ contracts” within the meaning of limb (b) of the statutory definition quoted at para 35
+above. The tribunal further found that, for the purposes of the relevant legislation, the claimants were
+working for Uber London during any period when a claimant (a) had the Uber app switched on, (b)
+was within the territory in which he was authorised to work, and (c) was able and willing to accept
+assignments.
+40.
+An appeal by Uber from this decision to the Employment Appeal Tribunal was dismissed, as was a
+further appeal to the Court of Appeal (Sir Terence Etherton MR and Bean LJ, with Underhill LJ
+dissenting). The Court of Appeal granted Uber permission to appeal to this court.
+The main issue
+41.
+Limb (b) of the statutory definition of a “worker’s contract” has three elements: (1) a contract
+whereby an individual undertakes to perform work or services for the other party; (2) an undertaking
+to do the work or perform the services personally; and (3) a requirement that the other party to the
+contract is not a client or customer of any profession or business undertaking carried on by the
+individual.
+42.
+This case is concerned with the first of these requirements. It is not in dispute that the claimant
+drivers worked under contracts whereby they undertook to perform driving services personally; and it
+is not suggested that any Uber company was a client or customer of the claimants. The critical issue is
+whether, for the purposes of the statutory definition, the claimants are to be regarded as working
+under contracts with Uber London whereby they undertook to perform services for Uber London; or
+whether, as Uber contends, they are to be regarded as performing services solely for and under
+contracts made with passengers through the agency of Uber London.
+Uber’s case
+43.
+It is Uber’s case that, in answering this question, the correct starting point is to interpret the terms of
+the written agreements between Uber BV and drivers and between the Uber companies and
+passengers. Uber relies on the terms of these written agreements quoted above which state that,
+when a request to book a private hire vehicle made through the Uber app is accepted, a contract is
+thereby created between passenger and driver, to which no Uber entity is a party and under which the
+driver is solely responsible for providing transportation services to the passenger. Uber also relies on
+terms of the written agreements which state that the only role of Uber BV is to provide technology
+
+services and to act as a payment collection agent for the driver and that the only role of Uber London
+(and other Uber UK companies) is to act as a booking agent for drivers.
+44.
+Uber maintains that the approach adopted by the employment tribunal, the Employment Appeal
+Tribunal and the majority of the Court of Appeal was wrong in law because it involved disregarding,
+without any legal justification, the clear and unambiguous terms of the written agreements.
+Uber London not authorised to act as a booking agent
+45.
+There is a difficulty which, in my view, would be fatal for Uber’s case even if the correct approach to
+deciding whether the claimants were working under workers’ contracts with Uber London were
+simply to apply ordinary principles of the law of contract and agency. This difficulty stems from the
+fact that there is no written agreement between Uber London and drivers. In these circumstances the
+nature of their relationship has to be inferred from the parties’ conduct, considered in its relevant
+factual and legal context.
+46.
+It is an important feature of the context in which, as the employment tribunal found, Uber London
+recruits and communicates on a day to day basis with drivers that, as mentioned earlier: (1) it is
+unlawful for anyone in London to accept a private hire booking unless that person is the holder of a
+private hire vehicle operator’s licence for London; and (2) the only natural or legal person involved in
+the acceptance of bookings and provision of private hire vehicles booked through the Uber app which
+holds such a licence is Uber London. It is reasonable to assume, at least unless the contrary is
+demonstrated, that the parties intended to comply with the law in the way they dealt with each other.
+47.
+Uber maintains that the acceptance of private hire bookings by a licensed London PHV operator
+acting as agent for drivers would comply with the regulatory regime. I am not convinced by this.
+References in the Private Hire Vehicles (London) Act 1998 to “acceptance” of a private hire booking
+are reasonably understood to connote acceptance (personally and not merely for someone else) of a
+contractual obligation to carry out the booking and provide a vehicle for that purpose. This is implicit,
+for example, in section 4(2) of the Act quoted at para 31 above. It would in principle be possible for
+Uber London both to accept such an obligation itself and also to contract on behalf of the driver of the
+vehicle. However, if this were the arrangement made, it would seem hard to avoid the conclusion that
+the driver, as well as Uber London, would be a person who accepts the booking by undertaking a
+contractual obligation owed directly to the passenger to carry it out. If so, the driver would be in
+contravention of section 2(1) of the Private Hire Vehicles (London) Act 1998 by accepting a private
+hire booking without holding a private hire vehicle operator’s licence for London. This suggests that
+the only contractual arrangement compatible with the licensing regime is one whereby Uber London
+as the licensed operator accepts private hire bookings as a principal (only) and, to fulfil its obligation
+to the passenger, enters into a contract with a transportation provider (be that an individual driver or
+a firm which in turn provides a driver) who agrees to carry out the booking for Uber London.
+48.
+Counsel for Uber sought to resist this interpretation of the legislation on the basis that the legislation
+was enacted in the context of “a long-established industry practice” under which PHV operators may
+merely act as agents for drivers who contract directly with passengers. Uber has adduced no
+evidence, however, of any such established practice which the Private Hire Vehicles (London) Act
+
+1998 may be taken to have been intended to preserve. I will consider later two cases involving
+minicab firms which were said by counsel for Uber to show that the courts have endorsed such an
+agency model. But it is sufficient to say now that in neither case was any consideration given to
+whether such an arrangement would comply with the licensing regime. The same is true of cases also
+relied on by Uber (along with a notice published by HMRC in 2002) which are concerned with how
+VAT applies to the supply of private hire vehicles. That material in my view has no bearing on the
+issues raised in these proceedings.
+49.
+It is unnecessary, however, to express any concluded view on whether an agency model of operation
+would be compatible with the PHV licensing regime because there appears to be no factual basis for
+Uber’s contention that Uber London acts as an agent for drivers when accepting private hire
+bookings.
+50.
+It is true that the Rider Terms on which Uber contracts with passengers include a term (in clause 3 of
+Part 1, quoted at para 28 above) which states that Uber London (or other local Uber company)
+accepts private hire bookings “acting as disclosed agent for the Transportation Provider (as
+principal)” and that such acceptance “gives rise to a contract for the provision to [the rider] of
+transportation services between [the rider] and the Transportation Provider”. It is, however, trite law
+that a person (A) cannot create a contract between another person (B) and a third party merely by
+claiming or purporting to do so but only if A is (actually or ostensibly) authorised by B to act as B’s
+agent.
+51.
+Authority may be conferred by a contract between principal and agent. It cannot be said, however,
+that the Rider Terms establish a contract between drivers and Uber London. There is no evidence that
+drivers were ever sent the Rider Terms let alone consented to them. In any case the Rider Terms state
+that they constitute an agreement between the rider, Uber BV and the relevant local Uber company:
+they do not purport to record an agreement to which any driver is a party. In accordance with basic
+principles of contract and agency law, therefore, nothing stated in the Rider Terms is capable of
+conferring authority on Uber London to act as agent for any driver (or other “Transportation
+Provider”) nor of giving rise to a contract between a rider and a driver for the provision to the rider of
+transportation services by the driver.
+52.
+The only written agreements to which drivers were parties were agreements with Uber BV, the Dutch
+parent company. No other Uber company was a party to those agreements. In any case, although
+clause 2.2 of the Services Agreement describes what is to happen if a driver accepts a trip request
+“either directly or through an Uber Affiliate in the Territory acting as agent”, there is no provision
+which purports to confer the driver’s authority on any Uber Affiliate to accept such requests on his
+behalf.
+53.
+An agency relationship need not be contractual. What is required is an overt act by the principal
+conferring authority on the agent to act on the principal’s behalf. Even if lacking such actual authority,
+a person (A) who purports to act as agent for another (B) may still affect B’s legal relations with a
+third party under the principle of ostensible or apparent authority, but only if B has represented to the
+
+third party that A is authorised to act as B’s agent and the third party has relied on that
+representation.
+54.
+The employment tribunal made no finding that drivers did any overt act that conferred authority on
+Uber London to act as the driver’s agent in accepting bookings so as to create a contract between the
+driver and the passenger, nor that drivers did or said anything that represented to passengers that
+Uber London was authorised to act as their agent. Uber’s case that Uber London acted as a booking
+agent for drivers has been based solely on the written agreements referred to at paras 22-28 above -
+which, for the reasons given, do not support it. When pressed during oral argument on how the
+alleged agency relationship between drivers and Uber London was created, leading counsel for Uber,
+Ms Dinah Rose QC, suggested that it was created when a driver attended Uber London’s offices in
+person and presented the documents required in order to be authorised to use the Uber app. So far as
+I am aware, this was the first time that such a suggestion had been made in these proceedings. Not
+only is it unsupported by any finding of the employment tribunal but, so far as this court has been
+shown, there was no evidence capable of founding such an inference.
+55.
+In order to found such an inference, it would be necessary to point, at the least, to a prior
+communication from Uber London to the individual concerned or other background facts known to
+both parties which would lead reasonable people in their position to understand that, by producing
+the documents required by Uber London, an individual who did so was thereby authorising Uber
+London to contract with passengers as his agent, rather than - as seems to me the natural inference -
+merely applying for a job as one of Uber’s drivers. There is no finding of the employment tribunal that
+any such communication was made nor that anything occurred during the “onboarding” process
+which could, even arguably, be construed as an act by the prospective driver appointing Uber London
+to act as his booking agent.
+56.
+Once the assertion that Uber London contracts as a booking agent for drivers is rejected, the
+inevitable conclusion is that, by accepting a booking, Uber London contracts as principal with the
+passenger to carry out the booking. In these circumstances Uber London would have no means of
+performing its contractual obligations to passengers, nor of securing compliance with its regulatory
+obligations as a licensed operator, without either employees or subcontractors to perform driving
+services for it. Considered against that background, it is difficult to see how Uber’s business could
+operate without Uber London entering into contracts with drivers (even if only on a per trip basis)
+under which drivers undertake to provide services to carry out the private hire bookings accepted by
+Uber London.
+57.
+Given the importance of the wider issue, however, I do not think it would be right to decide this
+appeal on this basis alone and without addressing Uber’s argument that the question whether an
+individual is a “worker” for the purpose of the relevant legislation ought in principle to be
+approached, as the starting point, by interpreting the terms of any applicable written agreements.
+The Autoclenz case
+58.
+In advancing this argument, Uber has to confront the decision of this court in Autoclenz Ltd v
+Belcher[2011] UKSC 41; [2011] ICR 1157.
+
+59.
+In the Autoclenz case the claimants worked as “valeters” performing car cleaning services which the
+company (Autoclenz) had contracted to provide to third parties. In order to obtain the work, the
+claimants were required to sign written contracts which stated that they were subcontractors and not
+employees of Autoclenz; that they were not obliged to provide services to the company, nor was the
+company obliged to offer work to them; and that they could provide suitably qualified substitutes to
+carry out the work on their behalf. As in the present case, the claimants brought proceedings claiming
+that they were “workers” for the purposes of the legislation conferring the rights to be paid the
+national minimum wage and to receive statutory paid leave. The employment tribunal held that the
+claimants came within both limbs of the definition of a “worker” and appeals by Autoclenz were
+dismissed at every level including the Supreme Court.
+60.
+In the Supreme Court the sole judgment was given by Lord Clarke of Stone-cum-Ebony, with whom
+the other Justices agreed. In his discussion of the legal principles, Lord Clarke drew a distinction
+between certain principles “which apply to ordinary contracts and, in particular, to commercial
+contracts”, and “a body of case law in the context of employment contracts in which a different
+approach has been taken” (see para 21). It can be seen from a passage quoted by Lord Clarke (at para
+20) from the judgment of Aikens LJ in the Court of Appeal [2010] IRLR 70, paras 87-89, that the
+principles applicable to ordinary contracts to which he was here referring were: (i) the “parol
+evidence rule”, whereby a contractual document is treated, at least presumptively, as containing the
+whole of the parties’ agreement; (ii) the signature rule, whereby a person who signs a contractual
+document is treated in law as bound by its terms irrespective of whether he or she has in fact read or
+understood them; and (iii) the principle that, generally, the only way in which a party to a written
+contract can argue that its terms do not accurately reflect the true agreement of the parties is by
+alleging that a mistake was made in drawing up the contract which the court can correct by ordering
+rectification.
+61.
+Whilst stating that nothing in his judgment was intended to alter these principles as they apply to
+ordinary contracts, Lord Clarke endorsed the view of Aikens LJ that, in the employment context,
+rectification principles are not in point and there may be reasons other than a mistake in setting out
+the contract terms why the written terms do not accurately reflect what the parties actually agreed.
+62.
+Beginning at para 22 of the judgment, Lord Clarke considered three cases in which “the courts have
+held that the employment tribunal should adopt a test that focuses on the reality of the situation
+where written documentation may not reflect the reality of the relationship”. From these cases he
+drew the conclusion (at para 28) that, in the employment context, it is too narrow an approach to say
+that a court or tribunal may only disregard a written term as not part of the true agreement between
+the parties if the term is shown to be a “sham”, in the sense that the parties had a common intention
+that the term should not create the legal rights and obligations which it gives the appearance of
+creating: see Snook v London and West Riding Investments Ltd[1967] 2 QB 786, 802 (Diplock LJ).
+Rather, the court or tribunal should consider what was actually agreed between the parties, “either as
+set out in the written terms or, if it is alleged those terms are not accurate, what is proved to be their
+actual agreement at the time the contract was concluded”: see para 32, again agreeing with
+observations of Aikens LJ in the Court of Appeal.
+63.
+
+After quoting (at para 34) a further statement of Aikens LJ contrasting the circumstances in which
+contracts relating to work or services are often concluded with “those in which commercial contracts
+between parties of equal bargaining power are agreed,” Lord Clarke ended his discussion of the law
+(at para 35) by saying:
+“So the relative bargaining power of the parties must be taken into account in deciding whether the
+terms of any written agreement in truth represent what was agreed and the true agreement will often
+have to be gleaned from all the circumstances of the case, of which the written agreement is only a
+part. This may be described as a purposive approach to the problem. If so, I am content with that
+description.”
+64.
+Applying that approach to the facts of the Autoclenz case, Lord Clarke concluded that, on the basis of
+findings of fact not capable of challenge on appeal, the employment tribunal was entitled to hold that
+the contractual documents did not reflect the true agreement between the parties - in particular
+insofar as the documents stated that Autoclenz was under no obligation to offer work to the claimants,
+nor they to accept it, and that the claimants had a right to provide a substitute. The tribunal was
+entitled to find that the actual understanding of the parties was that the claimants would be available
+to work, and would be offered work, whenever there was work available, and that they were required
+to perform the work personally. It followed that the employment tribunal was entitled to hold that the
+claimants were “workers” working under contracts of employment.
+Uber’s interpretation of the Autoclenz case
+65.
+Uber submits that what the Autoclenz case decided is that, for the purposes of applying a statutory
+classification, a court or tribunal may disregard terms of a written agreement if it is shown that the
+terms in question do not represent the “true agreement” or what was “actually agreed” between the
+parties, as ascertained by considering all the circumstances of the case including how the parties
+conducted themselves in practice. If, however, there is no inconsistency between the terms of the
+written agreement and how the relationship operated in reality, there is no basis for departing from
+the written agreement.
+66.
+Uber further submits that there is no inconsistency in the present case between the written
+agreements between Uber, drivers and passengers and how that tripartite relationship actually
+operated in practice. In particular, Uber argues that the facts found by the employment tribunal (or
+alternatively, which the tribunal should have found) are consistent with the written terms stipulating
+that the drivers were performing their services under contracts made with passengers through the
+agency of Uber London and not for or under any contract with any Uber company. Uber submits that
+there is in these circumstances no legal basis for finding that the terms of the written agreements did
+not reflect the true agreements between the parties and hence for departing from the classification of
+the parties’ relationships set out in the contractual documentation.
+67.
+This argument was accepted by Underhill LJ in his dissenting judgment in the Court of Appeal. In his
+view (stated at para 120):
+“It is an essential element in that ratio [ie of the Autoclenz case] that the terms of the written
+agreement should be inconsistent with the true agreement as established by the tribunal from all the
+
+circumstances. There is nothing in the reasoning of the Supreme Court that gives a tribunal a free
+hand to disregard written contractual terms which are consistent with how the parties worked in
+practice but which it regards as unfairly disadvantageous (whether because they create a relationship
+that does not attract employment protection or otherwise) and which might not have been agreed if
+the parties had been in an equal bargaining position.”
+Interpreting the statutory provisions
+68.
+The judgment of this court in the Autoclenz case made it clear that whether a contract is a “worker’s
+contract” within the meaning of the legislation designed to protect employees and other “workers” is
+not to be determined by applying ordinary principles of contract law such as the parol evidence rule,
+the signature rule and the principles that govern the rectification of contractual documents on
+grounds of mistake. Not only was this expressly stated by Lord Clarke but, had ordinary principles of
+contract law been applied, there would have been no warrant in the Autoclenz case for disregarding
+terms of the written documents which were inconsistent with an employment relationship, as the
+court held that the employment tribunal had been entitled to do. What was not, however, fully spelt
+out in the judgment was the theoretical justification for this approach. It was emphasised that in an
+employment context the parties are frequently of very unequal bargaining power. But the same may
+also be true in other contexts and inequality of bargaining power is not generally treated as a reason
+for disapplying or disregarding ordinary principles of contract law, except in so far as Parliament has
+made the relative bargaining power of the parties a relevant factor under legislation such as the
+Unfair Contract Terms Act 1977.
+69.
+Critical to understanding the Autoclenz case, as I see it, is that the rights asserted by the claimants
+were not contractual rights but were created by legislation. Thus, the task for the tribunals and the
+courts was not, unless the legislation required it, to identify whether, under the terms of their
+contracts, Autoclenz had agreed that the claimants should be paid at least the national minimum wage
+or receive paid annual leave. It was to determine whether the claimants fell within the definition of a
+“worker” in the relevant statutory provisions so as to qualify for these rights irrespective of what had
+been contractually agreed. In short, the primary question was one of statutory interpretation, not
+contractual interpretation.
+70.
+The modern approach to statutory interpretation is to have regard to the purpose of a particular
+provision and to interpret its language, so far as possible, in the way which best gives effect to that
+purpose. In UBS AG v Revenue and Customs Comrs[2016] UKSC 13; [2016] 1 WLR 1005, paras 61-68,
+Lord Reed (with whom the other Justices of the Supreme Court agreed) explained how this approach
+requires the facts to be analysed in the light of the statutory provision being applied so that if, for
+example, a fact is of no relevance to the application of the statute construed in the light of its purpose,
+it can be disregarded. Lord Reed cited the pithy statement of Ribeiro PJ in Collector of Stamp
+Revenue v Arrowtown Assets Ltd(2003) 6 ITLR 454, para 35:
+“The ultimate question is whether the relevant statutory provisions, construed purposively, were
+intended to apply to the transaction, viewed realistically.”
+The purpose of protecting workers
+71.
+
+The general purpose of the employment legislation invoked by the claimants in the Autoclenz case,
+and by the claimants in the present case, is not in doubt. It is to protect vulnerable workers from
+being paid too little for the work they do, required to work excessive hours or subjected to other
+forms of unfair treatment (such as being victimised for whistleblowing). The paradigm case of a
+worker whom the legislation is designed to protect is an employee, defined as an individual who works
+under a contract of employment. In addition, however, the statutory definition of a “worker” includes
+in limb (b) a further category of individuals who are not employees. The purpose of including such
+individuals within the scope of the legislation was clearly elucidated by Mr Recorder Underhill QC
+giving the judgment of the Employment Appeal Tribunal in Byrne Bros (Formwork) Ltd v Baird[2002]
+ICR 667, para 17(4):
+“[T]he policy behind the inclusion of limb (b) … can only have been to extend the benefits of
+protection to workers who are in the same need of that type of protection as employees stricto sensu -
+workers, that is, who are viewed as liable, whatever their formal employment status, to be required to
+work excessive hours (or, in the cases of Part II of the Employment Rights Act 1996 or the National
+Minimum Wage Act 1998, to suffer unlawful deductions from their earnings or to be paid too little).
+The reason why employees are thought to need such protection is that they are in a subordinate and
+dependent position vis-à-vis their employers: the purpose of the Regulations is to extend protection to
+workers who are, substantively and economically, in the same position. Thus the essence of the
+intended distinction must be between, on the one hand, workers whose degree of dependence is
+essentially the same as that of employees and, on the other, contractors who have a sufficiently arm’s-
+length and independent position to be treated as being able to look after themselves in the relevant
+respects.”
+72.
+The Regulations referred to in this passage are the Working Time Regulations 1998 which
+implemented Directive 93/104/EC (“the Working Time Directive”); and a similar explanation of the
+concept of a worker has been given in EU law. Although there is no single definition of the term
+“worker”, which appears in a number of different contexts in the Treaties and EU legislation, there
+has been a degree of convergence in the approach adopted. In Allonby v Accrington and Rossendale
+College (Case C-256/01) [2004] ICR 1328; [2004] ECR I-873 the European Court of Justice held, at
+para 67, that in the Treaty provision which guarantees male and female workers equal pay for equal
+work (at that time, article 141 of the EC Treaty):
+“… there must be considered as a worker a person who, for a certain period of time, performs services
+for and under the direction of another person in return for which he receives remuneration …”
+The court added (at para 68) that the authors of the Treaty clearly did not intend that the term
+“worker” should include “independent providers of services who are not in a relationship of
+subordination with the person who receives the services”. In the EU case law which is specifically
+concerned with the meaning of the term “worker” in the Working Time Directive, the essential feature
+of the relationship between employer and worker is identified in the same terms as in para 67 of the
+Allonby judgment: Union Syndicale Solidaires Isere v Premier Ministre (Case C-428/09) EU:C:
+2010:612; [2010] ECR I-9961, para 28; Fenoll v Centre d’Aide par le Travail “La Jouvene” (Case
+C-316/13) EU:C:2015:2000; [2016] IRLR 67, para 29; and Syndicatul Familia Constanta v Directia
+Generala de Asistenta Sociala siProtectia Copilului Constanta (Case C-147/17) EU:C:2018:926; [2019]
+ICR 211, para 41. As stated by the Court of Justice of the European Union (CJEU) in the latter case,
+“[i]t follows that an employment relationship [ie between employer and worker] implies the existence
+of a hierarchical relationship between the worker and his employer” (para 42).
+
+73.
+In Hashwani v Jivraj[2011] UKSC 40; [2011] 1 WLR 1872 the Supreme Court followed this approach
+in holding that an arbitrator was not a person employed under “a contract personally to do any work”
+for the purpose of legislation prohibiting discrimination on the grounds of religion or belief. Lord
+Clarke, with whom the other members of the court agreed, identified (at para 34) the essential
+questions underlying the distinction between workers and independent contractors outside the scope
+of the legislation as being:
+“whether, on the one hand, the person concerned performs services for and under the direction of
+another person in return for which he or she receives remuneration or, on the other hand, he or she is
+an independent provider of services who is not in a relationship of subordination with the person who
+receives the services.”
+74.
+In the Bates van Winkelhof case at para 39, Baroness Hale cautioned that, while “subordination may
+sometimes be an aid to distinguishing workers from other self-employed people, it is not a
+freestanding and universal characteristic of being a worker.” In that case the Supreme Court held that
+a solicitor who was a member of a limited liability partnership was a worker essentially for the
+reasons that she could not market her services as a solicitor to anyone other than the LLP and was an
+integral part of their business. While not necessarily connoting subordination, integration into the
+business of the person to whom personal services are provided and the inability to market those
+services to anyone else give rise to dependency on a particular relationship which may also render an
+individual vulnerable to exploitation.
+75.
+The correlative of the subordination and/or dependency of employees and workers in a similar
+position to employees is control exercised by the employer over their working conditions and
+remuneration. As the Supreme Court of Canada observed in McCormick v Fasken Martineau
+DuMoulin LLP2014 SCC 39; [2014] 2 SCR 108, para 23:
+“Deciding who is in an employment relationship … means, in essence, examining how two synergetic
+aspects function in an employment relationship: control exercised by an employer over working
+conditions and remuneration, and corresponding dependency on the part of a worker. … The more the
+work life of individuals is controlled, the greater their dependency and, consequently, their economic,
+social and psychological vulnerability in the workplace …”
+See also the illuminating discussion in G Davidov, “A Purposive Approach to Labour Law” (2016),
+Chapters 3 and 6. It is these features of work relations which give rise to a situation in which such
+relations cannot safely be left to contractual regulation and are considered to require statutory
+regulation. This point applies in relation to all the legislative regimes relied on in the present case and
+no distinction is to be drawn between the interpretation of the relevant provision as it appears in the
+Working Time Regulations 1998 (which implement the Working Time Directive), the National
+Minimum Wage Act 1998 and the Employment Rights Act 1996.
+76.
+Once this is recognised, it can immediately be seen that it would be inconsistent with the purpose of
+this legislation to treat the terms of a written contract as the starting point in determining whether an
+individual falls within the definition of a “worker”. To do so would reinstate the mischief which the
+legislation was enacted to prevent. It is the very fact that an employer is often in a position to dictate
+such contract terms and that the individual performing the work has little or no ability to influence
+
+those terms that gives rise to the need for statutory protection in the first place. The efficacy of such
+protection would be seriously undermined if the putative employer could by the way in which the
+relationship is characterised in the written contract determine, even prima facie, whether or not the
+other party is to be classified as a worker. Laws such as the National Minimum Wage Act were
+manifestly enacted to protect those whom Parliament considers to be in need of protection and not
+just those who are designated by their employer as qualifying for it.
+77.
+This point can be illustrated by the facts of the present case. The Services Agreement (like the Partner
+Terms before it) was drafted by Uber’s lawyers and presented to drivers as containing terms which
+they had to accept in order to use, or continue to use, the Uber app. It is unlikely that many drivers
+ever read these terms or, even if they did, understood their intended legal significance. In any case
+there was no practical possibility of negotiating any different terms. In these circumstances to treat
+the way in which the relationships between Uber, drivers and passengers are characterised by the
+terms of the Services Agreement as the starting point in classifying the parties’ relationship, and as
+conclusive if the facts are consistent with more than one possible legal classification, would in effect
+be to accord Uber power to determine for itself whether or not the legislation designed to protect
+workers will apply to its drivers.
+78.
+This is, as I see it, the relevance of the emphasis placed in the Autoclenz case (at para 35) on the
+relative bargaining power of the parties in the employment context and the reason why Lord Clarke
+described the approach endorsed in that case of looking beyond the terms of any written agreement
+to the parties’ “true agreement” as “a purposive approach to the problem”.
+Restrictions on contracting out
+79.
+Such an approach is further justified by the fact that all the relevant statutes or statutory regulations
+conferring rights on workers contain prohibitions against contracting out. Thus, section 203(1) of the
+Employment Rights Act 1996 provides:
+“Any provision in an agreement (whether a contract of employment or not) is void in so far as it
+purports -
+(a) to exclude or limit the operation of any provision of this Act, or
+(b) to preclude a person from bringing any proceedings under this Act before an employment
+tribunal.”
+Section 49(1) of the National Minimum Wage Act 1998 and regulation 35(1) of the Working Time
+Regulations 1998 are in similar terms.
+80.
+These provisions, as I read them, apply to any provision in an agreement which can be seen, on an
+objective consideration of the facts, to have as its object excluding or limiting the operation of the
+legislation. It is just as inimical to the aims of the legislation to allow its protection to be limited or
+excluded indirectly by the terms of a contract as it is to allow that to be done in direct terms.
+81.
+
+Take, for example, the following provisions contained, respectively, in clauses 2.3 and 2.4 of the
+Services Agreement:
+“Customer acknowledges and agrees that Customer’s provision of Transportation Services to Users
+creates a legal and direct business relationship between Customer and the User, to which neither
+Uber [BV] nor any of its Affiliates in the Territory is a party. …”
+“… Uber and its Affiliates in the Territory do not, and shall not be deemed to, direct or control
+Customer or its Drivers generally or in their performance under this Agreement specifically, including
+in connection with the operation of Customer’s business, the provision of Transportation Services, the
+acts or omissions of Drivers, or the operation and maintenance of any Vehicles.”
+It is arguable that these provisions are in any case ineffective, as it is for the courts and not the
+parties (still less someone who is not a party) to determine the legal effect of a contract and whether
+it falls within one legal category or another: see eg Street v Mountford[1985] AC 809, 819.
+82.
+If or in so far, however, as these contractual provisions purport to agree matters of fact rather than
+law, then (leaving aside the fact that the relevant “Affiliates” including Uber London were not parties
+to the agreement) Uber would no doubt seek to rely on case law which has recognised a principle of
+“contractual estoppel” - whereby parties can bind themselves by contract to accept a particular state
+of affairs even if they know that state of affairs to be untrue: see eg First Tower Trustees Ltd v CDS
+(Superstores International) Ltd[2018] EWCA Civ 1396; [2019] 1 WLR 637, para 47. This would
+preclude a driver from asserting in any legal proceedings that he is performing transportation
+services for or under a contract with any Uber company or that he is directed or controlled in
+connection with the provision of transportation services by any Uber company. The result - which was
+patently the drafter’s intention - would be to prevent a driver from claiming that he falls within the
+statutory definition of a “worker” so as to qualify for the rights conferred on workers by statutory
+provisions such as those contained in the National Minimum Wage Act 1998. As such, these provisions
+in the agreement are just as much provisions which purport to exclude or limit the operation of the
+legislation as would be a term stating that “Customer acknowledges and agrees that Customer is not
+and shall not be deemed to be a ‘worker’ for the purposes of the National Minimum Wage Act 1998”
+or a term stating that “Customer acknowledges and agrees that, notwithstanding the provisions of the
+National Minimum Wage Act 1998, Customer shall not be entitled to be paid the national minimum
+wage.” In each case the object of the provision is the same. Consequently, in determining whether
+drivers are entitled under the provisions of the 1998 Act to be paid the national minimum wage,
+section 49(1) of the Act renders the clauses quoted above void. The same applies to all other
+provisions in the Services Agreement which can be seen to have as their object precluding a driver
+from claiming rights conferred on workers by the applicable legislation.
+Applying the definition of a “worker”
+83.
+If, as I conclude, the way in which the relevant relationships are characterised in the written
+agreements is not the appropriate starting point in applying the statutory definition of a “worker”,
+how is the definition to be applied?
+84.
+In the Autoclenz case it was said (at para 35) that “the true agreement will often have to be gleaned
+from all the circumstances of the case, of which the written agreement is only a part.” More
+
+assistance is provided by the decision of the House of Lords in Carmichael v National Power plc[1999]
+1 WLR 2042. That case concerned tour guides engaged to act “on a casual as required basis”. The
+guides later claimed to be employees and therefore entitled by statute to a written statement of their
+terms of employment. Their case was that an exchange of correspondence between the parties in
+March 1989 constituted a contract, which was to be classified as a contract of employment. The
+industrial tribunal rejected this case and found that, when not working as guides, the claimants were
+not in any contractual relationship with the respondent. The tribunal made this finding on the basis of:
+(a) the language of the correspondence; (b) the way in which the relationship had operated; and (c)
+evidence of the parties as to their understanding of it. The House of Lords held that this was the
+correct approach. Lord Irvine of Lairg LC said at p 2047C that:
+“... it would only be appropriate to determine the issue in these cases solely by reference to the
+documents in March 1989, if it appeared from their own terms and/or from what the parties said or
+did then, or subsequently, that they intended them to constitute an exclusive memorial of their
+relationship. The industrial tribunal must be taken to have decided that they were not so intended but
+constituted one, albeit important, relevant source of material from which they were entitled to infer
+the parties’ true intention …”
+85.
+In the Carmichael case there was no formal written agreement. The Autoclenz case shows that, in
+determining whether an individual is an employee or other worker for the purpose of the legislation,
+the approach endorsed in the Carmichael case is appropriate even where there is a formal written
+agreement (and even if the agreement contains a clause stating that the document is intended to
+record the entire agreement of the parties). This does not mean that the terms of any written
+agreement should be ignored. The conduct of the parties and other evidence may show that the
+written terms were in fact understood and agreed to be a record, possibly an exclusive record, of the
+parties’ rights and obligations towards each other. But there is no legal presumption that a
+contractual document contains the whole of the parties’ agreement and no absolute rule that terms
+set out in a contractual document represent the parties’ true agreement just because an individual
+has signed it. Furthermore, as discussed, any terms which purport to classify the parties’ legal
+relationship or to exclude or limit statutory protections by preventing the contract from being
+interpreted as a contract of employment or other worker’s contract are of no effect and must be
+disregarded.
+86.
+This last point provides one rationale for the conclusion reached in the Autoclenz case itself. The
+findings of the employment tribunal justified the inference that the terms of the written agreements
+which stated that the claimants were subcontractors and not employees of Autoclenz, that they were
+not obliged to provide services to the company, nor was the company obliged to offer work to them,
+and that they could provide suitably qualified substitutes to carry out the work on their behalf, had all
+been inserted with the object of excluding the operation of employment legislation including the
+National Minimum Wage Act 1998 and the Working Time Regulations 1998. Those provisions in the
+agreements were therefore void.
+87.
+In determining whether an individual is a “worker”, there can, as Baroness Hale said in the Bates van
+Winkelhof case at para 39, “be no substitute for applying the words of the statute to the facts of the
+individual case.” At the same time, in applying the statutory language, it is necessary both to view the
+facts realistically and to keep in mind the purpose of the legislation. As noted earlier, the
+
+vulnerabilities of workers which create the need for statutory protection are subordination to and
+dependence upon another person in relation to the work done. As also discussed, a touchstone of such
+subordination and dependence is (as has long been recognised in employment law) the degree of
+control exercised by the putative employer over the work or services performed by the individual
+concerned. The greater the extent of such control, the stronger the case for classifying the individual
+as a “worker” who is employed under a “worker’s contract”.
+88.
+This approach is also consistent with the case law of the CJEU which, as noted at para 72 above,
+treats the essential feature of a contract between an employer and a worker as the existence of a
+hierarchical relationship. In a recent judgment the Grand Chamber of the CJEU has emphasised that,
+in determining whether such a relationship exists, it is necessary to take account of the objective
+situation of the individual concerned and all the circumstances of his or her work. The wording of the
+contractual documents, while relevant, is not conclusive. It is also necessary to have regard to how
+relevant obligations are performed in practice: see AFMB Ltd v Raad van bestuur van de Sociale
+verzekeringsbank (Case C-610/18) EU:C:2020:565; [2020] ICR 1432, paras 60-61.
+89.
+Section 28(1) of the National Minimum Wage Act establishes a presumption that an individual
+qualifies for the national minimum wage unless the contrary is established. This is not a case,
+however, which turns on the burden of proof.
+Status of the claimants in this case
+90.
+The claimant drivers in the present case had in some respects a substantial measure of autonomy and
+independence. In particular, they were free to choose when, how much and where (within the territory
+covered by their private hire vehicle licence) to work. In these circumstances it is not suggested on
+their behalf that they performed their services under what is sometimes called an “umbrella” or
+“overarching” contract with Uber London - in other words, a contract whereby they undertook a
+continuing obligation to work. The contractual arrangements between drivers and Uber London did
+subsist over an extended period of time. But they did not bind drivers during periods when drivers
+were not working: rather, they established the terms on which drivers would work for Uber London on
+each occasion when they chose to log on to the Uber app.
+91.
+Equally, it is well established and not disputed by Uber that the fact that an individual is entirely free
+to work or not, and owes no contractual obligation to the person for whom the work is performed
+when not working, does not preclude a finding that the individual is a worker, or indeed an employee,
+at the times when he or she is working: see eg McMeechan v Secretary of State for Employment
+[1997] ICR 549; Cornwall County Council v Prater[2006] EWCA Civ 102; [2006] ICR 731. As Elias J
+(President) said in James v Redcats (Brands) Ltd[2007] ICR 1006, para 84:
+“Many casual or seasonal workers, such as waiters or fruit pickers or casual building labourers, will
+periodically work for the same employer but often neither party has any obligations to the other in the
+gaps or intervals between engagements. There is no reason in logic or justice why the lack of worker
+status in the gaps should have any bearing on the status when working. There may be no overarching
+or umbrella contract, and therefore no employment status in the gaps, but that does not preclude
+such a status during the period of work.”
+
+I agree, subject only to the qualification that, where an individual only works intermittently or on a
+casual basis for another person, that may, depending on the facts, tend to indicate a degree of
+independence, or lack of subordination, in the relationship while at work which is incompatible with
+worker status: see Windle v Secretary of State for Justice[2016] EWCA Civ 459; [2016] ICR 721, para
+23.
+92.
+In many cases it is not in dispute that the claimant is doing work or performing services personally for
+another person but there is an issue as to whether that person is to be classified as the claimant’s
+employer or as a client or customer of the claimant. The situation in the present case is different in
+that there are three parties involved: Uber, drivers and passengers. But the focus must still be on the
+nature of the relationship between drivers and Uber. The principal relevance of the involvement of
+third parties (ie passengers) is the need to consider the relative degree of control exercised by Uber
+and drivers respectively over the service provided to them. A particularly important consideration is
+who determines the price charged to the passenger. More generally, it is necessary to consider who is
+responsible for defining and delivering the service provided to passengers. A further and related
+factor is the extent to which the arrangements with passengers afford drivers the potential to market
+their own services and develop their own independent business.
+93.
+In all these respects, the findings of the employment tribunal justified its conclusion that, although
+free to choose when and where they worked, at times when they are working drivers work for and
+under contracts with Uber (and, specifically, Uber London). Five aspects of the tribunal’s findings are
+worth emphasising.
+94.
+First and of major importance, the remuneration paid to drivers for the work they do is fixed by Uber
+and the drivers have no say in it (other than by choosing when and how much to work). Unlike taxi
+fares, fares for private hire vehicles in London are not set by the regulator. However, for rides booked
+through the Uber app, it is Uber that sets the fares and drivers are not permitted to charge more than
+the fare calculated by the Uber app. The notional freedom to charge a passenger less than the fare set
+by Uber is of no possible benefit to drivers, as any discount offered would come entirely out of the
+driver’s pocket and the delivery of the service is organised so as to prevent a driver from establishing
+a relationship with a passenger that might generate future custom for the driver personally (see the
+fifth point, discussed below). Uber also fixes the amount of its own “service fee” which it deducts from
+the fares paid to drivers. Uber’s control over remuneration further extends to the right to decide in its
+sole discretion whether to make a full or partial refund of the fare to a passenger in response to a
+complaint by the passenger about the service provided by the driver (see para 20 above).
+95.
+Second, the contractual terms on which drivers perform their services are dictated by Uber. Not only
+are drivers required to accept Uber’s standard form of written agreement but the terms on which they
+transport passengers are also imposed by Uber and drivers have no say in them.
+96.
+Third, although drivers have the freedom to choose when and where (within the area covered by their
+PHV licence) to work, once a driver has logged onto the Uber app, a driver’s choice about whether to
+accept requests for rides is constrained by Uber. Unlike taxi drivers, PHV operators and drivers are
+not under any regulatory obligation to accept such requests. Uber itself retains an absolute discretion
+
+to accept or decline any request for a ride. Where a ride is offered to a driver through the Uber app,
+however, Uber exercises control over the acceptance of the request by the driver in two ways. One is
+by controlling the information provided to the driver. The fact that the driver, when informed of a
+request, is told the passenger’s average rating (from previous trips) allows the driver to avoid low-
+rated passengers who may be problematic. Notably, however, the driver is not informed of the
+passenger’s destination until the passenger is picked up and therefore has no opportunity to decline a
+booking on the basis that the driver does not wish to travel to that particular destination.
+97.
+The second form of control is exercised by monitoring the driver’s rate of acceptance (and
+cancellation) of trip requests. As described in para 18 above, a driver whose percentage rate of
+acceptances falls below a level set by Uber London (or whose cancellation rate exceeds a set level)
+receives an escalating series of warning messages which, if performance does not improve, leads to
+the driver being automatically logged off the Uber app and shut out from logging back on for ten
+minutes. This measure was described by Uber in an internal document quoted by the employment
+tribunal as a “penalty”, no doubt because it has a similar economic effect to docking pay from an
+employee by preventing the driver from earning during the period while he is logged out of the app.
+Uber argues that this practice is justified because refusals or cancellations of trip requests cause
+delay to passengers in finding a driver and lead to customer dissatisfaction. I do not doubt this. The
+question, however, is not whether the system of control operated by Uber is in its commercial
+interests, but whether it places drivers in a position of subordination to Uber. It plainly does.
+98.
+Fourth, Uber exercises a significant degree of control over the way in which drivers deliver their
+services. The fact that drivers provide their own car means that they have more control than would
+most employees over the physical equipment used to perform their work. Nevertheless, Uber vets the
+types of car that may be used. Moreover, the technology which is integral to the service is wholly
+owned and controlled by Uber and is used as a means of exercising control over drivers. Thus, when a
+ride is accepted, the Uber app directs the driver to the pick-up location and from there to the
+passenger’s destination. Although, as mentioned, it is not compulsory for a driver to follow the route
+indicated by the Uber app, customers may complain if a different route is chosen and the driver bears
+the financial risk of any deviation from the route indicated by the app which the passenger has not
+approved (see para 8 above).
+99.
+I have already mentioned the control exercised by monitoring a driver’s acceptance and cancellation
+rates for trips and excluding the driver temporarily from access to the Uber app if he fails to maintain
+the required rates of acceptance and non-cancellation. A further potent method of control is the use of
+the ratings system whereby passengers are asked to rate the driver after each trip and the failure of a
+driver to maintain a specified average rating will result in warnings and ultimately in termination of
+the driver’s relationship with Uber (see paras 13 and 18 above). It is of course commonplace for
+digital platforms to invite customers to rate products or services. Typically, however, such ratings are
+merely made available as information which may assist customers in choosing which product or
+service to buy. Under such a system the incentive for the supplier of the product or service to gain
+high ratings is simply the ordinary commercial incentive of satisfying customers in the hope of
+attracting future business. The way in which Uber makes use of customer ratings is materially
+different. The ratings are not disclosed to passengers to inform their choice of driver: passengers are
+not offered a choice of driver with, for example, a higher price charged for the services of a driver
+
+who is more highly rated. Rather, the ratings are used by Uber purely as an internal tool for managing
+performance and as a basis for making termination decisions where customer feedback shows that
+drivers are not meeting the performance levels set by Uber. This is a classic form of subordination
+that is characteristic of employment relationships.
+100.
+A fifth significant factor is that Uber restricts communication between passenger and driver to the
+minimum necessary to perform the particular trip and takes active steps to prevent drivers from
+establishing any relationship with a passenger capable of extending beyond an individual ride. As
+mentioned, when booking a ride, a passenger is not offered a choice among different drivers and their
+request is simply directed to the nearest driver available. Once a request is accepted, communication
+between driver and passenger is restricted to information relating to the ride and is channelled
+through the Uber app in a way that prevents either from learning the other’s contact details.
+Likewise, collection of fares, payment of drivers and handling of complaints are all managed by Uber
+in a way that is designed to avoid any direct interaction between passenger and driver. A stark
+instance of this is the generation of an electronic document which, although styled as an “invoice”
+from the driver to the passenger, is never sent to the passenger and, though available to the driver,
+records only the passenger’s first name and not any further details (see para 10 above). Further,
+drivers are specifically prohibited by Uber from exchanging contact details with a passenger or
+contacting a passenger after the trip ends other than to return lost property (see para 12 above).
+101.
+Taking these factors together, it can be seen that the transportation service performed by drivers and
+offered to passengers through the Uber app is very tightly defined and controlled by Uber.
+Furthermore, it is designed and organised in such a way as to provide a standardised service to
+passengers in which drivers are perceived as substantially interchangeable and from which Uber,
+rather than individual drivers, obtains the benefit of customer loyalty and goodwill. From the drivers’
+point of view, the same factors - in particular, the inability to offer a distinctive service or to set their
+own prices and Uber’s control over all aspects of their interaction with passengers - mean that they
+have little or no ability to improve their economic position through professional or entrepreneurial
+skill. In practice the only way in which they can increase their earnings is by working longer hours
+while constantly meeting Uber’s measures of performance.
+102.
+I would add that the fact that some aspects of the way in which Uber operates its business are
+required in order to comply with the regulatory regime - although many features are not - cannot
+logically be, as Uber has sought to argue, any reason to disregard or attach less weight to those
+matters in determining whether drivers are workers. To the extent that forms of control exercised by
+Uber London are necessary in order to comply with the law, that merely tends to show that an
+arrangement whereby drivers contract directly with passengers and Uber London acts solely as an
+agent is not one that is legally available.
+Booking agents
+103.
+It is instructive to compare Uber’s method of operation and relationship with drivers with digital
+platforms that operate as booking agents for suppliers of, for example, hotel or other accommodation.
+There are some similarities. For example, a platform through which customers can book
+accommodation is likely to have standard written contract terms that govern its relationships with
+
+suppliers and with customers. It will typically handle the collection of payment and deduct a service
+fee which it fixes. It may require suppliers to comply with certain rules and standards in relation to
+the accommodation offered. It may handle complaints and reserve the right to determine whether a
+customer or supplier should compensate the other if a complaint is upheld.
+104.
+Nevertheless, such platforms differ from Uber in how they operate in several fundamental ways.
+Notably, the accommodation offered is not a standardised product defined by the platform. Customers
+are offered a choice among a variety of different hotels or other types of accommodation (as the case
+may be), each with its own distinctive characteristics and location. Suppliers are also responsible for
+defining and delivering whatever level of service in terms of comfort and facilities etc they choose to
+offer. Apart from the service fee, it is, crucially, the supplier and not the platform which sets the price.
+The platform may operate a ratings system but the ratings are published in order to assist customers
+in choosing among different suppliers; they are not used as a system of internal performance
+measurement and control by the platform over suppliers. Nor does the platform restrict
+communication between the supplier and the customer or seek to prevent them from dealing directly
+with each other on a future occasion. The result of these features is that suppliers of accommodation
+available for booking through the platform are in competition with each other to attract business
+through the price and quality of the service they supply. They are properly regarded as carrying on
+businesses which are independent of the platform and as performing their services for the customers
+who purchase those services and not for the platform.
+The Secret Hotels2 case
+105.
+A platform of this kind was the subject of Secret Hotels2 Ltd (formerly Med Hotels Ltd) v Revenue and
+Customs Comrs[2014] UKSC 16; [2014] 2 All ER 685, a case on which Uber has strongly relied. In
+that case a company (“Med”) marketed hotel rooms and holiday accommodation through a website.
+One difference from the typical model described above was that Med reserved many hotel rooms in its
+own name, for which it paid in advance. The issue was whether, for the purposes of assessing liability
+for VAT in accordance with Directive 2006/112/EC (“the Principal VAT Directive”), Med was
+purchasing accommodation from hoteliers and supplying it to customers as a principal or whether
+Med fell within a category of persons who “act solely as intermediaries” to whom more favourable tax
+treatment applied.
+106.
+The Supreme Court held that the correct legal analysis of the tripartite relationship between Med,
+hoteliers and customers was that Med marketed and sold hotel accommodation to customers as the
+agent of the hoteliers and was in these circumstances acting solely as an intermediary for VAT
+purposes. In analysing the relationship, Lord Neuberger of Abbotsbury (with whom the other
+members of the court agreed) identified the correct approach at para 34 as follows:
+“(i) the right starting point is to characterise the nature of the relationship between Med, the
+customer, and the hotel, in the light of … ‘the contractual documentation’, (ii) one must next consider
+whether that characterisation can be said to represent the economic reality of the relationship in the
+light of any relevant facts, and (iii) if so, the final issue is the result of this characterisation so far as
+article 306 [of the Principal VAT Directive] is concerned.”
+107.
+
+Secret Hotels2 was not an employment case: it concerned the classification of a relationship for VAT
+purposes. In applying the VAT legislation, the proper approach - established by binding decisions of
+the CJEU cited at paras 22-29 of the judgment in Secret Hotels2 - is informed by the policy that
+“taxable persons are generally free to choose the organisational structures and the form of
+transactions which they consider to be most appropriate for their economic activities and for the
+purposes of limiting their tax burdens”, albeit that this is subject to an exception for “abusive
+transactions”: see Revenue and Customs Comrs v RBS Deutschland Holdings GmbH (Case C-277/09)
+EU:C:2010:810; [2011] STC 345, para 53, cited by Lord Neuberger in Secret Hotels2 at para 24. I
+have already explained why a different approach is required in applying the employment legislation
+invoked in the present case, which is underpinned by different policy considerations.
+108.
+That said, even if the relationships in the Secret Hotels2 case were viewed through the lens of
+employment law, I see no reason to question the analysis that Med was acting solely as a booking
+agent for hoteliers. For the reasons given at para 104 above, the manner in which such a platform
+operates is materially different from Uber’s business model. Even the practice of reserving hotel
+rooms in Med’s own name was, as Lord Neuberger pointed out at para 49 of the judgment, consistent
+with its status as an intermediary: a customer who subsequently booked one of the rooms would not
+contract with Med, but would contract through Med with the hotelier; and, if not all reserved rooms
+were booked by customers at the hotel for the season in question, the amount paid by Med was
+carried forward to the next season. In short, I do not consider that the decision of this court in Secret
+Hotels2 provides any support for Uber’s case in the present proceedings.
+Minicab drivers
+109.
+I mentioned earlier (at para 48 above) the reliance placed by Uber on two judicial decisions involving
+minicab firms which are said to have recognised in an employment context that such firms may act as
+booking agents for drivers who provide transportation services directly to passengers under contracts
+with passengers and do not work for the minicab firm. Uber contends that its own business model is
+similar to that of such firms, with the principal differences being only the scale of its operations and
+the fact that Uber uses software to take bookings rather than doing so by telephone.
+110.
+The principal case relied on is Mingeley v Pennock (t/a Amber Cars)[2004] EWCA Civ 328; [2004] ICR
+727, in which the claimant driver brought a claim against a private hire vehicle operator trading
+under the name of “Amber Cars” alleging discrimination on the ground of race. The claimant owned
+his own vehicle and was responsible for obtaining a PHV driver’s licence. He was one of some 225
+drivers who paid a weekly fee to Amber Cars for access to what was initially a radio and later a
+computer system through which trip requests from customers were allocated to drivers. There was no
+obligation to work but, when he chose to work, the driver was obliged to wear a uniform and to apply
+a fixed scale of charges set by the operator. He collected and was entitled to keep the full fare paid by
+the customer. The operator had a procedure for dealing with complaints from passengers about the
+conduct of the driver and had the power to order a refund of the fare to the passenger.
+111.
+The Court of Appeal affirmed the decision of the employment tribunal that it had no jurisdiction to
+hear the claim as the claimant was not “employed” by the operator within the meaning of section 78
+of the Race Relations Act 1976. Maurice Kay LJ (with whom Sir Martin Nourse and Buxton LJ agreed)
+
+regarded it as fatal to the claim that the claimant was “free to work or not to work at his own whim or
+fancy” (para 14) and held that the absence of an obligation to work placed him beyond the reach of
+section 78. Buxton LJ gave as an additional reason that, even when working, a driver was not
+employed by Amber Cars “under … a contract personally to execute any work or labour” as his only
+such obligation was owed to the passenger.
+112.
+The definition of “employment” and related expressions in section 78 of the Race Relations Act 1976
+has been substantially replicated in section 83(2)(a) of the Equality Act 2010, which defines
+“employment” to include “employment under a contract of employment, a contract of apprenticeship
+or a contract personally to do work”. Although not the same as the definition of a “worker” and a
+“worker’s contract” in section 230(3) of the 1996 Act, the two definitions have been held to have
+substantially the same effect: see Pimlico Plumbers Ltd v Smith[2018] UKSC 29; [2018] ICR 1511,
+paras 13-15.
+113.
+It is not necessary for present purposes to express any view on whether the Mingeley case was
+correctly decided. I do not accept, however, that the fact that the claimant in that case was free to
+work as and when he chose was a sufficient reason for holding that, at times when he was working, he
+was not employed under a contract to do work for the firm. If that conclusion was justified on the facts
+of the Mingeley case, it would have to be on the basis that the claimant was not to be regarded as
+working for the minicab firm when transporting passengers in circumstances where the firm did not
+receive any money in respect of any individual trip undertaken by him. This arrangement was
+materially different from Uber’s business model.
+114.
+The other employment case involving a minicab firm on which Uber relies is Khan v Checkers Cars
+Ltd, an unreported decision of the Employment Appeal Tribunal handed down on 16 December 2005.
+The facts were that the British Airports Authority had granted the respondent firm (“Checkers”) an
+exclusive licence to provide a taxi service at Gatwick airport. The firm had a fleet of over 200 drivers,
+one of whom was the claimant, who plied for hire at the airport taxi-rank. Checkers took a commission
+and imposed numerous conditions on its drivers, including requiring them to charge set fares, use
+fixed routes and wear a uniform. Drivers were entirely free to choose whether and when they worked
+but they were not permitted to drive for anyone else. The issue was whether the claimant had a right
+not to be unfairly dismissed, which depended on showing that he had been continuously employed by
+Checkers under a contract of employment for a period of not less than two years: see section 108 of
+the Employment Rights Act 1996.
+115.
+The Employment Appeal Tribunal upheld the finding of the employment tribunal that the claimant did
+not satisfy this requirement because the absence of any obligation to work other than when he chose
+was inconsistent with the conclusion that there was any contract of employment which subsisted
+when the claimant was not working. Langstaff J, however, also observed, obiter, at para 32 of the
+judgment:
+“If it had been material to our decision, we would have been inclined to find that …, on the findings of
+fact that the tribunal made, the contract went no further than to amount to a licence by Checkers to
+permit the claimant to offer himself as a private hire taxi driver to individual passengers on terms
+dictated by the administrative convenience of Checkers and BAA.”
+
+Given the extent of the control exercised by Checkers over the manner in which drivers carried out
+their work, I cannot agree that such a finding would have been justified.
+116.
+In making the observation quoted above, Langstaff J was drawing an analogy with the facts of Cheng
+Yuen v Royal Hong Kong Golf Club[1998] ICR 131. In that case the claimant worked as a caddie for
+individual members of the respondent golf club. He was issued by the club with a number, a uniform
+and a locker. Caddying work was allocated to available caddies in strict rotation. They were not
+obliged to make themselves available for work and received no guarantee of work. The club was not
+obliged to give them work or to pay anything other than the amount of the fee per round owed by the
+individual golfer for whom they had caddied. On an appeal to the Privy Council the majority of the
+Board held that the only reasonable view of the facts found was that the claimant had not been
+employed under a contract of employment by the club either on a continuing basis or separately each
+time he agreed to act as a caddie, and that the club did no more than grant him a licence to enter into
+contracts with individual golfers on terms dictated by the administrative convenience of the club and
+its members. Lord Hoffmann, who dissented, thought that it was more realistic to regard the claimant
+as a casual employee of the club, particularly when (as he observed at p 139) “the claimant had to
+work for the person to whom he was allocated according to the club’s system at a rate of pay fixed by
+the club and in the manner determined by the club”. Without expressing any view on the correctness
+of the decision, I do not consider that this case provides a relevant analogy in determining whether
+the employment tribunal was entitled to find that the claimants in the present case are workers.
+117.
+In Quashie v Stringfellow Restaurants Ltd[2012] EWCA Civ 1735; [2013] IRLR 99 the claimant was a
+lap dancer who performed for the entertainment of guests at the respondent’s clubs. An important
+factual finding was that the respondent was not obliged to pay the claimant any money at all. Rather,
+the claimant paid the respondent a fee for each night that she worked. Doing so enabled her to earn
+payments from the guests for whom she danced. She negotiated those payments with the guests and
+took the risk that on any particular night she might be out of pocket. The Court of Appeal held that on
+these facts the employment tribunal had been entitled to find that the claimant was not employed
+under a contract of employment (either for each engagement or on a continuous basis). Again, the
+facts were very different from those of the present case and I do not find this decision of any
+assistance.
+The employment tribunal’s decision
+118.
+It is firmly established that, where the relationship has to be determined by an investigation and
+evaluation of the factual circumstances in which the work is performed, the question of whether work
+is performed by an individual as an employee (or a worker in the extended sense) or as an
+independent contractor is to be regarded as a question of fact to be determined by the first level
+tribunal. Absent a misdirection of law, the tribunal’s finding on this question can only be impugned by
+an appellate court (or appeal tribunal) if it is shown that the tribunal could not reasonably have
+reached the conclusion under appeal: see Lee Ting Sang v Chung Chi-Keung[1990] 2 AC 374,
+384-385; Clark v Oxfordshire Health Authority[1998] IRLR 125, paras 38-39; the Quashie case, para 9.
+119.
+On the facts found in the present case, and in particular those which I have emphasised at paras
+94-101 above, I think it clear that the employment tribunal was entitled to find that the claimant
+
+drivers were “workers” who worked for Uber London under “worker’s contracts” within the meaning
+of the statutory definition. Indeed, that was, in my opinion, the only conclusion which the tribunal
+could reasonably have reached.
+120.
+It does not matter in these circumstances that certain points made by the employment tribunal in the
+reasons given for its decision are open to criticism, nor is it necessary to discuss such particular
+criticisms, since none of the errors or alleged errors affects the correctness of the tribunal’s decision.
+I agree with the majority of the Court of Appeal that there are some points made by the employment
+tribunal which are misplaced (see in particular para 93 of the Court of Appeal’s judgment). I also
+agree with the analysis set out at paras 96 and 97 of that judgment of the 13 considerations on which
+the tribunal principally based its finding that drivers work for Uber. I agree with the majority of the
+Court of Appeal that those considerations, viewed in the round, provided an ample basis for the
+tribunal’s finding.
+Working Time
+121.
+The secondary question which arises in the light of this conclusion is: during what periods of time
+were the claimants working?
+122.
+The Working Time Regulations 1998 and the National Minimum Wage Regulations 2015 each contain
+provisions for measuring working time. But before those provisions are applied, it is necessary to
+identify the periods during which the individual concerned is a “worker” employed under a “worker’s
+contract” so as to fall within the scope of the legislation.
+123.
+As mentioned earlier, the employment tribunal found that a driver was “working” under such a
+contract during any period when he (a) had the Uber app switched on, (b) was within the territory in
+which he was authorised to use the app, and (c) was ready and willing to accept trips. Uber contends
+that it was not open to the tribunal in law to make this finding and that the tribunal should have found
+that the claimants (on the assumption that they were “workers” at all) were only working under
+workers’ contracts during periods when they were actually driving passengers to their destinations.
+Alternatively, Uber contends that the tribunal should have found that a claimant was only working
+under such a contract from the moment when (and not until) he accepted a trip request.
+124.
+I think it clear - as did all the members of the Court of Appeal, including the dissenting judge,
+Underhill LJ, if he was wrong on the main issue - that a driver enters into, and is working under, a
+contract with Uber London whereby the driver undertakes to perform services for Uber London, if not
+before, then at the latest when he accepts a trip. If the driver afterwards cancels the trip, that
+signifies only that the obligation undertaken to pick up the passenger and carry the passenger to his
+or her destination is then terminated. It does not mean that no obligation was ever undertaken. The
+more difficult question is whether the employment tribunal was entitled to find - as by implication it
+did - that a worker’s contract came into existence at an earlier stage when a claimant driver logged
+onto the Uber app.
+125.
+
+Uber argues that it is clear from the tribunal’s own findings that drivers when logged onto the Uber
+app are under no obligation to accept trips. They are free to ignore or decline trip requests as often as
+they like, subject only to the consequence that, if they repeatedly decline requests, they will be
+automatically logged off the Uber app and required to wait for ten minutes before they can log back
+on again. Furthermore, when logged onto the Uber app, drivers are at liberty to accept other work,
+including driving work offered through another digital platform (see para 16 above). Counsel for Uber
+submitted that, on these facts, a finding that a driver who switches on the Uber app undertakes a
+contractual obligation to work for Uber London is not rationally sustainable. Nor can the fact that the
+driver is ready and willing to accept trips logically alter the position so as to give rise to such an
+obligation.
+126.
+The fact, however, that an individual has the right to turn down work is not fatal to a finding that the
+individual is an employee or a worker and, by the same token, does not preclude a finding that the
+individual is employed under a worker’s contract. What is necessary for such a finding is that there
+should be what has been described as “an irreducible minimum of obligation”: see Nethermere (St
+Neots) Ltd v Gardiner [1984] ICR 612, 623 (Stephenson LJ), approved by the House of Lords in
+Carmichael v National Power plc[1999] 1 WLR 2042, 2047. In other words, the existence and exercise
+of a right to refuse work is not critical, provided there is at least an obligation to do some amount of
+work.
+127.
+In the present case Uber London in the Welcome Packet of material issued to new drivers referred to
+logging onto the Uber app as “going on duty” and instructed drivers that: “Going on duty means you
+are willing and able to accept trip requests” (see para 17 above). Logging onto the Uber app was thus
+presented by Uber London itself to drivers as undertaking an obligation to accept work if offered. The
+employment tribunal also found that the third in the graduated series of messages sent to a driver
+whose acceptance rate of trip requests fell below a prescribed level included a statement that “being
+online with the Uber app is an indication that you are available to take trips, in accordance with your
+Services Agreement.” The reference in this message to the Services Agreement must have been to
+clause 2.6.2, which stated:
+“Customer acknowledges and agrees that repeated failure by a Driver to accommodate User requests
+for Transportation Services while such Driver is logged in to the Driver App creates a negative
+experience for Users of Uber’s mobile application. Accordingly, Customer agrees and shall ensure that
+if a Driver does not wish to provide Transportation Services for a period of time, such Driver will log
+off of the Driver App.”
+128.
+Counsel for the third respondent suggested that this clause is inconsistent with clause 2.4 of the
+Services Agreement, which provided that:
+“Customer and its Drivers retain the option, via the Driver App, to decline or ignore a User’s request
+for Transportation Services via the Uber Services, or to cancel an accepted request ... subject to
+Uber’s then-current cancellation policies.”
+I do not agree that these clauses are inconsistent. The position both as specified in the Services
+Agreement and in practice was that, on the one hand, a driver while logged onto the Uber app was
+free to decline or ignore any individual trip request (and might well, for example, choose to do so if
+the request came from a passenger with a low rating). But, on the other hand, the driver was required
+
+to be generally willing and available to take trips, and a repeated failure by a driver to accept trip
+requests was treated as a breach of that requirement.
+129.
+Whilst the irreducible minimum of obligation on drivers to accept work was not precisely defined in
+the Services Agreement, the employment tribunal was entitled to conclude that it was in practice
+delineated by Uber’s criteria for logging drivers off the Uber app if they failed to maintain a
+prescribed rate of acceptances. Uber seeks to characterise this system as merely a way of seeking to
+ensure that drivers do not remain logged onto the app, perhaps through inadvertence whilst away
+from their vehicle, at times when they are not in fact available to work. However, if that were the only
+purpose of automatically logging off a driver, it is hard to see why the driver should then be shut out
+from logging back onto the Uber app for a ten-minute period. It was open to the tribunal on the
+evidence, including Uber’s internal documents, to find that this exclusion from access to the app was
+designed to operate coercively and that it was reasonably perceived by drivers, and was intended by
+Uber to be perceived, as a penalty for failing to comply with an obligation to accept a minimum
+amount of work.
+130.
+It follows that the employment tribunal was, in my view, entitled to conclude that, by logging onto the
+Uber app in London, a claimant driver came within the definition of a “worker” by entering into a
+contract with Uber London whereby he undertook to perform driving services for Uber London. I do
+not consider that the third condition identified by the tribunal that the driver was in fact ready and
+willing to accept trips can properly be regarded as essential to the existence of a worker’s contract;
+nor indeed did the tribunal assert that it was. But it is reasonable to treat it, as the tribunal did, as a
+further condition which must be satisfied in order to find that a driver is “working” under such a
+contract.
+131.
+This brings me to the question of what periods during which a driver is employed under a worker’s
+contract count as working time.
+The Working Time Regulations
+132.
+For the purpose of the Working Time Regulations 1998, “working time” is defined in regulation 2(1),
+in relation to a worker, as “any period during which he is working, at his employer’s disposal and
+carrying out his activity or duties”.
+133.
+There is no difficulty in principle in a finding that time when a driver is “on call” falls within this
+definition. A number of decisions of the CJEU establish that, for the purpose of the Working Time
+Directive, to which the UK Regulations aim to give effect and which defines “working time” in the
+same way, time spent on call counts as “working time” if the worker is required to be at or near his or
+her place of work. For example, in Ville de Nivelles v Matzak (Case C-518/15) EU:C:2018:82; [2018]
+ICR 869 the CJEU held that time spent by firefighters on stand-by at their homes, which were
+required to be within eight minutes travelling distance of the fire station, was working time.
+134.
+On the facts of the present case, a driver’s place of work is wherever his vehicle is currently located.
+Subject to the point I consider next, in the light of this case law the tribunal was justified in finding
+
+that all time spent by a driver working under a worker’s contract with Uber London, including time
+spent “on duty” logged onto the Uber app in London available to accept a trip request, is “working
+time” within the meaning of the Working Time Directive and Regulations.
+135.
+The point that - like the majority of the Court of Appeal and Judge Eady QC in the Employment Appeal
+Tribunal - I have found more difficult is whether a driver logged onto the Uber app in the area in
+which he is licensed to work can be said to be “working, at his employer’s disposal and carrying out
+his activity or duties” if during such times the driver is equally ready and willing to accept a trip
+request received from another PHV operator. It was argued with force by counsel for Uber that a
+driver cannot reasonably be said to be working for and at the disposal of Uber London if, while logged
+onto the Uber app, he is also at the same time logged onto another app provided by a competitor of
+Uber which operates a similar service.
+136.
+I have concluded that this question cannot be answered in the abstract. I agree with Judge Eady QC
+when she said in her judgment dismissing Uber’s appeal to the Employment Appeal Tribunal (at para
+126) that it is a matter of fact and degree. Like the majority of the Court of Appeal, I also agree with
+her that:
+“If the reality is that Uber’s market share in London is such that its drivers are, in practical terms,
+unable to hold themselves out as available to any other PHV operator, then, as a matter of fact, [when
+they have the Uber app switched on] they are working at [Uber London’s] disposal as part of the pool
+of drivers it requires to be available within the territory at any one time. … if, however, it is genuinely
+the case that drivers are able to also hold themselves out as at the disposal of other PHV operators
+when waiting for a trip, the same analysis would not apply.”
+137.
+So far as this court has been shown, no evidence was adduced at the hearing in the employment
+tribunal in 2016 that there was at that time any other app-based PHV transportation service operating
+in London or that drivers logged into the Uber app were as a matter of practical reality also able to
+hold themselves out as at the disposal of other PHV operators when waiting for a trip. No finding was
+made by the tribunal on this subject. In these circumstances I do not consider that the tribunal was
+wrong to find that periods during which its three conditions were met constituted “working time” for
+the purpose of the Working Time Regulations 1998.
+The National Minimum Wage Regulations
+138.
+What counts as working time for the purposes of the right to be paid the national minimum wage is
+defined by the National Minimum Wage Regulations 2015. These regulations contain complex
+provisions for measuring hours worked depending on how the work is classified. Before the
+employment tribunal there was an issue as to whether a driver’s working hours should be classified as
+“time work”, as Uber argued, or as “unmeasured work”, as the tribunal held. It was accepted by Uber
+that “time work” could only be the appropriate category if the driver is working only when carrying a
+passenger and not otherwise. As I have concluded that the tribunal was entitled to reject that
+contention, it follows that the tribunal was also entitled to find that the claimants’ working hours were
+not “time work”. As it was common ground that those hours did not fall within the definitions of
+“salaried work” or “output work”, it further follows that the tribunal was entitled to find that they
+
+constituted “unmeasured work”, which is a residual or default category. On this point too, therefore,
+there is no basis for interfering with the employment tribunal’s decision.
+Conclusion
+139.
+For all the reasons given, I would dismiss this appeal.
+Postscript
+140.
+After the hearing of the appeal but before this judgment was handed down, Lord Kitchin fell ill and it
+was uncertain when he would return to work. With the agreement of the parties, the presiding judge,
+Lord Reed, gave a direction under section 43(3) of the Constitutional Reform Act 2005 that the court
+was still duly constituted by the remaining six Justices, all of whom are permanent judges.

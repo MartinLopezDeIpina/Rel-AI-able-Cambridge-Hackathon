@@ -1,0 +1,1850 @@
+[2011] UKPC 7
+
+Privy Council Appeal No 0064 of 2009
+Privy Council Appeal No 0065 of 2009
+Privy Council Appeal No 0066 of 2009
+Privy Council Appeal No 0067 of 2009
+
+JUDGMENT
+
+AK Investment CJSC (Appellant) v Kyrgyz Mobil Tel
+Limited and Others (Respondents)
+Altimo Holdings and Investment Limited and Others
+(Appellants) v Kyrgyz Mobil Tel Limited and Others
+(Respondents)
+CP-Crédit Privé SA (Appellants) v Kyrgyz Mobil Tel
+Limited and Others (Respondents)
+Fellowes International Holdings Limited (Appellant) v
+Kyrgyz Mobil Tel Limited and Others (Respondents)
+From the High Court of Justice of the Isle of Man (Staff of
+Government Division)
+
+before
+
+Lord Phillips
+Lord Mance
+Lord Collins
+Lord Kerr
+Lord Clarke
+
+JUDGMENT DELIVERED BY
+Lord Collins
+ON
+
+10 March 2011
+
+Heard 30 November 2010 – 7 December 2010
+
+Appellant
+
+Respondent
+James Ramsden
+
+Graham Dunning QC
+Jennifer Thelen
+
+Nicholas Harrison
+(Instructed by Steptoe &
+Johnson)
+
+(Instructed by Squire
+Sanders & Dempsey)
+
+Appellant
+
+Stephen Smith QC
+
+Simon Adamyk
+
+(Instructed by Lovells
+LLP)
+
+Appellant
+
+ Bankim Thanki QC
+
+Edward Levey
+
+(Instructed by DLA Piper
+UK LLP)
+
+Appellant
+ Guy Phillips QC
+(Instructed by White &
+Case LLP)
+
+Page 1
+
+LORD COLLINS:
+I
+Introduction
+1.
+At the heart of this unusual and complex case is a struggle between two
+Russian groups concerning a telecommunications business in Kyrgyzstan owned, or
+formerly owned, by BITEL LLC (“BITEL”), a Kyrgyz company. This appeal arises
+out of proceedings commenced in the Isle of Man by BITEL to enforce a Kyrgyz
+judgment at common law against the Respondents, Kyrgyz Mobil Tel Ltd, Flaxendale
+Ltd and George Resources Ltd (“the KFG Companies”), which are all incorporated in
+the Isle of Man, and are owned by Mobile TeleSystems OJSC (“MTS”), the largest
+mobile telecommunications operator in Russia, which is listed on the New York Stock
+Exchange.
+2.
+The KFG Companies counterclaimed against BITEL and sought and obtained
+permission to join thirteen additional defendants to the Counterclaim and serve them
+out of the jurisdiction. The Appellants are six of those defendants to counterclaim,
+who applied, successfully, to Deemster Doyle for an order setting aside the order for
+service out of the jurisdiction. The Deemster’s decision was reversed by the Staff of
+Government Division, and it is from that decision that the Appellants appeal.
+3.
+The first three Appellants, Altimo Holdings and Investments Ltd, a BVI
+company (“Altimo BVI”), 000 Altimo, a Russian company (“Altimo Russia”) and Sky
+Mobile LLC, a Kyrgyz company (“Sky Mobile”), are part of a very substantial
+Russian conglomerate known as the Alfa Group, and are collectively referred to here
+as the “Alfa Parties.” The other Appellants are Fellowes International Holdings Ltd, a
+BVI company (“Fellowes”), CP-Crédit Privé SA, a Swiss fiduciary (“CP-Crédit”) and
+AK Investment CJSC, a Kyrgyz company (“AK Investment”). Fellowes, CP-Crédit,
+and AK Investment are each separately represented, but generally in this advice the
+Appellants will be referred to collectively, except where the context requires
+otherwise.
+4.
+In short this is an appeal about whether the Appellants are necessary or proper
+parties to the Counterclaim by the KFG Companies in the Isle of Man, or whether the
+appropriate forum is Kyrgyzstan, as the Appellants contend.
+5.
+This, like many such cases, is not really a dispute about forum. The connection
+which this case has with the Isle of Man is that BITEL seeks to enforce a Kyrgyz
+judgment by proceedings in the Isle of Man against the KFG Companies, three
+
+Page 2
+
+companies incorporated in the Isle of Man, who seek to counterclaim against the
+Appellants in relation to matters which occurred wholly outside the Isle of Man, and
+primarily in Kyrgyzstan. The KFG Companies accept that Kyrgyzstan is the natural
+forum for the pursuit of their claims, in the sense of being the jurisdiction with which
+their claims have their most real and substantial connection: Spiliada Maritime Corp v
+Cansulex Ltd [1987] AC 460, at 478, per Lord Goff of Chieveley.
+6.
+But the practical reality of the matter is that if the KFG Companies are
+confined to their remedies against the Appellants in Kyrgyzstan they will not in fact
+be able to pursue any of their claims there. Consequently, although this is in form a
+case about the appropriate forum, in reality it is a case in which, if the Isle of Man is
+not the appropriate forum, the KFG Companies will have no practical remedy at all.
+7.
+Experience has shown that Lord Templeman was being over-optimistic when
+he said, in Spiliada (at 465), that in disputes about the appropriate forum the court
+would not be referred to other decisions on other facts, and that submissions would be
+measured in hours and not days. But this case has been excessively complicated by
+any standards. The hearings before the Deemster and the Staff of Government
+Division each lasted for 4 days or more. The hearing before the Board lasted 4 days.
+The written cases of the parties exceeded 200 pages, and more than 30 volumes of
+documents were placed before the Board, containing almost 14,000 pages, as well as
+170 authorities in 12 volumes. The core bundle alone consisted of six volumes. The
+list of “essential” pre-reading for the Board listed documents totalling some 700
+pages. All of this was wholly disproportionate to the issues of law and fact raised by
+the parties.
+II
+The facts
+8.
+The factual background is complex. Many of the facts are disputed and nothing
+in this advice is intended to prejudge any question of fact which may arise in
+subsequent hearings.
+9.
+By early 2005 BITEL was the leading supplier of mobile telephone services in
+Kyrgyzstan. It was owned by the KFG Companies, whose ultimate beneficial owners
+were then the son of the President of Kyrgyzstan and the Deputy Minister for
+Transport and Communications. By the end of 2005 the ultimate owners of the KFG
+Companies had become MTS.
+The Transfer Agreement between the KFG Companies and IPOC/KMIC
+
+Page 3
+
+10.
+By an agreement dated May 30, 2003 (the “Transfer Agreement”), the KFG
+Companies agreed to sell their interest in BITEL to IPOC International Growth Fund
+Ltd (“IPOC”), a Bermudian mutual investment fund, for approximately US$22.4
+million. Under the Transfer Agreement, IPOC had the right to transfer its interest in
+BITEL to Kyrgyzstan Mobitel Investment Company Ltd (“KMIC”), which was to be
+incorporated as a subsidiary of IPOC. If completion of the sale to IPOC did not occur
+prior to December 1, 2003, the Transfer Agreement was to terminate automatically.
+11.
+The Transfer Agreement was governed by English law and included an
+arbitration clause, which provided that any dispute arising out of the agreement was to
+be referred to arbitration under the rules of the London Court of International
+Arbitration (“LCIA”).
+12.
+KMIC was subsequently incorporated and on October 6, 2003 IPOC notified
+the KFG Companies of its intention to assign its rights and obligations under the
+Transfer Agreement to KMIC. Unknown to the KFG Companies, by a written
+agreement dated October 1, 2003 between IPOC and Fellowes, Fellowes agreed to
+purchase from IPOC 100% of its shares in KMIC conditionally upon the completion
+of the Transfer Agreement. That agreement was also governed by English law, with
+provision for arbitration in London under UNCITRAL Rules. IPOC then assigned its
+interest in BITEL under the Transfer Agreement to KMIC on October 8, 2003.
+13.
+In late 2003 a dispute arose between the KFG Companies, IPOC and KMIC.
+The KFG Companies refused to complete the sale by December 1, 2003.
+Consequently, KMIC initiated arbitration proceedings on March 31, 2004 seeking
+specific performance of the Transfer Agreement or, alternatively, damages for breach
+of contract.
+April 2005 Judgment
+14.
+In December 2004 the Alfa group, through Altimo BVI, purchased a
+controlling interest in Fellowes. In March 2005, a revolution in Kyrgyzstan led to the
+resignation of President Akaev, who left the country. The then beneficial owners of
+the KFG Companies, who (as indicated above) were associated with the former
+regime, also left the country.
+15.
+On March 29, 2005 Fellowes (which was not a party to the Transfer
+Agreement, but had agreed to purchase KMIC from IPOC) initiated proceedings in the
+Bishkek Interdistrict Economic Court in Kyrgyzstan against the KFG Companies
+alleging a breach of the Transfer Agreement and seeking specific performance directly
+in its own favour.
+
+Page 4
+
+16.
+On April 15, 2005, the Bishkek Interdistrict Court ordered specific
+performance of the Transfer Agreement in favour of Fellowes in the absence of any
+representatives of the KFG Companies. The Court held that Fellowes and the KFG
+Companies had entered into the Transfer Agreement, which was duly signed by them,
+and in the dispositive part of the Judgment held that Fellowes had the right to own the
+shares in BITEL upon payment by Fellowes (which was later made) of US$20.5
+million to the deposit account of the Kyrgyz Ministry of Justice, such sum being the
+balance of the purchase price (the “April 2005 Judgment”). The Court ordered that
+Fellowes be registered as the owner of BITEL.
+17.
+The KFG Companies claim that the April 2005 Judgment was obtained by
+fraud, in proceedings which were opposed to natural justice, and in a manner which
+would in the Isle of Man be regarded as contrary to public policy. The KFG
+Companies say that there was no arguable basis at all for Fellowes’ claim, as the party
+entitled to enforce the Transfer Agreement was KMIC not Fellowes, and even if
+Fellowes had been a party it would have been bound by the arbitration clause in the
+agreement, to which the Bishkek Interdistrict Court would have been obliged to give
+effect as Kyrgyzstan is a party to the New York Convention on the recognition and
+enforcement of foreign arbitral awards.
+Injunctions in England and BVI
+18.
+On May 10, 2005, Andrew Smith J, sitting in the Commercial Court in England
+(the seat of the arbitration), on application by the KFG Companies, granted an
+injunction restraining Fellowes from (inter alia): (a) bringing or pursuing any
+proceedings to enforce rights under the Transfer Agreement except by way of LCIA
+arbitration in London; (b) enforcing or seeking to enforce any judgment or order
+obtained from any court on the basis that it had become entitled to enforce the
+Transfer Agreement, in particular the April 2005 Judgment; (c) registering itself or
+taking any steps to have itself registered as the owner of BITEL. The High Court in
+the BVI (where Fellowes is incorporated) made an order against Fellowes on May 13,
+2005 in terms identical to those of the Commercial Court in England.
+Altimo BVI lodges $20.5 million and is registered as owner of BITEL
+19.
+Notwithstanding the injunctions Altimo BVI, which had acquired a controlling
+interest in Fellowes in December 2004, transferred US$20.5 million to the deposit
+account of the Kyrgyz Ministry of Justice as required by the April 2005 Judgment and
+stated that it wished to have itself registered as the owner of BITEL pursuant to that
+judgment. The letter further asked for the co-operation of the Kyrgyz authorities in
+execution of the judgment to ensure the registration of itself as owner of BITEL.
+
+Page 5
+
+BVI court appoints receiver over Fellowes and grants injunction and
+declaration/Commercial Court final injunction and declaration
+20.
+In the light of these events, The KFG Companies applied in the BVI for the
+appointment of a Receiver over Fellowes to ensure that no further steps were taken to
+register the shares of BITEL in the name of Fellowes or Altimo BVI or any associated
+person. On June 10, 2005 the BVI court appointed a Receiver for this purpose, and
+restrained Fellowes from disposing of the legal or beneficial ownership of the BITEL
+shares or exercising any rights attached to the BITEL shares.
+21.
+This order was subsequently stayed following a letter from Altimo Russia and
+Fellowes on June 22, 2005 to the Kyrgyz authorities referring to the court proceedings
+in England and the BVI and to the London arbitration, stating that no re-registration of
+the BITEL shares would be undertaken pending the outcome of the arbitration, and
+requesting that the assistance previously requested in that regard should be
+“suspended for the moment”.
+22.
+On June 16, 2005 Cooke J, sitting in the Commercial Court, continued the
+injunction made by Andrew Smith J against Fellowes: [2005] EWHC 1329 (Comm).
+This was a final injunction because there was no prospect of Fellowes being able to
+say that the injunction was wrongly granted at any stage in the future. Cooke J also
+made a declaration that, under English law, no contract existed between the KFG
+Companies and Fellowes since Fellowes was not a party to the Transfer Agreement.
+Fellowes was not therefore entitled to enforce any rights under that agreement and in
+particular was not entitled to exercise any right that IPOC as original party might have
+had to seek specific performance of the Transfer Agreement. The declaration also
+stated that the proceedings brought by Fellowes in Kyrgyzstan were vexatious and
+oppressive. Cooke J said:
+“The starting point in considering all these issues is….. the circumstance
+that the defendants have obtained judgment in Kyrgyzstan when they
+should not have done. The basis upon which they did that was to claim
+to be party to the transfer agreement and to claim specific performance
+of it whilst ignoring the arbitration provisions within that agreement.
+The fact that it is accepted on all sides that they are not party to the
+transfer agreement as a matter of English law, and not party to the
+arbitration agreement as such, merely emphasises the vexatious and
+oppressive nature of their action”.
+23.
+As Lord Mance pointed out during the course of argument, the acceptance by
+counsel for Fellowes, and the finding by the judge, that Fellowes was not a party to
+
+Page 6
+
+the Transfer Agreement would make it difficult for Fellowes to suggest that it
+genuinely thought that it was entitled to the April 2005 Judgment.
+24.
+On July 5, 2005, the BVI court granted the KFG Companies a declaration
+similar to that made by the Commercial Court in England on June 16, 2005.
+KFG Companies seek to quash Bishkek order/Fellowes opposes/Receiver re-
+appointed in BVI/Receiver revokes any authority of Fellowes to oppose/appointment
+discharged in BVI but continued pending appeal
+25.
+On July 15, 2005, the KFG Companies filed an application in the Bishkek City
+Court seeking to nullify the April 2005 Judgment. Fellowes opposed the application,
+and on September 29, 2005 the KFG Companies applied to the BVI court for the re-
+appointment of a Receiver over Fellowes on the basis that Fellowes’ conduct
+constituted an indirect attempt to enforce the April 2005 Judgment in breach of the
+injunction granted on May 13, 2005. The KFG Companies’ application was granted
+and Mr Glenn Harrigan was appointed as Receiver over Fellowes to ensure its
+compliance with the previous orders given by the BVI court. On September 30,
+2005, Mr Harrigan made a statement to the Bishkek City Court revoking all powers of
+attorney granted by Fellowes authorising its attorneys to represent it on the application
+to nullify the April 2005 Judgment and withdrawing Fellowes’ objection to the
+nullification of the April 2005 Judgment.
+26.
+Subsequently, Fellowes sought an order in the BVI that the Receiver’s
+appointment be discharged. The order was granted, but was immediately stayed
+pending an appeal by the KFG Companies, with the consequence that the receivership
+remained in place. The KFG Companies’ appeal was successful in April 2006 and
+confirmed the appointment of the Receiver for the purposes of ensuring Fellowes’
+compliance with the injunction for an indefinite period of time. The Receiver
+continues in place.
+Alleged sale of the shares in BITEL to Reservespetsmet (allegedly in May 2005
+without knowledge of Fellowes)
+27.
+In mid-October 2005 the KFG Companies became concerned that an attempt
+might be made to have the BITEL equity interest re-registered in the name of a third
+party, and on October 19, 2005, they applied to the BVI court which granted an
+injunction by consent restraining Fellowes, its servants or agents from transferring,
+assigning or otherwise disposing of the legal or beneficial ownership in the BITEL
+shares and from exercising any rights attached to the BITEL shares in the event that
+Fellowes obtained re-registration of the shares in its own name or in the name of any
+assignee, associated entity or person.
+
+Page 7
+
+28.
+On the same day, unknown to the KFG Companies, CJSC Reservespetsmet
+(“Reservespetsmet”), a Russian company, was granted an order by the Ministry of
+Justice in Bishkek for the re-registration of the BITEL shares in its name (Order
+1570). This order was obtained on the basis that Reservespetsmet had purchased the
+BITEL shares from Fellowes on May 20, 2005.
+29.
+The sale of Fellowes’ interest in BITEL to Reservespetsmet had not been
+referred to during the proceedings in England or the BVI. Fellowes subsequently
+claimed that this omission was due to the sale to Reservespetsmet having occurred
+without Fellowes’ knowledge and pursuant to an agency arrangement. According to
+Fellowes, this agency agreement between Fellowes and Lovianco Trading Company
+Ltd (“Lovianco”) was reached in early May 2005, and enabled Lovianco to act as
+Fellowes’ agent in any sale of the BITEL shares. According to Fellowes, Lovianco
+then entered into a sub-agency agreement with Yuridicheskoe Bureau Pravo
+(“Pravo”). Fellowes stated that the agency arrangement was terminated on May 20,
+2005 but, meanwhile, the sale of BITEL to Reservespetsmet had occurred without
+Fellowes’ knowledge, and the sale had never subsequently been brought to its
+attention, either by its agents (Lovianco and Pravo) or by the purchaser
+(Reservespetsmet).
+30.
+The KFG Companies say that the “sale” was a fraudulent invention intended to
+evade the consequences of the English and BVI injunctions and the BVI receivership
+order, and that the documents were later forgeries. Their case is that the Altimo
+Companies were directly involved in the production of the documents purportedly
+evidencing the supposed sale of BITEL by Fellowes to Reservespetsmet in May 2005.
+They say that there is compelling evidence that in reality Reservespetsmet was a front
+for the Altimo Companies, because the identity of the beneficial owner of
+Reservespetsmet has never been revealed. It was initially claimed that the beneficial
+owner was an unidentified leading Russian company. It was then claimed that Sophia
+Ignatova, a young Russian actress and popular music singer, was the beneficial owner,
+but that claim was subsequently withdrawn, and instead it was claimed that the person
+behind the company was a wealthy Russian businessman, who has never been
+identified.
+31.
+The KFG Companies say that analysis of the metadata (computer information
+about how data was collated) extracted from Reservespetsmet’s electronic press
+releases in the period from October to December 2005 demonstrates that Altimo
+executives were involved in producing those press releases (in conjunction with the
+lawyer then ostensibly representing Reservespetsmet, Mr Sadyrov) and that they were
+distributed via the Altimo computer gateway. No evidence has been filed in answer
+to this, beyond a bare assertion that the relevant electronic evidence must somehow
+have been forged or planted.
+
+Page 8
+
+32.
+The Alfa Parties claim that they sold their interest in Fellowes to an
+independent third party on September 30, 2005, the day after Mr Harrigan was
+appointed as Fellowes’ Receiver. The KFG Companies say that no documentary
+evidence has even been produced to support that contention, the supposed purchaser
+has never been identified, and the claim is not credible.
+Registration of shares in name of Reservespetsmet/proceedings by Reservespetsmet
+33.
+The re-registration of BITEL in the name of Reservespetsmet by Order 1570
+led to further proceedings in Kyrgyzstan. BITEL itself (at the direction of its then
+management) commenced an action seeking to have Order 1570 set aside. Order 1570
+was cancelled by a further Order from the Ministry of Justice (Order 1604) but Order
+1604 was then itself set aside on November 21, 2005 on application by
+Reservespetsmet.
+34.
+Reservespetsmet also commenced a further action against the acting director
+general of BITEL, seeking an order that he vacate BITEL’s offices.
+April 2005 judgment nullified/orders against BITEL’s officers and December 2005
+Judgment
+35.
+Meanwhile, on October 31, 2005, the KFG Companies’ application to nullify
+the April 2005 Judgment was heard by the Bishkek City Court, which granted it (the
+“Cassation Judgment”). On November 23, 2005, the Bishkek City Court rejected
+Fellowes’ request for a review of the Cassation Judgment.
+36.
+On December 8, 2005, Fellowes and Reservespetsmet filed an appeal against
+the Cassation Judgment to the Supreme Court of Kyrgyzstan. At the time the appeal
+was filed, the Receiver of Fellowes remained in office and had not granted authority
+to Fellowes’ lawyers to file the appeal. The appeal was then scheduled for December
+15, 2005, but the KFG Companies say that they were not notified of this fact.
+Fellowes’ actions were in breach of the injunctions and without the authority of the
+Receiver.
+37.
+On December 14 and 15, 2005, prior to the hearing of the appeal to the
+Supreme Court, Reservespetsmet obtained ex parte orders from the Sverdlovsk
+District Court in Bishkek to suspend BITEL’s General Director and Audit Committee
+Chairman from office with immediate effect, to seize BITEL’s assets at locations in
+Bishkek and to freeze BITEL’s bank accounts. The KFG Companies contend that
+there could have been no proper basis for the making of these orders at a time when
+the April 2005 Judgment had been nullified, that the proper plaintiff should have been
+
+Page 9
+
+BITEL, that the orders were wholly disproportionate, and that they can only have been
+procured by improper influence. This is denied by the Appellants, who contend that
+the applications were properly made in anticipation of the appeal to the Supreme
+Court of Kyrgyzstan.
+38.
+By its judgment of December 15, 2005 (the “December 2005 Judgment”) the
+Supreme Court upheld the appeal of Fellowes and Reservespetsmet. The Supreme
+Court confirmed the April 2005 Judgment on the basis that Fellowes was a party to
+the Transfer Agreement, but also decided that because Fellowes had not signed the
+Transfer Agreement it was not bound by the arbitration clause. The Court also held
+that because the arbitration clause did not provide for the name of the arbitration
+forum to which the parties had agreed to refer disputes, the arbitration agreement was
+invalid. No reference was made to the declarations made by the English and BVI
+courts that Fellowes was not a party to the Transfer Agreement.
+39.
+The KFG Companies claim that: their lawyer was first notified at about 10 am
+on December 15, 2005 that the appeal would take place at 2pm; the Supreme Court
+rejected his applications for an adjournment on the grounds that inadequate notice had
+been given and that time was required to legalise a statement from Mr Harrigan,
+Fellowes’ Receiver, to confirm that the lawyers purporting to act on Fellowes’ behalf
+had no authority to do so; the Supreme Court accepted the representation made to it by
+Fellowes’ lawyers to the effect that Mr Harrigan had been discharged from office,
+when in fact the order of November 29, 2005 discharging him had been stayed on the
+following day pending appeal (which was allowed on April 24, 2006). At 3.30pm the
+Supreme Court delivered its judgment.
+40.
+The decision can only be regarded as bizarre, and even Mr Smith QC for the
+Alfa Parties accepted that “several of these conclusions may look strange through
+English eyes.” In particular, the Court re-iterated that Fellowes was a party to the
+Transfer Agreement, although this was obviously not so. Despite its statement that
+Fellowes was a party to the Agreement it held that it was not bound by the arbitration
+agreement because it did not sign the Agreement and that the arbitration agreement
+was not enforceable because it did not name the arbitral tribunal. It is impossible to
+understand how it could have decided that Fellowes did not sign the arbitration
+agreement in clause 17 at the same time as holding that Fellowes was a party to the
+Agreement, and impossible to understand how it could have decided that the
+arbitration agreement did not identify the arbitral tribunal when the clause plainly
+provided for appointment by the LCIA and when arbitral proceedings were already on
+foot, with Fellowes controlling them on behalf of KMIC.
+Offices seized
+
+Page 10
+
+41.
+Shortly after the Supreme Court delivered the December 2005 Judgment,
+BITEL’s offices were seized by the Bishkek police and various other personnel who it
+is claimed were judicial executors. The KFG Companies contend that these men
+stormed BITEL’s offices without having served any order or writ of execution. The
+Appellants deny that these actions were in any way improper or unjustified. During
+the course of the seizure, there was significant damage to BITEL’s property and
+BITEL’s mobile services across Kyrgyzstan were interrupted. BITEL alleges that this
+damage was caused by the improper resistance of the KFG Companies’
+representatives. This is denied. The KFG Companies allege that representatives of
+the Alfa Parties were present at the seizure. They have produced evidence that Mr
+Andrei Zemnitsky, an Altimo executive (who was also apparently involved in the
+preparation of the Reservespetsmet press releases) was also present.
+Changes in the ownership of BITEL since December 2005
+42.
+On December 15, 2005, Energia Light LLC (“Energia Light”) was registered as
+a co-shareholder in BITEL together with Reservespetsmet. Subsequently, 93% of the
+BITEL shares were sold to CP-Crédit by Energia Light rather than by
+Reservespetsmet.
+43.
+On February 20, 2006, CP-Crédit became the sole shareholder of BITEL and
+was registered as such on March 9, 2006. CP-Crédit is an established Swiss fiduciary
+and it claims to have bought the shares as a nominee for a client beneficially owned by
+a Mr Lebowitz, and says that it is an innocent third party ignorant of any prior fraud.
+The April 2006 Judgment
+44.
+Through its appointed representative, Mr Sadyrov, CP-Crédit caused BITEL to
+bring the proceedings on March 22, 2006 in the Bishkek Interdistrict Court against the
+KFG Companies, claiming that: (a) by virtue of the April 2005 Judgment, the shares
+in BITEL were owned by Fellowes and were subsequently transferred to
+Reservespetsmet on May 20, 2005; (b) on September 14, 2005, although the KFG
+Companies no longer owned the shares in BITEL, they had purported to appoint Mr
+Omurzakov as Chairman of BITEL’s Audit Committee and give him the powers of
+general director of BITEL; (c) notwithstanding Order 1570, the KFG Companies
+refused to recognise Reservespetsmet as BITEL’s legal owner and, as a consequence
+of this, Reservespetsmet had been compelled to obtain orders from the Sverdlovsk
+District Court; (d) when bailiffs sought to execute the orders from the Sverdlovsk
+District Court, the KFG Companies had unreasonably refused access to BITEL’s
+offices; (e) on the direct orders of the KFG Companies, documents belonging to
+BITEL were removed, BITEL property was destroyed and the operation of BITEL’s
+switchboard was interrupted, causing a total loss to BITEL of approximately US$18
+
+Page 11
+
+million; (f) on the direct orders of the KFG Companies, on December 14 and 15, 2005
+BITEL employees caused BITEL to make illegitimate payments of approximately
+US$10 million.
+45.
+As a result, BITEL claimed US$28,174,037 restitution for loss and damage on
+the grounds that the KFG Companies had unjustifiably asserted rights of ownership
+over BITEL and were responsible for damage caused to its property when the offices
+were seized by Reservespetsmet.
+46.
+On March 23, 2006, the Bishkek Interdistrict Court directed that a full hearing
+on the merits was to take place on April 4, 2006 subsequently adjourned to April 7,
+and then April 10, 2006. On April 10, 2006, Mr Asylov (the KFG Companies’
+lawyer) filed a statement of objection to the claim. Neither party called any witnesses.
+It is in dispute between the parties whether or not Mr Asylov attempted to make oral
+applications to challenge the jurisdiction of the Court and to ask the Court to appoint
+an independent expert or, alternatively, for further time to consider and prepare a
+response to an expert’s report, which he claimed not to have seen until that day.
+47.
+By its judgment given on April 10, 2006 (the “April 2006 Judgment”), the
+Court held that the KFG Companies were liable to BITEL in the sum of
+US$24,159,452. The April 2006 Judgment was founded upon the fact that BITEL
+was owned by Reservespetsmet (by reason of the April and December 2005
+Judgments and the sale to Reservespetsmet) and not by the KFG Companies. The
+Court directed that the judgment could be enforced against the sum of US$20.5
+million held for the KFG Companies in the deposit account of the Kyrgyz Ministry of
+Justice pursuant to the April 2005 Judgment.
+48.
+It is the KFG Companies’ case that the April 2006 Judgment was obtained by
+fraud, in proceedings which were opposed to natural justice, and/or in such a manner
+that to enforce it in the Isle of Man would be contrary to public policy. The primary
+ground on which the KFG Companies rely is that since the April 2006 Judgment was
+procured on the basis of the April and December 2005 Judgments (both of which they
+say are impeachable on grounds of fraud, public policy and want of natural justice)
+and the purported sale to Reservespetsmet (which they say was also fraudulent), the
+April 2006 Judgment is itself unenforceable. The KFG Companies’ case on all these
+matters is denied by the Appellants.
+49.
+On May 4, 2006, the Bishkek Interdistrict Court made an order for the
+enforcement of the April 2006 judgment and such judgment was enforced against the
+US$20.5 million which Fellowes had deposited at the Kyrgyz Ministry of Justice after
+the April 2005 judgment. This left a balance of approximately US$3.6 million due to
+BITEL from the KFG Companies.
+
+Page 12
+
+Transfer to AK Investment
+50.
+On June 28, 2006, AK Investment, which had been incorporated on June 13,
+2006, became the sole shareholder of BITEL and was registered as such on July 5,
+2006. AK Investment claims that its beneficial owner is a Mr Sherbakov.
+51.
+The KFG Companies say that from the evidence as a whole it is to be inferred
+that AK Investment, like CP-Crédit, was not an innocent third party as claimed, but
+rather acted as a stooge of Altimo in relation to Altimo’s fraudulent scheme to launder
+BITEL’s shares and assets which it knew had been wrongfully obtained.
+
+The transfer of BITEL’s assets to Sky Mobile
+52.
+Between May and July 2006, (a) the assets of BITEL were transferred to Sky
+Mobile, a company incorporated in April 2006 and newly acquired by the Alfa group;
+and (b) the shares in BITEL were transferred by CP-Crédit to AK Investment.
+The KFG Companies’ claims of collusive behaviour
+53.
+CP-Crédit, AK Investment and the Alfa Parties have adduced evidence which
+they say shows that the transactions were all bona fide arm’s length transactions, and
+that the sale of the BITEL shares to AK Investment was unrelated to the sale of
+BITEL’s assets to Sky Mobile.
+54.
+The KFG Companies, on the other hand, say that there is strong evidence that
+none of the purported transfers of the shares in BITEL to Energia Light LLC, CP
+Crédit or AK Investment or the transfer of BITEL’s assets to Sky Mobile were arm’s
+length transactions, and that they were collusive transfers, for these reasons.
+i)
+CP-Crédit was involved in the production of the documents purportedly
+evidencing the supposed sale of BITEL by Fellowes to Reservespetsmet in
+May 2005.
+ii)
+The person purportedly appointed by Fellowes’ shareholders (including
+Altimo BVI) to act on behalf of Fellowes in relation to appointment of
+Lovianco as Fellowes’ agent in relation to the supposed May sale, and who
+subsequently signed both the supposed agency agreement and the notice of
+termination of that agreement, was Mr Valery Tutykhin. The KFG Companies
+say that Mr Tutykhin is CP-Crédit’s manager for Russian projects, and that he
+
+Page 13
+
+has extensive experience of corrupt practices in the context of corporate
+raiding.
+iii)
+The Alfa group exercised de facto control over BITEL at all material
+times after Reservespetsmet had seized control of the company in December
+2005.
+iv)
+The same key personnel who were appointed by Reservespetsmet
+continued to exercise control over BITEL after December 2005 despite the later
+ostensible changes of ownership. In particular, Mr Sadyrov, who conducted
+the litigation on behalf of Reservespetsmet whilst collaborating with Altimo
+executives in the production of Reservespetsmet’s electronic press releases,
+was subsequently appointed by each of CP-Crédit and AK Investment in turn
+as their representative in relation to their shareholdings in BITEL.
+v)
+No explanation has been given by any party as to who is behind Energia
+Light, why it became a shareholder in December 2005, how it acquired its
+interest, what it paid for that interest, or how it came to sell that interest to CP-
+Crédit at what appears to have been a substantial undervalue.
+vi)
+There are strong grounds for concluding that the transaction under which
+CP-Crédit acquired its interest in BITEL in February 2006 was not a genuine
+arm’s length transaction on commercial terms as claimed, but was a collusive
+transaction which did not result in any change to the underlying ownership of
+BITEL.
+vii)
+The effect of the evidence of Denis Shershnev, the general director of
+BITEL appointed by Reservespetsmet in December 2005, is that he understood
+Reservespetsmet to have remained the owner of BITEL until the transfer of the
+shares to AK Investment. In particular, Mr Shershnev states that he consulted
+with Miss Ignatova (not CP-Crédit) in relation to the sale of the shares in
+BITEL to AK Investment and that the terms of the sale to AK Investment were
+subsequently handled between lawyers for AK Investment and lawyers for
+Reservespetsmet.
+viii) The price of $21.7m at which CP-Crédit claims to have acquired its
+interest was a fraction of the market value of the shares in BITEL in early
+2006. MTS had paid $150m for a 51% indirect interest in BITEL two months
+earlier and a valuation report prepared four months later valued the company as
+a whole at approximately $150m. No evidence has been filed on behalf of any
+party to explain how or why the price of $21.7m was agreed. Nor has any
+
+Page 14
+
+explanation been given as to why the purchase price was not paid until several
+weeks after the shares had been transferred to CP-Crédit.
+ix)
+AK Investment was registered as the new owner of the shares on July 5,
+2006 before the price of $45m was agreed on July 10, 2006. The price was a
+fraction of the true value of the shares in July 2006.
+x)
+The terms of the almost simultaneous sale of BITEL’s assets to Sky
+Mobile, which is admittedly owned by the Altimo Companies, were such that
+AK Investment on its own evidence made a vast windfall profit within a matter
+of weeks, since the price paid by Sky Mobile for BITEL’s “property complex”
+alone was $45m and Mr Sherbakov states that AK Investment also received a
+further $40m for its brand name and intellectual property rights. No sensible
+explanation has been given for the fact that CP-Crédit (or its client Mr
+Lebowitz) was willing to sell the shares in BITEL to AK Investment for $45m,
+rather than reaping the windfall profit itself.
+The crucial points
+55.
+In this detailed narrative, the crucial points for present purposes are these:
+(1)
+The Transfer Agreement was between the KFG Companies and IPOC,
+and IPOC had a right to transfer its interest to KMIC.
+(2)
+The Transfer Agreement was governed by English law and included an
+arbitration agreement, providing for LCIA arbitration.
+(3)
+Fellowes was not a party to the Transfer Agreement.
+(4)
+From March 2004 there were arbitral proceedings between KMIC and
+the KFG Companies under the Transfer Agreement.
+(5)
+In the proceedings which led to the April 2005 Judgment Fellowes
+falsely claimed to be a party to the Transfer Agreement.
+(6)
+The April 2005 Judgment decided that Fellowes had signed the Transfer
+Agreement, and ignored the arbitration agreement.
+
+Page 15
+
+(7)
+The English and BVI courts granted injunctions restraining Fellowes
+from bringing any proceedings to enforce rights under the Transfer
+Agreement except by way of LCIA arbitration in London, or enforcing
+the April 2005 Judgment.
+(8)
+The English court (and the BVI court) made a declaration that no
+contract existed between the KFG Companies and Fellowes since
+Fellowes was not a party to the Transfer Agreement, and that the
+proceedings brought by Fellowes in Kyrgyzstan were vexatious and
+oppressive.
+(9)
+The Receiver informed the Kyrgyz court that he had revoked all
+authority granted by Fellowes to its lawyers to represent it in the Kyrgyz
+proceedings.
+(10) Fellowes sought and obtained an order from the BVI court discharging
+the appointment of the Receiver, but the order was stayed pending
+appeal.
+(11) In October 2005 the BVI court granted an injunction restraining
+Fellowes from transferring the BITEL shares.
+(12) Reservespetsmet obtained an order for registration of the BITEL shares
+in its name on the basis that it had purchased the BITEL shares from
+Fellowes in May 2005. Fellowes claimed that the sale of its interest in
+BITEL had been effected by an agent on its behalf but with its
+knowledge.
+(13) There is strong evidence that Reservespetsmet’s press releases about its
+acquisition of the shares came from the Altimo computer gateway.
+(14) In breach of the injunction and the receivership order Fellowes sought
+re-instatement of the April 2005 Judgment. Its lawyers falsely told the
+Supreme Court of Kyrgyzstan that the Receiver had been discharged.
+(15) The December 2005 Judgment confirmed the April 2005 Judgment on
+the basis that Fellowes was a party to the Transfer Agreement but held
+that because Fellowes had not signed the Transfer Agreement it was not
+bound by the arbitration clause. The Court also held that because the
+arbitration clause did not provide for the name of the arbitration forum
+
+Page 16
+
+to which the parties had agreed to refer disputes, the arbitration
+agreement was invalid.
+(16) Shortly thereafter BITEL’s offices were seized.
+(17) The April 2006 Judgment was founded on the fact that BITEL was
+owned by Reservespetsmet (by reason of the April and December 2005
+Judgments and the alleged sale to Reservespetsmet on behalf of
+Fellowes in May 2005), not by the KFG Companies. The Court directed
+that the judgment could be enforced against the sum of US$20.5 million
+held for the KFG Companies in the deposit account of the Kyrgyz
+Ministry of Justice pursuant to the April 2005 Judgment.
+(18)
+The consequence of all of this was that (i) the KFG Companies were
+deprived of their shares in BITEL; (ii) the deposit of $20.5 million
+placed by Fellowes and intended for the KFG Companies was taken by
+BITEL; and (iii) the business of BITEL was transferred to Sky Mobile,
+an Alfa group company.
+III
+The Isle of Man proceedings
+56.
+BITEL commenced the present proceedings in the Isle of Man on July 25, 2006
+to seek to enforce the balance of the April 2006 Judgment, $3.6 million. The pleading
+could have been limited to identifying the judgment debt and the jurisdiction of the
+foreign court in the international sense, and claiming the balance of the judgment debt
+as a debt. Instead it contains an elaborate account of the background to the judgment
+including allegations that the KFG Companies were involved in frauds on BITEL.
+57.
+On August 16, 2006, BITEL commenced separate proceedings in the Isle of
+Man against the KFG Companies relating to the alleged authorisation by the KFG
+Companies and their directors of an illegal dividend of US$25,206,694 paid from
+BITEL to, or at the direction of, the KFG Companies in January 2005. This claim has
+no direct relevance to the current proceedings.
+58.
+On January 26, 2007 the KFG Companies filed their Defence and
+Counterclaim. The Counterclaim against BITEL seeks the following relief: (1) a
+declaration that the April 2006 judgment was obtained by fraud; (2) damages to be
+assessed in respect of the wrongful obtaining of the April 2006 judgment; (3) damages
+to be assessed in respect of the wrongful transfer of its assets to Sky Mobile.
+
+Page 17
+
+59.
+As well as making a Counterclaim against BITEL, the KFG Companies sought
+(among other things) to join 13 additional parties as defendants to counterclaim, and
+applied on January 30, 2007 for permission to serve their Counterclaim out of the
+jurisdiction on the proposed new defendants to counterclaim as all of those parties
+were overseas.
+60.
+The parties agree that the law applicable to the claims in the Counterclaim is
+the law of Kyrgyzstan. The three Kyrgyz law causes of action that are said by the
+KFG Companies to arise against the Appellants are these: (1) Causing harm
+(tort/delict): The KFG Companies claim that, pursuant to Articles 993, 997, 1008,
+1010 and 14 of the Civil Code of Kyrgyzstan, a person who has been harmed is
+entitled to full compensation for any harm suffered by the person who has caused the
+harm. (2) Unjust enrichment: The KFG Companies claim that, pursuant to Articles
+1029, 1031, 1032 and 1034 of the Civil Code, any person who, without legal
+justification, has acquired or taken the benefit of property at the expense of another
+person shall have a duty to return the property. (3) Abuse of right: The KFG
+Companies claim that, pursuant to Article 9 of the Civil Code of Kyrgyzstan, abuse of
+a legal right is prohibited under Kyrgyz law and it includes, but is not limited to,
+obtaining and enforcing a right through fraud or by abuse of the judicial process. A
+person who has abused a right is obliged to reinstate the position of the person who
+has suffered and compensate him in full for any harm done.
+61.
+The KFG Companies claim:
+(1) Fellowes, Reservespetsmet, Energia Light, CP-Crédit and AK
+Investment have been unjustly enriched at the KFG Companies’ expense
+as a result of the wrongful misappropriation of the shares in BITEL and
+are liable to return the shares to the KFG Companies (together with
+compensation for any diminution in the value of the shares since they
+were misappropriated) and/or to account for the benefit they have
+derived from them.
+(2) Fellowes, Mr Varenko, Mr Orynbaev, Altimo BVI, Altimo Russia,
+Reservespetsmet, Miss Ignatova, Lovianco and Pravo have jointly
+caused the wrongful misappropriation of the shares in BITEL from the
+KFG Companies and are jointly and severally liable to compensate the
+KFG Companies for the loss which they have suffered as a result.
+(3) Fellowes and Reservespetsmet have abused their rights to bring
+proceedings before the Kyrgyz Courts and/or to enforce in Kyrgyzstan
+the judgments which they obtained there, and are liable to compensate
+the KFG Companies for the loss which they have suffered as a result.
+
+Page 18
+
+(4) BITEL has wrongfully obtained the April 2006 Judgment and is
+liable to compensate the KFG Companies for the loss which they have
+suffered as a result.
+(5) BITEL, Sky Mobile and Altimo Russia have jointly caused the
+wrongful transfer of BITEL’s assets to Sky Mobile and are jointly and
+severally liable to compensate the KFG Companies for the loss which
+they have suffered as a result.
+62.
+So far as the parties to the present appeal are concerned, the prayers in the
+Counterclaim are as follows: (1) against AK Investment, an order that it take such
+steps as may be necessary to return the shares in BITEL to the KFG Companies; (2)
+against Fellowes, CP-Crédit, and AK Investment (a) a declaration that any interest
+which any of them might have held in the shares in BITEL as a matter of Kyrgyz law
+has been held on trust for the KFG Companies; and (b) equitable compensation; (c) an
+order for an account of benefits; and (3) against Fellowes and the Alfa Parties,
+damages for the wrongful misappropriation of the shares in BITEL.
+IV
+The basis of jurisdiction and the decisions of the Deemster and the Staff of
+Government Division
+Necessary and proper parties and the Manx High Court Rules
+63.
+The KFG Companies sought permission to join the Appellants (among others)
+on the basis of the Manx High Court Rules (“MHCR”), Ord. 6, r. 1(g) and (h).
+Permission was granted by the court (Deemster Doyle) on February 1, 2007 without a
+hearing. BITEL’s Reply and Defence to Counterclaim was served on May 9, 2007.
+64.
+MHCR Ord. 6, r.1(g) provides that service out of the jurisdiction may be
+allowed whenever
+“any person out of the jurisdiction is a necessary or proper party to an
+action properly brought against some other person duly served within
+the jurisdiction.”
+65.
+This corresponds to the former RSC Ord. 11, r.1(c) in England. There were
+three changes to that rule in England which came into effect in 1987, which were not
+made in the Isle of Man. First, Ord. 11, r.1(c) was extended so that it applied where
+the original claim was brought against a person “duly served within or out of the
+jurisdiction” and not only as regards a person “duly served within the jurisdiction” as
+
+Page 19
+
+the Manx rules continue to provide. Second, the word “properly” in the phrase
+“properly brought” against that person was omitted. This made no substantive
+difference, particularly in the light of the third change, which was that a new RSC
+Ord. 11, r.4(1)(d) provided that where an application was made under RSC Ord. 11,
+r.1(1)(c), the applicant for leave had to show grounds for belief that there was between
+the plaintiff and the person on whom a writ had been served “a real issue which the
+plaintiff may reasonably ask the Court to try.” No such change was made in the Isle of
+Man, but it was declaratory of the principle established in Ellinger v Guinness, Mahon
+& Co [1939] 4 All ER 16, 22, where Morton J said:
+“I do not think it is part of the function of the court, in considering
+whether an action is 'properly brought' against a party within the
+jurisdiction, to arrive at a conclusion as to whether the plaintiff will or
+will not succeed against that party. It is enough if the court is satisfied
+that there is a real issue between the plaintiff and that party which the
+plaintiff may reasonably ask the court to try.”
+66.
+What was RSC Ord. 11 has now been relegated to Practice Direction Part B of
+Part 6 of the Civil Procedure Rules, and para 3.1(3) of the Practice Direction has the
+same effect as the former RSC Ord. 11, r.1(1)(c) as amended, by providing that a
+claim form may be served on a defendant abroad with the permission of the court,
+where
+“A claim is made against a person (‘the defendant’) on whom the claim
+form has been or will be served (otherwise than in reliance on this
+paragraph) and (a) there is between the claimant and the defendant a real
+issue which it is reasonable for the court to try; and (b) the claimant
+wishes to serve the claim form on another person who is a necessary or
+proper party to that claim.”
+67.
+None of these changes affects the questions of law which arise on this appeal,
+each of which applies equally to the amended RSC and to the current CPR.
+68.
+The second provision of the MHCR on which the KFG Companies relied is
+Ord. 6, r.1(h), which provides that service out of the jurisdiction might also be
+allowed “in any other case where upon cause shown the Court shall be of opinion that
+there are sufficient special grounds to warrant service of a summons or notice out of
+the jurisdiction.” There was no equivalent to this provision, which dates from 1884, in
+the former Rules of the Supreme Court in England. It is possible, but by no means
+certain, that it has its origin in a provision in the English Court of Chancery
+Consolidated Orders, Ord. X, r.7, giving a general power to serve out of the
+jurisdiction, which provided: “Where a Defendant in any suit is out of the jurisdiction
+
+Page 20
+
+of the Court, the Court, upon application, supported by such evidence as shall satisfy
+the Court in what place or country such Defendant is or may probably be found, may
+order that a copy of the bill … may be served on such Defendant, in such place or
+country or within such limits as the Court shall think fit to direct.” See Cookney v
+Anderson (1863) 1 DJ&S 365; Drummond v Drummond (1866) LR 2 Ch App 32.
+69.
+In Arquebus Ltd. (In Liquidation) v Rafter, September 27, 2004, Deemster
+Doyle considered that Ord. 6, r. (1)(h) may have originally been inserted to cover
+cases of tort not covered by other parts of the Rule, citing Moore, The Isle of Man and
+International Law (1926), 29, but he took the view that it was not limited to tort cases,
+and concluded (at [39]):
+“The width of [Ord. 6, r. 1(h)] is such that the courts should be careful to
+see that it is not abused but it can be used legitimately in a proper case to
+ensure that justice is not defeated and that there are no holes in which
+wrongdoers can attempt to hide from judgment day. In each case there
+must be a substantial connection with this jurisdiction to justify granting
+leave for service out of the jurisdiction.”
+The decisions of the Deemster and the Staff of Government Division
+70.
+The present Appellants sought to set aside the orders for service out of the
+jurisdiction. The Deemster set aside the orders because the KFG Companies had failed
+to establish that the Isle of Man was clearly the appropriate forum for trial of the
+issues in the counterclaim. He did not therefore find it necessary to deal with the
+arguments that the counterclaims were not properly brought against BITEL and that
+the Appellants were not proper parties, nor with the applicability of MHCR, Ord. 6,
+r.1(h). The Staff of Government Division allowed the appeal. It found that the claims
+against the present Appellants came within MHCR, Ord. 6, r.1(g), and it held that it
+was entitled to interfere with the exercise of discretion by the Deemster for reasons
+developed in section VI of this advice.
+V
+Legal principles
+General considerations
+71.
+On an application for permission to serve a foreign defendant (including an
+additional defendant to counterclaim) out of the jurisdiction, the claimant (or
+counterclaimant) has to satisfy three requirements: Seaconsar Far East Ltd. v Bank
+Markazi Jomhouri Islami Iran [1994] 1 AC 438, 453-457. First, the claimant must
+satisfy the court that in relation to the foreign defendant there is a serious issue to be
+
+Page 21
+
+tried on the merits, i.e. a substantial question of fact or law, or both. The current
+practice in England is that this is the same test as for summary judgment, namely
+whether there is a real (as opposed to a fanciful) prospect of success: e.g. Carvill
+America Inc v Camperdown UK Ltd [2005] EWCA Civ 645, [2005] 2 Lloyd’s Rep
+457, at [24]. Second, the claimant must satisfy the court that there is a good arguable
+case that the claim falls within one or more classes of case in which permission to
+serve out may be given. In this context “good arguable case” connotes that one side
+has a much better argument than the other: see Canada Trust Co v Stolzenberg (No 2)
+[1998] 1 WLR 547, 555-7 per Waller LJ, affd [2002] 1 AC 1; Bols Distilleries BV v
+Superior Yacht Services [2006] UKPC 45, [2007] 1 WLR 12, [26]-[28]. Third, the
+claimant must satisfy the court that in all the circumstances the Isle of Man is clearly
+or distinctly the appropriate forum for the trial of the dispute, and that in all the
+circumstances the court ought to exercise its discretion to permit service of the
+proceedings out of the jurisdiction.
+Counterclaims
+72.
+This is by no means the first case in which a submission by claimants to the
+jurisdiction by bringing a claim has resulted in an unexpected counterclaim: see e.g.
+Settlement Corp v Hochschild (No 1) [1966] Ch 10 and Buttes Gas & Oil Co v
+Hammer (No 1) [1971] 3 All ER 1025, followed by the proceedings reported at [1982]
+AC 888. In Derby & Co Ltd v Larsson [1976] 1 WLR 202 (HL) it was held that
+permission to serve additional defendants to the counterclaim could be obtained in
+such a case under what became RSC Ord. 11, r (1)(c) and what is now CPR PD6B,
+para 3.1(3), because the original plaintiffs had submitted to the jurisdiction and
+thereby submitted themselves to the risk of a counterclaim. Consequently the
+counterclaim was “properly brought against a person duly served within the
+jurisdiction” and the additional defendants to the counterclaim could be necessary or
+proper parties to the original counterclaim.
+The necessary or proper party head of jurisdiction
+73.
+The necessary or proper party head of jurisdiction is anomalous, in that, by
+contrast with the other heads, it is not founded upon any territorial connection between
+the claim, the subject matter of the relevant action and the jurisdiction of the English
+courts: The Brabo [1949] AC 326, 338, per Lord Porter. Piggott, Foreign Judgments
+and Jurisdiction (3rd ed, 1910), pt III, p 238, said: “This is perhaps the most important
+of the sub-rules, for it throws the net of jurisdiction over a wider area; and the
+principle of considering the nature of the cause of action which pervades the whole
+subject, appears here to be ignored.” Consequently as Lloyd LJ said in The Goldean
+Mariner [1990] 2 Lloyd’s Rep 215 at 222:
+
+Page 22
+
+“I agree … that caution must always be exercised in bringing foreign
+defendants within our jurisdiction under O.11 r.1(1)(c). It must never
+become the practice to bring foreign defendants here as a matter of
+course, on the ground that the only alternative requires more than one
+suit in more than one different jurisdiction.”
+“Properly brought” and “proper party”
+74.
+Among the questions which arise on this appeal are these: When is an action
+“properly brought” against the defendant served within the jurisdiction (and outside
+the jurisdiction under the English rules), referred to here as D1, or “the anchor
+defendant”? When will the foreign additional defendant, or D2, be a “proper party”?
+In particular, what is the merits threshold for each of those claims? Is the claim not
+“properly brought” against D1 if the motive of the claimant in suing D1 is to add D2?
+Does it matter that in practice the claimant will not recover against D1?
+75.
+The leading decisions are the decisions of the House of Lords in Improvement
+Commissioners v Armement Anversois SA (The Brabo) [1949] AC 32 and Derby & Co
+Ltd v Larsson [1976] 1 WLR 202, and of the Court of Appeal in Massey v Heynes &
+Co (1888) 21 QBD 330 and Multinational Gas and Petrochemical Co v Multinational
+Gas and Petrochemical Services Ltd [1983] Ch 258. The members of those tribunals
+do not all speak with one voice, but the following propositions may be derived from
+them.
+The motive in suing the anchor defendant
+76.
+First, the mere fact that D1 is sued only for the purpose of bringing in D2 is not
+fatal to the application for permission to serve D2 out of the jurisdiction: The Brabo
+[1949] AC 326, 338-9, per Lord Porter; Derby & Co Ltd v Larsson [1976] 1 WLR
+202, 203, per Viscount Dilhorne.
+77.
+The question was discussed extensively (and somewhat discursively) in
+Multinational Gas and Petrochemical Co. v Multinational Gas and Petrochemical
+Services Ltd [1983] Ch 258, but without reference to the relevant passages in The
+Brabo and without any citation to the court of Derby & Co Ltd v Larsson.
+78.
+The point arose in Multinational Gas because D1 was in liquidation and
+therefore the plaintiff had no real prospect of recovery against D1. Lawton LJ did not
+treat as fatal to the application the fact that the sole, or predominant, reason for
+beginning the action against a party duly served within the jurisdiction was to enable
+
+Page 23
+
+an application to be made to serve the parties outside the jurisdiction. It was instead a
+relevant factor in the exercise of the discretion: at 268. Dillon LJ said (at 285) that an
+action was not to be regarded as properly brought against D1 if the true inference from
+all the facts was that the sole reason for suing D1 was to found an application to join
+foreign defendants in the action. But although he held that the predominant reason for
+the action against D1 was to enable foreign defendants to be joined, he regarded the
+action as bona fide and properly brought: at 286-287. May LJ considered that if there
+was a good arguable case against D1 in an action in which any judgment obtained
+against that defendant might or would not be met owing to lack of funds, the fact that
+the main or predominant purpose of keeping D1 in the proceedings was to enable the
+plaintiff to bring in D2 was not a ground for saying that the proceedings were not
+properly brought against D1: see at 273-279. See also Goldenglow Nut Food Co Ltd v
+Commodin (Produce) Ltd [1987] 2 Lloyd’s Rep 569, 578 (CA).
+79.
+The better view, therefore, is that the fact that D1 is sued only for the purpose
+of bringing in the foreign defendants is a factor in the exercise of the discretion and
+not an element in the question whether the action is “properly brought” against D1,
+provided that there is a viable claim against D1.
+“Bound to fail”
+80.
+Second, the action is not properly brought against D1 if it is bound to fail: The
+Brabo [1949] AC 326, 338-9, per Lord Porter. He also put the point (echoing Witted v
+Galbraith [1893] 1 QB 577) on the basis that leave will not be granted if the lack of a
+plausible cause of action against D1 shows that the presence of D1 in the jurisdiction
+is being used as a device to bring in D2. See also Multinational Gas and
+Petrochemical Co. v Multinational Gas and Petrochemical Services Ltd. [1983] Ch
+258, 268, 273-274.
+ “Bound to fail”/“Serious issue to be tried” and questions of law
+81.
+A question of law can arise on an application in connection with service out of
+the jurisdiction, and, if the question of law goes to the existence of jurisdiction, the
+court will normally decide it, rather than treating it as a question of whether there is a
+good arguable case: Hutton (EF) & Co (London) Ltd. v Mofarrij [1989] 1 WLR 488,
+495 (CA); Chellaram v Chellaram (No 2) [2002] EWHC 632 (Ch), [2002] 3 All ER
+17, [136].
+82.
+Because this appeal is concerned with the “necessary or proper party”
+provision, the question of the merits of the claims is relevant to the question of
+whether the claim against D1 is “bound to fail” and to the question whether there is a
+“serious issue to be tried” in relation to the claim against D2. There is no practical
+
+Page 24
+
+difference between the two tests, and they in turn are the same as the test for summary
+judgment.
+83.
+What is the position if the viability of the claims depends on a substantial issue
+of law? Is the court bound to decide it at the stage of the application to set aside
+service out of the jurisdiction?
+84.
+The general rule is that it is not normally appropriate in a summary procedure
+(such as an application to strike out or for summary judgment) to decide a
+controversial question of law in a developing area, particularly because it is desirable
+that the facts should be found so that any further development of the law should be on
+the basis of actual and not hypothetical facts: e.g. Lonrho Plc. v. Fayed [1992] 1 A.C.
+448 , 469 (approving Dyson v Att-Gen [1911] 1 KB 410, 414: summary procedure
+“ought not to be applied to an action involving serious investigation of ancient law
+and questions of general importance ...”); X (Minors) v Bedfordshire County Council
+[1995] 2 AC 633 at 741 (“Where the law is not settled but is in a state of development
+… it is normally inappropriate to decide novel questions on hypothetical facts”);
+Barrett v Enfield London BC [2001] 2 AC 550, 557 (strike out cases); Home and
+Overseas Insurance Co. Ltd. v Mentor Insurance Co. (U.K.) Ltd. [1990] 1 WLR 153
+(summary judgment). In the context of interlocutory injunctions, in the famous case
+of American Cyanamid Co v Ethicon Ltd [1975] AC 396, 407 it was held that the
+court must be satisfied that the claim is not frivolous or vexatious, in other words, that
+there is a serious question to be tried. It was no part of the court’s function “to decide
+difficult questions of law which call for detailed argument and mature consideration.”
+85.
+In Seaconsar Far East Ltd. v Bank Markazi Jomhouri Islami Iran [1994] 1 AC
+438, 452, Lord Goff said that if, at the end of the day, there remained a substantial
+question of fact or law or both, arising on the facts disclosed by the affidavits, which
+the plaintiff bona fide desired to try, the court should, as a rule, allow the service of
+the writ. The standard of proof in respect of the cause of action could broadly be
+stated to be whether, on the affidavit evidence before the court, there was a serious
+question to be tried.
+86.
+There is no reason why the same principle should not apply to the question
+whether, in a service out of the jurisdiction case on the “necessary or proper party”
+head, a claim is “bound to fail” as well as to the question whether there is a “serious
+issue to be tried” in the claim against D2. Prior to the modern authorities on striking
+out, summary judgment, and interlocutory injunctions, the point was considered in the
+context of “necessary or proper party” in The Brabo [1949] AC 326. In that case it
+was held that the claim against D1 was bound to fail because the claim against it was
+made as agent of the Crown and it was therefore entitled to Crown immunity (as it
+then was). That was not a case where the point of law was a difficult one. Lord Porter
+said (at 341) that “when the various Acts and provisions are collated the answer is
+
+Page 25
+
+clear.” Consequently the observations of the members of the Appellate Committee are
+obiter, but although they do not all put it in the same way, the overall effect of the
+decision is that if the question is whether the claim against D1 is bound to fail on a
+question of law it should be decided on the application for permission to serve D2 (or
+on the application to discharge the order granting permission), but not where there is
+an exceptionally difficult and doubtful point of law: Lord Porter at 341, and cf at 338,
+per Lord Porter; Lord du Parcq at 351. Contrast Lord Simonds at 348: “…the court
+should not easily be deterred by any apparent difficulty or complexity of subject
+matter from considering and, if it can do so at that stage, forming an opinion on the
+question whether the action is bound to fail against the defendants within the
+jurisdiction.”
+ “One investigation”/ “closely bound up”
+87.
+Third, the question whether D2 is a proper party is answered by asking:
+“Supposing both parties had been within the jurisdiction would they both have been
+proper parties to the action?”: Massey v Heynes & Co (1888) 21 QBD 330 at 338, per
+Lord Esher MR. D2 will be a proper party if the claims against D1 and D2 involve one
+investigation: Massey v Heynes & Co at 338, per Lindley LJ; applied in Petroleo
+Brasiliero SA v Mellitus Shipping Inc (The Baltic Flame) [2001] EWCA Civ 418,
+[2001] 1 Lloyd’s Rep 203, at [33] and in Carvill America Inc v Camperdown UK Ltd
+[2005] EWCA Civ 645, [2005] 2 Lloyd’s Rep 457, at [48], where Clarke LJ also used,
+or approved, in this connection the expressions “closely bound up” and “a common
+thread”: at [46], [49] .
+The exercise of discretion
+88.
+The principles governing the exercise of discretion set out by Lord Goff of
+Chieveley in Spiliada Maritime Corp v Cansulex Ltd [1987] AC 460, at 475-484, are
+familiar, and it is only necessary to re-state these points: first, in both stay cases and in
+service out of the jurisdiction cases, the task of the court is to identify the forum in
+which the case can be suitably tried for the interests of all the parties and for the ends
+of justice; second, in service out of the jurisdiction cases the burden is on the claimant
+to persuade the court that England (in this case, of course, the Isle of Man) is clearly
+the appropriate forum; third, where the claim is time-barred in the foreign jurisdiction
+and the claimant’s claim would undoubtedly be defeated if it were brought there,
+practical justice should be done, so that if the claimant acted reasonably in
+commencing proceedings in England, and did not act unreasonably in not
+commencing proceedings in the foreign country, it may not be just to deprive the
+claimant of the benefit of the English proceedings.
+Justice in the foreign jurisdiction
+
+Page 26
+
+89.
+Lord Goff in Connelly v RTZ Corp plc (No 2) [1998] AC 854, 866, quoted with
+approval from the judgment of Sir Thomas Bingham MR in the Court of Appeal
+([1997] ILPr 643, 651):
+“But faced with a stark choice between one jurisdiction, albeit not the
+most appropriate in which there could in fact be a trial, and another
+jurisdiction, the most appropriate in which there never could, in my
+judgment, the interests of justice would tend to weigh, and weigh
+strongly in favour of that forum in which the plaintiff could assert his
+rights”.
+90.
+Two questions on this aspect of the present case have been canvassed on this
+appeal. The first is the standard of proof to be satisfied by the party which asserts that
+justice will not be done in the foreign jurisdiction: does that party have to show that
+justice will not be done, or simply that there is a risk that it will not be done? The
+second is whether the court may rule that as a result, for example, of endemic
+corruption, justice is not to be obtained in the foreign legal system in general.
+91.
+The earliest cases arose in proceedings by German Jewish refugees in England
+against German companies. In Oppenheimer v Louis Rosenthal & Co. AG [1937] 1
+All ER 23 the Court of Appeal held that a German Jew was entitled to sue his German
+employer in England under a contract governed by German law, because in Germany
+the plaintiff would have to appear in person since he would not be allowed to be
+legally represented and he would be under a real risk of being arrested and put in a
+concentration camp. In Ellinger v Guinness, Mahon & Co [1939] 4 All ER 16, 24,
+Morton J accepted the evidence of the plaintiff, and of Dr F A Mann, “a fully qualified
+German lawyer and a Doctor of Laws of the Universities of Berlin and London, and
+who practises as a consultant on German law in London”, that, if the plaintiff were
+compelled to bring proceedings in Germany against the German defendant whom he
+sought to add, he would be unable to obtain justice there.
+92.
+In The Abidin Daver [1984] AC 398, at 411, Lord Diplock said that the
+“possibility cannot be excluded that there are still some countries in whose courts
+there is a risk that justice will not be obtained” and gave some examples, none of
+which is close to this case. He went on to say that a plaintiff in an English action
+seeking to resist a stay (that being a stay case) upon the ground that “even-handed
+justice may not be done to him in that particular foreign jurisdiction, must assert this
+candidly and support his allegations with positive and cogent evidence.” That was not
+a case in which this question arose for decision, but it is clear that Lord Diplock was
+speaking of evidence of risk, and that he was not requiring a higher standard, that
+justice would not be done.
+
+Page 27
+
+93.
+In other decisions of the House of Lords, again obiter, Lord Diplock’s dictum
+was treated as requiring evidence that the claimant “will not” obtain justice in the
+foreign jurisdiction. In Spiliada Maritime Corp v Cansulex Ltd [1987] AC 460, 478,
+Lord Goff of Chieveley, summarised the relevant part of Lord Diplock’s speech by
+referring to “the fact, if established objectively by cogent evidence, that the plaintiff
+will not obtain justice in the foreign jurisdiction” and in Connelly v RTZ Corp (No 2)
+[1998] AC 854, 873, Lord Goff said: “Only if the plaintiff can establish that
+substantial justice cannot be done in the appropriate forum, will the court refuse to
+grant a stay …” Lord Bingham in Lubbe v Cape plc [2000] 1 WLR 1545, 1554 said
+(citing Lord Goff in Spiliada and Connelly): “It is only if the plaintiff can establish
+that substantial justice will not be done in the appropriate forum that a stay will be
+refused …”
+94.
+In two decisions of the Court of Appeal it has been held that the relevant
+question to which the cogent evidence will go is to the risk that justice will not be
+done in the foreign jurisdiction, and that it is not necessary to establish that on the
+balance of probabilities that the risk will eventuate: Cherney v Deripaska [2009]
+EWCA Civ 849, [2009] 2 CLC 408, at [28]-[29], per Waller LJ; Pacific International
+Sports Clubs Ltd. v Surkis [2010] EWCA Civ 753, [34]-[35], per Mummery LJ. See
+also OJSC Oil Company Yugraneft v Abramovich [2008] EWHC 2613 (Comm), at
+[496], where Christopher Clarke J said that the risk of judicial impropriety could be
+inferred from such matters as departure from normal judicial practice, or irrational
+conclusions.
+95.
+The better view is that, depending on the circumstances as a whole, the burden
+can be satisfied by showing that there is a real risk that justice will not be obtained in
+the foreign court by reason of incompetence or lack of independence or corruption. Of
+course, if it can be shown that justice “will not” be obtained that will weigh more
+heavily in the exercise of the discretion in the light of all other circumstances.
+96.
+Is the court able to find that justice will not, or may not, be done because of
+endemic corruption in the foreign system? The Appellants say that the court is
+precluded from undertaking this task by the act of state doctrine or the related
+principle of judicial restraint enunciated in Buttes Gas & Oil Co. v Hammer [1982]
+AC 888.
+97.
+Comity requires that the court be extremely cautious before deciding that there
+is a risk that justice will not be done in the foreign country by the foreign court, and
+that is why cogent evidence is required. But, contrary to the Appellants’ submission,
+even in what they describe as endemic corruption cases (i.e. where the court system
+itself is criticised) there is no principle that the court may not rule. It is true that there
+is some authority for the application of a principle akin to the act of state doctrine in
+this area. First, in the High Court of Australia, in Voth v Manildra Flour Mills Pty.
+
+Page 28
+
+Ltd. (1990) 171 CLR 538 (a service out of the jurisdiction case), Mason CJ, Deane J,
+Dawson J and Gaudron J said in their joint judgment at [39]:
+“Moreover, there are powerful policy considerations which militate
+against Australian courts sitting in judgment upon the ability or
+willingness of the courts of another country to accord justice to the
+plaintiff in the particular case. Those policy considerations are not
+dissimilar to those which lie behind the principle of ‘judicial restraint or
+abstention’, which ordinarily precludes the courts of this country from
+passing upon ‘the provisions for the public order of another State’: see
+generally Attorney-General (United.Kingdom) v Heinemann Publishers
+Australia Pty Ltd [(1988) 165 CLR 30, 40-44]….”
+98.
+That statement was obiter since there was no suggestion that justice could not
+be obtained in the foreign jurisdiction (Missouri). In Mokbel v Attorney-General for
+the Commonwealth of Australia [2007] FCA 1536 (Federal Court of Australia), an
+Australian national appealed against his extradition on drug trafficking charges from
+Athens to Australia and, in doing so, alleged that two e-mail communications from the
+Australian embassy in Athens were sent with the intention of and did in fact influence
+the Athens Court of Appeal. Gordon J suggested (at [58]-[59]) that for an Australian
+Court to comment on, or intervene in, the manner in which the Athens Court of
+Appeal conducted the Request hearing, would run directly counter to the principle of
+public international law that the courts of one country will not sit in judgment on the
+acts of the government of another done within its own territory.
+99.
+Second, in Jeyaretnam v Mahmood, The Times, May 21, 1992, the plaintiff
+claimed that England was the appropriate forum because he could not expect to
+receive a fair trial in Singapore (a more obvious forum). Brooke J held that he was
+precluded by the principles of judicial restraint from embarking on an inquiry into the
+plaintiff’s allegations that he would not receive justice in Singapore, and that he was
+prevented “from expressing my views on the rightness or wrongness, wisdom or
+unwisdom, or justice or injustice of the treatment the Plaintiff has received from the
+courts of Singapore, or on the reasonableness or unreasonableness of his views on the
+quality of that justice.” He went on: “The quality of a country’s system of justice for
+its citizens, like the fairness of its laws, are qualities which may attract or repel outside
+observers in the family of states of which that country is a member, but they are not
+matters on which judges of another country may express any opinion.” See also Skrine
+& Co v Euromoney Publications plc [2000] All ER (D) 1683, QBD, where Morland J
+struck out from a pleading allegations which criticised the behaviour and impugned
+the integrity of the judiciary in Malaysia.
+100. The decision in Jeyaretnam v Mahmood was criticised in Al-Koronky v Time-
+Life Entertainment Group Ltd. [2006] EWCA Civ 1123, [2006] CP Rep 47, where the
+
+Page 29
+
+question was whether the court could take into account, for the purposes of ordering
+security for costs, evidence that any costs order in favour of the defendants would not
+be enforced in the Sudan because of the lack of independence of the judiciary in that
+country. The Court of Appeal held that the court was entitled to take the evidence into
+account. Sedley LJ, giving the judgment of the court, said that it accepted that “any
+court is always reluctant to pass judgment on the judiciary of a foreign country in the
+context of jurisdictional disputes” but doubted if there was any general principle that
+the English court would never do so, and gave the example of asylum cases, where the
+court would consider whether the foreign courts would afford any remedy against
+persecution, and those jurisdiction cases involving repressive regimes such as Nazi
+Germany. That was no doubt a reference to Oppenheimer v Louis Rosenthal & Co. AG
+[1937] 1 All ER 23, CA and Ellinger v Guinness, Mahon & Co [1939] 4 All ER 16, in
+each of which, as has been seen, it was held that the foreign legal system would not
+afford justice.
+101. The true position is that there is no rule that the English court (or Manx court)
+will not examine the question whether the foreign court or the foreign court system is
+corrupt or lacking in independence. The rule is that considerations of international
+comity will militate against any such finding in the absence of cogent evidence. That,
+and not the act of state doctrine or the principle of judicial restraint in Buttes Gas &
+Oil Co v Hammer, is the basis of Lord Diplock’s dictum in The Abidin Daver and the
+decisions which follow it. Otherwise the paradoxical result would follow that, the
+worse the system of justice in the foreign country, the less it would be permissible to
+make adverse findings on it.
+102. That conclusion is also supported by the many cases in the United States courts
+in which the standard of justice in the foreign court has been examined in the context
+of forum non conveniens questions. It was said in Blanco v Banco Industrial de
+Venezuela, 997 F 2d 974, at [50] (2d Cir 1993), quoting earlier decisions, that it “is
+not the business of our courts to assume the responsibility for supervising the integrity
+of the judicial system of another sovereign nation.” That is not the enunciation of the
+act of state doctrine (well known in the United States) or the doctrine of judicial
+restraint in foreign relations cases (which has its origin in the United States), but
+simply a reflection of the fact that comity considerations require the court not to pass
+judgment on the foreign court system without adequate evidence. Evidence of
+corruption in the foreign court system is admissible (as, e.g., in Cariajano v
+Occidental Petroleum Corp, 626 F 3d 1137 (9th Cir 2010)), but it must go beyond
+generalised, anecdotal material: Tuazon v RJ Reynolds Tobacco Co, 433 F 3d 1163,
+1179 (9th Cir 2006); Stroitelstvo Bulgaria Ltd v Bulgarian-American Enterprise Fund,
+589 F 3d 417 (7th Cir 2009). Cases in which justice in the foreign legal system has
+been found wanting have been rare but they are by no means unknown: Rasoulzadeh v
+Associated Press, 574 F Supp 854 (SDNY 1983), affd 767 F 2d 908 (2d Cir 1985) and
+Osorio v Dole Food Co, 665 F Supp 2d 1307 (SD Fla 2009) are examples in the
+contexts of forum non conveniens and enforcement of foreign judgments respectively.
+
+Page 30
+
+VI
+Application of the principles to the appeal
+
+A
+Bound to fail/no serious issue to be tried
+
+103. The Appellants say that the claims against BITEL for a declaration and
+damages arising out of the obtaining of the April 2006 Judgment are bound to fail, and
+there is no serious issue to be tried in relation to the claims against the Appellants.
+“Bound to fail” and “no serious issue to be tried” tests are different ways of putting
+the same point, which is that the claims against the Appellants and BITEL in relation
+to the 2005 and 2006 Judgments are hopeless, and in this section the tests will be used
+interchangeably. It should be noted that, although the Appellants argue (as they are
+entitled to do) that the claims against BITEL are bound to fail, BITEL has put in a
+Reply and Defence to Counterclaim, and has not sought to strike out any part of the
+Defence or Counterclaim
+(1) Substance/procedure
+104. First, the Appellants say that there is an essential pre-condition which has to be
+met before the Kyrgyz law causes of action arise, which is that the April and
+December 2005 Judgments must first be set aside: unless and until they are set aside
+in Kyrgyzstan, then, under Kyrgyz law, no cause of action can arise in favour of the
+KFG Companies in relation to any of their Kyrgyz law claims. The KFG Companies
+accept that statement of Kyrgyz law, but say that the rule is one of procedural law and
+therefore not applicable in the forum, the Isle of Man.
+105. There was no dispute about the applicable legal principles. In deciding whether
+a foreign rule is procedural, the court examines the foreign law in order to determine
+whether the rule is of such a nature as to be procedural in the English sense: Dicey,
+Morris & Collins, Conflict of Laws, 14th ed 2006, para. 7-002.
+106. The evidence of Kyrgyz law on this point developed in the following way. The
+evidence of Mr Kenenbaev, for the Alfa Parties, was that the claims could not succeed
+unless and until criminal proceedings led to a finding that the court had been misled
+into giving the April 2005 Judgment, because otherwise the actions of the parties
+against whom the claims were made would have none of the attributes of unlawful
+behaviour in the case of the tort claims; acquisition of title on the basis of a court
+judgment could not be considered unjust enrichment while the judgment stood; and a
+claim of abuse of right was impossible until the judgment was reversed, and there was
+no judgment which established that the April 2005 judgment was an abuse. A petition
+by the KFG Companies to overturn the April 2005 Judgment (as confirmed by the
+Kyrgyzstan Supreme Court) could be filed only on the basis of newly discovered
+facts, and the petition had to be brought within three months of the discovery of new
+
+Page 31
+
+facts. The only avenue open to the KFG Companies was to prove that a crime had
+been committed under Kyrgyz criminal law.
+107. Mr Maggs, for the KFG Companies, supported by Mr Newton, proceeded on
+the basis that questions of procedure were governed by Manx law, and therefore the
+effect of the Kyrgyz judgments in a Kyrgyz court was irrelevant. He accepted that
+judgments could be set aside where it was established in criminal proceedings that
+there had been deliberately false evidence or other criminal acts of the parties or of the
+judge. Mr Maggs said there would be considerable difficulties in obtaining such a
+conviction. Mr Kenenbaev replied that the requirement that the KFG Companies had
+to apply to set aside the April 2005 Judgment on the basis of a criminal conviction
+under Article 361 was a matter of substantive law, although the provision was in the
+Civil Procedure Code. That was because it set out the basis on which a property right
+could be altered. It was not unusual for some substantive provisions to be contained
+in the Civil Procedure Code.
+108. The question for the Manx court is whether, from the viewpoint of Manx law,
+the Kyrgyz rule relates to a matter of substance or of procedure. That the rule is
+contained in the Civil Procedure Code is relevant but not conclusive. It will have to be
+looked at in the light of its function and role in the Kyrgyz legal system. There is not
+only a conflict of expert evidence on whether the requirement in Kyrgyz law is
+procedural, which is not of course decisive, but in addition the experts have not gone
+into sufficient detail for the Manx court to take a view as to whether in their context
+the Kyrgyz rules are to be regarded as procedural from the Manx viewpoint. Given the
+difference of view, and the difference of approach, a proper consideration of this
+question cannot be given without more evidence and, if necessary, cross-examination.
+There is a serious issue to be tried on this aspect of the case.
+(2) Fraud and foreign judgments: the principle in Abouloff v Oppenheimer & Co
+109. The principle in Abouloff v Oppenheimer & Co (1882) 10 QBD 295 (CA) is
+that, in the context of recognition and enforcement of foreign judgments at common
+law, a foreign judgment may be impeached for fraud even though no newly
+discovered evidence is produced and even though the fraud might have been
+produced, or even was produced and rejected, in the foreign court. This is in contrast
+to the rule for impeachment of English judgments, which requires that the person
+seeking to impeach the judgment produces newly discovered evidence which could
+not have been produced at the trial with reasonable diligence: see e.g. Kuwait Airways
+Corp v Iraqi Airways Co (No 11) [2003] EWHC 31 (Comm), [2003] 1 Lloyd’s Rep
+448; Owens Bank Ltd. v Etoile Commerciale SA [1995] 1 WLR 44, 48 (PC).
+
+Page 32
+
+110. The Appellants say, first, that the decision in Abouloff is no longer good law
+and/or should not be adopted in the Isle of Man, and on that basis the KFG Companies
+cannot claim that the 2005 and 2006 Judgments were procured by fraud, because they
+cannot adduce newly found evidence to prove it. Second, the Appellants argue that,
+even if Abouloff is good law, the KFG Companies are using it, impermissibly, as a
+positive basis of a claim: the KFG Companies cannot make a claim for the fraudulent
+procurement of a foreign judgment, when that judgment is valid in the place where it
+was rendered and no fresh evidence shows that it was obtained by fraud. Third, the
+Appellants argue that the Abouloff rule does not apply where the judgment is in rem,
+which is the case here, because the effect of the decisions of the Kyrgyz courts was
+that the shares in BITEL belonged to Fellowes and then to Reservespetsmet, and
+subsequently to CP-Crédit and AK Investment, and those decisions cannot be
+impugned for fraud because they have a proprietary effect. In particular, CP-Crédit
+says that it bought the shares in BITEL after taking legal advice on the effect of the
+December 2005 Judgment, and that the KFG Companies’ case on unjust enrichment
+would lead to the illogical conclusion that Fellowes and Reservespetsmet had not been
+the true owners of the shares at the relevant time, despite the fact that the effect of the
+April and December 2005 Judgments was that they were the true owners and the share
+register in Kyrgyzstan reflected that fact.
+111. The existence and scope of the rule in Abouloff would be directly engaged by
+BITEL’s claim at common law on the April 2006 Judgment. The appeal has
+proceeded on the basis (which may be debateable) that the allegations that the 2005
+and 2006 Judgments were obtained by fraud can only succeed if the Manx court
+applies the rule in Abouloff, and this advice will proceed on the basis, which appears
+to be common ground between the parties, that the claim (or a substantial part of it)
+would fail if the rule in Abouloff no longer represented the law in the Isle of Man.
+112. The rule in Abouloff has received considerable criticism: see the literature cited
+in Dicey, Morris & Collins, Conflict of Laws, 14th ed. 2006, para 14-129. It has been
+repudiated by the Supreme Court of Canada: Beals v Saldanha (2003) 234 DLR (4th) 1
+as regards fraud going to the merits, as distinct from fraud going to jurisdiction. In
+Owens Bank Ltd. v Bracco [1992] 2 AC 443 the House of Lords was invited to
+overrule Abouloff in the context of a St Vincent judgment being enforced in England
+under the Administration of Justice Act 1920. It was held that the fraud defence in
+section 9(2)(d) of the 1920 Act had to be construed in the light of the common law as
+understood when the 1920 Act was passed following the Sumner Report (1919, Cmd
+251), and therefore it embodied the principle in Abouloff. Lord Bridge of Harwich
+said (at 487) that he saw the force of the submission that Abouloff should be over-
+ruled, and recognised (at 489) that “as a matter of policy, there may be a very strong
+case to be made … in favour of according to overseas judgments the same finality as
+the courts accord to English judgments.” But to alter the common law rule would
+produce the absurd result that the judgment creditor, denied statutory enforcement on
+the ground that he had obtained his judgment by fraud, could succeed in an action to
+enforce the judgment at common law because the evidence relied on by the judgment
+
+Page 33
+
+debtor did not satisfy the English rule. As a result the whole field was governed by
+statute and it was for the legislature, and not for the judiciary, to effect it.
+113. The Appellants’ case is that the position in the Isle of Man is different since the
+Judgments (Reciprocal Enforcement) (Isle of Man) Act 1968 (equivalent to the
+Foreign Judgments (Reciprocal Enforcement) Act 1933) contains in section 6 (as does
+the 1933 Act) an express prohibition on enforcement at common law of a judgment
+which could in principle be registered under the Act. The Appellants say therefore that
+the absurdity which influenced Lord Bridge’s judgment under English law in Bracco
+finds no counterpart in the Isle of Man. In fact, Lord Bridge’s remarks were directed
+to the 1933 Act as well as the 1920 Act, although it is possible that he did not
+appreciate that the position was different as between the two pieces of legislation.
+114. In Owens Bank Ltd. v Etoile Commerciale SA [1995] 1 WLR 44 (PC) Lord
+Templeman said (at 50) that the result in Owens Bank Ltd v Bracco “may be
+regretted” and that the Board did not regard the decision in Abouloff “with
+enthusiasm, especially in its application to countries whose judgments the United
+Kingdom has agreed to register and enforce”. He said that “in those cases the salutary
+rule which favours finality in litigation seems more appropriate” (ibid). He regarded
+the arguments put forward in favour of the view that the rule in Abouloff should be
+reconsidered where there was no statutory procedure “interesting and important” but
+it was not necessary to deal with them because the fraud defence was an abuse of
+process: at 51.
+115. The Appellants submit that the rule in Abouloff should not be applied in the Isle
+of Man because: (a) the courts should apply the same rules in relation to foreign
+judgments as they apply at common law to the setting aside of a domestic judgment;
+(b) the rule allows the party seeking to challenge the judgment several bites at the
+cherry, which is unjustifiable, especially in relation to evidence and submissions
+which could have been put forward with reasonable diligence at the trial; (c) the rule
+ignores the doctrines of cause of action and issue estoppel and the nature of the
+doctrine of obligation, and is wrong in principle; (d) the policy underlying Abouloff is
+objectionable and wrong, and is inconsistent with judicial comity. A policy which
+requires a Manx court to appropriate for itself the responsibility of deciding whether a
+foreign court was deceived, especially where the foreign court has its own procedure
+for setting aside judgments obtained in such circumstances, is anomalous and
+unjustifiable.
+116. These are powerful arguments, but the present case shows that, even if the rule
+in Abouloff were no longer to represent the law, simply to apply the English rules to
+foreign judgments might lead to real injustice. To decide, on an application to set
+aside service, an issue which requires “detailed argument and mature consideration”
+(American Cyanamid Co v Ethicon Ltd [1975] AC 396, 407) would be an
+
+Page 34
+
+inappropriate application of the “bound to fail”/“serious issue to be tried” tests.
+Extremely important issues of policy would be involved in deciding whether to
+change a rule which has stood for almost 120 years. In particular the facts of this case
+shows that a nuanced approach might be required, depending on the reliability of the
+foreign legal system, the scope for challenge in the foreign court and the type of fraud
+alleged.
+117. In any event, the rule in Abouloff may not necessarily affect the outcome of the
+proceedings. Thus if the April and December 2005 Judgments were corruptly obtained
+by the exercise of improper influence on the relevant Kyrgyz courts, or if their
+recognition is contrary to public policy, those judgments would not be recognised or
+enforced in the Isle of Man, whether or not the rule in Abouloff applies.
+118. The latter point also applies to the further argument of the Appellants, namely
+that, even if the rule in Abouloff applies in the Isle of Man, the KFG Companies seek
+to extend the rule in a manner which is without precedent and lacking in principle.
+The Appellants say that the KFG Companies are impermissibly using the rule
+positively to assert a foreign cause of action whose very existence depends (under the
+lex causae) upon the foreign judgment not existing or having been set aside, and by
+arguing that the local court can (on the ground that it was allegedly obtained by fraud)
+treat the foreign judgment as not existing or having been set aside, even though that
+judgment does actually still exist and has not actually been set aside under the relevant
+foreign law.
+119. The Board’s view is that the KFG Companies are right to say that this
+argument mis-characterises their claim. The real issue would not be whether the KFG
+Companies can use the rule in Abouloff in aid of a positive claim, but rather whether,
+where a foreign judgment is relied on by way of defence, that defence may be
+defeated by the claimant establishing that the judgment in question is impeachable on
+any of the grounds available at common law. There is no reason in principle why it
+should not be possible to adduce fraud in opposition to a defendant’s reliance on a
+foreign judgment: see Dicey, Morris & Collins, para. 14-138.
+120. The next point taken by the Appellants is that in any event the rule in Abouloff
+does not apply to judgments in rem, and that the claims must fail (a) because the
+Manx court cannot ignore the April and December 2005 Judgments on the grounds of
+fraud or related matters, as they are judgments in rem, relating to shares situate in
+Kyrgyzstan, which are relied upon qua assignments: Pattni v Ali [2006] UKPC 51,
+[2007] 2 AC 85; and (b) foreign judgments are not impeachable for fraud where the
+foreign judgment in question is a foreign judgment in rem relied upon qua an
+assignment of title: Dicey, Morris & Collins, paras 14-102, 14-140; Castrique v
+Behrens (1861) 30 LJQB 163.
+
+Page 35
+
+121. The answer to this point is that it is arguable that the exception to the Abouloff
+rule for in rem judgments does not apply where the claim is for wrongful
+misappropriation, and where the defence is, not that there was an assignment, but that
+the elements of a claim for unjust enrichment are lacking. It is also arguable that, even
+if the April and December 2005 Judgments were relied on as assignments, they should
+not be recognised on public policy grounds, in the light of the way in which Fellowes
+obtained the Judgments in breach of a English arbitration agreement and of orders of
+the English and BVI courts, and in the light of the way in which the Kyrgyz courts
+dealt with the case.
+(3) Damages claim against BITEL, Sky Mobile and Altimo Russia for wrongful
+transfer of BITEL’s assets
+122. As regards the claim for damages against BITEL in relation to the transfer of
+its assets to Sky Mobile, the Appellants say that BITEL was the victim and not the
+perpetrator, and should have been the claimant and the defendant (and CP-Crédit adds
+that the KFG Companies have never explained what loss or damage they claim to
+have suffered by reason of the allegedly wrongful obtaining of the April 2006
+Judgment).
+123. The expert evidence for the KFG Companies by Mr Maggs was that BITEL,
+Sky Mobile, and Altimo Russia would be liable to the KFG Companies for the
+wrongful transfer of the BITEL assets to Sky Mobile. In reply, Mr Kenenbaev, for
+the Appellants, deposed that BITEL was the victim and any such claim had to be in
+the name of BITEL and not a claim against BITEL. Mr Maggs then accepted that
+normally a shareholder had no direct right of action, but said that the case of the KFG
+Companies was that there was a scheme to which Sky Mobile was a party under
+which BITEL was seized and then stripped of its assets, and as a joint tortfeasor, Sky
+Mobile would be liable for all harm caused to the KFG Companies under the scheme,
+or alternatively would be liable to claim for unjust enrichment.
+124. It would appear, therefore, that Mr Maggs agreed that there was no claim
+against BITEL under this head. That would not prevent Sky Mobile and Altimo
+Russia from being proper parties to the action if the claims against BITEL for
+damages and a declaration arising out of the obtaining of the April 2006 Judgment are
+not bound to fail. The fact that the claim against BITEL for wrongful transfer of its
+assets would be bound to fail is not fatal to the joinder of Sky Mobile and Altimo
+Russia, because what is required under MHCR, Ord 6, r.1(g) is that they be proper
+parties to the “action” and not to any particular claim: see below at [129].
+(4) Declaratory relief
+
+Page 36
+
+125. The Appellants argue that the claim against BITEL for a declaration that the
+April 2006 Judgment was obtained by fraud, in proceedings which were contrary to
+natural justice, and/or in a manner which to enforce it would be contrary to public
+policy, is bound to fail, because (a) the court will not grant a declaration unless it
+would serve a useful purpose (Messier-Dowty Ltd v Sabena SA [2000] 1 WLR 2040,
+at [41]) and no useful purpose would be served in this case: Clarke v Fennoscandia
+Ltd. [2007] UKHL 56, 2008 SLT 33, at [24] per Lord Rodger of Earlsferry (“the
+declarators would not – indeed could not – have any conceivable legal effect except in
+the Scottish proceedings”); and (b) the court will be especially reluctant to grant a
+negative declaration, and the declaration is in effect a negative declaration that the
+April 2006 Judgment is not enforceable; and where a court finds that a negative
+declaration would be ignored in foreign legal proceedings, or there is no sensible point
+in making the declaration, the claim would be an abuse of the process of the court:
+Boss Group Ltd v Boss France SA [1997] 1 WLR 351, at 358.
+126. The answer to this point is that declaratory relief is discretionary, and depends
+on the circumstances at the date of trial, and there is no material which would indicate
+that there is no prospect of obtaining it.
+B
+Was the Counterclaim “properly brought” against BITEL for the
+purposes of MHCR Order 6, r. 1(g)?
+127. The primary question under this head is whether the claims against BITEL
+were “bound to fail,” which has already been considered.
+128. The Appellants also take under this heading the point that the Counterclaim
+was not properly brought against BITEL because it was brought for the sole or
+predominant purpose of establishing jurisdiction against the other defendants to
+Counterclaim including the Appellants. Although there is some authority for the view
+that this is an aspect of the question of whether the claim is “properly brought,” for the
+reasons given above (para [78]) the better view is that the fact that D1 is sued only for
+the purpose of bringing in the foreign defendants is a factor in the exercise of the
+discretion and not an element in the question whether the action is “properly brought”
+against D1.
+C
+Are the Appellants “proper parties” to the counterclaim against BITEL?
+The “single investigation”/ “closely bound up” point
+129. A litigant relying on the “proper party” ground must show a good arguable case
+that the proposed defendant (here the Appellants as defendants to counterclaim) is a
+proper party to the action against the anchor defendant (here a proper party to the
+
+Page 37
+
+Counterclaim against BITEL). The Appellants must be necessary or proper parties to
+the Counterclaim and not to any particular claim.
+130. The Appellants claim that no “single investigation” is required in relation to the
+claims against BITEL relating to the April 2006 Judgment and the claims against the
+Appellants for these reasons: (1) even if the April and/or December 2005 Judgments
+had been procured by fraud, BITEL was not a party to those proceedings and was
+entitled to rely upon those judgments in the proceedings which led to the April 2006
+Judgment; (2) consequently, BITEL did not perpetrate any fraud in obtaining the April
+2006 Judgment, but merely correctly reported to the court the existence and effect of
+the December 2005 Judgment; (3) any allegation that fraud has been practised on a
+court must relate to fraud practised on that particular court (that is to say, the April
+2006 court): Jet Holdings Inc. v Patel [1990] 1 QB 335, 346-347; (4) as a result, the
+Manx court would not be required to investigate the circumstances of the April 2005
+and December 2005 Judgments in order to determine the KFG Companies’ claims
+against BITEL.
+131. The argument based on Jet Holdings v Patel [1990] 1 QB 335 is that: (1)
+BITEL did not deceive the Kyrgyz court in 2006 by informing it that by virtue of the
+April 2005 Judgment the KFG Companies had ceased to be owners of BITEL prior to
+September 14, 2005, because this was a correct statement of the effect of the judgment
+as a matter of Kyrgyz law, which had been upheld by the Kyrgyz Supreme Court; (2)
+it is irrelevant that the purported sale to Reservespetsmet may have been a later
+fraudulent invention, because that was not an issue in the proceedings which led to the
+April 2006 Judgment and the finding that Reservespetsmet was the true owner from
+May 2005 onwards therefore did not affect the Court’s decision; (3) there is therefore
+no good arguable case that, by reason of the earlier events which are the basis of the
+KFG Companies’ claims against the Appellants, the April 2006 Judgment was
+impeachable for fraud, and accordingly those events are irrelevant to any issues
+between BITEL and the KFG Companies concerning the enforceability of the April
+2006 Judgment.
+132. Nor, say the Appellants, is a “single investigation” required in relation to the
+claims of asset-stripping against BITEL on the one hand and Altimo Russia and Sky
+Mobile on the other hand. Sky Mobile was not incorporated until May 2006, and the
+transfer of assets to it took place well after the relevant court proceedings in
+Kyrgyzstan, and after the obtaining of the April 2005 Judgment, the December 2005
+Judgment and the April 2006 Judgment.
+133. The argument based on Jet Holdings v Patel confuses the question of whether
+the claim against BITEL is bound to fail with the question whether there is a good
+arguable case that the Appellants are proper parties to the Counterclaim against
+BITEL. The KFG Companies say that the April 2006 Judgment is unenforceable in
+
+Page 38
+
+that it was premised on the April and December 2005 Judgments which were
+themselves impeachable on grounds of fraud, natural justice and public policy. It was
+only because of the April and December 2005 Judgments that BITEL was able to
+claim in the proceedings which led to the April 2006 Judgment that Mr Omurzakov
+had been wrongfully appointed as director general by the KFG Companies and that
+representatives of the KFG Companies had caused damage to its business by
+destroying documents and making substantial payments.
+134. The Board is satisfied that the claims against BITEL and the claims against the
+Appellants involve one investigation or are closely bound up together, and that the
+Staff of Government Division was right to hold (at [149]) that the factual issues were
+interwoven in such a manner that the case against each of the Appellants demands a
+single investigation. The issues in relation to the enforceability of the April 2006
+Judgment and the issues between the KFG Companies and the Appellants in relation
+to the misappropriation of the shares in BITEL depend on the same inquiry into how
+the April and December 2005 Judgments were obtained. The other factual issues are
+intimately connected with these issues: the allegations about Altimo’s control of
+Reservespetsmet, and the allegation that the sale of BITEL by Fellowes to
+Reservespetsmet was a sham to evade the orders of the English and BVI Courts and
+whether all the subsequent orders obtained by Reservespetsmet were therefore
+obtained by fraud; the seizure of BITEL in December 2005; the transfer of the shares
+to Fellowes, CP-Crédit and AK Investment; and the transfer of the business to Sky
+Mobile.
+135. To take one example, in particular, both the claim by BITEL dated March 22,
+2006 and the April 2006 Judgment relied on the alleged sale in May 2005 to
+Reservespetsmet. It is plainly arguable that the sale agreement was falsely back-dated,
+and that allegation is plainly related not only to the enforceability of the April 2006
+Judgment, but also to the claims against the Appellants on all three of the Kyrgyz law
+causes of action.
+136. On this aspect it only remains to mention the special argument on behalf of AK
+Investment and CP-Crédit, which is that their acquisition of the shares (especially by
+AK Investment, which was incorporated and acquired its interest in BITEL, after the
+April 2006 Judgment) was peripheral to the matters complained of by the KFG
+Companies and the claim against them are of limited ambit, and consequently they are
+not proper parties because their connection is an insufficient basis for concluding that
+a single investigation is necessary.
+137. There is no basis for distinguishing AK Investment and CP-Crédit from the
+other Appellants for this purpose. They are alleged to have been involved in the
+overall conspiracy, albeit at a later date than other Appellants, and there is a serious
+issue to be tried on liability.
+
+Page 39
+
+138. It follows that the Staff of Government Division was right to find that the KFG
+Companies had established that the Appellants were proper parties to the
+Counterclaim against BITEL for the purposes of MHCR, Ord 6, r. 1(g). It is therefore
+unnecessary to consider whether there is a sufficient “substantial connection” for the
+purposes of Ord. 6, r. 1(h).
+D
+Forum conveniens and discretion
+
+139. The fundamental question of the appropriate forum is a matter within the
+discretion of the judge. Consequently an appellate tribunal can only interfere with the
+exercise of discretion by the judge in accordance with well-settled principles: see,
+among many other decisions, The Abidin Daver [1984] AC 398, 420. In addition, an
+appellate tribunal should resist the temptation to subvert the principle that it should
+not substitute its own discretion for that of the judge by a narrow textual analysis
+which enables it to claim that he misdirected himself: Piglowska v Piglowski [1999]
+UKHL 27, [1999] 1 WLR 1360, at 1372, per Lord Hoffmann. The question for the
+Board, therefore, is whether the Staff of Government Division was entitled to interfere
+with the exercise of discretion by the Deemster, and, even if it was so entitled,
+whether it re-exercised the discretion on correct principles.
+140. On this aspect of the case alone, each of the judgments of the Deemster and the
+Staff of Government Division covered 40 pages or so, and any summary is bound to
+do their careful judgments an injustice. It is only necessary to refer to those matters
+which are crucial.
+141. The Deemster set aside the orders for service out of the jurisdiction because the
+KFG Companies had failed to establish that the Isle of Man was clearly the
+appropriate forum for trial of the issues in the counterclaim for these reasons in
+particular: (1) the issues had a much closer connection with Kyrgyzstan than they had
+with the Isle of Man; (2) Kyrgyzstan was an available forum since the KFG
+Companies had not established by positive and cogent evidence that they had not
+obtained and would not obtain substantial justice there; (3) the KFG Companies were
+sophisticated entities who had voluntarily chosen to make a sizeable investment in
+Kyrgyzstan.
+142. The reasons of the Staff of Government Division for interfering with the
+exercise of discretion by the Deemster were these. Although the Deemster was
+justified in taking the view that Kyrgyzstan was the natural forum, the discretion
+should be exercised in favour of the KFG Companies because: (1) the Deemster had
+failed to take account of the extent to which there were overlapping issues (for the
+same reason as they required “a single investigation”) in the counterclaims against
+BITEL and the counterclaims against the Appellants; (2) he had failed to take account
+of the point that on the basis of principles of comity the court should give effect to the
+
+Page 40
+
+decisions of the English and BVI courts rather than those of the Kyrgyz courts; (3) he
+had applied the wrong test on the question of substantial justice by adopting the test of
+whether KFG Companies had shown that they would not obtain substantial justice,
+and the correct test was whether substantial injustice “will or may not be done” in the
+natural forum; (4) the litigation in Kyrgyzstan in which the KFG Companies had been
+engaged exhibited irrational conclusions and decisions which seemed, prima facie,
+contrary to natural justice, and there was a risk that they would not obtain substantial
+justice in Kyrgyzstan; (5) the combination of the existence of the obstacles to the
+Appellants mounting claims in Kyrgyzstan and the allegations of corruption was that
+in all probability there would be no trial in Kyrgyzstan of the issues raised by the
+claims against BITEL and the KFG Companies, and as result, there was no real risk of
+concurrent proceedings in two jurisdictions on the same issues; (6) the Deemster had
+wrongly taken into account the fact that the KFG Companies had made investments in
+Kyrgyzstan, when the parties had agreed to arbitration in London under English law
+for resolution of their disputes.
+143. The Board is in no doubt that the Deemster erred in at least two significant
+respects. First, his finding that Kyrgyzstan was an available forum since the KFG
+Companies had not established by positive and cogent evidence that they had not
+obtained and would not obtain substantial justice there is open to two criticisms. The
+first, less important, is that focus should not have been on whether Kyrgyzstan was an
+available forum, but whether it was a forum in which the case could be suitably tried
+for the interests of all the parties and for the ends of justice. Second, but more
+important, was the focus on whether the KFG Companies “would” not obtain justice
+there, when the correct question was whether there was a risk that they would not
+obtain justice. In any event, there was substantial evidence of specific irregularities,
+breach of principles of natural justice, and irrational conclusions, sufficient to justify a
+conclusion that there was considerably more than a risk of injustice.
+144. It is only necessary to recall at this stage that the April 2005 Judgment was
+given in the absence of the KFG Companies, and that it was given on the irrational
+basis that the Transfer Agreement had been executed by Fellowes, and in complete
+disregard of the fact that there was an arbitration clause and a choice of English law.
+As regards the December 2005 Judgment, the KFG Companies’ lawyers were given
+notice of the hearing only on the morning that it was due to take place, the court
+refused to grant an adjournment, and refused time for the legalisation of the
+Receiver’s statement that the authority of Fellowes’ attorneys had been revoked, but
+accepted the false assertion on behalf of Fellowes that the Receiver had been
+discharged from office (when in fact the order for discharge had been stayed) and
+rejected the KFG Companies’ application to dismiss the appeal on that basis. The
+Supreme Court held that the Transfer Agreement was an agreement made between
+Fellowes and the KFG Companies, and yet (although Kyrgyzstan is a party to the New
+York Convention) held that Fellowes was not bound by the arbitration clause
+contained in Article 17 as it “did not sign the Agreement”, and that the arbitration
+clause was unenforceable as it did not denominate the arbitral tribunal, when in fact
+
+Page 41
+
+the clause clearly provided that the tribunal was to be appointed by the LCIA. The
+April 2006 Judgment was given after the court refused the KFG Companies’
+application for time to prepare a response to expert evidence, and made an award of
+damages for which, arguably, there was no evidence and which the KFG Companies
+had no opportunity to challenge.
+
+145. Secondly, while it is true that the KFG Companies were sophisticated entities
+who had voluntarily chosen to make a sizeable investment in Kyrgyzstan, that does
+not mean that they are bound to accept that all disputes arising out of that investment
+should be heard in Kyrgyzstan. In particular, they had agreed that disputes arising out
+of their sale of BITEL should be heard in a London arbitration under English law.
+146. Those errors were sufficient to justify the Staff of Government Division in
+exercising the discretion itself. Are there grounds for this Board to interfere?
+147. The Appellants make these criticisms in particular. First, there is no significant
+overlap between the Counterclaim against BITEL and the Counterclaim against the
+Appellants. In essence they rely on the same points as they do in relation to the “one
+investigation” point on proper parties, and that has already been dealt with: para [134]
+above. Second, the Staff of Government Division should not have held (at [345]) that
+it should “give effect to the orders and declarations of the English and BVI courts
+rather than those of the Kyrgyz courts in so far as they conflict”, because the Staff of
+Government Division had not been asked to give effect to any orders of the English or
+BVI courts. Accordingly, there were no considerations of comity which weighed in
+the balance. The answer to this is that the Staff of Government Division was not
+giving effect to any orders of the English or BVI courts, but it was entitled to take into
+account the fact that not to hear the case would enable Fellowes (and those who were
+alleged to have conspired with it) to benefit from its conduct in breach of the English
+and BVI Courts’ injunctions and in obtaining a judgment in proceedings which the
+English Court had held to be vexatious.
+148. Third, the Appellants say that the KFG Companies ought to have shown that
+they would not have received justice in Kyrgyzstan in the future; allegations of
+specific corruption in the past could not be sufficient without evidence (to the
+appropriately high standard) of continuing corruption; and the Deemster and the Staff
+of Government Division should not have found that allegations of endemic corruption
+were justiciable.
+149. The reasoning of the Staff of Government Division on this aspect is not easy to
+follow but there is no doubt that its starting point was correct, namely that the question
+is whether there is a risk that the KFG Companies would not obtain justice in
+
+Page 42
+
+Kyrgyzstan. The court referred at length to the evidence which had been adduced and
+was fully entitled to conclude, as it did, that there was risk that the KFG Companies
+would not obtain substantial justice there.
+150. As indicated above, not all of the reasoning of the Staff of Government
+Division is entirely clear. It referred throughout to a stay of proceedings on forum non
+conveniens grounds when, of course, this was a service out of the jurisdiction case.
+But it is accepted by the Appellants that this error did not of itself amount to an error
+sufficient to vitiate the exercise of discretion. In some respects the Board would have
+expressed itself differently, but it is mindful that in a case of this complexity it should
+not be astute to discern errors when it is apparent that the court below has in principle
+directed itself correctly.
+151. There can be no doubt that Kyrgyzstan is the natural forum for claims under
+Kyrgyz law that the KFG Companies have been deprived of their shares in a Kyrgyz
+company through a conspiracy wholly or mainly carried out in Kyrgyzstan. But the
+fundamental point in this case is that, if there is no trial in the Isle of Man, there will
+be no trial anywhere. It is wholly unrealistic to suppose that the KFG Companies will
+ever be in a position to assert their civil claims. It is common ground that the claims
+cannot succeed in Kyrgyzstan unless the 2005 and 2006 Judgments are set aside after
+a criminal conviction. The expert evidence on behalf of the KFG Companies by Mr
+Maggs is that because the speed of criminal proceedings would be outside the control
+of the KFG Companies, there would be a significant possibility of criminal
+proceedings becoming time barred, and Mr Kenenbaev did not contradict this. The
+“practical justice” of the matter (see Spiliada Maritime Corp v Cansulex Ltd [1987]
+AC 460, at 483) is that substantial justice would not be achieved if the KFG
+Companies were left to a remedy in the Kyrgyz court which depended on their
+persuading a local prosecutor to bring criminal proceedings, or themselves bringing
+proceedings, and then securing a conviction within the limitation period for criminal
+acts.
+152. Their Lordships will therefore humbly advise Her Majesty that the appeal
+should be dismissed.
+153. The parties have 14 days in which to put in submissions as to costs.

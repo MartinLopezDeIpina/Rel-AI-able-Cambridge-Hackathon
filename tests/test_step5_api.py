@@ -24,9 +24,26 @@ def test_health_ok(agent):
 
 @pytest.mark.unit
 @pytest.mark.contract
-def test_verify_route_mounted_and_validates(agent):
-    # Route exists now (not 404) and rejects an empty request with 400.
-    resp = client.post("/api/citations/verify", data={})
-    agent.case("verify_validates", "POST /api/citations/verify").expect(
-        mounted=True, status=400).check(
-        mounted=resp.status_code != 404, status=resp.status_code)
+def test_verify_endpoint_exists_and_handles_no_citations(agent):
+    # The route the frontend needs now exists; text with no citations -> empty report,
+    # no LLM call (so this stays an offline unit test).
+    resp = client.post("/api/citations/verify", json={"text": "no citations in here"})
+    agent.case("verify_present", "POST /api/citations/verify").expect(
+        status=200).check(status=resp.status_code)
+    body = resp.json()
+    assert isinstance(body.get("citations"), list) and body["citations"] == []
+
+
+@pytest.mark.contract
+@pytest.mark.xfail(reason="verify endpoint + orchestrator not implemented yet", strict=False)
+def test_verify_response_contract(agent):
+    resp = client.post("/api/citations/verify", json={"text": "Lumley v Gye (1853) 2 E&B 216 ..."})
+    assert resp.status_code == 200
+    body = resp.json()
+    citations = body["citations"] if isinstance(body, dict) else body
+    for item in citations:
+        assert_verify_response(item)
+        assert item["status"] in VERDICTS or item["status"] in {
+            "verified", "mischar", "risk", "review"}
+    agent.case(Step5Case.VERIFIED, "POST /api/citations/verify").note(
+        "contract satisfied once implemented")

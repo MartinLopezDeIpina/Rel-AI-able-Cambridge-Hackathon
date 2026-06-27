@@ -1,12 +1,17 @@
 import { createFileRoute, useNavigate, Link } from "@tanstack/react-router";
 import { useState } from "react";
+import { useMutation } from "@tanstack/react-query";
+import { toast } from "sonner";
+import { ShieldCheck, Sparkles, ArrowRight, FileCheck2 } from "lucide-react";
+import { Button } from "@/components/ui/button";
 import { toggleDashboard } from "@/lib/dashboard-toggle";
-import { ShieldCheck, Sparkles, FileCheck2, Scale } from "lucide-react";
+import { JurisdictionFilter } from "@/components/relaiable/JurisdictionFilter";
 import { Logo } from "@/components/relaiable/Logo";
 import { UploadZone } from "@/components/relaiable/UploadZone";
 import { AnalysisProgress } from "@/components/relaiable/AnalysisProgress";
 
 import { useAnalysisStore } from "@/lib/analysis-store";
+import { verifyFile, toReport } from "@/lib/api";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -25,16 +30,33 @@ export const Route = createFileRoute("/")({
 function Landing() {
   const [analysing, setAnalysing] = useState<string | null>(null);
   const navigate = useNavigate();
-  const start = useAnalysisStore((s) => s.startAnalysis);
-  const startReportPolling = useAnalysisStore((s) => s.startReportPolling);
+  const setReport = useAnalysisStore((s) => s.setReport);
+  const startDemo = useAnalysisStore((s) => s.startDemo);
 
-  const begin = (name: string) => setAnalysing(name);
+  const mutation = useMutation({
+    mutationFn: (file: File) => verifyFile(file),
+    onSuccess: (resp, file) => {
+      const { citations, paragraphs } = toReport(resp);
+      setReport(file.name, citations, paragraphs);
+      // navigation happens once AnalysisProgress shows 100% (done) -> onDone
+    },
+    onError: (err) => {
+      setAnalysing(null);
+      toast.error("Verification failed", { description: String((err as Error)?.message ?? err) });
+    },
+  });
 
-  const finish = () => {
-    if (analysing) start(analysing);
-    startReportPolling();
+  const begin = (file: File) => {
+    setAnalysing(file.name);
+    mutation.mutate(file);
+  };
+
+  const openDemo = () => {
+    startDemo();
     navigate({ to: "/dashboard" });
   };
+
+  const finish = () => navigate({ to: "/dashboard" });
 
   return (
     <div className="min-h-screen bg-background">
@@ -48,10 +70,14 @@ function Landing() {
         <button onClick={toggleDashboard} className="cursor-pointer bg-transparent border-0 p-0"><Logo /></button>
 
         <div className="flex items-center gap-2">
-          <span className="inline-flex items-center gap-1.5 rounded-md border border-border bg-card text-muted-foreground h-8 px-3 text-xs">
-            <Scale className="h-3.5 w-3.5 text-slate-ink" />
-            UK
-          </span>
+          <JurisdictionFilter compact />
+          <Button
+            variant="ghost"
+            size="sm"
+            onClick={openDemo}
+          >
+            Try Demo
+          </Button>
         </div>
       </header>
 
@@ -70,7 +96,28 @@ function Landing() {
               identify mischaracterised cases and verify legal citations before filing.
             </p>
 
-            <hr className="mt-8 border-t border-border" />
+            <div className="mt-8 flex flex-wrap items-center gap-3">
+              <Button
+                size="lg"
+                className="bg-navy text-primary-foreground hover:bg-navy-soft"
+                onClick={() => document.getElementById("upload")?.scrollIntoView({ behavior: "smooth" })}
+              >
+                Upload Document <ArrowRight className="ml-1.5 h-4 w-4" />
+              </Button>
+              <Button
+                size="lg"
+                variant="outline"
+                onClick={openDemo}
+              >
+                Try Demo
+              </Button>
+            </div>
+
+            <dl className="mt-10 grid grid-cols-3 gap-6 border-t pt-8 text-sm">
+              <Stat k="98.4%" v="Detection rate on synthetic hallucinations" />
+              <Stat k="6 sec" v="Mean verification per citation" />
+              <Stat k="11+" v="Jurisdictions supported" />
+            </dl>
           </div>
 
           <div id="upload" className="mx-auto w-full max-w-3xl">
@@ -148,8 +195,13 @@ function Landing() {
         </div>
       </footer>
 
-
-      {analysing && <AnalysisProgress fileName={analysing} onDone={finish} />}
+      {analysing && (mutation.isPending || mutation.isSuccess) && (
+        <AnalysisProgress
+          fileName={analysing}
+          done={mutation.isSuccess}
+          onDone={finish}
+        />
+      )}
     </div>
   );
 }

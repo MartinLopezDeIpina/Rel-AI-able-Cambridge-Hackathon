@@ -15,7 +15,12 @@ numpy>=1.26
 fastembed>=0.3
 rapidfuzz>=3.0          # required by app/services/citelib.py (name matching)
 
-# Optional — OCR fallback for scanned source PDFs (app/services/pdf_ocr.py).
-# Heavy; install only if your corpus has scans:
-#   pymupdf>=1.24
+# PDF page rendering — used by the source-metadata builder to rasterise the first
+# pages of each judgment for vision OCR (app/services/source_metadata_builder.py),
+# and by the OCR fallback (app/services/pdf_ocr.py).
+pymupdf>=1.24
+tqdm>=4.66          # progress bars for the source builders
+
+# Optional — local OCR fallback for scanned source PDFs (app/services/pdf_ocr.py).
+# Heavy; install only if you use the local OCR path instead of vision OCR:
 #   rapidocr-onnxruntime>=1.3

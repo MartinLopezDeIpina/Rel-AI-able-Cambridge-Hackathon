@@ -1,0 +1,2915 @@
+[2013] UKPC 17
+Privy Council Appeal No 0054 of 2012
+JUDGMENT
+Crawford Adjusters and others (Appellants) v
+Sagicor General Insurance (Cayman) Limited and
+another (Respondent)
+From the Cayman Islands Court of Appeal
+before
+Lord Neuberger
+Lady Hale
+Lord Kerr
+Lord Wilson
+Lord Sumption
+JUDGMENTS DELIVERED
+ON
+13 June 2013
+Heard on 22-23 January 2013
+
+Appellant
+Respondent
+Isaac Ellis Jacob
+Michael Roberts
+Conn MacEvilly
+Nicholas Dunne
+(Instructed by Hampson &
+(Instructed by Edwin Coe
+Co. Attorneys-at-Law,
+LLP, as agents for
+George Town)
+Walkers, George Town)
+
+LORD WILSON:
+INTRODUCTION
+1.
+This appeal requires the Board to consider the scope of the closely related torts
+of abuse of process and malicious prosecution.
+2.
+The appellants are Mr Alastair Paterson and two companies of which he is a
+director and which at all material times acted by him. For the purposes of this appeal
+I will personify all the appellants as Mr Paterson.
+3.
+The respondent is Sagicor General Insurance (Cayman) Ltd (“Sagicor”).
+4.
+Mr Paterson appeals against an order of the Cayman Islands Court of Appeal,
+Cayman Islands, dated 5 April 2012. By a judgment delivered by Sir Anthony
+Campbell JA, with which Sir John Chadwick P and Elliott Mottley JA agreed, the
+court dismissed Mr Paterson’s appeal against an order of the Grand Court of the
+Cayman Islands dated 14 February 2011. By a judgment delivered on that date
+Henderson J had dismissed Mr Paterson’s counterclaim against Sagicor for damages.
+THE FACTS
+5.
+Mr Paterson is a chartered surveyor resident in the Cayman Islands.
+6.
+On 11 and 12 September 2004 Hurricane Ivan made landfall in Grand Cayman
+and caused substantial damage. It extensively damaged Windsor Village (“the
+Village”), a development of 35 residential units in six two-storey blocks along the
+shore. The proprietors of the Village had insured it with Sagicor against damage,
+including by hurricane.
+7.
+Sagicor at once accepted that much of the damage caused to the Village was
+covered by the policy. On 24 September 2004 it appointed Mr Paterson to act as its
+loss adjuster in relation to the claim. Mr Scott, the chief executive officer of Sagicor,
+resided in the Village and was keen that the works of restoration should begin
+quickly. It was he who suggested that the works might be undertaken by one or other
+of two building companies of which Messrs John and Robert Hurlstone were
+directors. I will describe both companies and both men compendiously as Hurlstone.
+1
+
+8.
+Sagicor and the proprietors of the Village were both content that Hurlstone
+should undertake the works. It began the initial clean-up work on about 21 October
+2004. But in the aftermath of the hurricane there was considerable chaos on the
+island. Building materials were in short supply and their cost had increased sharply.
+Little heavy equipment remained in working order. There was a severe shortage of
+motor vehicles. Construction workers were hard to find; Hurlstone had to employ
+hotel and bar workers, who demanded higher than normal hourly rates of pay. Water
+had devastated Hurlstone’s offices and its computers had been destroyed.
+9.
+It was partly for these reasons that paperwork apt to a project of such size was
+lacking. Engineers had produced a structural report and drawings for the reconstruction but a
+detailed scope of works was never produced and its absence caused considerable difficulty.
+A total contract price was never agreed between Hurlstone and the proprietors of the Village.
+The absence of specifications and bills of quantities disabled Hurlstone from offering a firm
+price. But in November 2004 it gave the proprietors a preliminary estimate in the sum of just
+over $5.5m; and the estimate came to Sagicor’s attention. In this judgment all references to
+dollars are references to Cayman Islands dollars.
+10.
+Hurlstone made clear to Mr Paterson and through him to Sagicor that it expected
+payments in advance to cover its likely expenditure. Between October 2004 and May 2005,
+on the recommendation of Mr Paterson, Sagicor made seven advance payments to Hurlstone
+which totalled $2.9m. The final three of the payments were also approved by another loss
+adjuster instructed by Sagicor although he expressed concern about the lack of detail in Mr
+Paterson’s reports. Before recommending advances to Hurlstone, Mr Paterson visited its
+offices, inspected its invoices and sought carefully to review its work. By June 2005 Mr
+Paterson was close to finalising his adjustment of Sagicor’s liability under the policy. For
+discussion he put forward figures, which Sagicor appeared to accept, that the total cost of the
+works of reconstruction at the Village would be in the sum of $6.5m, of which Sagicor
+would be liable for $5.5m. Hurlstone was pressing for a further advance on the basis that the
+total of the previous advances fell significantly short of the value of the works which it had
+so far done; but Mr Paterson agreed with Sagicor that no further advance would be made
+until a contract price had been agreed.
+11.
+In June 2005 Mr Frank Delessio joined Sagicor as Senior Vice President. He was an
+experienced and able loss adjuster with an aggressive personality. He and Mr Paterson had
+known each other for several years. They were not fond of each other. Like many others, Mr
+Paterson considered Mr Delessio to be confrontational. In about 2001 Mr Paterson had
+inquired of the Cayman Immigration Department whether Mr Delessio held an appropriate
+work permit; and his inquiry had come to Mr Delessio’s knowledge.
+12.
+On arrival at Sagicor Mr Delessio began a detailed study of its liability for losses
+caused by the hurricane and in particular for the cost of works at the Village. He became
+concerned that there was a serious deficiency in the documentation to support the advance
+2
+
+payments which had been made to Hurlstone on the recommendation of Mr Paterson. On
+behalf of Sagicor Mr Delessio instructed Mr Paterson to deal only with himself. He
+acquired scope sheets apparently prepared on behalf of Mr Paterson, which appeared to
+calculate Sagicor’s total liability at $4.8m rather than $5.5m. He demanded that Mr
+Paterson should at once provide a full report outlining all costings. By that stage it would
+have been almost impossible for Mr Paterson to meet that demand; and, insofar as he could
+have met it in part, he could not have done so quickly.
+13.
+In July 2005, apparently with the agreement of the proprietors, Mr Delessio told
+Hurlstone that it had been fired. It had completed about half the work and had expected to
+finish it in December 2005.
+14.
+In July 2005 Mr Delessio stated that he intended to drive Mr Paterson out of
+business and to destroy him professionally. The judge found that Mr Delessio meant what
+he said. To one witness Mr Delessio seemed obsessed by a desire to damage Mr Paterson.
+He arranged for private investigators to place Mr Paterson under surveillance. He caused
+Sagicor to instruct Quin and Hampson, attorneys-at-law, to advise it; and, in its dealings
+with the attorneys, Sagicor acted through him. At its invitation the head of the Financial
+Crimes Unit of the Islands Police Service attended a meeting between him and the
+attorneys in case it should be concluded that Mr Paterson had committed a criminal
+offence.
+15.
+In August 2005 Mr Delessio instructed Mr Purbrick, a chartered surveyor and loss
+adjuster in practice in England, to come to Grand Cayman and to assess the value of
+Hurlstone’s work at the Village. Mr Purbrick spent five days on site. But, on the
+instruction of Mr Delessio, he did not speak to Mr Paterson or Hurlstone. Nor did he
+inquire of Hurlstone’s subcontractors or suppliers about costs. Nor did he even consult the
+engineers who had produced the structural report and the drawings.
+16.
+In September 2005 Mr Purbrick produced a preliminary report. In it he valued the
+work done by Hurlstone at $0.9m, of which $0.8m was said to be the responsibility of
+Sagicor. On Mr Delessio’s instruction Mr Purbrick had made no allowance for the cost of
+any clean-up work. Mr Delessio thereupon caused the attorneys to instruct London counsel
+to advise whether Mr Paterson and Hurlstone had perpetrated a fraud on Sagicor. On the
+basis of Mr Purbrick’s report counsel advised that Hurlstone’s overcharging, approved by
+Mr Paterson, had been so gross as to be incapable of honest explanation. In about February
+2006 Mr Purbrick wrote a second report in which he identified allegedly defective work by
+Hurlstone which caused him to reduce his estimate of the value of the work which it had
+done to $0.8m, of which $0.7m was said to be the responsibility of Sagicor. Both Sagicor
+and the proprietors of the Village instructed the attorneys to issue proceedings on their
+behalf.
+3
+
+17.
+On 28 February 2006, in the Grand Court, Sagicor and the proprietors issued a writ
+against Mr Paterson and Hurlstone. The statement of claim was squarely founded on Mr
+Purbrick’s reports. The plaintiffs alleged that Sagicor had paid Hurlstone $2.9m for works
+for which it was liable to pay only $0.7m; that the payments had been made as a result of
+fraudulent misrepresentations about the value of the works on the part of Mr Paterson and
+Hurlstone; and that they had conspired together to make the misrepresentations. Sagicor
+claimed damages against them for deceit and conspiracy. The proprietors, however, soon
+amended their claim so that it was brought only against Hurlstone and only for breach of
+contract or by way of restitution; so they thereby dissociated themselves from the
+allegations of fraud and conspiracy.
+18.
+On the date when the writ was issued Sagicor, not joined by the proprietors, applied
+ex parte to the Chief Justice for Mareva injunctions against Mr Paterson and Hurlstone.
+On the usual undertaking he granted the injunction against Hurlstone; but he held that the
+evidence of Mr Paterson’s likely dissipation of assets was insufficient to justify an
+injunction against him.
+19.
+Mr Delessio informed an officer of the proprietors that he intended to plant an
+article in the press about the allegations against Mr Paterson and Hurlstone in the
+proceedings; and the judge found that he was instrumental in alerting a journalist working
+for “The Caymanian Compass” to the allegations. On 22 March 2006 the Compass duly
+reported Sagicor’s allegations that Mr Paterson had made misrepresentations which he
+knew were false or which he had made recklessly. The currency thereby given to the
+allegations caused massive damage to his reputation and to the willingness of third parties
+to employ him.
+20.
+Like Hurlstone, Mr Paterson filed a defence in which all the allegations were
+denied.
+But he included a counterclaim for fees payable to him under his contract with
+Sagicor.
+21.
+The progress of the action was slow; but there is no evidence to justify the
+allegation, first raised by Mr Paterson before the Court of Appeal and there rejected, that
+the plaintiffs never intended to bring it to trial. In September 2008, three months prior to
+the dates fixed for the trial, Hurlstone made disclosure of invoices and other documentation
+which indicated its extensive payments to subcontractors and suppliers. Concerned that
+they appeared to undermine Mr Purbrick’s reports, the attorneys asked counsel to advise.
+His advice was that it would be professionally improper for him and the attorneys to
+continue to represent Sagicor in its claims of fraud and conspiracy. Only days before trial
+the plaintiffs discontinued the action and judgment was entered for Mr Paterson and
+Hurlstone. On 9 December 2008 Henderson J ordered Sagicor to pay their costs on the
+indemnity basis. Thereupon he granted Mr Paterson leave to amend his counterclaim so as
+to include a claim for damages against Sagicor for abuse of process; and he gave directions
+for the assembly for trial both of Mr Paterson’s counterclaim, of Hurlstone’s claim for
+4
+
+compensation pursuant to Sagicor’s undertaking attached to the Mareva injunction and also
+of a claim for damages against Sagicor for malicious prosecution and/or abuse of process
+brought by Hurlstone in a separate action which it had recently issued.
+22.
+Early in 2009 Mr Delessio committed suicide.
+23.
+Over 30 days between May and December 2009 Henderson J heard the various
+claims. There was a regrettable delay prior to the dissemination of his judgment, which he
+ascribed to pressure of work and for which he apologised to the parties. But I pay tribute to
+the clarity and comprehensiveness of the judgment which he ultimately disseminated on 14
+February 2011 and to which, at the request of counsel then appearing for Mr Paterson, he
+made additions on 14 March 2011.
+24.
+By the order dated 14 February 2011 Henderson J dismissed Mr Paterson’s
+counterclaim. He also dismissed the separate action brought by Hurlstone. But, by way of
+enforcement of Sagicor’s undertaking, he awarded Hurlstone sums totalling $7.2m in
+respect primarily of economic loss which it had suffered as a result of the injunction but
+also of damage to reputation and by way of aggravated damages for elements of non­
+disclosure on Sagicor’s part when obtaining the injunction. An appeal by Sagicor against
+the amount of the judge’s award to Hurlstone was compromised on confidential terms; and
+Hurlstone’s participation in the litigation came to an end.
+25.
+As pleaded, Mr Paterson’s counterclaim had been founded on the tort of abuse of
+process. Before the Court of Appeal, and in particular before the Board, Sagicor has
+protested that it has therefore not remained open to Mr Paterson to found his argument
+alternatively on the tort of malicious prosecution, which had been pleaded only by
+Hurlstone in its separate action. It is clear, however, that, after noting that the two torts
+were closely related, Henderson J treated Mr Paterson, like Hurlstone, as relying
+alternatively on both torts. In my view Sagicor fails to establish that Mr Paterson’s
+omission expressly to plead that it was liable to him pursuant to the tort of malicious
+prosecution led to the failure of Henderson J to consider any matter arguably relevant to the
+existence of the tort. I would decline to accede to Sagicor’s invitation to refuse to consider
+this alternative basis of Mr Paterson’s appeal.
+26.
+On what grounds did Henderson J dismiss Mr Paterson’s counterclaim?
+27.
+In this regard two matters were agreed or not in active dispute.
+28.
+The first was that works done by Hurlstone at the Village for the cost of which
+Sagicor was responsible had a value of $3m. In that it had paid it $2.9m, Sagicor had
+therefore not overpaid Hurlstone at all.
+5
+
+29.
+The second, based on agreement between experts instructed on each side, was that,
+were Sagicor liable to Mr Paterson either for abuse of process or for malicious prosecution,
+his special damages, reflective of the economic loss caused to him by its allegations,
+amounted to $1.3m. The judge explained that, to this sum, he would have added $0.035m
+by way of general damages for the distress, hurt and humiliation suffered by Mr Paterson
+as a result of the allegations.
+30.
+The judge received expert evidence from three surveyors about the respects in
+which Mr Purbrick’s reports had been flawed. The evidence was not substantially in
+conflict; and the judge appears to have accepted it. The most obvious error was that Mr
+Purbrick had not included in his calculations the cost of the clean-up work which Hurlstone
+had undertaken. For Mr Delessio had told him that the clean-up work had been effected by
+a different contractor; indeed Mr Delessio had told him so even though he knew that
+Hurlstone had itself conducted the clean-up work and even though he possessed an invoice
+from Hurlstone in respect of the work in the sum of about $0.64m, which Sagicor had paid.
+Nor did Mr Delessio inform Sagicor’s attorneys that he had told Mr Purbrick not to allow
+for the clean-up work. But the judge also found that Mr Purbrick’s ability to reach a valid
+opinion had been severely fettered by Mr Delessio’s instruction to him not to speak to Mr
+Paterson nor to Hurlstone. He had not even spoken to the engineers nor obtained their
+structural drawings. He had in effect no knowledge of the local market, let alone of its
+distortion in the aftermath of the hurricane; and he had adopted labour rates, costs of
+materials and allowances for overhead and profits, all of which had been demonstrably too
+low.
+31.
+The judge found that Mr Delessio knew that Mr Purbrick’s reports were not a proper
+basis for the allegations of fraud and conspiracy; and that Mr Delessio concealed this from
+Sagicor’s attorneys. Indeed, as he had observed on 9 December 2008 when ordering it to
+pay the costs of its action on an indemnity basis, Sagicor had never been in possession of
+evidence capable of establishing fraud or conspiracy.
+32.
+The judge made findings about the motives of Mr Delessio, which (as is not
+challenged) he imputed to Sagicor, in making the allegations of fraud and conspiracy
+against Mr Paterson. They are of great importance to the current appeal.
+The judge found:
+(a) that Mr Delessio had noted a number of features surrounding the size of
+payments to Hurlstone which might, to the reasonable and objective
+observer, have seemed somewhat suspicious;
+(b) that, in particular, Mr Paterson’s reports to Sagicor had lacked
+customary detail; that he could have provided a somewhat fuller
+response, especially in writing, to Mr Delessio’s demands for
+information; that one of Mr Paterson’s former employees might have
+6
+
+told Mr Delessio that the work done by Hurlstone at the Village had a
+value of only $1.3m; and that Mr Paterson had put himself into a
+position of conflict by agreeing to act as project manager for the
+proprietors as well as the loss adjuster for Sagicor;
+(c) that, while it was reasonable for Mr Delessio to have been somewhat
+suspicious, it had been unreasonable for him to believe that Mr Paterson
+had defrauded Sagicor;
+(d) that, however, Mr Delessio had believed that Mr Paterson had defrauded
+it;
+(e) that Mr Delessio’s belief that he had defrauded it was a significant
+contributing factor in leading Sagicor to make the allegations of fraud
+and conspiracy against Mr Paterson; but
+(f) that the dominant factor which led it to make those allegations against
+him had been Mr Delessio’s strong dislike and resentment of him, his
+wish to gain revenge on him and his obsessive determination to destroy
+him professionally.
+CONCLUSIONS OF THE COURTS BELOW
+33.
+In the light of the above findings Henderson J addressed each of the two torts upon
+which Mr Paterson relied. He concluded that Sagicor was not liable for abuse of process
+because it had not used the facility to sue Mr Paterson in order to secure an object for
+which legal action was not designed; and that the fact that Sagicor’s dominant motive in
+making the allegations against him was improper did not convert its use of the legal
+process into an abuse.
+34.
+In relation to the suggested tort of malicious prosecution, Henderson J held that,
+save in respect of one crucial feature of law, Mr Paterson had established all of the four
+elements of the tort. Thus
+(a) the prior proceedings had been determined in favour of Mr Paterson;
+(b) the allegations of fraud and conspiracy made against him in the prior
+proceedings had been made without reasonable cause;
+(c) in the light of the finding set out in para 32(f) above, the allegations
+against him had been made maliciously; and
+7
+
+(d) as a result of the allegations, he had, as was agreed, suffered substantial
+financial loss and significant other damage.
+The crucial feature which, according to Henderson J, precluded his holding Sagicor liable
+to Mr Paterson for malicious prosecution was that the present state of the law did not allow
+extension of the tort to civil proceedings. In this regard he cited observations made by
+Lord Steyn in Gregory v Portsmouth City Council [2000] 1 AC 419, pp 432-433, which I
+will address in para 36 below.
+35.
+In the Court of Appeal Mr Jacob, who was appearing for Mr Paterson for the first
+time, conceded that, in the light of the observations in the Gregory case, it would in effect
+not be open to that court to hold that the tort of malicious prosecution had been established.
+There was a formal dismissal of that ground of the appeal so that, in the event of an appeal
+to the Board, Mr Jacob could actively press that ground by challenging its dismissal.
+Instead he argued that the tort of abuse of process had been established. The court held,
+however, that the judge had been right to reject that argument for the reasons which he had
+given and which I have summarised at para 33.
+THE GREGORY CASE
+36.
+At the outset of the interesting legal excursion which this appeal invites the Board to
+undertake, it is worthwhile to assess the extent to which the observations made in the
+Gregory case, cited above, impede – or do not impede – Mr Paterson’s ability to succeed in
+establishing what, as I will explain, I regard as otherwise the more arguable of the torts
+upon which he relies, namely that of malicious prosecution.
+37.
+In the Gregory case C was a councillor on D City Council and was a member of
+some of its committees.
+Following an allegation against him of misuse of insider
+knowledge in property dealings, D set up a committee which found the allegation true and
+purported to remove him from the committees. A court later held that the committee had
+thereby acted beyond its powers.
+C’s subsequent action against D for malicious
+prosecution was struck out by a district judge as disclosing no cause of action; and on
+appeal a High Court judge upheld the strike-out. By a majority, the Court of Appeal
+dismissed C’s further appeal: (1997) 96 LGR 569; but Schiemann LJ delivered a powerful
+dissenting judgment. The House of Lords dismissed C’s yet further appeal. Lord Steyn,
+with whom the other members of the House agreed, gave the only substantive speech. He
+said:
+(a)
+that, whatever the extent of the tort of malicious prosecution, its
+paradigm was of the prosecution of criminal proceedings (p 426);
+8
+
+(b)
+that a distinctive feature of the tort was that the defendant had
+abused the coercive powers of the state (p 426);
+(c)
+that a claimant had to prove that the criminal prosecution was
+determined in his favour, that it was brought without reasonable
+and proper cause, that it was malicious and that he had suffered
+damage (p 426);
+(d)
+that the extension of the tort in the US to the prosecution of civil
+actions was related to the absence there of a general power to
+award costs against a claimant in favour of a successful defendant
+(p 429);
+(e)
+that the academic criticism in Australia, Canada and New
+Zealand of the apparent absence of redress for malicious
+prosecution of civil proceedings did not extend to criticism in
+relation to the prosecution of disciplinary proceedings (p 431);
+and
+(f)
+that, in relation to statements made in disciplinary, as opposed to
+in legal, proceedings, privilege under the law of defamation was
+only qualified, thus defeasible by proof of malice, and that a
+remedy in defamation was therefore a tort which (together with
+three other torts) might well be available to the victim of a
+malicious prosecution of disciplinary proceedings such as C
+claimed to be (pp 431-432).
+38.
+The holding in the Gregory case was that the tort of malicious prosecution did not
+extend to disciplinary proceedings: p 432. Then, however, Lord Steyn added as a post­
+script, at pp 432-433:
+“My Lords, it is not necessary for the disposal of the present appeal to
+express a view on the argument in favour of the extension of the tort to
+civil proceedings generally. It would, however, be unsatisfactory to
+leave this important issue in the air. I will, therefore, briefly state my
+conclusions on this aspect. There is a stronger case for an extension of
+the tort to civil legal proceedings than to disciplinary proceedings Both
+criminal and civil legal proceedings are covered by the same immunity.
+And as I have explained with reference to the potential damage of
+publicity about a civil action alleging fraud, the traditional explanation
+namely that in the case of civil proceedings the poison and the antidote
+are presented simultaneously, is no longer plausible. Nevertheless, for
+essentially practical reasons I am not persuaded that the general
+extension of the tort to civil proceedings has been shown to be necessary
+if one takes into account the protection afforded by other related torts. I
+9
+
+am tolerably confident that any manifest injustices arising from
+groundless and damaging civil proceedings are either already adequately
+protected under other torts or are capable of being addressed by any
+necessary and desirable extensions of other torts. Instead of embarking
+on a radical extension of the tort of malicious prosecution I would rely
+on the capacity of our tort law for pragmatic growth in response to true
+necessities demonstrated by experience.”
+39.
+In my view Lord Steyn’s observations should in no way discourage the Board
+from concluding, were it otherwise minded to do so, that the tort of malicious
+prosecution applies to Mr Paterson’s case. It cannot be doubted that he suffered
+manifest injustice as a result of groundless and damaging civil proceedings brought
+maliciously. If, as I will conclude, no other tort is capable of extension so as to
+address the injustice of the present case, the rationale behind Lord Steyn’s hesitation
+loses all its force. And, if, as he had earlier observed, a distinctive feature of the tort is
+an abuse of the coercive powers of the state, the Board will need to ask why it does
+not generate liability as much in the case of malicious prosecution of civil proceedings
+as in that of criminal proceedings. Unfortunate though it may be for members of the
+Board to favour such different constructions of Lord Steyn’s apparently
+straightforward observations, I find myself unable to subscribe to Lord Sumption’s
+conclusion, at para 146, that the House of Lords thereby “decided” and “declared” that
+the tort of malicious prosecution did not extend to civil proceedings; nor, for reasons
+which will become apparent, can I associate myself with his suggestion that this area
+of the law is “relatively well-trodden”.
+EARLY DEVELOPMENT OF THE LAW
+40.
+In 1285 the Parliament of Edward I provided a right to damages for the victims
+of malicious appeals (ie prosecutions) of homicides and other felonies against those
+who had conspired to procure them (Anno 13, Edw I, stat 1, c12); and in 1305 the
+Parliament ordained that the judges should be provided with a transcript of its
+definition of conspirators for these purposes, namely those who, in an early translation
+from law French, “do confeder or bind themselves by Oath, Covenant or other
+Alliance, that every of them shall aid and support the Enterprise of each other falsely
+and maliciously to... cause [a person] to be indicted...” (Anno 33, Edw I, stat 2).
+41.
+By Elizabethan times it was recognised that the writ of conspiracy failed to
+recompense all deserving victims of malicious prosecution. Obviously the writ did not
+lie against the single prosecutor; moreover it covered malicious prosecutions for
+felony but not for misdemeanour; and furthermore the acquittal had to be by verdict
+rather than for any other reason. The engine behind the development of the common
+law of tort, namely the action on the case, came to the rescue. The action on the case
+required consideration, first, of whether D had caused C to suffer damage and then, if
+10
+
+so, of whether D’s conduct in so doing had been so reprehensible as to make him
+liable to C for it. The action on the case began to supplant the writ of conspiracy for
+use by victims of malicious prosecution and it was not shackled by the three
+limitations to which I have referred.
+42.
+I am reluctant to appear to submerge this judgment in ancient legal history. On
+the other hand I am concerned to demonstrate that, with respect, Lord Sumption is
+wrong to state, in para 145 of his judgment, that the tort of malicious prosecution has
+never previously applied to civil proceedings and, in para 159, that therefore to apply
+it to civil proceedings would be to create a wholly new tort. In The Present Law of
+Abuse of Legal Procedure, Cambridge University Press, 1921, Sir Percy Winfield,
+wrote, at p202, that the writ of conspiracy had lain for improper civil actions and, at
+p199, that, equally, the action upon the case was not confined to malicious
+indictments.
+I will confine myself to two of Sir Percy’s examples. The first is
+Bulwer v Smith (1583) 4 Leon 52, 74 ER 724, in which, knowing that C owed H £20
+under a judgment debt and that H had died, D unlawfully arrogated H’s name to
+himself and thereby maliciously caused C to be outlawed for non-payment of the debt,
+as a result of which he was imprisoned for two months and suffered forfeiture of his
+goods. C successfully sued D for compensation for the loss and damage sustained as
+a result of the outlawry. The second is Gray v Dight (1677) 2 Show KB 144, 89 ER
+848, in which C successfully sued D for having maliciously prosecuted him in the
+ecclesiastical court, as a result of which he had been excommunicated. “And resolved”
+states the report, “the action lies though nothing ensued but an excommunication, and
+no [arrest], nor any express damage laid”.
+43.
+Although therefore, as Diplock J correctly recognised in Berry v British
+Transport Commission [1961] 1 QB 149, at p 159, it could be founded upon any form
+of legal proceedings, whether civil or criminal, the action on the case for malicious
+prosecution was usually brought in the wake of unsuccessful criminal proceedings;
+and in that regard an important aspect of public policy was engaged. It surrounded the
+fact that, until the nineteenth century, criminal prosecutions were brought almost
+entirely by victims of the alleged crimes or, if they were dead, by their kinsmen: see R
+(Gujra) v Crown Prosecution Service [2012] UKSC 52, [2013] 1 AC 484, para 11. In
+that enforcement of the criminal law therefore depended upon private initiative, it was
+important not to discourage the initiative by too easy a remedy for the defendant
+against the prosecutor in the event of his acquittal. One device was based on the need
+for an acquitted defendant who wished to sue for malicious prosecution to obtain from
+the judge in the criminal proceedings a copy of the record of the indictment and of his
+acquittal. As Blackstone explains in his Commentaries, 1765, Book Three, Chapter 8,
+“but, in prosecutions for felony, it is usual to deny a copy of the
+indictment, where there is any, the least, probable case to found such
+prosecution upon. For it would be a very great discouragement to the
+public justice of the Kingdom, if prosecutors, who had a tolerable
+11
+
+ground of suspicion, were liable to be sued at law whenever their
+indictments miscarried.”
+44.
+In 1698 the Court of King’s Bench delivered its seminal judgment in Savile v
+Roberts. It was regarded as so important that ten different law reporters reported it.
+The report principally cited has been that of Lord Raymond: 1 Ld Raym 374, 91 ER
+1147. D had maliciously caused C to be indicted for riot. Following his acquittal C
+sued D for malicious prosecution. The court affirmed the judgment which had been
+given for C. It was held to be irrelevant that D had not been part of a conspiracy.
+Chief Justice Holt observed, at p 378, that whether the action would lie had been a
+point “much unsettled in Westminster Hall, and therefore to set it at rest is at this time
+very necessary”.
+Lord Raymond’s report of the judgment of the Chief Justice
+continues as follows:
+“He said that there are three sorts of damages, any of which would be
+sufficient ground to support the action.
+1.
+The damage to a man’s fame, as if the matter whereof he is
+accused be scandalous... But there is no scandal in the crime for
+which the plaintiff in the original action was indicted.
+2.
+...damages...such as are done to the person; as where a man is put
+in danger to lose his life, or limb, or liberty... but these kinds of
+damages are not ingredients in the present case.
+3.
+...damage to a man’s property, as where he is forced to expend
+his money in necessary charges, to acquit himself of the crime of
+which he is accused, which is the present charge. That a man in
+such case is put to expenses is without doubt, which is an injury
+to his property; and if that injury is done to him maliciously, it is
+reasonable that he shall have an action to repair himself.”
+45.
+The Chief Justice proceeded, at pp 379-380, pp1150-1151, to observe, no doubt
+subject to what he was about to add, that, where a civil action was sued without cause,
+no action would lie in favour of the successful defendant; for, in civil as opposed to in
+criminal proceedings, claimants had been required to post pledges which could be
+drawn down in favour of victims of false claims and, more recently, they could be
+ordered to pay costs to their victims directly. Then, however, he added that “if A sues
+an action against B for mere vexation, in some cases upon particular damage B may
+have an action; but it is not enough to say that A sued him falso et malitiose, but he
+must show the matter of the grievance specially, so that it may appear to the Court to
+be manifestly vexatious”. Or, in the words of another of the reports, at 12 Mod 208,
+12
+
+88 ER 1267, at p 211, p 1269, “if he shew any special matter, whereby it appears to
+the court that it was frivolous and vexatious, he shall have an action”.
+46.
+In support of his assertion that an action could lie for the “malicious
+prosecution” of civil proceedings, the Chief Justice cited Daw v Swaine (1668) 1 Sid
+424, 82 ER 1195. In order to cause C to be imprisoned for inability to lodge the sum
+claimed as bail, D had there maliciously sued him for £5000 rather than for £40 which
+was the amount of C’s debt to him. C’s action succeeded. I respectfully disagree
+with Lord Sumption’s suggestion, at para 140, that C’s cause of action was
+subsequently subsumed in the action for abuse of process; as I will explain, the latter
+requires a purpose not within the scope of the action but D’s purpose, namely to cause
+C to be imprisoned for want of bail, was entirely within the scope of his action.
+47.
+Other of the reports of Savile v Roberts show that the Chief Justice also cited
+with approval two yet further examples of recovery for the malicious prosecution of
+civil proceedings: see the reports at 5 Mod 394, 87 ER 725, for his citation of Waterer
+v Freeman (1617) Hobart 205, 80 ER 352, and at 12 Mod 208, 88 ER 1267, for his
+citation of Skinner v Gunton (1669) 1 Saund 228, 85 ER 249.
+48.
+At the end the Chief Justice added, at p 381, p 1151, of Lord Raymond’s
+report, that “though this action will lie, yet it ought not to be favoured, but managed
+with great caution”.
+49.
+It is fair to say that the Chief Justice, at p 379, p 1150, of Lord Raymond’s
+report, pointed out that, in a civil action as opposed to in a criminal prosecution, the
+assertion was of a private right. But, had he intended to use that distinction as a
+reason for excluding the malicious prosecution of a civil action from the scope of an
+action on the case, he would not have proceeded to stress the availability to a
+defendant to civil proceedings of an order for costs nor to have indorsed the previous
+jurisprudence that some victims of civil actions brought in such circumstances could
+recover. The basis of the action on the case was damage caused by D to C; and, for
+the purpose of this particular species of it, the crucial additional element was malice.
+In my view the best encapsulation of the central decision in Savile v Roberts, which
+makes no distinction between criminal and civil proceedings, is to be collected from
+the report at 5 Mod 394, 87 ER 725, as follows:
+“It is the malice that is the foundation of all actions of this nature, which
+incites men to make use of law for other purposes than those for which it
+was ordained.”
+50.
+The judgment of Holt CJ has had an extraordinary impact upon the
+development of the law of tort throughout the common law world. In The History of
+13
+
+Conspiracy and Abuse of Legal Procedure, 1921, Cambridge University Press, Sir
+Percy Winfield, at p129, describes the three types of damage identified by the Chief
+Justice as “the plinths upon which English Law has been reared”.
+51.
+In relation to each plinth a question arises.
+52.
+First, why was there no scandal, and thus no damage to fame, in being
+prosecuted for riot? The answer is that the word “fame” is linked with that of
+“defamation” and that the word “scandal” was used in a special sense: if the oral
+accusation of a crime would have amounted to slander actionable per se, there was
+“scandal” in being prosecuted for it. At that time riot did not fall into that category:
+see the exegesis of Diplock J in the Berry case, cited above, at pp 161-2.
+53.
+Second, why had C not been put in danger of losing his liberty? For riot was a
+trespass, punishable with imprisonment. It seems, however, from other reports of the
+case (for example 12 Mod 208, 88 ER 1267), that the Chief Justice had said, or
+intended to say, that actual loss of liberty, whether by arrest or detention on remand,
+was his second alternative pre-requisite.
+54.
+Third, does the fact that over 300 years ago the court referred to financial loss
+in terms apt to the case before it, namely in terms of out-of-pocket expenses, mean
+that today the court should decline to reimburse the victim of a malicious prosecution
+for other sorts of financial loss which were the foreseeable, or, as in the present case,
+the intended, consequences of it? The question answers itself. But, in case my
+question is regarded as loaded, and my answer glib, I will address recovery for
+economic loss more fully at paras 74 to 77.
+55.
+The decision in the Savile case was enthusiastically approved by Chief Justice
+Parker, sitting again in the Court of King’s Bench, in Jones v Givin (or more probably
+Gwynn) (1713) Gilb Cas 185, 93 ER 300. D had unsuccessfully prosecuted C for
+exercising the faculty of a badger (ie the right to deal in corn) without a licence. C
+successfully sued D for malicious prosecution and recovered damages equal to his
+costs of £100 expended in the criminal proceedings. As an aside, Parker CJ reiterated,
+at p197, p303, that an action would lie for the malicious prosecution of civil
+proceedings if the claimant could “show special matter which shows malice”. Later at
+p209, p307, he said:
+“The difficulty, which stood most in the way of these actions, was the
+fear of discouraging prosecutions, and the regard to what was done in a
+legal course to bring offenders to punishment...[But] requiring
+satisfaction from those who proceed out of meer malice and wickedness
+14
+
+without any reasonable ground, will be no discouragement at all to him
+who honestly proceeds on reasonable grounds.”
+56.
+It was the decision of the Court of Exchequer Chamber in Grainger v Hill
+(1838) 4 Bing (NC) 212, 132 ER 769, which gave birth to the related tort of abuse of
+process. D1 and D2 lent C £80 repayable in 1837, secured by a mortgage on C’s
+vessel. C was to be free to continue to use the vessel in the interim but the law forbade
+its use if he were to cease to hold its register. In 1836 the Ds became concerned
+about the strength of their security. They resolved to put pressure on C to make early
+repayment. In an action for assumpsit they falsely claimed that the loan was already
+repayable. They swore an affidavit of debt, which in those days entitled them, without
+judicial authority, to cause to be sued out of court a writ of capias ad respondendum
+directed at C.
+This obliged the local sheriff to capture C with a view to his being
+brought before the court and made to respond. The sheriff indicated to C that the Ds
+would be content for him not to be arrested if he were to surrender the vessel’s
+register. He did so. He soon repaid the loan but in the interim the absence of the
+register had required his vessel to forego four voyages to Caen. The court upheld the
+judgment for C in his action on the case. The judges, led by Tindal CJ, held that the
+tort committed by the Ds was not malicious prosecution but abuse of the process of
+the law to effect an object not within the scope of the process which they had initiated,
+namely to “extort” the register, to which they had no right, from C or to obtain it from
+him by “duress”.
+57.
+In Quartz Hill Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674 the
+Court of Appeal saw fit to make categorical observations about the continued
+availability of a tort of the malicious prosecution of civil proceedings. D wished
+urgently to realise the value of his shares in the C company. Wrongly believing that
+his brokers had failed to sell them, he issued a petition that C be wound up on the
+basis of a false allegation that it would never be able to carry on business at a profit. D
+advertised the petition in accordance with the rules but, prior to its service on C, he
+withdrew it.
+In its action for malicious prosecution against D the trial judge non-
+suited C but the Court of Appeal ordered a retrial so that a jury could determine
+whether D had been activated by malice and whether the petition had been filed
+without reasonable cause.
+58.
+Unfortunately, in upholding C’s entitlement to allege malicious prosecution of
+that form of civil proceeding, the court in the Quartz Hill case drew a distinction
+between a petition to wind up a company and an ordinary civil action, which,
+particularly in England and Wales, has had negative repercussions long after the
+distinction has ceased to be valid, indeed right up until today. The court accepted that
+in principle the tort of malicious prosecution extended to all civil proceedings. It held
+that the effect of the requirement to advertise a petition for bankruptcy or for a
+winding-up prior to the hearing was to injure the credit of the respondent before he
+could show that the foundation of the petition was false. It observed, however, that
+15
+
+the malicious prosecution of ordinary civil actions could not lead to any of the three
+types of damage identified in the Savile case, cited above, in that by then orders made
+in such actions could not be enforced by imprisonment; that expenses incurred in
+resisting them would, so far as was just, already have been the subject of an order for
+costs; and that, by contrast with a petition for bankruptcy or for a winding-up, fair
+fame would not have been damaged. Brett MR explained, at p 684-685, that “the evil
+done by bringing the action is remedied at the same time that the mischief is
+published, namely, at the trial”. Bowen LJ expressed his observations in terms which
+are surprisingly categorical and indeed (as the editors of Fleming’s The Law of Torts,
+10th ed (2011), suggest) peremptory, at p 688, as follows:
+“I start with this, that at the present day the bringing of an action under
+our present rules of procedure, and with the consequences attaching
+under our present law, although the action is brought falsely and
+maliciously and without reasonable or probable cause, and whatever
+may be the allegations contained in the pleadings, will not furnish a
+ground for a subsequent complaint by the person who has been sued, nor
+support an action on his part for maliciously bringing the first action.”
+Bowen LJ went on, at p689, to explain that, unlike a petition for a company to be
+wound up, the mere bringing of an ordinary action did not have “the necessary and
+natural consequence” of damage to a defendant’s fair fame and that, when the action
+was tried in public, his fair fame would be cleared if it deserved to be. Bowen LJ
+added, at p 690:
+“I do not say that if one travels into the past and looks through the cases
+cited to us, one will not find scattered observations and even scattered
+cases which seem to shew that in other days, under other systems of
+procedure and law, in which the consequences of actions were different
+from those of the present day, it was supposed that there might be some
+kind of action which, if it were brought maliciously and unreasonably,
+might subsequently give rise to an action for malicious prosecution. It is
+unnecessary to say that there could not be an action of that kind in the
+past, and it is unnecessary to say that there may not be such an action in
+the future, although it cannot be found at the present day.”
+59.
+In Wiffen v Bailey and Romford Urban District Council [1915] 1 KB 600
+Buckley LJ memorably summarised the effect of the Quartz Hill case, at p 607:
+“So the exception of civil proceedings, so far as they are excepted,
+depends, not upon any essential difference between civil and criminal
+proceedings, but upon the fact that in civil proceedings the poison and
+16
+
+the antidote are presented simultaneously. The publicity of the
+proceedings is accompanied by the refutation of the unfounded charge,
+if it be unfounded, which was made. If there be no scandal, if there be
+no danger of loss of life, limb, or liberty, if there be no pecuniary
+damage, the action will not lie.”
+Phillimore LJ added, at p 613, that an action for malicious prosecution of civil
+proceedings lies only when “the bane comes before the antidote, and mischief may be
+done which it will be too late to overtake”.
+60.
+In a judgment of conspicuous erudition in the significant decision of the
+Supreme Court of Victoria, Appeal Division, in Little v Law Institute of Victoria (No
+3) [1990] VR 257, Ormiston J sought to explain why in the Quartz Hill case the court
+had been so confident that the bringing of a civil action could not, prior to trial and his
+vindication if appropriate, damage a defendant’s reputation. He referred, at pp 283­
+286, to three features in relation to civil litigation in England and Wales in 1883.
+First, pleadings, though required to be served, did not have to be filed; and, even in
+relation to documents which were filed, there were considerable legal and practical
+constraints on the ability of a member of the public to secure access to them. Second,
+it was a contempt of court to publish, prior to trial, the contents of pleadings and
+affidavits referable to civil proceedings. Third, the defence of qualified privilege to a
+libel action seems then to have extended only to reports of what had been stated in
+open court at the trial. Thus, for one reason or another, the public seldom came to
+learn, prior to trial, of allegations made in ordinary civil proceedings.
+61.
+Today, in the light of the right of the public in relation to most civil
+proceedings to inspect and take copies of the pleadings which now have to be filed,
+and of the media, without fear either of contempt of court or of the law of libel, fairly
+and accurately to report their contents even if defamatory, the basis of the distinction
+drawn in the Quartz Hill case has crumbled away. As Lord Steyn said in the passage
+of his judgment in the Gregory case quoted in para 38, it “is no longer plausible”. Or,
+as was said in the Little case, it is now rare for the antidote to be simultaneous with the
+poison (Kaye and Beach JJ at p 267) and the substratum of the reasoning of Bowen LJ
+has been subverted (Ormiston J at p 288). Substantial damage to the reputation of a
+defendant can be caused by false allegations made in civil proceedings long before it
+is restored, even if full restoration is then possible, by his vindication at trial. If you
+seek a monument, then look around you at this present case before the Board.
+ABUSE OF PROCESS: LATER DEVELOPMENT
+62.
+It is hard not to regard abuse of process as a tort distinct from malicious
+prosecution if only because, apart from the need to establish a purpose not within the
+17
+
+scope of the action (ie a “collateral” or, more helpfully, an “improper” purpose), abuse
+of process requires neither that the action should have been brought without
+reasonable cause nor that it should have terminated in favour of the alleged victim:
+Tindal CJ said so in the Grainger case itself, at p 221, p 773, and it has never been
+gainsaid.
+Nevertheless the two torts sprang from the same tree and one would not
+expect issues common to them both, such as whether they enable recovery for
+economic loss, to be resolved differently.
+63.
+What is an improper purpose? A helpful metaphor suggested by Isaacs J in the
+High Court of Australia in Varawa v Howard Smith Co Ltd (1911) 13 CLR 35, at p
+91, is that of a stalking-horse:
+“if the proceedings are merely a stalking-horse to coerce the defendant
+in some way entirely outside the ambit of the legal claim upon which the
+Court is asked to adjudicate they are regarded as an abuse of process for
+this purpose...”
+The metaphor aids resolution of the conundrum raised by the example of a claimant
+who intends that the result of the action will be the economic downfall of the
+defendant who may be a business rival or just an enemy. If the claimant’s intention is
+that the result of victory in the action will be the defendant’s downfall, then his
+purpose is not improper: for it is nothing other than to achieve victory in the action,
+with all such consequences as may flow from it. If, on the other hand, his intention is
+to secure the defendant’s downfall – or some other disadvantage to the defendant or
+advantage to himself – by use of the proceedings otherwise than for the purpose for
+which they are designed, then his purpose is improper. See the discussions in the
+joint judgment in the High Court of Australia of Mason CJ, Dawson, Toohey and
+McHugh JJ in Williams v Spautz (1992) 174 CLR 509, at paras 34 to 36, and also in
+Winfield and Jolowicz on Tort, 18th ed (2010), at para 19 -14.
+64.
+But the settlement of an action is often reached upon terms which, had it
+proceeded, the court could not have ordered; and not infrequently claimants
+reasonably initiate actions in the hope that some such settlement might eventuate. In
+Goldsmith v Sperrings Ltd [1977] 1 WLR 478 Bridge LJ neatly allowed for this
+possibility in suggesting, at p 503, that “when a litigant sues to redress a grievance no
+object which he may seek to obtain can be condemned as a collateral advantage if it is
+reasonably related to the provision of some form of redress for that grievance”. Then,
+however, he proceeded to notice what he described as “a difficult area”, namely
+whether a claimant was guilty of abuse if behind his action lay two purposes – one
+legitimate and one improper. He had “very much doubt” whether such would be an
+abuse.
+18
+
+65.
+There Bridge LJ was not, at any rate expressly, considering a case where the
+improper purpose is predominant and the legitimate purpose is subsidiary. But his
+observations seem to have been influential in leading Teare J to conclude in JSC BTA
+Bank v Ablyazov [2011] EWHC 1136 (Comm) that any legitimate purpose negatived
+abuse even if an improper purpose was predominant. With respect to Teare J, his
+conclusion fails in my view to allow for the ease with which a claimant with a
+predominantly improper purpose can point to a legitimate purpose, however slight. In
+any event it runs clearly counter to the weight of modern legal opinion: see Metall und
+Rohstoff AG v Donaldson Lufkin and Jenrette Inc [1990] 1 QB 391 at p 469, Land
+Securities plc v Fladgate Fielder [2009] EWCA Civ 1402, [2010] Ch 467, at paras 89
+and 95, and the Williams case in the High Court of Australia, cited above, at para 42.
+66.
+A curious feature of the tort of abuse of process is the requirement, held to
+exist, for example, in decisions in the U.S., in the Superior Court of Justice, Ontario
+(see for example Westjet Airlines Ltd v Air Canada (2005) CANLll 47722 (ONSC), at
+para 20) and in some of the older cases in Australia, that the claimant should prove an
+overt act or threat on the part of the defendant, beyond issue of the proceedings, in
+furtherance of the alleged improper purpose. Perhaps the perceived requirement
+reflects the high regard in which Fleming’s The Law of Torts is held. In the 10th
+edition (2011), the editors note, at para 27.100:
+“In addition to the improper purpose, there must be some overt act or
+threat, distinct from the proceedings themselves, in furtherance of that
+purpose, such as in the [Grainger] case the extortion accompanying the
+capias.
+Were it otherwise, any legal process could be challenged on
+account of its ‘hidden agenda’.”
+In the Williams case, cited above, the four judges of the High Court of Australia to
+whose joint judgment I have referred, concluded, at paras 38 to 43, for reasons not
+entirely clear, that the need for an overt act might be more justifiable in the case of the
+tort of abuse of process than in the case, which was before them, of an application by
+a defendant to stay proceedings as an abuse of process. If the rationale behind the
+suggested need for proof of an overt act or threat is no more than that, in its absence,
+the defendant in an application for a stay, or indeed a claimant in an action based on
+the tort, might fail to establish that the other party’s purpose had been improper, it
+would readily be understandable. But, insofar as in some quarters the overt act or
+threat has taken root not just as having likely evidential importance but as being a
+substantive requirement, whether for the defendant’s application or for the claimant’s
+tort, I struggle to understand the reason for it.
+MALICIOUS CIVIL PROSECUTION: LATER DEVELOPMENT
+19
+
+67.
+The result of the effective prohibition by the comments in the Quartz Hill case
+of any general development in England and Wales of a tort of malicious prosecution
+of civil proceedings has been to confine the tort to a few disparate situations, linked
+only by the occurrence of prejudice to the victim at or close to the outset of the
+proceedings. They include:
+(a)
+a petition for bankruptcy: Johnson v Emerson (1871) LR 6 Ex
+329;
+(b)
+a petition for winding-up: the Quartz Hill case itself;
+(c)
+a writ to arrest and detain a judgment debtor who had in effect
+already paid the debt: Gilding v Eyre (1861) 10 CB (NS) 592, 142 ER
+584;
+(d)
+the procurement of a bench warrant to arrest and produce a
+person for failure to respond to a witness summons which had not been
+served on him: Roy v Prior [1971] AC 470;
+(e)
+a writ to arrest a ship in the course of a dispute about a
+contract for its sale: The Walter D Wallet [1893] P 202;
+(f)
+a writ to arrest an aircraft in the course of a dispute about an
+alleged lease of it: Transpac Express Ltd v Malaysian Airlines [2005] 3
+NZLR 709;
+(g)
+an order for the attachment of the claimant’s assets in advance
+of an arbitration: The Nicholas M [2008] EWHC 1615 (Comm), [2009]
+1 All ER (Comm) 479; and
+(h)
+a search warrant: Gibbs v Rea [1998] AC 786.
+68.
+In comparison with other common law jurisdictions, England and Wales has
+been slow to recognise that, because the reasoning in the Quartz Hill case no longer
+applies, there may, subject to policy considerations to which I will refer and which
+demand caution, be a need for reversion to the old, principled, law which made no
+distinction between the malicious prosecution of criminal and of civil proceedings.
+Indeed the paradox is that nowadays, at any rate in England and Wales, there is much
+less chance of being a victim of a criminal prosecution brought maliciously and
+without reasonable cause than of a civil action so brought. For most criminal
+prosecutions are brought at the direction of the Crown Prosecution Service, which, by
+its code, must first be satisfied that the evidence in support of it is such as to render
+the chance of a conviction greater than even; and, more importantly for present
+purposes, it is the policy of the Director of Public Prosecutions to take over a private
+prosecution and to discontinue it unless in his opinion the evidence in support of it
+crosses that same threshold: see the Gujra case, cited above.
+69.
+In Australia there is the decision of the Supreme Court of Victoria, Appeal
+Division, in the Little case, cited above. C was a solicitor and D was a professional
+association which had obtained an injunction against his continuation in practice on
+the basis that he was in breach of regulations which required him to procure
+professional insurance. The regulations were later held to be invalid and the
+20
+
+injunction was discharged. He thereupon sued D for malicious civil prosecution in
+having obtained the injunction. His action was allowed to proceed. In their joint
+judgment Kaye and Beach JJ held, at p 267:
+“In our opinion, there is no longer justification for confining to a
+bankruptcy petition and an application to wind up a company the
+remedy for malicious abuse of civil proceedings where the damages
+claimed is to the plaintiff’s reputation.”
+Ormiston J added, at p 289:
+“the risk that maliciously made allegations in civil proceedings may
+cause perceptible harm to a person’s reputation is now a real risk under
+current law and procedures...”
+As I will explain in para 77(d), the reference of the justices to damage to reputation
+was clearly not intended to exclude a claim for consequential economic loss.
+70.
+In New Zealand there are the statements made by the Court of Appeal in New
+Zealand Social Credit Political League Inc v O’Brien [1984] 1 NZLR 84. C had been
+a member of D but had resigned. D had sued him for the misappropriation of its assets
+but had discontinued its action. Following other unsuccessful proceedings then
+brought by him against D, C issued proceedings against it for malicious prosecution of
+that action. In the light of his previous proceedings, his action was struck out as an
+abuse of process. In passing, however, Cooke J noted, at p 88, that in Jones v
+Foreman [1917] NZLR 798 a Full Court of the Supreme Court had adopted the
+observations in the Quartz Hill case in concluding that there was no general tort of
+civil malicious prosecution; that in modern times textbook writers had widely
+criticised the conclusion; and that in an appropriate case there was reason for the
+Court of Appeal to review it. Casey J added, at p 98, that the existence of the tort was
+certainly arguable. In Rawlinson v Purnell Jenkison and Roscoe (1999) 1 NZLR 479
+an action in the High Court of New Zealand for malicious civil prosecution failed if
+only for want of proof of malice but Hammond J discussed whether, had malice been
+proved, the action could have been sustained. He recognised that, in the light of the
+statements in the New Zealand Social Credit case the existence of the tort was a live
+issue and, after addressing rival arguments of policy, he conjectured, at p 488, that it
+would be possible “to...constrain the cause of action, by confining it to the institution
+of proceedings which are really quasi-criminal in character, or reflect a particular kind
+of odour”.
+71.
+In the United States there is the jurisprudence in relation to the tort of malicious
+prosecution of civil proceedings of which, at paras 165 to 196, Lord Neuberger
+21
+
+provides a valuable survey. He demonstrates that the states of the union are almost
+equally divided between their adoption of the English Rule, which is set out in §677
+of the Restatement of the Law, Torts, 2d (1977), and which broadly reflects the law of
+England and Wales following the curtailment of the extent of the tort by the
+observations in the Quartz Hill case, and their adoption of the American Rule, which
+is set out in §674 of the Second Restatement. There is no doubt that the general
+inability of a successful defendant to obtain an award of costs against the claimant in
+the states of the union has provided an extra spur to the adoption in many of them of
+the American Rule; so it would be wrong to place their approach in the front of the
+present analysis. It does not follow, however, that the ability in England and Wales
+to make an award of costs, even on an indemnity basis, eliminates the need for the law
+to be able to recompense the victims of malicious actions who have suffered
+substantial damage beyond the costs of defending themselves.
+72.
+Lord Neuberger’s citations from U.S. authorities and his comments upon them
+usefully precipitate a consideration of the arguments of policy against renewed
+recognition of a general tort of malicious prosecution of civil proceedings. I discern
+six arguments:
+(a) (i) The spectre of being sued for malicious prosecution in the event of failure
+would inhibit litigants from bringing cases with merit and in good faith (Lord
+Neuberger, para 181). Ugly threats by prospective defendants with long
+pockets would drive prospective claimants from the seat of justice (para 184).
+(ii) This argument deserves considerable respect. But it was, as it happens,
+considered and rejected by Parker CJ as long ago as 1713: para 55 above. Is
+his rejection still valid? If the litigant with a reasonable case and a proper
+purpose would otherwise be minded to trust the court fairly to appraise it,
+should we assume that he would not be minded to trust the court to discern the
+demerits of a case of malicious prosecution brought against him in the event of
+failure? The requirement of proof first of malice (notwithstanding that the
+concept extends beyond spite to where the predominant purpose is something
+other than the vindication of the law: Winfield and Jolowicz on Tort, 18th ed
+(2010), para 19-11) and then of the absence of reasonable cause places two
+high hurdles before a claimant. No evidence has been presented to the Board,
+for example from the states of the US which adopt the American Rule, of the
+chilling effect of the tort upon the honest bringing of litigation of arguable
+merit which this argument foretells. Should the law be shaped by concern about
+ugly threats of its misuse?
+(b) (i) Litigation must have an end and so lack of success in one action should not
+generate another. A failed action for malicious prosecution might even generate
+a further such action by the original claimant (para 182).
+22
+
+(ii) But the law recognises the need to give victims of malicious prosecution the
+opportunity to initiate consequential litigation in relation to criminal
+prosecutions and to the disparate situations broadly encompassed by the
+English Rule. The law has therefore already seen fit to override the argument in
+the first sentence and the only remaining question relates to the extent to which
+it should do so. Is the scenario posed by the second sentence fanciful?
+(c) (i) A perspective which ascribes curative power only to law-suits has limitations
+which should be cast off (para 183).
+(ii) But what other curative power (Mr Paterson might ask) does the American
+progenitor of this reflection have in mind?
+(d) (i) If few claimants will recover in the subsequent action, is there any point in
+recognising the expanded cause of action (para 183)?
+(ii) But is this a principled approach to an analysis of legal rights?
+(e) (i) Recognition of the general tort might open “floodgates” which would cause the
+legal system to be flooded and so would contaminate its ability to function
+effectively (para 190).
+(ii) But how powerful is this argument in the absence of empirical evidence in
+support of it?
+(f) (i) The present law draws a “bright line” on a “principled” and “logical” basis and
+departure from it would be “potentially confusing” and would cause
+“unnecessary uncertainty” (paras 194 and 195).
+(ii) The whole drift of my judgment to this point shows why, with great respect to
+Lord Neuberger, I cannot subscribe to any part of this final proposition.
+73.
+In the end I conclude that the arguments against renewed recognition of a tort
+of malicious prosecution of civil proceedings fail to override the need for the law to be
+true to the reason for its very existence. In X (Minors) v Bedfordshire County Council
+[1995] 2 AC 633 Sir Thomas Bingham MR referred, at p663, to “the rule of public
+policy which has first claim on the loyalty of the law: that wrongs should be
+remedied”. The word in the rule is “wrongs” as opposed to “misfortunes”: see
+Gorringe v Calderdale Metropolitan Borough Council [2004] UKHL 15, [2004] 1
+WLR 1057, at para 2 (Lord Steyn). In Jones v Kaney [2011] UKSC 13, [2011] 2 AC
+398, Lord Dyson said, at para 113:
+23
+
+“The general rule that where there is a wrong there should be a remedy
+is a cornerstone of any system of justice. To deny a remedy to the
+victim of a wrong should always be regarded as exceptional...any
+justification must be necessary and requires [to be] strict and cogent...”
+The cumulative force of the suggested justifications for denying Mr Paterson a remedy
+for what can only be described as the wrong done to him by Sagicor fails in my view
+to measure up to these demanding standards. In determining his claim of malicious
+prosecution, the Board should be true to its primary loyalty.
+BOTH TORTS: RECOVERY FOR ECONOMIC LOSS
+74.
+Can general economic loss qualify as damage recoverable within the torts of
+malicious prosecution, whether criminal or civil, or of abuse of process? In the Land
+Securities case, cited above, C obtained planning permission to develop a site and D,
+who had offices opposite a related site owned by C, challenged the planning
+authority’s grant of permission by judicial review. C sued D for abuse of process,
+alleging that the purpose behind the application for judicial review was to put pressure
+on C financially to assist D to relocate its offices. C claimed damages for the loss
+occasioned by the delay in its ability to develop the site. The Court of Appeal held
+that C’s action had rightly been struck out. One ground was that the alleged purpose
+was sufficiently related to a successful outcome of the application for judicial review
+as not to be wrongful. But the main ground was that the tort did not enable recovery
+for general economic loss. Etherton LJ said that:
+(a)
+in the Savile case, being one of malicious prosecution, Holt CJ
+had referred only to reimbursement for charges and expenses (para 54);
+(b)
+Holt CJ had appeared to limit damages for purely pecuniary
+loss to the costs of defending them and there was nothing whatever in
+the Savile case to indicate that general economic loss was recoverable
+(para 55);
+(c)
+the suggested recovery for general economic loss was
+“contrary to the whole approach” of the House of Lords in the Gregory
+case, in which Lord Steyn had gone no further than to quote Holt CJ’s
+description of the third type of recoverable damage (para 56);
+(d)
+recovery for malicious prosecution of civil proceedings is
+confined on policy grounds to the three established heads of damage
+identified by Tindal CJ and recognised in the Quartz Hill case (para 67);
+and
+24
+
+(e)
+there was no sense behind having rules for recoverable
+damage which were more generous for abuse of process than for
+malicious prosecution (para 68).
+75.
+I agree with the point made by Etherton LJ at (e) above. But, with respect, I
+disagree with the rest of his reasoning. I consider that he treats the words uttered by
+the Chief Justice 300 years ago too much as if they were enshrined in statute. He
+makes no allowance for the fact that the only claim there made was for out-of-pocket
+expenses, with the result that they were the focus of the judgment. Nor do I perceive
+Lord Steyn in the Gregory case to have grappled in any way with recovery for general
+economic loss. Indeed, having noted, at p424, that the claimant was including a
+claim for damages for financial loss consequent upon alleged damage to his
+employment prospects, Lord Steyn never reverted to it as constituting some further
+obstacle in his path to success.
+76.
+In the Land Securities case Moore-Bick LJ adopted a somewhat softer
+approach to recovery for economic loss.
+He accepted, at para 99, that “there are
+arguments in favour of recognising other kinds of damage, including consequential
+economic loss, at least in cases where the predominant purpose of instituting
+proceedings has been to inflict such loss as a means of coercion but there is no clear
+authority which supports such a development of the law”. He accepted that some
+support for it was to be found in Australian cases and in the decision of the Court of
+Appeal in Speed Seal Products Ltd v Paddington [1985] 1 WLR 1327 but again,
+taking his cue from the generalised doubts expressed by Lord Steyn in the Gregory
+case, Moore-Bick LJ concluded at para 101, as did Mummery LJ at para 107, that
+there were insufficient grounds for holding that the tort of abuse of process extended
+to recovery for general economic loss.
+77.
+I have reached the conclusion that the main ground of the decision in the Land
+Securities case is wrong. If economic loss has been caused by malicious prosecution
+of proceedings, whether criminal or civil, or by abuse of process, and if its causation
+was foreseeable (irrespective of whether, as in the present case, it was intended),
+preclusion of recovery for it should be the subject of principled justification. Yet I
+discern none. McGregor on Damages, 18th ed (2009), says, at para 38-007, under the
+heading of Malicious Criminal Prosecution, “as to pecuniary loss, loss of general
+business and employment should be recoverable; authority however is lacking”. But,
+reaching out to cases of malicious civil prosecution and to abuse of process, one can at
+least notice the following:
+(a)
+In the Grainger case itself the claim included damages for
+loss “of all the benefits, profits and advantages” which would have
+accrued to the claimant from the four lost voyages to Caen (p 215, p
+25
+
+771). There seems to have been no issue but that the claimant should
+recover in that regard.
+(b)
+In the Speed Seal case, cited above, D was a former employee
+of C, who sued D for alleged misuse of its confidential information in
+his new business. The question was whether D should be allowed to
+amend his defence so as to allege, by counterclaim, that, in so suing
+him, C was abusing the process of the court. It is not clear why the
+allegation was not framed as the foundation of an application to stay C’s
+action. At all events the decision of the Court of Appeal was that D’s
+invocation of the tort of abuse of process was arguable and could be
+pleaded by amendment.
+As Moore-Bick LJ observed in the Land
+Securities case, at para 99, D was clearly seeking to recover economic
+loss in one form or another resulting indirectly from the institution of the
+proceedings.
+(c)
+In the Gibbs case, cited above, being, like the present, an
+appeal to the Board from the Court of Appeal of the Cayman Islands, C
+was the managing director of a bank and D was a detective inspector
+who had successfully applied to the court for a warrant to search C’s
+home on the basis that there were reasonable grounds for suspecting that
+he had benefited from drug-trafficking. The bank dismissed C. But the
+search yielded nothing which incriminated him. He was never charged.
+His action against D for malicious prosecution, namely of the
+application for the warrant, was upheld in the Court of Appeal and, by a
+majority, by the Board. D’s appeal to the Board did not include a
+challenge to the amount of the damages which had been awarded to C in
+the Court of Appeal, namely $616,281. But perusal of the judgment of
+Collett JA in that court, 1994-95 CILR 553, at p 610, shows,
+unsurprisingly, that they primarily comprised damages “for loss of
+employment remuneration and benefits forfeited since his enforced
+retirement from his former post”.
+(d)
+Todd, the Law of Torts in New Zealand, 5th ed (2009), writes,
+at para 18.2.07, that “the third head of damage which may found a claim
+[for malicious prosecution] is property damage or economic loss. Loss
+in the practice of the plaintiff’s profession is an example”. The author
+there cites the Little case, in which the claimant alleged that the damage
+caused to him by the injunction included damage in the practice of his
+profession.
+In allowing most of the claim to proceed, the Appeal
+Division included the claim for economic loss.
+MALICIOUS CIVIL PROSECUTION: SUMMARY OF CONCLUSIONS
+26
+
+78.
+(a)
+For my part, I am convinced that the common law originally recognised
+that the tort of malicious prosecution extended as much to that of civil as
+to that of criminal proceedings.
+(b)
+But the early availability of an order for costs in favour of a successful
+defendant of civil proceedings often disabled him from proving the
+damage required by the tort, which for that reason, as well as for others,
+became – in practice – mainly focussed on criminal proceedings.
+(c)
+The limitation on the scope of the tort of malicious prosecution of civil
+proceedings, cast by the observations made in the Court of Appeal in the
+Quartz Hill case, was justified by reasoning which is no longer valid.
+(d)
+The disparate situations to which the tort of malicious prosecution of
+civil proceedings has been confined as a result of the observations in the
+Quartz Hill case are a rag-bag which include cases in which the gravity
+of the wrong (such as in the Roy case, in which the intended witness had,
+as a result of the malicious application for a bench warrant, been the
+subject of wrongful arrest and detention for 10 hours) would not
+approach its gravity in other cases of malicious prosecution of civil
+proceedings, such indeed as in the case before the Board.
+(e)
+Insofar as the rationale for the tort of malicious prosecution is the
+inability of a successful defendant to sue a claimant for defamation in
+respect of allegations made maliciously in legal proceedings, it applies as
+much to civil as to criminal proceedings.
+(f)
+In that (as Lord Steyn suggested in the Gregory case: see para 37 (b)
+above) a distinctive feature of the tort is that the defendant has abused the
+coercive powers of the state, it applies as much to civil as to criminal
+proceedings. There is no principle behind a redefinition of the distinctive
+feature as being an abuse of the coercive powers of the state only in
+criminal proceedings: that would be to generate a delineation of the
+contours of the tort in line only with what the draftsman of the
+redefinition subjectively preferred.
+(g)
+Irrespective of the malice which may prompt assertions made in a
+defence and of the damage which may thereby be done to another person,
+it may be that defendants, like witnesses, cannot be said to be abusing the
+coercive powers of the state. They may therefore be beyond reach of the
+tort and their immunity may remain absolute. But I would leave this
+27
+
+point open, as, albeit with a different emphasis, does Lord Kerr at paras
+111-113.
+(h)
+If no tort other than malicious prosecution is available to remedy the sort
+of wrong done to Mr Paterson, Lord Steyn’s observations in the Gregory
+case form no impediment to its recognition. On the contrary, they
+encourage it.
+(i)
+A tort of malicious prosecution of civil proceedings should enable a
+claimant to recover damages for foreseeable economic loss beyond out­
+of-pocket expenses.
+(j)
+The arguments of policy against restoration of a general tort of malicious
+prosecution of civil proceedings are worthy of respect but they are
+insufficiently strong to override the rule which has first claim. Perhaps
+also they fail to allow for the height of the hurdles which, as Lord Kerr
+explains in paras 109 and 110, confront a claimant in establishing, or
+even mounting an arguable case, not only that the defendant’s action
+lacked reasonable cause but that he prosecuted it maliciously.
+(k)
+It might be possible to limit the ambit of the tort of malicious prosecution
+to civil proceedings of which the basis was an allegation which might
+have been the subject of a criminal charge. Sagicor’s allegation of Mr
+Paterson’s conspiracy to defraud would fall within that limited ambit and
+so, strictly, the Board does not need to consider whether it has any wider
+ambit. But, provisionally, I would oppose the introduction of that
+potentially troublesome distinction and would deprecate, as illogical, the
+denial of a remedy for damage done to the victim of a malicious
+prosecution, brought without reasonable cause, of any action irrespective
+of its basis.
+(l)
+In that, as Lady Hale points out at para 84, control of abuse of legal
+proceedings is particularly well-suited to development in judge-made
+law, courts in future will need to monitor whether today’s reinstatement
+of a remedy for abuse of civil proceedings by their malicious prosecution
+is itself productive of abuse and, if so, to make any necessary
+adjustments to its effect.
+DETERMINATION OF THE APPEAL
+28
+
+79.
+Sagicor did not commit the tort of abuse of process. Henderson J found that
+the predominant factor which led Sagicor to allege fraud and conspiracy against Mr
+Paterson had been Mr Delessio’s obsessive determination to destroy him
+professionally. But he did not proceed to find that Mr Delessio intended to achieve Mr
+Paterson’s professional destruction other than through the initiation and successful
+prosecution of the action. One can only speculate why, in that he was aware that Mr
+Purbrick’s reports were not a proper basis for the allegations, Mr Delessio anticipated
+that the action would succeed. But Mr Jacob failed in his attempt to persuade the
+Court of Appeal that the judge should have found that Mr Delessio, and thus Sagicor,
+had no intention of bringing the action to trial. In the absence of a finding of that
+character Mr Delessio’s purpose cannot be regarded as outside the scope of the action.
+80.
+But in my view Sagicor committed the tort of malicious prosecution. Sagicor
+does not challenge the judge’s conclusion that, if the tort applied to civil proceedings,
+all four of its ingredients were present. The predominant purpose of Mr Delessio
+amounts to malice. Moreover the fact that he believed that Mr Paterson had defrauded
+Sagicor counts for nothing because of the absence of reasonable cause for any such
+belief. I propose that the Board should humbly advise Her Majesty that the appeal be
+allowed and that judgment be entered for Mr Paterson in the sum of $1.335m, the
+composition of which I have explained in para 29.
+LADY HALE:
+81.
+It is always tempting to pray in aid what Sir Thomas Bingham MR referred to
+as “the rule of public policy which has first claim on the loyalty of the law: that
+wrongs should be remedied” (X (Minors) v Bedfordshire County Council [1995] 2 AC
+633, at 663). But by itself that wise dictum does not tell us what the law should define
+as a wrong. Some conduct is wrongful whether or not it causes any damage – that is
+the essence of the tort or torts of trespass; other conduct is only wrongful if it causes
+particular types of damage – that was the essence of the action on the case; but not all
+conduct which causes such damage is wrongful. The tort or torts of wrongfully
+bringing legal proceedings are actions on the case and therefore can only lie if there is
+damage of the kinds specified in Savile v Roberts in 1698. But that is not enough.
+Instigating legal proceedings in good faith and with reasonable cause, even if they fail
+and even if they do damage in the Savile v Roberts sense, is not wrongful. Even
+maliciously instigating legal proceedings is not always, or even often, wrongful. So
+how is the wrong done by instituting legal proceedings to be defined?
+82.
+It would be understandable if there were no such wrong at all. Two policy
+reasons are cited against it. First, people should not be deterred from instigating
+criminal charges or bringing lawsuits by the fear of being sued if they fail. It does not
+matter that such tit-for-tat suits would usually fail. There would still be the so-called
+29
+
+“chilling effect” of a potential liability, as Lord Hope pointed out in Jones v Kaney
+[2011] UKSC 13, [2011] 2 AC 398, at paras 130, 131. Second, once proceedings are
+over, the courts should not be troubled with further claims. Clearly, it cannot be open
+to every successful defendant to round upon his unsuccessful claimant or prosecutor,
+no matter how great the collateral damage. Defining the circumstances in which he
+can do so is fraught with difficulty, as this case shows. Hence both of the principal
+policy reasons given for declining a remedy in this case would support the denial of
+any remedy to anyone.
+83.
+But that such a wrong has been recognised by the law for centuries is
+incontrovertible. It is not suggested that this Board either can or should abolish the
+torts of malicious prosecution and abuse of process. We are faced with the task of
+discerning some rational principles which will enable us to define their boundaries. In
+an ideal world the separate torts of malicious prosecution and abuse of process might
+be brought together in a single coherent tort of misusing legal proceedings. This looks
+like a task much better suited to the Law Commission than to this Board. This Board
+can research the existing state of the law in this country (which will apply in the
+Cayman Islands unless there is some local legislation to the contrary). It can research
+the law in some comparable common law jurisdictions, but by no means all. But it
+does not have the resources to research and develop the policy arguments, conduct
+empirical research and consult the legal and general public on possible ways forward.
+It was for those reasons that I did not support the abandonment of the long-established
+principle of witness immunity in order to impose a duty of care upon certain
+professional witnesses in Jones v Kaney.
+84.
+But that was a case where there was (and remains) a clearly established
+immunity which the court was being invited to curtail. The majority felt able to take
+that radical step in the light of modern developments in the law and in pursuit of the
+first rule of public policy. They also felt that the judiciary were particularly well suited
+to develop the law relating to their own proceedings. This too is a case which is
+particularly well suited for judicial development: it is about the use and misuse of
+judicial proceedings; the law is entirely judge-made; and some would say that it is in a
+judge-made mess. If so, the judges should do what they can to sort it out. It is unfair to
+expect Parliament to do so.
+85.
+Here we have an established cause of action, for malicious prosecution or
+abuse of process, the boundaries of which are either unclear or make little sense in
+today’s world. We can all read Savile v Roberts in one or more of the ten law
+reporters’ versions. It was a case of malicious prosecution of criminal proceedings for
+riot. It contemplated that the action might also lie for the malicious prosecution of
+some proceedings of a civil nature. But for most civil actions there would be no
+damage of the requisite sort. That was clearly the view taken in Quartz Hill
+Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674, where a remedy was
+30
+
+granted for the malicious presentation of a winding up petition on the analogy of the
+previously recognised remedy for the malicious presentation of a bankruptcy petition.
+86.
+It is possible to characterise the list of cases in which claims for malicious
+prosecution of civil proceedings have been recognised as a “rag bag” or as a rational
+list of ex parte processes which do damage before they can be challenged. But that
+can be the only principle upon which they were singled out and today bringing an
+ordinary action can also do damage before it can be challenged, as this case shows
+only too well. It is particularly ironic that Mr Paterson would have done much better
+had he, too, been the subject of a freezing order, as the Hurlstone parties were. The
+judges who invented this modern form of advance protection also recognised that an
+unjustified grant might do damage which could not be compensated in other ways, so
+they extracted a so-called “undertaking in damages” which in fact is an undertaking to
+compensate. Such an undertaking bites even if the unsuccessful claimant was entirely
+without malice. But if he were malicious, the tort of malicious prosecution ought
+surely to extend to this modern form of pre-emptive coercive relief. The old reasons
+why the judges might have thought that simply bringing an action could do no damage
+have been exploded, as Lord Steyn recognised in Gregory v Portsmouth City Council
+[2000] 1 AC 419. If damage is done, why should it matter that it is done by the
+malicious obtaining of a search warrant or the malicious filing (and publicising) of a
+pleading alleging fraud?
+87.
+Nor does the distinction between bringing criminal proceedings in the public
+interest and bringing civil proceedings in one’s own private interest make much sense
+today, if it ever did. In the days when the Queen’s peace depended upon private
+citizens bringing criminal prosecutions, it might have been thought even more
+important that they should not be deterred from doing so by the prospect of allegations
+of malice if the prosecution failed. While it is obviously reprehensible maliciously and
+unjustly to put a person at risk of condign punishment, it is also obviously
+reprehensible maliciously and unjustly to bring proceedings in the hope of personal
+gain. Some might think it the more so, as the protection available to the accused in
+criminal proceedings is so much greater than that available to the defendant in civil
+proceedings. (In other words, the chances of your wicked plot succeeding are so much
+greater.) The importance of deterring claimants from bringing false and malicious
+claims and protecting their victims from this injustice is at least as great as the
+importance of not deterring honest claimants from bringing just claims. We do not
+know how real the claims of a chilling effect can be; we do know how real the
+injustice of being the victim of malicious proceedings can be.
+88.
+In Jain v Trent Strategic Health Authority [2009] UKHL 4; [2009] AC 853, Mr
+and Mrs Jain were ruined when their business was closed down in an ex parte
+procedure brought by the regulator without good cause. The House of Lords held that
+there was no duty of care, partly because the parties to litigation do not generally owe
+one another a duty of care and partly because regulators do have a duty of care
+31
+
+towards the vulnerable people whom they are protecting, which could conflict with a
+duty of care to the people they are regulating. All that makes sense, although the Jains
+undoubtedly suffered a grievous injustice. But had the regulator been malicious, why
+should they not have had a cause of action in malicious prosecution? It is one thing to
+say that the regulator should not be liable for carelessness, and quite another to say
+that they should not be liable for malice.
+89.
+The Jains, of course, suffered from an ex parte remedy of the sort which has
+previously given rise to liability for malicious prosecution. They also suffered at the
+hands of a body performing public functions, which is a distinction favoured by Lord
+Sumption. But it cannot be accepted that malice only turns right into wrong when
+public officials are concerned. Intentionally causing physical or psychological harm is
+a tort which can be committed by anyone. Intentionally causing economic damage is
+not a tort, because that is the object of most business competition. But intentionally
+abusing the legal system is a different matter. That is not simply doing deals to
+damage the competitors’ business. It is bringing claims which you know to be bad in
+order to do so.
+90.
+For all these reasons, and for the reasons given by Lord Wilson and Lord Kerr,
+I agree that bringing a civil claim which you know to be bad and which results in
+damage to the defendant’s reputation, person, liberty, property or finances, comes
+within the scope of the tort of malicious prosecution and this appeal should succeed.
+LORD KERR:
+Introduction
+91.
+That Frank Delessio wanted to ruin Alastair Paterson is no longer open to
+doubt. It has been established that in July 2005 he said that he intended to drive Mr
+Paterson out of business and destroy him financially. He set about his mission in a
+determined fashion, engaging attorneys, having private investigators carry out
+surveillance of his intended victim, meeting a senior police officer about possible
+criminal activity on Mr Paterson’s part and issuing proceedings against him alleging
+fraud. He did not stop there. He caused an immensely damaging article concerning
+the allegations made against Mr Paterson in the proceedings to be published in the
+local press. It is not in dispute that the action brought by Sagicor and the publication
+of the article caused enormous damage to Mr Paterson’s professional reputation and
+that his business suffered hugely. The trial judge fixed the amount of professional
+losses suffered by Mr Paterson at CI$1.3m. He found that, if Mr Paterson had been
+able to maintain an action for abuse of process or malicious prosecution, damages of
+CI$35,000 would have been awarded for the distress, hurt and humiliation that he
+suffered.
+32
+
+92.
+Mr Delessio failed to bring about Mr Paterson’s utter ruin. Although they do
+not amount to an unqualified vindication, the judge’s findings for the most part restore
+his reputation. But, if Mr Paterson fails in his claim for compensation, Mr Delessio’s
+campaign against him will have succeeded to no small extent.
+Policy as an incentive for development of the law
+93.
+This appeal gives rise to intense focus on the policy arguments for and against
+the extension (or renewed recognition) of liability for malicious prosecution to civil
+proceedings. (For the reasons given by Lord Wilson, the remedy of abuse of process
+is not available to Mr Paterson).
+94.
+The policy considerations which militate in favour of this species of tortious
+liability and those which are opposed to it have been marshalled and powerfully
+analysed by Lord Wilson and Lord Sumption. I do not attempt to rehearse all of these
+but will touch briefly on those that I consider are the most significant. As a general
+observation, however, it is right to recognise that conclusions on matters of policy in
+the legal context are not usually the product of empirical research. Customarily, they
+are formed instinctually and constitute, at most, informed guesswork about the impact
+that the selection of a particular policy course will have. While, therefore, policy
+considerations can, and on occasions must, underlie decisions as to how law should
+develop, it is necessary to recognise the inherent impossibility of making an infallible
+prediction about the outcome of a policy choice. Where possible, therefore, such a
+choice should be aligned with principle. In my view, fundamental principle has a
+large part to play in the resolution of the debate in this case. And the pre-eminent
+principle at stake here is that for every injustice there should be remedy at law.
+95.
+Mr Paterson has undoubtedly suffered an injustice. And, so far, the law has not
+afforded him a remedy. Those responsible for the injustice have been held to be
+immune from liability. As this court has said in Jones v Kaney [2011] UKSC 13,
+[2011] 2 AC 398, such an immunity must be justified. It is not enough that there are
+policy reasons, even compelling policy reasons, for retaining the immunity.
+Justification for its retention must be sufficiently powerful to warrant its retention as
+“necessary in the public interest” – per Lord Dyson at para 108 of Jones v Kaney.
+The policy reasons for immunity from liability for malicious prosecution
+96.
+It is suggested that the refusal to extend liability for malicious prosecution to
+civil proceedings is an instance of the law declining to afford a remedy for an obvious
+wrong because of the need to preserve intact the inviolability of legal proceedings
+from satellite or subsequent challenge; and that the demands of overall legal policy
+that the right to invoke the jurisdiction of the court should remain unfettered are so
+33
+
+strong that they must trump Mr Paterson’s otherwise valid claim that his predicament
+should be legally recognised and alleviated.
+97.
+A second and related argument is that malicious prosecution is anomalous in
+that it runs counter to the well-established principles that there should be absolute
+immunity for things done and said in the course of legal proceedings and that malice
+does not transform an otherwise lawful act into a tortious condition. As a corollary to
+this, the claim is made that the exceptional nature of the tort is justified because it is a
+form of misfeasance in public office and that this public function foundation of the
+tort is not present in civil proceedings between private parties.
+98.
+Thirdly, it is suggested that to recognise the existence of the tort in the
+circumstances of Mr Paterson’s case will inevitably lead to its deployment in all
+manner of civil litigation. The fact that there are substantial difficulties in proving
+malicious prosecution will not operate as a deterrent to those aggrieved by the
+outcome of litigation.
+99.
+Finally, it is argued that if there is to be a tort of malicious prosecution of civil
+proceedings there must be a tort of malicious defence. Theoretically, at least, as much
+damage can be done by the filing of a malicious defence which is publicised as in
+pursuing a malicious claim.
+The need for inviolability of legal proceedings and immunity from things done and
+said in legal proceedings
+100. Those contemplating legal proceedings should not be deterred by the prospect
+of subsequent litigation challenging the propriety of their having invoked the
+jurisdiction of the court. But it is surely too glib to say that this will be the inevitable
+consequence of rendering liable those who have pursued baseless claims for improper
+motives. A litigant in this jurisdiction (and in the Cayman Islands) must confront the
+likelihood of an award of costs in the event of his failure. In the case of a claimant
+with a genuine and reasonable belief in the rightness of his cause, will that habitual
+deterrent be enhanced by the possibility that his opponent will embark on further
+proceedings against him? Lord Sumption suggests that the fact that few may succeed
+will not deter the many who will allege malice. I cannot share his confidence in that
+assertion. True it may be, as he suggests, that litigation sharpens men’s conviction of
+their own rightness and their suspicion of their opponents’ motives. But those who
+launch proceedings rarely do so without regard to the possibility of failure. And the
+possibility of failure in all but the clearest cases of malicious prosecution is very real
+indeed.
+34
+
+101. Absolute immunity for things done and said in legal proceedings is not, in my
+opinion, infringed in any unacceptable way by recognition of liability for malicious
+prosecution in civil proceedings. Manipulation of the legal system lies at the root of
+the tort. A person will only be liable if he pursues a claim which has no foundation
+and which has, as its dominant purpose at least, an objective other than success in the
+claim. The underlying reason for immunity for what is said or done in litigation is
+surely the need to protect litigants who legitimately use the legal system to have
+perceived wrongs redressed or claims resisted. It should not be used as a charter for
+improper resort to legal proceedings to achieve an aim unrelated to their professed
+purpose.
+102. Evidence given in the course of proceedings – even perjured evidence – will
+continue to enjoy the immunity that Lord Hope described in Darker v Chief Constable
+of the West Midlands Police [2001] 1 AC 435 if tortious liability for malicious
+prosecution of civil proceedings is recognised. It is not sufficient to show that a
+claimant (or, for that matter, a defendant) has proffered perjured evidence for the tort
+to be made out. It must be established that a baseless claim has been pursued for a
+reason other than that ostensibly advanced by way of action or defence. What Lord
+Sumption describes (in para 125) as the underlying policy of the immunity will remain
+intact.
+103. The need for finality in legal proceedings and to avoid prolongation of
+unnecessary disputes must, of course, be considered. The suggestion made in some of
+the American cases, notably Norcross v Otis Bros & Co 25 A575 (1893) and Engel v
+CBS Inc 711 N E 2d 626 (1999), that permitting malicious prosecution claims in civil
+proceedings would lead to endless litigation seems somewhat fanciful. There is no
+evidence that this has in fact occurred in those states of America where the tort is
+recognised. And as Lord Atkin remarked in Ras Behari Lal v King Emperor (1933)
+50 TLR 1, [1933] All ER Rep 723, “finality is a good thing, but justice is better”.
+Moreover, the evidential difficulties faced by a litigant seeking to establish the
+ingredients of malicious prosecution will militate strongly against the pursuit of
+pointless litigation in this field.
+Does the tort of malicious prosecution require a public function element?
+104. I do not agree that the tort of malicious prosecution is limited to a form of
+misfeasance in public office. Nor do I believe that there is any logical or sound policy
+reason that it should be so confined. The essence of the tort is the illegitimate use by
+an individual of coercive legal powers to cause harm to another. There is no reason
+that these should be state sanctioned. As Lord Wilson has explained (in para 43),
+malicious prosecution claims were usually brought after unsuccessful criminal
+proceedings and the ingredients of the tort were fashioned so that victims of crimes
+(who were customarily the prosecutors) should not be unnecessarily deterred from
+35
+
+bringing prosecutions by the prospect of a ready remedy against them following
+acquittal. But that incidental historical circumstance should not be used as a basis for
+introducing the further condition on the availability of the remedy that there must be a
+public function dimension in the malicious prosecution of proceedings.
+105. In Berry v British Transport Commission [1961] 1 QB 149, 159 Diplock J said
+that “the action on the case for malicious prosecution was available against a single
+defendant, and could be founded upon any form of legal proceedings, whether civil or
+criminal, brought maliciously and without any reasonable or probable cause against
+the plaintiff by the defendant.” Although this was obiter dictum, its correctness was
+not questioned in the Court of Appeal, [1962] 1 QB 306, despite the fact that Diplock
+J’s decision was reversed on other grounds.
+106. The decision in Savile v Roberts (1698) 1 Ld. Raym. 374 has been fully
+considered by Lord Wilson in paras 44-54 of his judgment. It is not necessary to
+discuss it further other than to point out that, as Lord Wilson has demonstrated in para
+45, the reason that the action was not generally available in civil proceedings was that
+claimants were required to post pledges which could be drawn down in favour of
+victims of false claims. Moreover, Holt CJ observed that an action for mere vexation
+might lie on proof of “particular damage”. There is no suggestion in the judgment that
+a public function element was a prerequisite for a claim of malicious prosecution.
+107. Finally, the decision in Quartz Hill Consolidated Gold Mining Co v Eyre
+(1883) 11 QBD 674, although it asserted that malicious prosecution of ordinary civil
+actions could not lead to the types of damage that had been identified in Savile, did
+not suggest that the nature of the tort was as a form of or akin to misfeasance in public
+office. On the contrary, the issue of a winding up petition, which the court held could
+found an action for malicious prosecution, bears none of the hallmarks of state
+sanctioned action.
+The possible proliferation of actions
+108. The United States of America is the country where malicious prosecution of
+civil proceedings is most widely available. Lord Neuberger has conducted an
+extensive review of US jurisprudence in this area. As he has pointed out, there are
+sharply divided views among the judiciary of America as to whether what has been
+described as the American rule should be preferred to the English rule. What is
+notably absent from the various cases that Lord Neuberger discussed is any suggestion
+that adoption of the American rule has led to a significant increase in the number of
+cases based on malicious prosecution of civil proceedings. Colourful language has
+been used in some cases forecasting an avalanche of litigation but evidence for that
+having happened is conspicuously missing.
+36
+
+109. This is unsurprising.
+Establishing the various rudiments of the tort of
+malicious prosecution is no easy task. Two particular elements constitute significant
+challenge by way of proof. It has to be shown that there was no reasonable or
+probable cause for the launch of the proceedings. This requires the proof of a negative
+proposition, normally among the most difficult of evidential requirements. Secondly,
+malice must be established. A good working definition of what is required for proof
+of malice in the criminal context is to be found in A v NSW [2007] HCA 10; 230 CLR
+500, at para 91:
+“What is clear is that, to constitute malice, the dominant purpose of the
+prosecutor must be a purpose other than the proper invocation of the
+criminal law - an ‘illegitimate or oblique motive’. That improper
+purpose must be the sole or dominant purpose actuating the prosecutor”.
+110. There is no reason that proof of malice in the civil context should be any less
+stringent.
+Together these requirements present a formidable hurdle for anyone
+contemplating the launch of a claim for malicious prosecution. In my view, no
+convincing case has been made that these substantial requirements will not act as a
+deterrent to frivolous claims.
+The availability of claims for malicious defence
+111. There is obvious logic in the suggestion that if a claim for malicious
+prosecution of civil proceedings is to be available, so must a claim for malicious
+defence of such proceedings. In Aranson v Schroeder, 671 A 2d 1023 (1995), the
+Supreme Court of New Hampshire recognised the “tort of malicious defense”. The
+court outlined the basis of the tort in the following passage from its judgment:
+“One who takes an active part in the initiation, continuation, or
+procurement of the defense of a civil proceeding is subject to liability
+for all harm proximately caused, including reasonable attorneys' fees, if:
+(a) he or she acts without probable cause, i.e., without any credible basis
+in fact and such action is not warranted by existing law or established
+equitable principles or a good faith argument for the extension,
+modification, or reversal of existing law,
+(b) with knowledge or notice of the lack of merit in such actions,
+37
+
+(c) primarily for a purpose other than that of securing the proper
+adjudication of the claim and defense thereto, such as to harass, annoy
+or injure, or to cause unnecessary delay or needless increase in the cost
+of litigation,
+(d) the previous proceedings are terminated in favor of the party
+bringing the malicious defense action, and
+(e) injury or damage is sustained.”
+112. Other states in America have been less ready to countenance the existence of a
+tort of malicious defence. In Young v Allstate Ins Co, 198 P.3d 666 (2008), the
+Supreme Court of Hawaii decried the possibility of such a basis for tortious liability,
+stating that as the party “hauled into court” the defendant had the right to vigorously
+defend itself against the plaintiff's claims.
+113. Whatever view one takes about recognition of a tort of malicious defence, it is
+possible, I believe, to remain sanguine about its likely prevalence. Again it must be
+proved that the defendant knew or had notice of the lack of merit of the basis on
+which the claim was resisted and persisted in it for a reason unrelated to its legitimate
+defence. These are not insubstantial requirements of proof. They represent significant
+evidential hurdles. There is no reason to suppose that the theoretical possibility of
+such a claim being made will translate to an explosion in the number of actions based
+on malicious defence.
+Historical reasons for not extending liability for malicious prosecution to civil
+proceedings
+114. It is interesting to trace the various reasons given in the past for not recognising
+liability for malicious prosecution in civil proceedings. In Savile the availability of
+pledges posted by plaintiffs was considered to be an adequate means of compensating
+the victim of such proceedings. In the Quartz Hill case the judgment of the court
+rejecting the malicious allegation was considered to provide appropriate redress to the
+wronged defendant. Likewise in Wiffen v Bailey and Romford Urban District Council
+[1915] 1 KB 600 the simultaneous presentation of the poison (the unfounded
+allegation) and the antidote (its rejection by the court) was deemed a sufficient
+recompense for the wrongly accused defendant. In Quartz Hill, the recovery of costs
+against the unsuccessful claimant was treated as a factor justifying the refusal to
+contemplate the availability of a further remedy for malicious prosecution of civil
+proceedings. And this was perceived to be the basis for the English rule in some of
+the decided cases in America – see, for instance, Lord Neuberger’s reference at para
+177 of his judgment to Ciparick J’s discussion of this issue in Engel.
+38
+
+115.
+ In Gregory v Portsmouth City Council [2000] 1 AC 419 Lord Steyn concluded
+that many of these reasons were no longer valid. At pp 427-428 he said:
+“The traditional explanation for not extending the tort to civil
+proceedings generally is that in a civil case there is no damage: the fair
+name of the defendant is protected by the trial and judgment of the
+court. The theory that even a wholly unwarranted allegation of fraud in a
+civil case can be remedied entirely at trial may have had some validity
+in Victorian times when there was little publicity before the trial: see
+Little v Institute of Victoria (No 3) [1990] VR 257. However realistic
+this view may have been in its own time, it is no longer plausible. In
+modern times wide dissemination in the media of allegations in
+litigation deprive this particular reason for restricting the tort to a closed
+category of special cases of the support of logic or good sense. It is,
+however, a matter for consideration whether the restriction upon the
+availability of the tort in respect of civil proceedings may be justified for
+other reasons.”
+116.
+At page 432 Lord Steyn addressed the question whether the ambit of the tort
+should be extended to civil proceedings in the following passage:
+“There is a stronger case for an extension of the tort to civil legal
+proceeding than to disciplinary proceedings. Both criminal and civil
+legal proceedings are covered by the same immunity. And as I have
+explained with reference to the potential damage of publicity about a
+civil action alleging fraud, the traditional explanation namely that in the
+case of civil proceedings the poison and the antidote are presented
+simultaneously, is no longer plausible. Nevertheless, for essentially
+practical reasons I am not persuaded that the general extension of the
+tort to civil proceedings has been shown to be necessary if one takes into
+account the protection afforded by other related torts. I am tolerably
+confident that any manifest injustices arising from groundless and
+damaging civil proceedings are either already adequately protected
+under other torts or are capable of being addressed by any necessary and
+desirable extensions of other torts”
+117. This passage is highly significant, in my opinion. In the first place. Lord Steyn
+felt that it was not necessary to extend the tort to civil proceedings. It seems to me
+implicit in this statement, that had he considered it necessary to do so, there was no
+impediment of principle that would have made the extension impossible. Secondly,
+he considered that extension was not required because manifest injustices arising from
+groundless and damaging proceedings were already catered for or were capable of
+being adequately addressed by appropriate extensions of other torts.
+39
+
+118. Underlying Lord Steyn’s reasoning – and, indeed, the reasoning of earlier cases
+which refused to extend the tort to civil proceedings – is the rationale that manifest
+injustices suffered by victims of malicious prosecution of civil proceedings could be
+adequately redressed by other means – the verdict of the court, the award of costs, the
+availability of an action for defamation or the extension of other areas of tortious
+liability. No such rationale is possible here. In this case, the Board must frankly
+confront the reality that a manifest injustice will not be put right if Mr Paterson is
+denied the right to recover for the malicious prosecution of proceedings against him.
+To borrow Lord Steyn’s language, one cannot be “tolerably confident” that manifest
+injustices are adequately protected in the way that he envisaged. On the contrary this
+case is a graphic illustration of the inadequacy of alternative torts to afford Mr
+Paterson justice.
+Conclusion
+119. The case for recognising the existence of the tort for civil proceedings as well
+as in criminal proceedings seems to me far more grounded in logic than the case for
+refusing to extend it. Although the private prosecutor may take on the mantle of the
+state in criminal proceedings and although the coercive power of the state may be
+present in the prosecution by the DPP of offences, the central and critical species of
+wrongdoing is the same in malicious prosecution of civil proceedings. It is the
+procuring by malice of the discomfiture (at least) or the ruin (not infrequently) of the
+person against whom the action is taken for reasons disassociated with the professed
+purpose of the proceedings. Proceedings motivated by nothing more than malice are
+capable of wreaking devastation whether in pursuit of criminal prosecution or private
+action. Where it can be demonstrated that the court’s procedures do not provide an
+adequate remedy (or in this case no remedy at all) there can be no logic for denying
+the person who has suffered the same harm by the institution of civil proceedings as
+he who has been the victim of criminal proceedings. Indeed, it is not difficult to
+envisage cases where the harm will be considerably greater.
+120. I therefore agree with Lord Wilson and Lady Hale that the Board should
+humbly advise Her Majesty that the appeal be allowed and that judgment be entered
+for Mr Paterson in the sum that Lord Wilson has proposed.
+LORD SUMPTION (DISSENTING):
+121. The tort of malicious prosecution was created in the seventeenth and
+eighteenth centuries to deal with the problem of abusive private prosecutions,
+which was then a serious social evil but has now almost entirely vanished as a
+result of the creation of public prosecuting authorities. As a result, the tort in its
+traditional form is now all but defunct. The majority of this court, however,
+40
+
+proposes to expand its ambit so that it covers all civil litigation. I regret that I
+cannot agree that this is a justifiable development of the law. I would therefore
+have advised that the appeal should be dismissed and the judgments of the
+courts below affirmed. Both of them applied the law as the English courts right
+up the House of Lords have always held it to be.
+General Considerations
+122. Mr Paterson has clearly suffered an injustice. He has been dragged
+through the courts to answer allegations of dishonesty which were known to Mr
+Delessio to be unfounded but were maintained until a late stage of the
+proceedings. He has been publicly discredited in his profession. He and his
+companies have lost much of their business. He has been put to great expense
+to defend himself, not all of which will be recoverable as costs. That this has
+happened to him is, on the Judge’s findings, the result of the malice and
+dishonesty of Sagicor’s Vice-President. However, the injustice which he has
+suffered is not the only factor which can determine whether the law recognises
+a cause of action in tort. Defining the legal elements of a tort and the legal
+limitations upon its ambit will commonly involve a large element of policy
+which may conflict with the simple principle that for every injustice there
+should be remedy at law.
+123. Claims in respect of the initiation or conduct of litigation give rise to
+particular difficulty. The court has an inherent jurisdiction and extensive
+procedural powers to control its proceedings. The ordinary assumption is that
+these are apt to prevent abuse and injustice. In a case where their exercise is
+inappropriate or incapable of achieving that purpose, that is because the
+claimant is entitled to prosecute his proceedings and the only appropriate
+intervention by the court is to resolve them on their merits. In dealing with the
+risk that its process may be abused, the law has always been extremely
+reluctant to go beyond the exercise of the court’s procedural powers in a way
+that may fetter or deter access to justice or the right of parties to prosecute
+legally intelligible claims as they see fit.
+124. This is the basis of the general rule that a litigant owes no duty to his
+adversary in relation to the conduct of proceedings: see Commissioners of
+Customs & Excise v Barclays Bank plc [2007] 1 AC 181, Elguzouli-Daf v
+Commissionerr of the Metropolis [1995] QB 335. These and similar cases were
+rationalised by the House of Lords in Jain v Trent Strategic Health Authority
+[2009] AC 853. The Defendant local authority in that case made a successful
+ex parte application to a magistrate to close down a registered nursing home on
+the basis of a slipshod investigation and inaccurate information. The
+proprietors of the business successfully applied to have the order set aside, but
+41
+
+the process took four months and by that time the business had been ruined.
+The House of Lords held that it owed no duty to the proprietors of the home for
+the basis on which they made the application. Lord Scott, with whom the rest
+of the committee agreed, said at para 35:
+“Where the preparation for, or the commencement or conduct of,
+judicial proceedings before a court, or of quasi-judicial
+proceedings before a tribunal such as a registered homes tribunal,
+has the potential to cause damage to a party to the proceedings,
+whether personal damage such as psychiatric injury or economic
+damage as in the present case, a remedy for the damage cannot be
+obtained via the imposition on the opposing party of a common
+law duty of care. The protection of parties to litigation from
+damage caused to them by the litigation or by orders made in the
+course of the litigation must depend upon the control of the
+litigation by the court or tribunal in charge of it and the rules and
+procedures under which the litigation is conducted.”
+125. It may fairly be said that there is a difference between the negligent and
+the dishonest conduct of litigation. But it is not a difference which has
+influenced this area of the law. Perjured evidence is necessarily dishonest, but
+it is well established that the perjurer is absolutely immune from civil liability.
+The rule was restated by Lord Hope, delivering the leading speech in Darker v
+Chief Constable of the West Midlands Police [2001] 1 AC 435, 445-446:
+“This immunity, which is regarded as necessary in the interests of
+the administration of justice and is granted to him as a matter of
+public policy, is shared by all witnesses in regard to the evidence
+which they give when they are in the witness box. It extends to
+anything said or done by them in the ordinary course of any
+proceeding in a court of justice. The same immunity is given to
+the parties, their advocates, jurors and the judge. They are all
+immune from any action that may be brought against them on the
+ground that things said or done by them in the ordinary course of
+the proceedings were said or done falsely and maliciously and
+without reasonable and probable cause: Dawkins v Lord Rokeby
+(1873) LR 8 QB 255, 264, per Kelly CB. The immunity extends
+also to claims made against witnesses for things said or done by
+them in the ordinary course of such proceedings on the ground of
+negligence.”
+The immunity applies in subsequent proceedings which seek to assert liability
+not just for things said or done in the face of the court in earlier proceedings but
+42
+
+also for statements sufficiently closely connected with them, for example by a
+potential witness when a witness statement is taken from him: Watson v
+M’Ewen [1905] AC 480; Taylor v Director of the Serious Fraud Office [1999]
+2 AC 177. As a general rule, it applies not just in subsequent actions for
+defamation but irrespective of the cause of action: Hargreaves v Bretherton
+[1959] 1 QB 45, and Marrinan v Vibart [1963] 1 QB 528. No doubt, in recent
+years, some inroads have been made into the full breadth of the principle. It no
+longer applies to expert witnesses: Jones v Kaney [2011] 2 AC 398. Nor does it
+exclude the liability of a barrister in negligence to his own client: Arthur J S
+Hall & Co v Simons [2003] 1 AC 615. But these inroads reflect the voluntary
+and contractual character of the participation of experts and lawyers. They do
+not discredit the underlying policy.
+126. All of this derives from two developed legal instincts, both of them
+based on long experience, and both endorsed comparatively recently by Lord
+Steyn, giving the reasoning of the House of Lords in Gregory v Portsmouth
+City Council [2000] 1 AC 419 in terms which make more copious citation
+unnecessary. The first is a concern about the deterrent effect of potential
+liability upon litigants, who may be inhibited from invoking the jurisdiction of
+the courts; and upon witnesses, who may be inhibited from freely assisting in
+the administration of justice. Lord Steyn put it this way at p 426D of Gregory:
+“In a democracy which upholds the rule of law, it is a delicate
+matter to allow actions to be brought in respect of the regular
+processes of the law. Law enforcement agencies are heavily
+dependent on the assistance and co-operation of citizens in the
+enforcement of the law. The fear is that a widely drawn tort will
+discourage law enforcement: it may discourage not only
+malicious persons but honest citizens who would otherwise carry
+out their civic duties of reporting crime. In the result malevolent
+individuals must receive protection so that responsible citizens
+may have it in respect of the hazards of litigation.”
+The second instinct reflects a concern, in the interests of the efficient
+deployment of resources, to discourage secondary litigation in which the
+parties complain of the conduct of earlier litigation in what is potentially an
+unending sequence of actions upon actions. Explaining why the tort of
+malicious prosecution is narrowly defined, Lord Steyn said at p 426F-G:
+“Telling lies about a defendant is not itself tortious: Hargreaves v
+Bretherton [1959] 1 QB 45. A moment’s reflection will show
+what welter of undesirable relitigation would be permitted by any
+different rule.”
+43
+
+127. These are not new problems. In England and other common law
+jurisdictions, actions seeking to impeach the propriety of earlier proceedings or
+the manner in which they were conducted have a long history, and the issues to
+which they give rise have provoked much judicial reflection. The case-law is
+testimony to the irrepressible persistence and optimism of litigants in cases
+good, bad or indifferent. It establishes two cognate torts both of which are
+subject to carefully formulated limits. The first is the tort of malicious
+prosecution which, with limited and anomalous exceptions, is confined to
+claims arising out of criminal prosecutions. The second is the tort of abuse of
+process, which enables a party to civil proceedings to recover damages in
+carefully circumscribed cases where the process of the court has been used for
+a wholly collateral purpose.
+Malicious prosecution
+128. It is convenient to consider the tort of malicious prosecution first,
+because historically it was the first of the two torts to make its appearance in
+English law, and because it provides the background to the later development
+of the tort of abuse of process.
+129. The legal elements of the tort are defined in Clerk & Lindsell, The Law
+of Torts, 20th ed (2012), at para 16-09 as follows:
+“In an action for malicious prosecution the claimant must show
+first that he was prosecuted by the defendant, that is to say that
+the law was set in motion against him by the defendant on a
+criminal charge; secondly, that the prosecution was determined in
+his favour; thirdly that it was without reasonable and probable
+cause; fourthly, that it was malicious.”
+This definition has appeared in successive editions of the work, and was
+adopted by the House of Lords in Gregory v Portsmouth City Council [2002] 1
+AC 419, 426, and before that in Martin v Watson [1996] AC 74, 80.
+130. On the findings of the judge in the present case, all of these elements are
+present except for the first. Mr Delessio did not set in motion proceedings on a
+criminal charge. He caused Sagicor to initiate a civil claim for damages. It
+follows that the appellants’ case under this head depends on the argument that
+44
+
+the ambit of the tort should be extended from malicious criminal prosecutions
+to any malicious civil proceedings.
+131. This question was directly considered by the House of Lords in Gregory
+v Portsmouth City Council [2000] 1 AC 419. The appeal did not arise out of a
+civil action but out of the internal disciplinary proceedings of a local authority.
+Mr Gregory was a councillor of the City of Portsmouth. He had been removed
+from all the committees on which he sat after a disciplinary proceeding for
+breach of the Council’s code of conduct. He successfully applied for judicial
+review, obtained an order quashing the decision, and then began an action for
+malicious prosecution. The action came before the House on his appeal from
+the decision of the courts below to strike it out. The appeal was dismissed on
+the ground that an action for malicious prosecution was not available for the
+abuse of disciplinary proceedings. However the case necessarily raised the
+broader question whether the tort was or should continue to be confined to the
+abuse of criminal prosecutions. This issue had been fully argued in the Court of
+Appeal by reference to English, Commonwealth and United States authority,
+and had generated an eloquent dissenting judgment from Schiemann LJ
+proposing its extension to civil proceedings generally (1997) 96 LGR 569. In
+the House of Lords, it was expressly raised in the statement of issues: see
+[2000] 1 AC 419, pp 425-426. After full argument on the point, Lord Steyn,
+giving the leading judgment of a unanimous committee, held that “in English
+law, the tort of malicious prosecution has never been held to be available
+beyond the limits of criminal proceedings and special instances of abuse of
+civil legal process.” In response to the Appellants’ invitation to extend the
+ambit of the tort, Lord Steyn declined to extend them to disciplinary
+proceedings: pp 428-432. And, while recognising that there was a stronger case
+for extending them to civil actions, he declined to do so for “essentially
+practical reasons”, namely that “any manifest injustices arising from groundless
+and damaging civil proceedings are either already adequately protected under
+other torts or are capable of being addressed by any necessary and desirable
+extensions of other torts”: pp 432-433. In other words, the House did not
+envisage an extension of the tort of malicious prosecution, but a possible
+extension of other torts to cater for the more egregious injustices.
+132. It has sometimes been suggested that the rationale for the distinction
+between civil and criminal proceedings is that in a civil proceeding the
+judgment of the court rejecting the allegation is a sufficient vindication of the
+defendant’s reputation and the award of costs a sufficient compensation for the
+expense. This appears to have been the view of Bowen LJ in Quartz Hill
+Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674, 690. The same
+suggestion was made by Buckley LJ in Wiffen v Bailey and Romford Urban
+District Council [1915] 1 KB 600, 607, and Sir John Beaumont delivering the
+advice of the Privy Council in Mohamed Amin v Jogendra Kumar Bannerjee
+[1947] AC 322, 331. But as Lord Steyn pointed out in Gregory at p 432G-H,
+45
+
+the factual premise of this explanation is not convincing. In the Court of
+Appeal 96 LGR 569, 594, Walker LJ doubted whether it ever had been. I
+respectfully agree. The defendant may suffer serious and irreversible damage to
+his reputation and business before the proceedings can be brought to judgment,
+as the facts of this and other cases illustrate. Assessed costs, even if awarded on
+an indemnity basis, are almost always less than a full indemnity and do not
+extend to losses attributable to the diversion of the defendant’s time and energy
+to the litigation. But the explanation is unsatisfactory for a far more
+fundamental reason than this, namely that it does not explain the particular
+elements of the tort. In particular it does not explain why proof of malice
+should be required in order to give rise to tortious liability for a baseless
+criminal prosecution.
+133. Malice is as a general rule irrelevant to liability in tort. The principle
+was finally established by the decision of the House of Lords in Bradford
+Corpn v Pickles [1895] AC 587. It was restated by Lord Watson in Allen v
+Flood [1898] AC 1, 92, in terms which have been adopted or paraphrased by
+judges and writers ever since that case was decided:
+“Although the rule may be otherwise with regard to crimes, the
+law of England does not, according to my apprehension, take into
+account motive as constituting an element of civil wrong. Any
+invasion of the civil rights of another person is in itself a legal
+wrong, carrying with it liability to repair its necessary or natural
+consequences, in so far as these are injurious to the person whose
+right is infringed, whether the motive which prompted it be good,
+bad, or indifferent. But the existence of a bad motive, in the case
+of an act which is not in itself illegal, will not convert that act
+into a civil wrong for which reparation is due. A wrongful act,
+done knowingly and with a view to its injurious consequences,
+may, in the sense of law, be malicious; but such malice derives its
+essential character from the circumstance that the act done
+constitutes a violation of the law.”
+134. There are two significant exceptions to this principle. The first is the tort
+of conspiracy to injure, where the existence of a dominant intention to injure
+the plaintiff may make actionable conduct which would otherwise be lawful.
+This has generally been regarded as sui generis, and is usually justified by
+reference to the especially pernicious effect of combinations. The second
+exception comprises a limited category of causes of action in which the essence
+of the tort is the abuse of a public function for some collateral private purposes
+of the person performing it. This may be (and generally is) established by proof
+of targeted malice. The paradigm case is the tort of misfeasance in public
+office, which in its modern form dates back to the decision in Ashby v White
+46
+
+(1704) 14 St Tr 695. The tort may be committed by any person performing a
+public function notwithstanding that he is not actually employed in the public
+service: Henly v Lyme Corporation (1828) 5 Bing 91, 107-108. As Lord Steyn
+put it in Three Rivers District Council v Governor and Company of the Bank of
+England (No 3) [2003] 2 AC 1, 190, malice is a condition of liability
+notwithstanding the general rule that it is irrelevant in the law of tort, because
+“the rationale of the tort is that in a legal system based on the rule of law,
+executive or administrative power ‘may be exercised only for the public good’
+and not for ulterior and improper purposes.”
+135. It is to this latter category of malice-based torts that the action for
+malicious prosecution belongs.
+136. The origins of the tort are colourful, archaic and technical. It arose out
+of the peculiarity of English legal history that until the creation in the 1830s of
+the first public police forces with prosecuting powers, almost all prosecutions
+were private prosecutions. They were brought by private individuals, generally
+the victims, or occasionally by public officers in their personal capacity. The
+private prosecutor nevertheless brought his indictment in the name of the
+Crown, and performed an essentially public function. The fact that the state’s
+coercive powers were invoked by a private individual, who controlled both the
+initiation and conduct of the proceedings, gave rise to frequent abuse, which
+was a constant preoccupation of the law from the thirteenth to the nineteenth
+centuries. It led to the early development of the tort of conspiracy, one of the
+first torts to be recognised in English law. Originally statutory, but
+subsequently developed by the common law in the course of the fourteenth and
+fifteenth centuries, the essential features of the early tort of conspiracy was the
+combination of two or more persons falsely and maliciously to indict or appeal
+another person of treason or felony: see Holdsworth, A History of English Law,
+2nd ed, viii (1937), 378-379, 385, and the citation from March’s Actions for
+Slaunder at p 385n5. It was not available for the malicious prosecution of civil
+actions.
+137. The action on the case for malicious prosecution emerged from the
+shadow of the law of conspiracy in the sixteenth century. The most satisfactory
+account of this development is that of Professor Baker in The Oxford History of
+the Law of England, vi (2003), 797. It appears to have originated in the
+qualified privilege enjoyed by a prosecutor in a subsequent action for slander.
+The prosecutor’s defence of lawful prosecution was anticipated by a plea of
+malice which, if proved, defeated the privilege. The analogy with defamation
+was occasionally drawn in later periods, notably by Bowen LJ in Quartz Hill
+Consolidated Gold Mining Co v Eyre (1883) 11 QBD 674, 692. But, it has
+never been exact, and as a rationalisation of the tort it became redundant once
+47
+
+statements in the course of legal proceedings were recognised as enjoying not
+just qualified but absolute privilege.
+138. For many years, actions for malicious prosecution were rare, because the
+judges discouraged them. In 1664, the judges adopted the practice when
+presiding at criminal trials of refusing to release the original indictment to a
+defendant who had been acquitted, unless they were convinced that there had
+never been any foundation for the prosecution. This made it impossible under
+the then rules of evidence to bring an action for malicious prosecution. The
+reason for this judicial hostility, as Blackstone explained in his Commentaries,
+III.8, was the state’s dependence on private prosecutors to enforce the criminal
+law and the danger that they would be inhibited if they were exposed to
+retaliation. “It would be a very great discouragement to the public justice of the
+Kingdom,” he wrote, “if prosecutors, who had a tolerable ground of suspicion,
+were liable to be sued at law whenever their indictments miscarried.” In 1811,
+however, the judges’ practice fell away when it was held that the plaintiff in an
+action for malicious prosecution could prove the contents of the indictment
+without the original. This development opened the floodgates to unmeritorious
+actions in tort by acquitted defendants. The first half of the nineteenth century
+was the great age of such actions, many of which were tools of blackmail,
+harassment and extortion. The consequences are vividly described by Professor
+Hay in his essay “Prosecution and Power. Malicious Prosecution in the English
+Courts, 1750-1850” (Policing and Prosecution in Britain 1750-1850, ed. Hay
+and Snyder (1989), Chapter 8). Against this background, the tort of malicious
+prosecution provided the only means available to the common law of deterring
+the abuse of private prosecutions.
+139. Eighteenth and nineteenth century judges were no more inclined than
+their modern successors to declare large general principles beyond the
+requirements of the case in hand. It is, however, clear that the rationale of the
+tort, the relevance of malice as one of its elements and the reason why it was
+treated as an exception to the absolute immunity attaching to things done and
+said in the course of legal proceedings, all lie in the public character of the
+function performed by the prosecutor. This accounted for both the continued
+existence of the tort and its limitations. In particular, it accounted for the fact
+that it was confined to the abuse of criminal proceedings.
+140. Lord Wilson considers, adopting the view of Fleming, that the limitation
+of the tort to criminal proceedings was a distortion introduced into the law by
+the obiter dictum of the Court of Appeal in Quartz Hill Consolidated Gold
+Mining Company v Eyre (1883) 11 QBD 674. But this view is unsound. It has
+been a cardinal feature of the law relating to malicious prosecution from its
+inception. For nearly three centuries, the leading case on the elements of the
+tort was Savile v Roberts (1698) 1 Ld Raym 374. This famous case was
+48
+
+decided just six years before the closely analogous tort of misfeasance in public
+office was authoritatively defined in Ashby v White (1704) 14 St Tr 695. Holt
+CJ reaffirmed the existence of the action for malicious prosecution of criminal
+proceedings and defined its ambit in the face of objections that it had become
+anomalous and redundant. One of the objections was that “there is no more
+reason that an action should be maintainable in this case than where a civil
+action is sued without cause, for which no action will lie.” Rejecting this
+argument, at p 379, Holt CJ said that the two processes were not comparable,
+for two reasons. One was that the malicious prosecution of crime was an abuse
+of a public function, whereas a civil action was undertaken for private
+purposes. The other was that costs were recoverable in civil proceedings but
+not in criminal ones. Holt CJ dealt with the point as follows:
+“There is a great difference between the suing of an action maliciously,
+and the indicting of a man maliciously. When a man sues an action, he
+claims a right to himself, or complains of an injury done to him; and if a
+man fancies he has a right, he may sue an action... If then the law will
+permit a man to make a false claim out of a court of justice, a fortiori
+when he proceeds to assert his right in a legal course. The common law
+has made provision, to hinder malicious and frivolous and vexatious
+suits, that every plaintiff should find pledges, who were amerced, if the
+claim was false; which judgment the court heretofore always gave, and
+then a writ issued to the coroners, and they affeered them according to
+the proportion of the vexation. See 8 Co 39 b F N B 76 a. But that
+method became disused, and then to supply it, the statutes gave costs to
+the defendants. And though this practice of levying of amercements be
+disused, yet the court must judge according to the reason of the law, and
+not vary their judgments by accidents. But there was no amercement
+upon indictments, and the party had not any remedy to reimburse
+himself but by action.”
+In a passage that at first sight may be thought to contradict his rejection of
+liability for the malicious conduct of civil proceedings, Holt CJ added:
+“If A sues an action against B for mere vexation, in some cases upon
+particular damage, B may have an action; but it is not enough to say that
+A sued him falso et malitiose, but he must shew the matter of the
+grievance specially, so that it may appear to the Court to be manifestly
+vexatious. 1 Sid 424, Daw v Swaine, where the special cause was the
+holding to excessive bail.”
+It is clear from the reference to Daw v Swaine that Holt CJ in this passage was
+talking about the action for malicious and vexatious arrest or distraint of goods,
+49
+
+which was subsequently subsumed in the action for abuse of process. In
+Salkeld’s report of the same case (1 Salk 13, 14), it is expanded as follows:
+“...but yet if one has a cause of action to a small sum, and take out a
+latitat to a very great sum, or has no cause of action at all, and yet
+maliciously sues the plaintiff to the intent to imprison him for want of
+bail, or do him some special prejudice, an action of the case lies; but
+then it is not enough to declare generally, that he brought an action
+against him ex malitia & sine causa, per quod he put him to great
+charge, &c. but he must shew the grievance specially, as in 1 Sid. 424,
+sc. whereas he owed the defendant 100l. he sued him for 500l and to
+hinder him from bail affirmed to the sheriff 500l was due, per quod he
+was imprisoned for want of bail; or 1 Saund. 228, for that the defendant
+intending to procure his imprisonment, where there was no cause of
+action, or without any cause of action, sued him in an action for 300l
+whereupon he was arrested and imprisoned, &c.”
+141. Of Holt CJ’s two reasons, the first, relating to the public character of the
+functions of a criminal prosecutor was much the most significant and has
+proved to be the most fertile in the subsequent development of the law. The
+same point was made a decade later by Parker CJ in Jones v Givin (1713) Gilb
+KB 185, 186-187, where a similar objection was raised to the tort of malicious
+prosecution, namely that it had no counterpart in civil litigation. His response
+was that a civil litigant was allowed a degree of latitude which was not
+appropriate for a prosecutor seeking the punishment of the accused by the state:
+“I choose to say there is a great difference between the two cases.
+Because the demand of right or satisfaction is more favoured than the
+bringing to punishment. An action is to recover his right, or satisfaction
+for it, perhaps his subsistence... And it is observable, that in actions of
+conspiracy, in cases of appeals, the plaintiffs in appeals never were
+made defendants, but in case of judgments the prosecutors for the most
+part were.”
+142.
+From the outset of the modern history of the tort, the reason why proof
+of malice was required was that it negatived the public character of the
+prosecutor’s performance of his functions, and exposed him to liability which
+would not have attached to the proper albeit misguided performance of a public
+function. Restating the position in the leading modern case, Gregory v
+Portsmouth City Council [2000] 1 AC 419, 426, Lord Steyn observed that “a
+distinctive feature of the tort is that the defendant has abused the coercive
+powers of the state.” As the context of this remark demonstrates, what Lord
+Steyn meant by the “coercive power of the state” was its power to punish.
+50
+
+143. There is a small and anomalous class of civil cases in which an action
+has been held to lie for maliciously procuring an order of the court. Of these the
+only one of any real significance in modern conditions is the action for
+maliciously presenting a winding up petition (Quartz Hill Consolidated Gold
+Mining Co v Eyre (1883) 11 QBD 674). Other, less common special cases are
+procuring a search warrant without reasonable cause (Gibbs v Rea [1998] AC
+786) or a bench warrant of arrest (Roy v Prior [1971] AC 470), maliciously
+setting in train a process of execution against property (Clissold v Cratchley
+[1910] 2 KB 244), and maliciously procuring the arrest of a ship (The Walter D
+Wallet [1893] P 202). All of these cases involved ex parte interlocutory orders
+improperly procured by the person initiating the proceedings, in circumstances
+where in the nature of things there would never be a final order. Such orders
+give rise to rather special considerations. They were reviewed by the House of
+Lords in Gregory v Portsmouth City Council [2000] 1 AC 419, 427-428 and
+treated as examples of the ex parte abuse of the court’s coercive powers whose
+existence did not in itself justify a wider ambit for the tort of malicious
+prosecution. I respectfully agree with the analysis of these cases in Lord
+Neuberger’s judgment, by reference to the United States case-law.
+144. It is in my opinion entirely clear that on the law as it presently stands
+there is no action for the malicious prosecution of civil proceedings outside the
+special case of malicious winding up petitions and a small number of analogous
+ex parte proceedings. The question is therefore whether the Board should
+develop the law so that this long-standing limitation on the reach of the tort is
+swept away. I acknowledge the attraction of doing so on the extreme and
+unpleasant facts of this case. But if the law is to be developed, it must be done
+in a manner which is principled, leaves it coherent across cognate subject areas,
+and does not simply resolve one problem at the cost of creating many more.
+Even if judges were Herculean, it would be pointless for them cut off the head
+of the Lernaean Hydra merely to see it grow two more in its place.
+145. First, and fundamentally, the distinction between civil proceedings and
+criminal prosecutions is neither arbitrary nor unsatisfactory. Malicious
+prosecution is in modern conditions an anomalous tort. It was devised to meet a
+particular social problem, associated with the private prosecution of crime,
+which hardly exists today. It would be eccentric to enlarge the anomaly by
+extending liability to civil proceedings to which it has never previously applied.
+The tort is an exception to two well-established principles of English law,
+namely the principle that things done and said in the course of legal
+proceedings are absolutely immune from civil liability, and the principle that
+malice does not make an otherwise lawful act tortious. These exceptional
+features of the tort of malicious prosecution are justifiable only because the tort
+of malicious prosecution is a form of misfeasance in public office. It is a tool
+for constraining the arbitrary exercise of the powers of public prosecuting
+authorities or private persons exercising corresponding functions. A malice­
+51
+
+based tort makes no sense in the context of private litigation where the plaintiff
+is not exercising any public function. Nor is there any justification in that
+context for making a further substantial inroad into the immunity from civil
+liability for things said and done in the course of legal proceedings.
+146. Secondly, within the last few years, the House of Lords has held in
+Gregory v Portsmouth City Council [2000] AC 419 that the tort of malicious
+prosecution does not (with immaterial exceptions) extend beyond the abuse of
+criminal proceedings, and has declined to expand its scope. The House’s
+refusal to expand the scope of the tort so as to embrace civil proceedings other
+than disciplinary proceedings was obiter. However, there are dicta and dicta.
+The application of the tort to the abuse of civil proceedings was decided in
+Gregory because it was important to settle it: see Lord Steyn at p 432F-G. It
+had been fully argued both in the Court of Appeal and in the House, and the
+answer given at both levels was as carefully considered as any ratio decidendi.
+Schiemann LJ’s dissenting judgment in the Court of Appeal, which raised all of
+the points which are now urged upon the Board, was rejected. Nothing has
+changed since 2000 to undermine the authority of the Committee’s statement of
+the law. No considerations have been urged upon the Board to suggest that the
+common law of the Cayman Islands on this point should differ from that which
+applies in England and will continue to apply in England, at least until the point
+reaches the Supreme Court. There are no features of the present case which
+distinguish it from Gregory except that one is bound to have more sympathy
+for Mr Paterson. The conduct of Mr Delessio, for which the respondent is
+vicariously liable, was appalling. But the respondent was nevertheless entitled
+to defend the counterclaim on the basis of the common law as the House of
+Lords had so recently declared it, and Henderson J and the Court of Appeal
+were both entitled and bound to apply it. Litigants are entitled to a measure of
+stability and predictability in this relatively well-trodden area of law.
+147. Third, the precise ambit of the tort, if it extends to civil proceedings of a
+private nature will be both uncertain and potentially very wide. The Board
+would have created a new malice-based tort the gist of which is the malicious
+initiation of baseless proceedings in a manner which damages the reputation of
+the victim. But if that is to be the essence of the tort, then it ought in principle
+to apply to the malicious abuse of disciplinary proceedings, the very
+proposition which the House of Lords was not prepared to accept in Gregory.
+Logically, it would also apply to any factual case advanced in civil proceedings
+which maliciously and baselessly discredited another party, including a case
+advanced by a defendant or a third party. Logically it would extend to cases
+where the action was not maliciously brought but the plaintiff gave malicious
+evidence, or indeed to a case where a witness who was neither the plaintiff nor
+the directing mind and will of the plaintiff gave malicious evidence. In the case
+presently before the Board, the particular abuse consisted in the introduction of
+a baseless allegation of fraud. But if the tort is extended to the conduct of civil
+52
+
+proceedings, there is nothing in logic to suggest that liability can be limited to
+such cases.
+148. Finally, there are real concerns about the practical consequences of any
+extension of the law in this area which would offer litigants an occasion for
+prolonging disputes by way of secondary litigation. It is no answer to these
+concerns to say that the bar can be set so high that few will succeed. Malice is
+far more often alleged than proved. The vice of secondary litigation is in the
+attempt. Litigation generates obsession and provokes resentment. It sharpens
+men’s natural conviction of their own rightness and their suspicion of other
+men’s motives. It turns indifference into antagonism and contempt. Whatever
+principle may be formulated for allowing secondary litigation in some
+circumstances, for every case in which an injustice is successfully corrected in
+subsequent proceedings, there will be many more which fail only after
+prolonged, disruptive, wasteful and ultimately unsuccessful attempts.
+Abuse of process
+149. Abuse of process emerged as a tort considerably later than malicious
+prosecution and differs from it in significant respects. It applies to the initiation
+or conduct of civil proceedings. It is not necessary to prove malice. It is not
+necessary to show that the proceedings have gone to judgment. It is not even
+necessary to show that they were baseless, although in practice they often will
+be. The essence of the tort is the abuse of civil proceedings for a predominant
+purpose other than that for which they were designed. This means for the
+purpose of obtaining some wholly extraneous benefit other than the relief
+sought and not reasonably flowing from or connected with the relief sought.
+The paradigm case is the use of the processes of the court as a tool of extortion,
+by putting pressure on the defendant to do something wholly unconnected with
+the relief, which he has no obligation to do. Such cases are extremely rare.
+Although there is a moderately substantial body of case-law, there are only two
+reported cases in England in which the action has succeeded, both involving
+the now obsolete procedures for the arrest of debtors, which had an obvious
+potential for abuse. No case has succeeded in England since 1860, although
+Australian litigants appear to have been both more persistent and more
+successful. Like the tort of malicious prosecution as it was conceived to be
+before this case, abuse of process is on the verge of extinction, the only recent
+sightings being in Australia.
+150. The origin of the tort is the decision of the Court of Common Pleas in
+Grainger v Hill (1838) 4 Bing NC 212, a case expressly decided on the footing
+that there was no previous authority. It arose out of the right of a creditor to sue
+for a writ of capias ad respondendum, an ex parte administrative process by
+53
+
+which a writ was issued to a creditor upon his verifying the debt on affidavit.
+The writ directed the sheriff to arrest the debtor to require him to answer the
+claim. These particular creditors had lent money to a shipowner, secured by a
+mortgage of his ship. Being concerned about the adequacy of their security,
+they threatened to have him arrested before the debt was due, unless he repaid
+it early. They then procured the writ and endorsed it with a direction to the
+sheriff’s officers that if the defendant could not find bail, they were to take the
+ship’s register, without which it could not trade. Neither the creditors nor the
+sheriff’s officers had any right to the ship’s register. In a subsequent action by
+the debtor on the case, the creditors applied for a non-suit, arguing that the
+merits of their earlier action had never been decided judicially and that there
+was no averment in the pleadings of a want of “reasonable and probable
+cause”. This argument was substantially based on the law relating to malicious
+prosecution. Rejecting it, Tindal CJ said, at 221:
+“The second ground urged for a non-suit is, that there was no
+proof of the suit commenced by the defendants having been
+terminated, But the answer to this, and to the objection urged in
+arrest of judgment, namely the omission to allege want of
+reasonable and probable cause of the defendants' proceeding, is
+the same, that this is an action for abusing the process of the law,
+by applying it to extort property from the plaintiff, and not an
+action for malicious arrest or malicious prosecution, in order to
+support which action the termination of the previous proceeding
+must be proved, and the absence of reasonable and probable
+cause be alleged as well as proved. In the case of a malicious
+arrest, the sheriff at least is instructed to pursue the exigency of
+the writ: here the directions given, to compel the plaintiff to yield
+up the register, were no part of the duty enjoined by the writ...
+[The plaintiff’s] complaint being that the process of the law has
+been abused to effect an object not within the scope of the
+process, it is immaterial whether the suit which that process
+commenced has been determined or not, or whether or not it was
+founded on reasonable and probable cause.”
+151. The only other reported English case in which such an action has
+succeeded is Gilding v Eyre (1861) 10 CB (NS) 592, which concerned another
+ex parte process by way of enforcement. The defendant was a judgment
+creditor who had obtained a writ of capias ad satisfaciendum. This was a writ
+directing the sheriff to arrest the debtor and unless he satisfied the judgment to
+produce him in court. The writ in Gilding was endorsed with a direction to levy
+a sum substantially exceeding the true amount due. The debtor tendered the
+amount actually due but refused to pay the balance. He was therefore arrested
+by the sheriff’s officers and had to pay the balance to obtain his release. Willes
+J, delivering the judgment of the Court of Common Pleas, said at p 604:
+54
+
+“In the present case, the complaint is not that any undetermined
+proceeding was unjustly instituted. The alleged cause of action is,
+that the defendant has maliciously employed the process of the
+court in a terminated suit, in having by means of a regular writ of
+execution extorted money which he knew had been already paid
+and was no longer due on the judgment.”
+152. Summarising the effect of these authorities in the High Court of
+Australia in Varawa v Howard Smith Co Ltd (1911) 13 CLR 35, 91, Isaacs J
+observed that:
+“In the sense requisite to sustain an action, the term ‘abuse of
+process’ connotes that the process is employed for some purpose
+other than the attainment of the claim in the action. If the
+proceedings are merely a stalking-horse to coerce the defendant
+in some way entirely outside the ambit of the legal claim upon
+which the court is asked to adjudicate they are regarded as an
+abuse of process for this purpose, and as, ex hypothesi the final
+judgment however given will have no reference to the ulterior
+purpose, there is no necessity to await the irrelevant
+determination.”
+153. Once the tort had been established, the courts consistently declined to
+extend it so as to cover cases in which the defendant was genuinely seeking the
+relief prayed in the writ but for an ulterior motive, even if that motive were
+malicious or improper. Insolvency proceedings were, and perhaps still are
+commonly initiated with a view to obtaining some benefit which will flow from
+the insolvency other than the recovery of the debt or a dividend. In King v
+Henderson [1898] AC 720, the creditor intended to obtain the dissolution of his
+partnership with the debtor, which would automatically follow from his
+bankruptcy. In the Australian case of Dowling v Colonial Mutual Life
+Assurance Society Ltd (1915) 20 CLR 509, the creditor hoped to discover from
+the bankrupt’s examination who had instigated him to make certain defamatory
+statements. In neither case was the creditor’s conduct tortious. He truly wanted
+a bankruptcy order, which was the purpose for which the proceedings were
+designed. Once that was demonstrated, the reason why he wanted it no longer
+mattered. In Dowling, Isaacs J put the point in this way at pp 521-522:
+“If the object sought to be effected by the process is within the
+lawful scope of the process, it is a use of the process within the
+meaning of the law, though it may be malicious, or even
+fraudulent, and in the circumstances the fraud may be an answer;
+if, however, the object sought to be effected by means of the
+55
+
+process is outside the lawful scope of the process, and is
+fraudulent, then - both circumstances concurring - it is a case of
+abuse of that process, and the court will neither enforce nor allow
+it to afford any protection, and will interpose, if necessary, to
+prevent its process being made the instrument of abuse.”
+154. In England, perhaps the most striking modern illustration is the decision
+of the Court of Appeal in Goldsmith v Sperrings Ltd [1977] 1 WLR 478. The
+background to this decision was the well-established rule of English law that
+the distributors as well as the authors and publishers of a libel, are liable in an
+action for defamation. The question at issue was whether Sir James Goldsmith
+was entitled to sue the distributors of Private Eye for libel, with a view to
+making it impossible for the magazine to continue in business. This was to be
+achieved by putting pressure on the distributors to settle on terms that they
+ceased to distribute it. An application to stay or dismiss the proceedings as an
+abuse of process failed for a number of reasons, one of which was that Sir
+James’s objective was not in the relevant respect extraneous to the proper
+purpose of the proceedings. This was because, although he could not have got
+an order from the court preventing the distribution of Private Eye, a claim for
+damages against the distributors was a proper use of the court’s process and a
+settlement of such a claim on whatever terms the parties might fairly agree was
+simply a consequence of the distributors’ potential liability. It could not
+therefore be regarded as an abuse. Bridge LJ, at p 503 dealt with the applicant’s
+submissions on abuse of process in terms which go to the heart of the issue.
+Answering the question what is meant by a “collateral advantage” in the
+context of this tort, he said:
+“The phrase manifestly cannot embrace every advantage sought
+or obtained by a litigant which it is beyond the court's power to
+grant him. Actions are settled quite properly every day on terms
+which a court could not itself impose upon an unwilling
+defendant. An apology in libel, an agreement to adhere to a
+contract of which the court could not order specific performance,
+an agreement after obstruction of an existing right of way to grant
+an alternative right of way over the defendant's land - these are a
+few obvious examples of such proper settlements. In my
+judgment, one can certainly go so far as to say that when a
+litigant sues to redress a grievance no object which he may seek
+to obtain can be condemned as a collateral advantage if it is
+reasonably related to the provision of some form of redress for
+that grievance. On the other hand, if it can be shown that a
+litigant is pursuing an ulterior purpose unrelated to the subject
+matter of the litigation and that, but for his ulterior purpose, he
+would not have commenced proceedings at all, that is an abuse of
+56
+
+process. These two cases are plain; but there is, I think, a difficult
+area in between. What if a litigant with a genuine cause of action,
+which he would wish to pursue in any event, can be shown also
+to have an ulterior purpose in view as a desired byproduct of the
+litigation? Can he on that ground be debarred from proceeding? I
+very much doubt it."
+155. Perhaps the most illuminating analysis of the question is to be found in
+the majority judgments in the High Court of Australia in Williams v Spautz
+(1992) 174 CLR 509. Dr. Spautz had been dismissed from his lectureship at the
+University of Newcastle for persisting in a campaign against another academic
+member of the university after being required by the university’s council to
+desist. He instituted 32 actions against the university and various of its
+members, in which he made allegations of criminal libel, conspiracy,
+perverting the course of justice and the like. Some of those whom he had sued
+began separate proceedings against him seeking declarations that his actions
+were an abuse of process. The trial judge found that Dr Spautz’s predominant
+purpose was to put pressure on the university to reinstate him or to settle his
+claims on favourable terms. Other, subordinate, purposes, included the
+vindication of his reputation and the collection of material for his research into
+corruption at Australian institutions. Mason CJ and Dawson, Toohey and
+McHugh JJ reviewed the principal English and Australian authorities and
+summarised the essence of the tort as being that “the party who has instituted
+proceedings has done so for a purpose or to effect an object beyond that which
+the legal process offers”: para 27. In a valuable concurring judgment, Brennan
+J adopted the view of Bridge LJ in Goldsmith v Sperrings Ltd and concluded at
+para 12 that:
+“An abuse of process occurs when the only substantial intention
+of a plaintiff is to obtain an advantage or other benefit, to impose
+a burden or to create a situation that is not reasonably related to a
+verdict that might be returned or an order that might be made in
+the proceeding.”
+156. It is sometimes said, for example in Fleming, The Law of Torts, 10th ed
+(2011), 708, that in addition to the extraneous purpose, it is necessary to prove
+some “overt act” other than the proceedings themselves, such as the
+extortionary threat in Grainger v Hill. The better view, however, is that this is
+not an additional requirement but merely evidence of the extraneous purpose.
+As Mason CJ and Dawson Toohey and McHugh JJ observed in Williams v
+Spautz (1992) 174 CLR 509, at para 41, in practice “the conclusion which the
+court reaches is more likely to be founded upon objective evidence rather than
+subjective evidence of intention.” In the great majority of cases, an overt act
+may be the only way of proving the abuse. But it is not a legal element of the
+57
+
+tort. The abuse may sometimes be the inevitable inference from the
+surrounding circumstances, as it was in Dr Spautz’s case.
+157. These limitations on the scope of the tort are not technicalities, but arise
+from a principled reluctance on the part of the courts to countenance civil
+liability for invoking the jurisdiction of the court. As Slade LJ observed,
+delivering the judgment of the Court of Appeal rejecting a claim for abuse of
+process in Metall und Rohstoff AG v Donaldson Lufkin & Jenrette Inc [1990] 1
+QB 391, 470F, the limitation may well cause hardship, but if there is a gap in
+the law it rests on the same considerations of public policy which give
+immunity to witnesses against civil actions based on the falsity of evidence
+given in judicial proceedings. He added that “if the position were otherwise,
+honest litigants might, be deterred from pursuing honest claims or defences and
+honest witnesses might, be deterred from giving evidence.”
+158. In the present case, the Judge recorded that it had not been alleged that
+the legal process was used by Mr Delessio for any purpose for which it was not
+designed, and that in any event such an allegation could not have been made
+out on the facts. This conclusion was inevitable once he had found that Mr
+Delessio genuinely believed that Sagicor had been overcharged. Relief was
+genuinely being claimed in order to recover the overcharge, which was a
+proper purpose of such an action. Mr Delessio’s dislike of Mr Paterson did not
+explain why the relief claimed was sought. It was only “the dominant factor
+which led him to present what should have seemed like an ordinary case of
+overcharging as one of fraud” (para 239). It is true that the allegation of fraud
+was both baseless and malicious, but neither baselessness nor malice are
+relevant to this cause of action.
+Conclusion
+159. In a passage which I have already cited from his speech in Gregory v
+Portsmouth City Council [2000] 1 AC 419, 432-433, Lord Steyn expressed the
+view that any manifest injustices arising from the limitation of the tort of
+malicious prosecution to criminal prosecutions were capable of being
+addressed by “any necessary and desirable extensions” of other torts. Lord
+Steyn had a number of possible torts in mind in addition to abuse of process. In
+my opinion he cannot be read as saying that an extension of either of the two
+torts relied upon in this case was “necessary and desirable”. Nor can he have
+thought that there would necessarily be a remedy in every case of “groundless
+and damaging civil proceedings”. His earlier observations about the problems
+of secondary litigation suggest that he did not. The principal difficulty faced by
+the appellants in this case is that on the Judge’s findings of fact the only tort
+which would avail them would not in fact be an extension of any existing tort.
+58
+
+It would be a wholly new tort of maliciously making damaging allegations of
+fact in the course of advancing a genuine but unfounded claim in civil
+proceedings. In my opinion the law has never been prepared to countenance
+such a tort in the past and should not be prepared to do so now.
+LORD NEUBERGER (DISSENTING):
+Introductory
+160. The issue on this appeal is whether we should extend the scope of either
+or both the established torts of abuse of process and malicious prosecution.
+161. The facts giving rise to this issue are fully set out in paras 5 to 35 of
+Lord Wilson’s judgment on behalf of the Board, and I do not propose to repeat
+them.
+162. In paras 128 to 148 and paras 149 to 158 respectively of his dissenting
+judgment, Lord Sumption has comprehensively, and in my view accurately, set
+out the history and current state of English law in relation to malicious
+prosecution and abuse of process.
+163. Lord Wilson would use this opportunity to extend the law of malicious
+prosecution to cover a case such as the present, and Lord Sumption would not.
+Neither of them would extend the law of abuse of process. I agree with them
+about abuse of process and it is unnecessary to say any more about it. So far as
+extending the law of malicious prosecution is concerned, I agree with Lord
+Sumption. I do so with great sympathy for the appellants, because, as Lord
+Wilson’s opinion graphically establishes, one’s instinctive reaction as a human
+being is that Mr Paterson and his company should be entitled to compensation
+for their emotional and financial losses resulting from Mr Delessio’s actions.
+164. However, there are sound reasons for not following this instinctive
+reaction, and for rejecting the suggestion that we should extend the scope of
+malicious prosecution. These reasons are contained in paras 144 to 148 of Lord
+Sumption’s opinion, when viewed in the context of the principles he sets out in
+paras 122 to 127, and, in my view, they strike the right balance between
+preventing malicious proceedings, and maintaining access to the courts.
+The relevance of the United States jurisprudence
+165. My conclusion is reinforced by consideration of a relatively large
+number of decisions of courts in the United States of America in this area of
+law. I believe that it is helpful to look at these cases for four reasons.
+59
+
+166. First, on this sort of issue, it is generally helpful to look at the
+experience of other common law jurisdictions. In the recent decision of the
+Supreme Court in Jones v Kaney [2011] 2 AC 398, para 76, Lord Collins said
+this:
+“It is highly desirable that at this appellate level, in cases where
+issues of legal policy are concerned, the Court should be
+informed about the position in other common law countries.
+This Court is often helped by being referred to authorities from
+other common law systems, including the United States.”
+167. Secondly, in this case, as in Jones, the position is as Lord Collins
+immediately went on to describe it, namely, “[i]t is only in the United States
+that there has been extensive discussion in the case law of the policy
+implications of” the issue in this case, extension of the scope of the tort of
+malicious prosecution, and in that case, “removal of immunity for actions by
+disappointed clients against their experts”.
+168. Thirdly, in Gregory v Portsmouth City Council [2000] 1 AC 419, where,
+as Lord Sumption explains, the House of Lords decided that it would be wrong
+to extend the scope of the tort, Lord Steyn considered in some detail, at pp 428­
+430, the position which, as he understood it, had been taken by the courts in the
+United States. Having quoted passages from §674 and §680 of The American
+Law Institute, Restatement of the Law, Torts, 2d (1977) (“the Restatement”),
+and having referred to two decisions of state Supreme Courts and a decision of
+the District of Columbia Court of Appeals, he said that:
+“[I]t seems realistic to take into account that the difference in the
+way in which the tort of malicious prosecution has developed in
+the United States and England is to a considerable extent the
+result of structural differences between the two legal systems. In
+England the award of costs in the discretion of the court is an
+important weapon in deterring groundless actions. But in the
+United States there is no such general judicial power. … In the
+United States the absence of a general judicial power to award
+costs in respect of a groundless claim apparently played a part in
+the development and extension of the tort of malicious
+prosecution to all civil proceedings …. In these circumstances
+the development in the United States, while undoubtedly relevant
+to the issue before the House, must be seen in the light of two
+legal systems which in material respects diverge.”
+60
+
+In fact, as a fuller analysis of the United States jurisprudence shows, it is by no
+means the general rule that the scope of the tort of malicious prosecution is
+significantly wider than it is in England and Wales following Gregory.
+169. Fourthly, the United States jurisprudence casts illuminating light on, and
+helps to shape the contours of, “the small and anomalous class of civil cases in
+which an action has been held to lie for maliciously procuring an order of the
+court”, which are referred to by Lord Sumption in para 143 above, and renders
+those cases less anomalous than they appear at first sight.
+The United States jurisprudence: an overview
+170. It is convenient to start with the Restatement, which has various sections
+dealing with the torts which are the focus of this appeal. §653 is concerned
+with malicious prosecution of criminal proceedings, §674, §677 and §680 are
+concerned with malicious prosecution of civil and administrative proceedings,
+and §682 is concerned with abuse of process. For present purposes, one need, I
+think, focus only on §674, §677 and §680.
+171. §674, which was quoted and relied on by Lord Steyn in Gregory, is to
+this effect:
+“One who takes an active part in the initiation, continuation or
+procurement of civil proceedings against another is subject to
+liability to the other for wrongful civil proceedings if (a) he acts
+without probable cause, and primarily for a purpose other than
+that of securing the proper adjudication of the claim in which the
+proceedings are based, and (b) except when they are ex parte, the
+proceedings have terminated in favor of the person against whom
+they are brought.”
+§680, also referred to by Lord Steyn, is to similar effect, save that it
+applies to “civil proceedings … before an administrative board”.
+172. On the other hand, §677 of the Restatement is in these terms:
+“One who by taking an active part in the initiation, continuation
+or procurement of civil proceedings against another causes him to
+be arrested or deprived of the possession of his land or chattels or
+other things is subject to liability to him for the harm done
+thereby if
+61
+
+(a)
+he acts without probable cause, and primarily for a
+purpose other than that of securing the proper
+adjudication of the claim on which the proceedings
+were based, and
+(b)
+ except when they are ex parte, the proceedings have
+terminated in favor of the person against whom
+they are brought.”
+This section appears to be unnecessary as it is a subset of §674.
+However, as the comment in the Restatement explains:
+“This Section is a special application of §674 […] . It receives
+separate statement only because some courts that have been
+unwilling to accept the broader rule stated in §674 have applied
+the rule here stated.”
+§674 is often referred to by United States judges and textbooks as “the
+American Rule” or “the Restatement Rule”, whereas §677 is often referred to
+as “the English Rule”.
+173. The American Rule is summarised in Dobbs, Hayden and Bubick, The
+Law of Torts (2nd ed, 2011) , at p 408, in these terms:
+“The plaintiff can recover if the defendant had participated in
+instigating or continuing a civil proceeding, including a
+declaratory judgment action or even a quasi-judicial
+administrative proceeding, without probable cause and for an
+improper purpose, provided that the proceeding had been
+terminated favourably to the now-plaintiff.”
+174. Dobbs explains the English Rule as mirroring the American Rule, but
+with the added requirement that the plaintiff must establish that the previous
+proceedings were not merely without probable cause and unsuccessful, but that
+they caused him “special injury”, i.e. what the Restatement refers to as
+“caus[ing] him to be arrested or deprived of the possession of his land or
+chattels or other things”. At pp 416-417, Dobbs says this:
+“[S]pecial injury must be something more than the expense,
+distress, and reputational loss that is ordinarily suffered as a
+result of wrongful litigation. Rather, the interference must result
+directly from the suit itself or the court’s pre-judgment orders.
+62
+
+The wrongful litigation claim is allowed when the defendant has
+repeatedly brought unjustified suits. It is also allowed when a
+single suit directly results in pre-judgment impairment or
+suspension of the plaintiff’s rights in property, income, or credit,
+or detention of the plaintiff’s person. Unjustified insanity
+proceedings are actionable, at least when they constrain the
+plaintiff’s person for examination or otherwise, while unjustified
+bankruptcy proceedings are actionable because they put the
+plaintiff’s property under the control of the bankruptcy court.”
+175. Examination of the cases suggests that courts in the United States are
+almost as likely to adopt the English Rule as the American Rule. According to
+Dobbs, p. 415, “a majority of American courts” follow the American Rule. In
+terms of numbers, there is a list of jurisdictions which applied each Rule as at
+1977 in footnotes 3 and 4 of the judgment of the Supreme Court of Oregon in
+O’Toole v. Franklin, 569 P.2d 561 (1977), 564. These footnotes identify 23
+states (including California, Florida, Massachusetts and Missouri) which then
+adopted the American Rule, and 17 states (including Illinois, New York, Ohio
+and Texas) which then adopted the English Rule. However, since then,
+legislation has intervened in some states, and some states have changed their
+approach. Thus, in Illinois, statute has removed the requirement for a plaintiff
+to show “special injury” where he has been the defendant in what he now
+claims was a malicious medical malpractice claim; and New Mexico used to
+adopt the English Rule but now adopts the American Rule, although it has gone
+further still and restated the tort in its entirety.
+The “small and anomalous class of civil cases”
+176. It is, I think, convenient first to examine how the courts in the United
+States which have adopted the English Rule, have justified and applied the
+exceptions to the general rule that the tort of malicious prosecution does not
+extend to civil, as opposed to criminal, claims. As is apparent from §677 of the
+Restatement and the extract cited above from pp 416-417 of Dobbs, malicious
+prosecution can only be invoked by a former defendant to proceedings under
+the English Rule where the proceedings have caused him “special injury” – i.e.
+injury over and above the ordinary emotional and financial damage, including,
+as the Supreme Court of Texas put it, the “inconvenience [and]
+embarrassment”, normally caused by litigation – see Texas Beef Cattle Co v
+Green, 921 S.W.2d 203 (1996), 208.
+177. In the New York Court of Appeals in Engel v CBS Inc, 711 N.E. 2d 626
+(1999), at 629, Ciparick J explained the origin of “the special injury
+requirement” in these terms:
+63
+
+“The requirement had its genesis in England, and the original
+reasons for it do not pre-dominate in this country. In England, a
+defendant need not worry about being saddled with the costs of a
+successful defense. The English rule is that generally the loser
+must pay the winner’s attorneys’ fees. Thus, an English plaintiff
+who brings a frivolous suit does so as the peril of paying his
+adversary’s litigation expenses […] . It was only where an
+English defendant endured some special injury that the action for
+malicious prosecution was needed […] . Otherwise, the English
+defendant really did not suffer redressable harm.”
+178. It appears to me that this satisfactorily explains and justifies the various
+established exceptions to the rule that the tort of malicious prosecution does not
+extend to civil proceedings. Those exceptions are set out by Lord Sumption in
+para 143. They all involve either ex parte or interlocutory orders being made
+against a defendant, and, because they are ex parte or interlocutory, they could
+quite conceivably have been granted in proceedings which could subsequently
+be established as having been “malicious”. Final relief will never be granted in
+such proceedings (save, I suppose, where the final order is subsequently set
+aside), as it is an essential ingredient of a claim in malicious prosecution that
+the proceedings in question will have failed. However, where interlocutory
+relief is granted, any loss thereby caused will be “special injury”, as it is not
+part of the normal emotional and financial detriment typically caused by
+litigation.
+179. An obvious type of case where special injury could be caused is where
+interlocutory relief (or, in United States nomenclature, a provisional remedy) is
+granted against a defendant in the allegedly malicious proceedings. In practice,
+however, it would normally be unnecessary for the former defendant to resort
+to a malicious prosecution claim to recover compensation for such loss, as the
+interlocutory relief will have been an injunction, for which the former claimant
+normally will have given a cross-undertaking in damages.
+180. In conclusion on this aspect, then, it seems to me that the “special
+injury” rule which United States jurisprudence has identified as the
+distinguishing ingredient of the English Rule, as against the American Rule,
+satisfactorily explains the otherwise seemingly anomalous exceptions to the
+general rule that a malicious prosecution claim does not lie in respect of civil
+proceedings. It is also interesting to note that its justification is said at least
+partially to lie in the fact that a successful defendant in English civil
+proceedings can expect to recover his costs. And, I would add, where such
+proceedings were “malicious”, he should recover them on an indemnity basis.
+64
+
+The United States jurisprudence: a little more detail
+181. As is clear from the summary in para 175, the issue whether to adopt the
+English Rule or the American Rule has been considered by a large number of
+different courts at different levels in the great majority of the fifty states of the
+United States. It would be inappropriate, indeed it would be well-nigh
+impossible, to discuss each of them in this judgment. Whatever the ultimate
+decision, the nature of the court’s function in this field was well summarised by
+Freeman CJ in the Illinois Supreme Court decision of Cult Awareness Network
+v Church of Scientology International, 685 N.E. 2d 1347 (1997), p. 1356, as
+being the “responsibility to maintain a proper balance between the societal
+interest in preventing harassing suits and in permitting the honest assertion of
+rights”. Courts must “respon[d] to these competing interests” whilst
+maintaining that balance - per the District of Columbia Court of Appeals,
+Morowitz v Marvel, 423 A. 2d 196 (1980), pp 197-198.
+182. Various judges have suggested that adopting the American Rule would
+mean that “there would be no end of litigation”, as “the parties could keep on
+suing each other to the end of time”, as it was put in the Supreme Court of
+Pennsylvania by Paxson CJ in Norcross v Otis Bros & Co, 25 A. 575 (1893), at
+578. A successful defendant, “seeking additional vindication”, might be
+tempted to sue for malicious prosecution, “and, if unsuccessful in that claim,
+their opponents will be all too willing to return the favour”, as the New York
+Court of Appeals put it in Engel. However, these points did not impress the
+dissenting judges in the Supreme Court of Michigan, who, in expressing their
+support for the American Rule, did not, as Coleman CJ put it, “normally find
+significant the fact that unsuccessful suits may be brought”, as this was a factor
+which should not “be given added importance simply because the wrong to be
+compensated is itself a lawsuit”, see Friedman v Dozorc, 312 N.W.2d 585
+(1981), at 612.
+183. The English Rule was, however, supported by the majority in Friedman,
+in a judgment given by Levin J, who pithily said that “[t]he cure for an excess
+of litigation is not more litigation”, and that it was desirable “to cast off the
+limitations of a perspective which ascribes curative power only to lawsuits”. He
+also justified the English Rule on practical grounds, in the light of the heavy
+burden of proof the plaintiff in a malicious prosecution claim bears:
+“[I]f few plaintiffs will recover in the subsequent action, one may
+wonder whether there is any point in recognizing the expanded
+cause of action. If the subsequent action does not succeed, both
+parties are left to bear the expenses of two futile lawsuits, and
+court time has been wasted as well.”
+65
+
+184. The chilling effect of the American Rule has also been cited as a reason
+for adhering to the English Rule. Thus, again in Friedman, Levin J referred to
+“defense litigators […] whose clients can afford to devote extensive resources
+to prophylactic intimidation”, and warned against “arm[ing] all prevailing
+defendants with an instrument of retaliation”. To the same effect, the New
+York Court of Appeals in Engel emphasised the importance of “plaintiffs
+remain[ing] relatively free from the threat of retaliatory law suits in bringing
+their good faith claims”.
+185. However, many judges who prefer the American Rule make the point
+that the English Rule “denie[s] free access to the courts for all those who have
+suffered harm but not ‘special injury’ from wrongful litigation”, as Coleman CJ
+put it in Friedman. He and Moody J also characterised the English Rule’s
+requirement for special injury as arbitrary. Moody J thought that
+“The strict requirements of lack of probable cause and malice,
+i.e., improper purpose, are more appropriate guardians of free
+access to the courts and of promoting the honest use of the
+judicial process than the artificial requirement of special injury.”
+186. A number of judges who prefer the American Rule have relied on the
+fact that, unlike successful English defendants, American defendants who
+successfully defeat a claim generally cannot recover their costs, even if the
+claim can be shown to have been “malicious”. This point was well made by
+Lockwood J giving the judgment of the Supreme Court of Arizona in
+Ackerman v Kaufman, 15 P.2d 966 (1932), when justifying the application of
+the American Rule. However, the distinction was considered and rejected as a
+good enough reason for departing from the English Rule in Pennsylvania – see
+per Paxson CJ giving the Supreme Court judgment in Norcross v Otis Bros &
+Co, 25 A. 575 (1893), essentially on the ground that otherwise “there would be
+no end of litigation”. It is also interesting to note that Myerscough J in the
+Appellate Court of Illinois, when refusing to depart from the English Rule,
+relied on the court’s power to “impose sanctions, which may include an order
+to pay the other party’s expenses incurred as a result of” a pleading which
+“harass[ed] or [caused] unnecessary delay or needless increase in the cost of
+litigation” - in Thomas v Hileman, 775 N.E.2d 231 (2002), at 237.
+187. It is instructive to see some of the developments which have occurred in
+states whose courts have adopted the American Rule. In DeVaney v Thriftway
+Mktg. Corp., 953 P.2d 277 (1997), the Supreme Court of New Mexico
+concluded that the special injury requirement should be abandoned – ie that the
+American Rule should be followed. In so doing, the Court concluded that, in
+the light of the similarities between the tort of malicious prosecution and the
+66
+
+tort of abuse of process, “there [was] no longer a principled reason for
+characterizing these two forms of misuse of process as separate causes of
+action”, and restated the elements of these two torts as the tort of malicious
+abuse of process. In Durham v Guest, 294 P.3d. 19 (2009), the Supreme Court
+of New Mexico overruled DeVaney in certain respects, so that, for instance, a
+claim of “malicious abuse of process” could be raised by a defendant in
+relation to a plaintiff’s improper use of any aspect of the court’s procedure.
+188. In Aranson v Schroeder, 671 A.2d 1023 (1995), the majority of the
+Supreme Court of New Hampshire, which follows the American Rule,
+recognised the tort of “malicious defense”, where a defendant to proceedings
+raises a defence “without probable cause, …with knowledge … of the lack of
+merit …, [and] primarily for a purpose other than that of securing the proper
+adjudication of the claim […]”, and the defendant loses, thereby causing loss to
+the plaintiff. If, as Levin J considered in Friedman, the American Rule
+“push[es] the pendulum too far in favour of the defense”, one might more
+readily see why the Supreme Court of New Hampshire sought to level the
+playing-field. After all, “a plaintiff [is not] less aggrieved when the groundless
+claim put forth in the courts is done defensively rather than affirmatively”,
+although, quite understandably, the Supreme Court of Hawaii has criticised this
+extension in strong terms for “chilling legitimate defenses” – see Young v
+Allstate Ins Co 198 P.3d 666 (2008).
+189. Principally because of concerns over its chilling effect, the Supreme
+Court of California, while adhering to the American Rule in relation to
+malicious prosecution claims based on civil proceedings, has described the tort
+as a “disfavored cause of action” and has consequently declined to extend its
+scope further - see Sheldon Appel Co v Albert & Oliker, 765 P.2d 498 (1989).
+190. In Bidna v Rosen (1993) 23 Cal. Rptr. 2d 251, the Californian Court of
+Appeal interpreted Sheldon Appel as “enunciating a basic judicial policy in
+favour of curing the evil of abusive litigation at its source rather than allowing
+it to metastasize into yet more litigation”, and so decided that malicious
+prosecution claims could not be brought in respect of family law proceedings.
+Sills PJ said that “the inadequacy of the husband’s family law remedies” had to
+be “‘balanced’ against the ‘floodgates’ and ‘chilling’ effects” and that “this
+balance tilts against malicious prosecution”, as there were “several and
+substantial” arguments for “a bright line rule” in family cases, namely their
+“unique propensity for bitterness”, the desirability “to swiftly discourage
+litigious nonsense at its source”, the requirement for “special sensitivity and
+flexibility”, and the consequent concern about the chilling effect, and “albeit
+perhaps tangentially, […] the impact […] on lawyers’ malpractice insurance
+premiums”. However, a different view was taken by the Oregon Court of
+67
+
+Appeals in Vazquez v Reeves, 907 P.2d 254 (1995), which found these points
+“ultimately unpersuasive”.
+Conclusions to be drawn from the United States experience
+191. There is no doubt that there is support both for maintaining the present
+English Rule and for adopting the American Rule in the United States
+jurisprudence. A person who wants to read a single case where both sides of
+the argument are articulately advanced, would be well advised to turn to the
+Michigan Supreme Court decision of Friedman.
+192. The arguments summarised in paras 181 to 185 above do not
+specifically arise out of the United States jurisprudence, and they cut both
+ways. Accordingly, I do not propose to rehearse them again. There are,
+however, in my view, some more specific reasons why the United States
+experience supports the conclusion which Lord Sumption has reached.
+193.
+First, and most obviously, even in a jurisdiction where successful
+defendants rarely can expect to recover their costs, there seems to be as strong
+judicial support for the English Rule as for the American Rule. That might at
+first sight appear to be a somewhat cheap or lazy point, but I believe that it has
+real force. In a highly developed common law country, where the issue has
+been considered in far greater depth and by almost infinitely more judges than
+here, there is about as much support for adhering to the English Rule as there is
+for departing from it, even though there is a significantly stronger case for
+departure than there is here.
+194. Secondly, it is clear that departing from the English Rule would have the
+disadvantage of potentially confusing the law, causing unnecessary uncertainty.
+The present position is clear: there is a “bright line”, as identified in Bidna.
+However, if the law was to be changed, so that the American Rule became the
+norm, judges would have to consider questions such as whether to exclude
+family law proceedings from the ambit of the tort, whether to extend the tort to
+cover malicious defence, and whether to extend the law to cover the
+unjustifiable issue of applications or other steps in proceedings.
+195. Thirdly, and more marginally, the United States jurisprudence, with its
+“special injury” requirement in the English Rule, justifies on a principled basis
+what would otherwise appear to be anomalous exceptions to the principle that a
+claim in malicious prosecution cannot be based on civil proceedings. Where a
+rule has apparently anomalous exceptions, it is, in my view, easier to justify
+68
+
+departing from that rule or adding to the exceptions. Once, however, the
+exceptions are logically explained, it is harder to justify departing from the rule
+or adding to the exceptions other than on a logical basis.
+196. Fourthly, the United States jurisprudence provides a reminder that
+wrongful civil litigation should not be viewed in isolation. The courts have
+procedural mechanisms at their disposal to preserve and strengthen the civil
+litigation process, and to target proceedings brought wrongfully or mistakenly.
+As Levin J recognised in Friedman, “[g]roundless civil litigation is […] more
+than an affliction visited upon a few scattered individuals; it besets the judicial
+system as a whole”. In circumstances where a party has not suffered special
+injury, the use of procedural mechanisms is preferable to “randomly providing
+a fortuitous amount of compensation in a handful of isolated cases”.
+Other common law jurisdictions
+197. In this judgment, I have concentrated on the United States jurisprudence,
+because it represents an extraordinarily rich seam of learning and thought on
+the topic which we are being invited to consider. The only other jurisprudence
+to which we were taken in argument was that of the Australian courts. In that
+connection, it would seem that the furthest the courts have gone is to refuse to
+strike out or stay claims based, to put it shortly, on the American Rule: see, for
+instance, Little v Law Institute of Victoria (No 3) [1990] VR 257; Kinghorn v
+HKAC Asset Management Services [2010] NSWDC 232. While Australian
+judgments always merit considerable respect, I believe that decisions which
+simply result in a refusal to strike out a claim are rarely of great assistance.
+While they no doubt help establish that the point raised is arguable, and often
+that it is important, they throw relatively little light on the issue of whether the
+point is right.
+Conclusion
+198. Accordingly, for the reasons given by Lord Sumption, as supplemented
+by the points made in this judgment, I would, for my part, have humbly advised
+Her Majesty that this appeal be dismissed.
+69

@@ -105,10 +105,8 @@ def extract_citations(pdf_path: str | Path) -> list[Citation]:
 
 
 def extract_citations_from_text(text: str) -> list[Citation]:
-    """Extract UK legal citations from already-extracted document ``text``.
-
-    Same logic as :func:`extract_citations` but for pasted/plain text (no PDF read).
-    """
+    """Extract UK legal citations from raw document ``text`` (the regex core shared by
+    :func:`extract_citations`; used when the document is pasted text, not a PDF)."""
     # Collect (document_position, fields) for every match across the three styles.
     found: list[tuple[int, dict]] = []
 

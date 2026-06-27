@@ -1,0 +1,901 @@
+Die Jovis, 12° Maii 1977
+
+Upon Report from the Appellate Committee, to whom was referred the Cause Anns and Others against London Borough of Merton, That the Committee had heard Counsel, as well on Thursday the 3d, as on Monday the 7th, Tuesday the 8th, Wednesday the 9th, Thursday the 10th, Monday the 14th, Tuesday the 15th, Wednesday the 16th and Thursday the 17th days of February last, upon the Petition and Appeal of the London Borough of Merton of The Town Hall, The Broadway, Wimbledon, London, S.W.19, praying, That the matter of the Order set forth in the Schedule thereto, namely, an Order of Her Majesty's Court of Appeal of the 10th of March 1976, might be reviewed before Her Majesty the Queen in Her Court of Parliament, and that the said Order might be reversed, varied or altered, and that the Petitioners might have the relief prayed for in the Appeal or such other relief in the premises as to Her Majesty the Queen in Her Court of Parliament, might seem meet; as also upon the Case of Michael Ralph Anns, Kenneth Rodney Blackwell, Alfred Colton, Brian Thomas Davenport, Dermot O'Shea, Florence Mary O'Shea, Anthony Charles Phillips and William Patrick Walker lodged in answer to the said Appeal; and due consideration had this day of what was offered on either side in this Cause:
+
+It is Ordered and Adjudged, by the Lords Spiritual and Temporal in the Court of Parliament of Her Majesty the Queen assembled, That the said Order of Her Majesty's Court of Appeal, of the 10th day of March 1976, complained of in the said Appeal, be, and the same is hereby, Affirmed, and that the said Petition and Appeal be, and the same is hereby, dismissed this House: And it is further Ordered, That the Appellants do pay, or cause to be paid, to the said Respondents the Costs incurred by them in respect of the said Appeal, the amount thereof to be certified by the Clerk of the Parliaments.
+
+Anns and Others (Respondents) v. London Borough of Merton (Appellants).
+
+HOUSE OF LORDS
+
+ANNS AND OTHERS
+(RESPONDENTS)
+
+v.
+
+LONDON BOROUGH OF MERTON
+(APPELLANTS)
+
+Lord Wilberforce
+
+My Lords,
+
+This appeal requires a decision on two important points of principle as to the liability of local authorities for defects in dwellings constructed by builders in their area namely:
+
+1. Whether a local authority is under any duty of care towards owners or occupiers of any such houses as regards inspection in during the building process.
+
+2. What period of limitation applies to claims by such owners or occupiers against the local authorities.
+
+Before these questions are discussed it is necessary to explain at some tedious length the procedural background which unfortunately complicates the decision-making task.
+
+Procedural issues
+
+The present actions were begun on 21st February 1972. The plaintiffs are lessees under long leases of seven flats or maisonettes in a two storey block at 91, Dorchester Road, Wimbledon. The owners of the block and also the builders were the first defendants, Walcroft Property Company Ltd.; after its completion in 1962 they granted long leases of the maisonettes; the fifth and sixth plaintiffs (O'Shea) are original lessees, having acquired their lease in 1962; the other plaintiffs acquired their leases by assignment at dates in 1967 and 1968.
+
+The local authority at the time of construction of the Mitcham Borough Council: on 9th February 1962 they passed building plans for the block, which were deposited under the byelaws. Later this council was superseded by the London Borough of Merton, the second defendants, which took over their duties and liabilities.
+
+In February 1970 structural movements began to occur resulting in cracks in the walls, sloping of floors, etc. The plaintiffs' case is that these were due to the block being built on inadequate foundations, these being a depth of 2' 6" only instead of 3' 0" or deeper as shown on the deposited plans. On 21st February 1972 writs were issued against both defendants—the separate proceedings were later consolidated. As against the first defendants (the builders) the claims were for damages for breach of contract and also for breach of the implied undertaking under section 6 of the Housing Act 1957. As against the council the claims were for damages for negligence by their servants or agents in approving the foundations upon which the block was erected even though (sic) they had not been taken down to a sufficient depth and/or in failing to inspect the said foundations. This claim was expressed as follows:
+
+" 5. Further or in the alternative the said damage has been caused by the negligence of the Second Defendants in allowing the First Defendants to construct the said dwelling house upon foundations which were only 2' 6" deep instead of 3 feet or deeper as required by the said plans, alternatively in failing to carry out the necessary inspections sufficiently carefully or at all, as a result of which the said structural movement occurred."
+
+310570
+
+A
+
+Lord
+Wilberforce
+Lord Diplock
+Lord Simon of
+Glaisdale
+Lord Salmon
+Lord Russell
+of Killowen.
+
+2
+
+As particular given under this paragraph the plaintiffs stated:
+
+" Under the Building Byelaws the Second Defendants were under a duty to ensure that the building was constructed in accordance with the plans, and the building should have been inspected inter alia before the foundations were covered."
+
+The Plaintiff's case is that the Second Defendants should have carried out such inspections as would have revealed the defective condition of the said foundations, that if any inspection was made then it was carried out negligently, and that if no inspection was made that in itself was negligent."
+
+Both the allegations in the statement of claim and those in the particulars were to some extent misconceived as I shall show later.
+
+The first defendants did not put in any defence but undertook to carry out certain work. They did not appear in the hearings to be mentioned and on this appeal.
+
+The second defendants filed a defence on 8th February 1973 and on 9th October 1973 the consolidated actions were transferred to an official referee. On 16th October 1975 an order was made:
+
+" that the issue between the Plaintiffs and the 2nd Defendants whether claim is statute barred be tried on 24th October 1975 ".
+
+On 24th October 1975 this issue was tried by His Honour Judge Edgar Fay, Q.C., who decided that the claims were statute barred. In a written judgment His Honour held that time began to run from the date of the first conveyance of each of the properties concerned: the latest of these dates was 5th November 1962, which was more than six years before the date of the writ. In so deciding, the judge (correctly) followed an observation (obiter) by Lord Denning, M.R. in Dutton v. Bognor Regis U.D.C. [1972] 1 Q.B. 373, 376.
+
+The plaintiffs appealed to the Court of Appeal from this decision on 17 February 1976. Before the appeal came on, namely on 10 February 1976 the Court of Appeal (Lord Denning, M.R., Roskill and Geoffrey Lane, L.JJ.) in Sparham-Souter v. Town and Country Developments (Essex) Ltd. [1976] 1 Q.B. 858 decided that the cause of action did not accrue before a person capable of suing discovered, or ought to have discovered, the damage. Lord Denning, M.R. in his judgment expressly disavowed his earlier dictum in Dutton's case. On this view of the matter none of the present plaintiffs' claims would be statute barred. On the appeals in the present case coming before the Court of Appeal on 1st March 1976, that court, without further argument, following Sparham-Souter's case, allowed the plaintiffs' appeal and gave leave to appeal to this House. That appeal would, of course, have been confined to a preliminary issue of limitation.
+
+However before the appeal to this House came on, the second defendants (the council) presented a petition, asking for leave to argue the question whether the council was under any duty of care to the plaintiffs at all.
+
+This question had not been considered by Judge Fay, or by the Court of Appeal, because it was thought, rightly in my opinion, that it was concluded by Dutton's case. Thus the council wished to challenge the correctness of the latter decision. In that case the defendant council of Bognor Regis was held liable for damages in negligence (viz., negligent inspection by one of its officers), consisting of a breach of a duty at common law to take reasonable care to see that the byelaws were complied with. On 21st October 1976 this House acceded to the petition. The appellants thus have leave to argue that in the circumstances the council owed no duty of care to the plaintiffs.
+
+This being a preliminary point of law, as was the argument on limitation, it has to be decided on the assumption that the facts are as pleaded. There is some difference between those facts and those on which Dutton's case was based, and in the present case the plaintiffs rely not only upon negligent inspection, but, in the alternative, upon a failure to make any inspections.
+
+3
+
+In these circumstances I take the questions in appeal to be:
+1. Whether the defendant council was under:
+(a) a duty of care to the plaintiffs to carry out an inspection of the
+foundations (which did not arise in Dutton's case
+(b) a duty, if any inspection was made, to take reasonable care to
+see that the byelaws were complied with (as held in Dutton's
+case)
+(c) any other duty including a duty to ensure that the building was
+constructed in accordance with the plans, or not to allow the
+builder to construct the dwelling house upon foundations which
+were only 2 ft. 6 in. deep instead of 3 ft. or deeper (as pleaded).
+2. If the defendant council was under any such duty as alleged and com-
+mitted a breach of it, resulting in damage, at what date is the cause of
+action of the plaintiffs arose for the purposes of the Limitation Act
+1939. No question arises directly at this stage as to the damages
+which the plaintiffs can recover and no doubt there will be issues at
+the trial as to causation and quantum which we cannot anticipate.
+But it will be necessary to give some general consideration to the kind
+of damages to which, if they succeed, the plaintiffs may become en-
+titled. This matter was discussed in Dutton's case and is closely
+connected with that of the duty which may be owed and with the
+arising of the cause of action.
+
+The duty of care
+Through the trilogy of cases in this House—Donoghue v. Stevenson [1932]
+A.C. 562, Hedley Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C. 465,
+and Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004, the position has
+now been reached that in order to establish that a duty of care arises in a
+particular situation, it is not necessary to bring the facts of that situation
+within those of previous situations in which a duty of care has been held to
+exist. Rather the question has to be approached in two stages. First one
+has to ask whether, as between the alleged wrongdoer and the person who has
+suffered damage there is a sufficient relationship of proximity or neighbourhood
+such that, in the absence of any explanations, the former, carelessly on his
+part may be likely to cause damage to the latter—in which case a prima facie
+duty of care arises. Secondly, if the first question is answered affirmatively,
+it is necessary to consider whether there are any considerations which ought
+to negative, or to reduce or limit the scope of the duty or the class of person
+to whom it is owed or the damages to which a breach of it may give rise (see
+Dorset Yacht case, loc. cit., p. 1027 per Lord Reid). Examples of this are
+Hedley Byrne where the class of potential plaintiffs was reduced to those shown
+to have relied upon the statements of statements made, and Heller & Co. v.
+Foot and Mouth Disease Research Institute [1966] 1 Q.B. 569; (and I cite
+these merely as illustrations without discussion) cases about economic loss—
+where a duty having been held to exist, the nature of the recoverable damages
+was limited. (See S.C.M. (U.K.) Ltd. v. W. J. Whittall & Son Ltd. [1971]
+1 Q.B. 337, Spartan Steel & Alloys Ltd. v. Martin & Co. (Contractors) Ltd.
+[1973] Q.B. 27.
+
+The factual relationship between the council and owners and occupiers of
+new dwellings constructed in their area must be considered in the relevant
+statutory setting—under which the council acts. That was the Public Health
+Act 1936. I must refer to the relevant provisions.
+
+Section 1 confers the duty of carrying the Act into execution upon specified
+authorities which now include the appellant council. Part II of the Act is
+headed " Sanitation and buildings " and contains provisions in the interest
+of the safety and health of occupiers of dwelling houses and other buildings
+such as provisions about sewage, drains and sanitary conveniences. From
+section 53 onwards, this part of the Act is concerned with such matters as the
+construction of buildings, (section 53), the use of certain materials, construction
+on ground filled up with offensive material (section 54), repair or removal of
+310530 A 2
+
+4
+dilapidated buildings (section 58) and fire escapes. The emphasis is throughout
+on health and safety. The directly relevant provisions start with section 61.
+That section provided (subsection (1)) that every local authority may, and if
+required by the minister, shall make byelaws for regulating (inter alia) the
+construction of buildings, and (subsection (2)) that byelaws made under the
+section may include provisions as to the giving of notices, the deposit of plans
+and the inspection of work. Section 64 deals in a mandatory form with the
+passing or rejection of deposited plans. The authority must pass plans unless
+they are defective and show that the proposed work would contravene any
+byelaws and in the contrary case must reject them. By section 65, if any
+work to which building byelaws are applicable contravenes any byelaw, the
+authority may require the owner to pull down the work, or, if he so elects,
+to effect such alterations as may be necessary to make it comply with the
+byelaws. However, if any work, though infringing the byelaws, is in accord-
+ance with approved plans, removal or alteration may only be ordered by a
+court which then has power to order the authority to compensate the owner.
+
+Building byelaws were duly made, under these powers, by the Borough of
+Mitcham in 1953 and confirmed by the Minister in 1957.
+
+Byelaw 5 imposes an obligation upon a person who erects any building to
+comply with the requirements of the byelaws. It imposes an obligation
+to submit plans.
+
+Byelaw 6 requires the builder to give to the council not less than 24 hours
+notice in writing:
+(a) of the date and time at which an operation will be commenced, and
+(b) before the covering up of any drain, private sewer, concrete or other
+material laid over a site, foundation or damp-proof course.
+
+Byelaws 18 and 19 contain requirements as to foundations. The relevant
+provision (18(1)(b)) is that the foundations of every building shall be taken
+down to such a depth, or be so designed and constructed as to safeguard
+the building against damage by swelling or shrinking of the subsoil.
+
+Acting under these byelaws, the builder/owners (first defendants) on 30th
+January 1962 gave notice to the Mitcham Borough Council of their intention
+to erect a new building (viz.: the block of maisonettes) in accordance with
+accompanying plans. The plans showed the base walls and concrete strip
+foundations of the block and stated in relation to the depth from ground
+level to the underside of the concrete foundations " 3' " or deeper to the
+approval of the authority ". These plans were approved on 8th February
+1962. The written notice of approval dated 9th February 1962 drew attention
+to the requirement of the byelaws that notice should be given to the surveyor
+at each of the following stages: before the commencement of the work and
+when the foundations were ready to be covered up.
+
+The builders in fact constructed the foundations to a depth of only 2' 6"
+below ground level. It is not, at this stage, established whether or whether any
+inspection was made.
+
+To summarise the statutory position. The Public Health Act 1936, in
+particular Part II, was enacted in order to provide for the health and safety
+of owners and occupiers of buildings, including dwelling houses, by (inter
+alia) setting standards to be complied with in construction, and by enabling
+local authorities, through building byelaws, to supervise and control the
+operations of builders. One of the particular matters within the area of local
+authority supervision is the foundations of buildings—clearly a matter of
+vital importance, particularly because this part of the building comes to be
+covered up as building proceeds. Thus any weakness or inadequacy will
+create a hidden defect which whoever occupies the building has no means of
+discovering; in legal parlance there is no opportunity for intermediate inspection.
+So, by the byelaws, a definite standard is set for foundation work (see byelaw
+18(1)(b) referred to above); the builder is under a statutory (ex byelaw) duty
+to notify the local authority before covering up the foundations: the local
+authority has at this stage the right to inspect and to insist on any correction
+
+5
+necessary to bring the work into conformity with the byelaws. It must be in
+the reasonable contemplation not only of the builder but also of the local
+authority that failure to comply with the byelaws requirement as to foun-
+dations may give rise to a hidden defect which in the future may cause damage
+to the building affecting the safety and health of owners and occupiers. And
+as the building is intended to last, the class of owners and occupiers likely to
+be affected cannot be limited to those who go in immediately after construction.
+
+What then is the extent of the local authority's duty towards these persons?
+Although, as I have suggested, a situation of " proximity " existed between
+the council and owners and occupiers of the houses, I do not think that a
+description of the council's duty can be based upon the " neighbourhood "
+principle alone or upon merely any such factual relationship. " Control "
+is suggested by the Court of Appeal. So to base it would be to neglect an
+essential factor which is that the local authority is a public body, discharging
+functions under statute; its powers and duties are definable in terms of public
+not private law. The problem which this type of action creates is to define
+the circumstances in which the law should impose, over and above, or perhaps
+alongside, these public law powers and duties, a duty in private law towards
+individuals such that they may sue for damages in a civil court. It is in this
+context that the distinction sought to be drawn between duties and mere
+powers has to be remembered.
+
+Most, indeed probably all, statutes relating to public authorities or public
+bodies contain in them a large area of policy. The courts call this " discretion "
+meaning that the decision is one for the authority to body to make, and not
+for the courts. Many statutes, also prescribe or at least presuppose the
+practical execution of policy decisions: a convenient description of this is to
+say that in addition to the area of policy or discretion, there is an operational
+area. Although this distinction between the policy area and the operational
+area is convenient, and illuminating, it is probably a distinction of degree;
+many " operational " powers or duties have in them some element of " dis-
+cretion ". It can safely be said that the more " operational " a power or duty
+may be, the easier it is to superimpose upon it a common law duty of care.
+
+I do not think that it is right to limit this to a duty to avoid causing extra
+or additional damage beyond what must be expected to arise from the exercise
+of the power or duty. That may be correct when the act done under the
+statute inherently must adversely affect the interest of individuals. But many
+other acts can be done without causing any harm to anyone—indeed may be
+directed to preventing harm from occurring. In these cases the duty is the
+normal one of taking care to avoid harm to those likely to be affected.
+
+Let us examine the Public Health Act 1936 in the light of this. Undoubtedly
+it lays out a wide area of policy. It is for the local authority, a public and
+elected body, to decide upon the scale of resources which it can make available
+in order to carry out its functions under Part II of the Act—how many
+inspectors, with what expert qualifications, it should recruit, how often
+inspections are to be made, what tests are to be carried out, must be for its
+decision. It is no accident that the Act is drafted in terms of functions and
+powers rather than in terms of positive duty. As was well said, public
+authorities have to strike a balance between the efficiency of efficiency and thrift
+(du Parq L.J. in Kent v. East Suffolk Rivers Catchment Board [1940] 1 K.B.
+319, 338): whether they get the balance right can only be decided through the
+ballot box, not in the courts. It is said there are reflections of this in the
+judgments in Dutton's case—that the local authority is under no duty to
+inspect, and this is used as the foundation for an argument, also found in
+some of the cases, that if it need not inspect at all, it cannot be liable for
+negligent inspection: if it were to be held so liable, so it is said, councils
+would simply decide against inspection. I think that this is too crude an
+argument. It overlooks the fact that local authorities are public bodies
+operating under statute with a clear responsibility for public health in their
+area. They must, and in fact do, make their discretionary decisions responsibly
+and for reasons which accord with the statutory purpose: c.f. Ayr Harbour
+Trustees v. Oswald's A.C. 623, 639, per Lord Watson:
+
+2
+
+“The powers which [section 10] confers are discretionary . . . but it is the plain import of the clause that the harbour trustees . . . shall be “vested with, and shall avail themselves of, these discretionary powers, whenever and as often as they may be of opinion that the public interest will be promoted by their exercise.”
+
+If they do not exercise their discretion in this way they can be challenged in the court. Thus, to say that councils are under no duty to inspect is not a sufficient statement of the position. They are under a duty to give proper consideration to the question whether they should inspect or not. Their immunity from attack, in the event of failure to inspect, in other words, though great is not absolute. And because it is not absolute, the necessary premise for the proposition “if no duty to inspect, then no duty to take care in inspection” vanishes.
+
+Passing then to the duty as regards inspection, if made. On principle there must surely be a duty to exercise reasonable care. The standard of care must be related to the duty to be performed—namely to ensure compliance with the bylaws. It must be related to the fact that the person responsible for construction in accordance with the bylaws is the builder, and that the inspector’s function is supervisory. It must be related to the fact that once the inspector has passed the foundations he will be covered up, with no subsequent opportunity for inspection. But that duty, heavily operational though it may be, is still a duty arising under the statute. There may be a discretionary element in its exercise—discretionary as to the time and manner of inspection, and the techniques to be used. A plaintiff complaining of negligence must prove, the burden being on him, that action taken was not within the limits of a discretion bona fide exercised, before he can begin to rely upon a common law duty of care. But if he can do this, he should, in principle, be able to call.
+
+Is there, then, authority against an existence of any such duty or any reason to restrict it? It is said that there is an absolute distinction in the law between statutory duty and statutory power—the former giving rise to possible liability, the latter not; or at least not doing so unless the exercise of the power involves some positive act creating some fresh or additional damage.
+
+My Lords, I do not believe that any such absolute rule exists; or perhaps, more accurately, that such rules as exist in relation to powers and duties existing under particular statutes, provide sufficient definition of the rights of individuals affected by their exercise, or indeed their non-exercise, unless they take account of the probability that, parallel with public law duties, there may exist those duties which persons, private or public, are under at common law to avoid causing damage to others in sufficient proximity to them. This is, I think, the key to understanding of the main authority relied upon by the respondents—East Suffolk Rivers Catchment Board v. Kent [1941] A.C. 74.
+
+The statutory provisions in that case were contained in the Land Drainage Act 1930 and were in the form of a power to repair drainage works including walls or banks. The facts are well known: there was a very high tide which burst the banks protecting the respondent’s land. The Catchment Board, requested to take action, did so with an allocation of manpower and resources (graphically described by MacKinnon L.J.) which was hopelessly inadequate and which resulted in the respondent’s land being flooded for much longer than it need have been. There was a considerable difference of judicial opinion. Hilbery J. who tried the case held the Board liable for the damage caused by the extended flooding and his decision was upheld by a majority of the Court of Appeal. This House, by majority of 4-1, reached the opposite conclusion. The speeches of their Lordships contain discussion of earlier authorities, which well illustrate the different type of statutory enactment under which these cases may arise. There are private Acts conferring powers—necessarily—to interfere with the rights of individuals: in such cases, an action in respect of damage caused by the exercise of the power, generally done negligently, but it may do so—for doing that which the legislature has “authorised, if it be done negligently” (Geddis v. Proprietors of Bann Reservoir 3 App. Cas. 430, 455 per Lord Blackburn). Then there are cases where a
+
+3
+
+statutory power is conferred, but the scale on which it is exercised is left to a local authority, Sheppard v. Glossop Corporation [1921] 3 K.B. 132. That concerned a power to light streets and the corporation decided, for economy reasons, to extinguish the lighting on Christmas night. Clearly this was within the discretion of the authority but Scrutton L.J. in the Court of Appeal contrasted this situation with one where “an option is given by statute to an “authority to do or not to do a thing and it elects to do the thing and does “it negligently” (ibid. 145-6). (Compare Indian Towing Co. v. United States 350 U.S. 61, which makes just this distinction between a discretion to provide a lighthouse, and at operational level, a duty, if one is provided, to use due care to keep the light in working order). Other illustrations are given.
+
+My Lords, a number of reasons were suggested for distinguishing the East Suffolk case—apart from the relevant fact that it was concerned with a different Act, indeed type of Act. It was said to be a decision on causation: I think that this is true of at least two of their Lordships (Viscount Simon and Lord Thankerton). It was said that the damage was already there before the Board came on the scene, so it was but the Board’s action or inaction, undoubtedly prolonged it, and the action was in respect of the prolongation. I should not think it right to put the case aside on such arguments. To me the two significant points about the case are, first, that it is an example, and a good one, where operational activity—at the breach in the wall—was still well within a discretionary area, so that the plaintiff’s case in contending for a duty of care was a difficult one. This is clearly the basis on which Lord Romer, whose speech is often quoted as a proposition of law, proceeded. Secondly, although the case was decided in 1941, only one of their Lordships considered it in relation to a duty of care at common law. It need cause no surprise that this was Lord Atkin. His speech starts with this passage:
+
+“On the first point I use whether there was a duty owed to the plaintiff and what was its nature? I cannot help thinking that the argument “did not sufficiently distinguish between two kinds of duties: (1) A “statutory duty to do or abstain from doing something, (2) A common “law duty to conduct yourself with reasonable care so as not to injure “persons liable to be affected by your conduct” (loc. cit. p. 88).
+
+And later he refers to Donoghue v. Stevenson—the only one of their Lordships to do so—though I think it fair to say that Lord Thankerton (who decided the case on causation) in his formulation of the duty must have been thinking in terms of that case. My Lords, I believe that the conception of a general duty of care, not limited to particular accepted situations, but extending generally over all relations of sufficient proximity, and even pervading the sphere of statutory functions of public bodies, had not at that time become fully recognised. Indeed it may well be that full recognition of the impact of Donoghue v. Stevenson in the wider sphere only came with the decision of this House in Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004.
+
+In that case the Borstal officers, for whose actions the Home Office was vicariously responsible, were acting, in the control of the boys, under statutory powers. But it was held that nevertheless they were under a duty of care as regards persons who might suffer damage as the result of their carelessness—see per Lord Reid, p. 1030-1, Lord Morris of Borth-y-Gest, p. 1036, Lord Pearson, p. 1055 (“The existence of the statutory duties does not exclude “liability at common law for negligence in the performance of the statutory “duties”). Lord Diplock in his speech gives his considered conclusion with a view to relating the officers’ responsibility under public law to their liability in damages to members of the public under private, civil law. (See pp. 1064 ff.). My noble and learned friend points out that the accepted principles which are applicable to powers conferred by a private Act of Parliament, as laid down in Geddis v. Proprietors of Bann Reservoirs, cannot automatically be applied to public statutes which confer a large measure of discretion upon public authorities. As regards the latter, for a civil action based on negligence at common law to succeed, there must be acts or omissions taken outside the limits of the delegated discretion: in such a case “its “actionability fails to be determined by the civil law principles of negligence” (l.c. p. 1068).
+
+8
+
+It is for this reason that the law, as stated in some of the speeches in the East Suffolk case, but not in those of Lord Atkin or Lord Thankerton, requires at the present time to be understood and applied with the recognition that, quite apart from such consequences as may flow from an examination of the duties laid down by the particular statute, there may be room, once one is outside the area of legitimate discretion, for a duty, a duty of care, at common law. It is irrelevant to the existence of this duty of care whether what is created by the statute is a duty or a power: the duty of care may exist in either case. The difference between the two lies in this, that in the case of a power, liability cannot exist unless the act complained of lies outside the ambit of the power. In the Dorset Yacht case the officers may (on the assumed facts) have acted outside any discretion delegated to them and having disregarded their instructions as to the precautions which they should take to prevent the trainees from escaping (see per Lord Diplock, l.c. p. 1069). So in the present case, the allegations made are consistent with the council or its inspector having acted outside any delegated discretion either as to the making of an inspection, or as to the manner in which an inspection was made. Whether they did so must be determined at the trial. In the event of a positive determination, and only so, can a duty of care arise. I respectfully think that Lord Denning, M.R. in Dutton’s case (p. 392) puts the duty too high.
+
+To whom the duty is owed. There is, in my opinion, no difficulty about this. A reasonable man in the position of the inspector must realise that if the foundations are covered in without adequate depth or strength as required by the byelaws, injury to safety or health may be suffered by owners or occupiers of the house. The duty is owed to them—not of course to a negligent building owner, the source of his own loss. I would leave open the case of users, who might themselves have a remedy against the occupier under the Occupiers’ Liability Act 1957. A right of action can only be conferred upon an owner, or occupier, who is such when the damage occurs (see below). This disposes of the possible objection that an endless, indeterminate class of potential plaintiffs may be called into existence.
+
+The nature of the duty. This must be related closely to the purpose for which powers of inspection are granted namely, to secure compliance with the byelaws. The duty is to take reasonable care, no more, no less, to secure that the builder does not cover in foundations which do not comply with byelaw requirements. The allegations in the statements of claim, in so far as they are based upon non-compliance with the plans, are misconceived.
+
+The position of the builder. I agree with the majority in the Court of Appeal in thinking that it would be unreasonable to impose liability in respect of defective foundations upon the council, if the builder whose primary fault it was, should be immune from liability. So it is necessary to consider this point, although it does not directly arise in the present appeal. If there was at one time supposed to rule the doctrine of Donoghue v. Stevenson did not apply to realty, there is no doubt under modern authority that a builder of defective premises may be liable in negligence to persons who thereby suffer injury. See Gallagher v. N. McDowell Ltd. [1961] N.I. 26 per Lord MacDermott C.J.—a case of personal injury. Similar decisions have been given in regard to architects—Clayton v. Woodman & Son Ltd. [1962] 2 Q.B. 533, Clay v. A. J. Crump and Sons Ltd. [1964] 1 Q.B. 533. Gallagher’s case expressly leaves open the question whether the immunity against action of builder owners, established by older authorities (e.g. Bottomley v. Bannister [1932] 1 K.B. 458) still survives.
+
+That immunity, as I understand it, rests partly upon a distinction being made between chattels and real property, partly upon the principle of “caveat emptor”, or in the case where the owner leases the property, on the proposition “that (fraud apart) there is no law against letting a “tumbledown house” (Robins v. Jones [1964] 1 W.L.R. 221 per Erle C.J.). But leaving aside such cases as arise between contracting parties, when the terms of the contract have to be considered (see Voli v. Inglewood Shire Council 110 C.L.R. 74, 85 per Windeyer J.), I am unable to understand why this principle or proposition should prevent recovery in a suitable case by a person, who has subsequently
+
+7
+
+acquired the house, upon the principle of Donoghue v. Stevenson; the same
+rules should apply to all careless acts of a builder, whether he happens also
+to own the land or not. I agree generally with the conclusions of Lord
+Denning M.R. on this point (Dutton's case, at p. 392-3). In the alternative,
+since it is the duty of the builder (owner or not) to comply with the bylaws,
+I would be of opinion that an action could be brought against him, in effect,
+for breach of statutory duty or any person for whose benefit or protection the
+bylaw was made. So I do not think that there is any basis here for arguing
+from a supposed immunity of the builder to immunity of the council. Nature
+of the damages recoverable and arising of the cause of action. There are many
+questions here which do not directly arise at this stage and which may never
+arise if the actions are tried. But some conclusions are necessary if we are
+to deal with the issue as to limitation. The damages recoverable include all
+those which foreseeably arise from the breach of the duty of care which, as
+regards the council, I have held to be a duty to take reasonable care to ensure
+compliance with the bylaws. Subject always to adequate proof of causation,
+these damages may include damages for personal injury and damage to pro-
+perty. In my opinion they may also include damage to the dwelling-house
+itself; for the whole purpose of the bylaws in requiring foundations to be
+of certain standard is to prevent damage arising from weakness of the foun-
+dations which is certain to endanger the health or safety of occupants.
+
+To allow recovery for such damage to the house follows, in my opinion,
+from normal principle. If classification is required, the relevant damage is in
+my opinion material, physical damage, and what is recoverable is the amount
+of expenditure necessary to restore the dwelling to a condition in which it is
+no longer a danger to the health or safety of persons occupying and possibly
+(depending on the circumstances) expenses arising from necessary displacement.
+On the question of damages generally, I have derived much assistance from the
+judgment (dissenting on this point, but of strong persuasive force) of Laskin
+J. in the Canadian Supreme Court case of Rivtow Marine Ltd. v. Washington
+Iron Works (1973) 6 W.W.R. 692, 715 and from the judgments of the New Zealand
+Court of Appeal (furnished by courtesy of that Court) in Bowen v. Paramount
+Builders (Hamilton) Ltd. and McKay, C.A. 49/75.
+
+When does the cause of action arise? We can leave aside cases of personal
+injury or damage to other property as presenting no difficulty. It is only the
+damages for the house which requires consideration. In my respectful opinion
+the Court of Appeal was right when, in Sparham-Souter's case, it abhorred the
+view that the cause of action arose immediately upon delivery, i.e., conveyance
+of the defective house. It can only arise when the state of the building is such
+that there is present or imminent danger to the health or safety of persons
+occupying it. We are not concerned at this stage with any issue relating to
+remedial action nor are we called upon to decide upon what the measure of the
+damages should be; such questions, possibly very difficult in some cases,
+will be for the court to decide. It is sufficient to say that a cause of action
+arises at the point I have indicated.
+
+The Limitation Act 1939. If the fact is that defects to the maisonettes first
+appeared in 1970, then, since the writs were issued in 1972, the consequence
+must be that none of the present actions are barred by the Act.
+
+Conclusion. I would hold:
+
+1. that Dutton v. Bognor Regis was in the result rightly decided. The
+correct legal basis for the decision must be taken to be that established
+by your Lordships in this appeal.
+
+2. that the question whether the defendant council by itself or its officers
+came under a duty of care toward the defendant plaintiff must be considered
+in relation to the powers, duties and discretions arising under the
+Public Health Act 1936.
+
+3. that the defendant council would not be guilty of a breach of duty in
+not carrying out inspection of the foundations of the block unless it
+were shown that not properly to have exercised its discretion as to
+the making of inspections, and (b) to have failed to exercise reasonable
+care in its acts or omissions to secure that the bylaws applicable to
+the foundations of the block were complied with;
+
+310530 A 3
+
+11
+
+4. that the defendant council would be liable to the respondents for breach
+of duty if it were proved that its inspector, having assumed the duty
+of inspecting the foundations, and acting otherwise than in the bona fide
+exercise of any discretion under the statute, did not exercise reasonable
+care to ensure that the bylaws applicable to the foundations were
+complied with;
+
+5. that on the facts as pleaded none of the actions are barred by the
+Limitation Act 1939.
+
+And consequently that the appeal should be dismissed with costs.
+
+Lord Diplock
+
+My Lords,
+
+I have had the advantage of reading in draft the speech of my noble and
+learned friend Lord Wilberforce. I agree with it and the order that he proposes.
+
+Lord Simon of Glaisdale
+
+My Lords,
+
+I have had the privilege of reading in draft the speech delivered by my
+noble and learned friend on the Wool sack. I agree with it, and I would
+therefore dismiss the appeal.
+
+Lord Salmon
+
+My Lords,
+
+The procedural issues, the undisputed facts, the relevant statutory provisions
+and the byelaws made under them are fully and lucidly expounded in Part I
+of the speech of my noble and learned friend Lord Wilberforce which I
+gratefully adopt and need not repeat.
+
+The one fact which is at present unknown and which may be of vital
+importance at the time is whether or not the foundations of the block of
+maisonettes in question were ever examined by the council through one of its
+building inspectors prior to their being covered up.
+
+As I understand paragraph 5 of the statement of claim and the particulars
+delivered under it, the gist of the claim is that it was the council's duty through
+one of its building inspectors to inspect the foundations of the building before
+they were covered; that in breach of this duty the council negligently failed
+to carry out any inspection of the foundations; alternatively that if it did so,
+the inspection was carried out negligently; that as a result the inspection failed
+to reveal that the foundations did not comply with byelaw 18(1)(b) nor with the
+detailed and approved plans in that they were only 2 ft. 6 deep instead of
+3 ft. or deeper as shown on the plans; that if these defects in the foundations
+had been detected by the council's inspector (as they should have been) the
+council would have been under a duty to insist that the foundations should
+be taken down to a sufficient depth to give the building a sound base and that
+if this had been done the structural movements and their resulting damage
+to the building which began to occur in February 1970 would have been
+avoided.
+
+Since this appeal is being decided on preliminary points of law, all the facts
+in the statement of claim, including those pleaded in the alternative, must be
+assumed to be true. Accordingly, at least two different hypotheses need to be
+examined:—
+
+1. That no inspections of the foundations by the Council took place.
+
+11
+
+2. That such an inspection did take place but because of the building
+inspector's failure to use reasonable care and skill, the inspection
+failed to reveal the inadequacy of the foundations to which I have
+referred.
+
+As to 1. This hypothesis raises the question as to whether or not the
+council owed a duty to the plaintiffs to inspect the foundations before the
+building was erected. Obviously if no such duty existed, the failure to inspect
+could not found a cause of action.
+
+The Public Health Act 1936 and the building byelaws made under it confer
+ample powers on the council for the purpose, amongst other things, of enabling
+it to protect the health and safety of the public in its locality against what is
+popularly known as jerry-building. We are concerned particularly with the
+safeguards relating to building foundations; these foundations are clearly
+of the greatest importance because the stability of the building depends upon
+them and they are covered up at a very early stage.
+
+Powers are undoubtedly conferred on the council in order to enable it to
+inspect the foundations and ensure that any defects which the inspection may
+reveal are remedied before the erection of the building begins. There is,
+however, nothing in the Act of 1936 nor in the byelaws which explicitly provides
+how the council shall exercise these powers. This, in my view, is left to the
+council's discretion—but I do not think that this is an absolute discretion.
+It is a discretion which must be responsibly exercised.
+
+The council could resolve to inspect the foundations of all buildings in its
+locality before they are covered but certainly, in my view, it is under no
+obligation to do so. It could e.g. resolve to inspect the foundations of a
+proportion of all buildings or of all buildings of certain types in its locality.
+
+During the course of argument it was suggested on behalf of the council
+that if it were held to owe any duty to use reasonable care in carrying out an
+inspection of foundations and could therefore be liable in damages for any
+such inspection carried out negligently, it might well resolve to make no such
+inspections at all. I find it impossible to conceive that any council could be
+so irresponsible as to pass any such resolution. If it did, this would, in my
+view, amount to an improper exercise of discretion which, I am inclined to
+think, might be corrected by certiorari or mandamus. I do not however whether
+this would confer a right on any individual to sue the council for damages in
+respect of its failure to have carried out an inspection.
+
+This point has however little bearing on this appeal because the corres-
+pondence makes it plain that the council had certainly not decided against
+exercising its statutory powers of inspection. On 19th March 1971, we find
+the Borough Surveyor writing to the tenants' solicitors:
+
+" I regret that I am unable to trace any record of statutory inspections . . .
+" by officers of the former Borough of Mitcham, but do not doubt, for a
+" moment, that all the proper inspections were made."
+
+On the 24th June 1971 the Borough Surveyor again wrote:—
+
+" I have been unable to trace details of all inspections made to the
+" above premises but have been assured that all statutory inspections have
+" been carried out."
+
+If there was no inspection of the foundations before they were covered up,
+the tenants' claims would fail because the statute imposed no obligation upon
+the council to inspect the foundations of these maisonettes nor of any other
+particular building. It will be for the plaintiffs with the help of interrogatories,
+discovery of documents and a search for fresh witnesses to establish, on a
+balance of probabilities, that such an inspection did take place. The extracts
+from the letters I have just read do not suggest that this is likely to impose an
+insuperable difficulties upon them.
+
+As to two. I now propose to examine the second hypothesis, namely that an
+inspection of the foundations before they were covered up was carried out.
+
+310530 A 2
+
+12
+by the council through one of its building inspectors. This immediately raises
+the important question. Did the inspector, acting on behalf of the council,
+owe a duty to future tenants to use reasonable care and skill in order to discover
+whether the foundations conformed with the approved plans and with the
+byelaws? Precisely the same point was raised in Dutton v. Bognor Regis
+U.D.C. [1972] Q.B. (C.A.) 373 and was answered in the affirmative. I agree
+with that decision.
+
+In Dorset Yacht Co. Ltd. v. Home Office [1970] A.C. 1004 Lord Reid at
+p. 1027 said:—
+
+“Donoghue v. Stevenson [1932] A.C. 562 may be regarded as a mile-
+stone, and the well-known passage in Lord Atkin's speech should I think
+be regarded as a statement of principle. It is not to be treated as if it
+were a statutory definition. It will require qualification in new circum-
+stances. But I think that the time has come when we can and should
+say that it ought to apply unless there is some justification or valid
+explanation for its exclusion.”
+
+He then set out some of the circumstances in which such a justification or
+explanation would exist. He added:—
+
+“But where negligence is involved the tendency has been to apply
+principles analogous to those stated by Lord Atkin, cf. Hedley Byrne
+and Company Ltd. v. Heller & Partners Ltd. [1964] A.C. 465. I can see
+nothing to prevent our approaching the present case with Lord Atkin's
+principles in mind.”
+
+I respectfully agree with and adopt that passage in Lord Reid's speech
+which, to my mind, is just as apt in the instant case as it was in the Dorset
+Yacht Ltd. Co. case.
+
+The seven maisonettes which comprise the building were to be let on 999 year
+leases at nominal rents and acquired for substantial capital sums. The building
+inspector and the council who sent him to inspect the foundations must have
+realised that the inspection was of great importance for the protection of
+future occupants of the maisonettes who indeed might suffer serious damage
+if the inspection was carried out negligently. The inspection should have
+revealed that this block of maisonettes was about to be erected on insecure
+foundations, that is to say, foundations which failed to comply with the
+approved plans and the byelaws, and that therefore there was a serious risk
+that within a decade the whole structure would suffer damage and might
+indeed collapse. Nor was there any likelihood that any survey on behalf of
+the original tenants or their assignees would include an inspection of the
+foundations since they would be concealed by the building. The whole
+purpose of the inspection on behalf of the council before the foundations
+were covered up was to discover whether the foundations were secure and to
+ensure that if they were not, they should be made so for the protection of
+future tenants before the building was erected. It is impossible to think of
+anyone more closely and directly affected by the inspection than the original
+tenants of the maisonettes and their assignees. I have therefore come to the
+clear conclusion that the council acting through their building inspector when
+he inspected the foundations owed a duty to the plaintiffs to carry out the
+inspection with reasonable care and skill. They can, I think, be no doubt
+but that the building inspector failed to use reasonable care and skill because
+the underside of the concrete foundations was only 5' 6" below ground level,
+whereas the plans delivered to the Council showed the foundations as being
+3 feet below ground level or deeper if required. A surveyor's report on page
+106 of the Record states that “3 feet is the accepted minimum depth for
+foundation excavations, always provided a reasonable bottom is found at
+that level and in this case we have found the sub-soil beneath the concrete
+to be of very doubtful and variable quality, consisting of a mixture of sand
+and gravel with traces of soft clay. We are therefore of the opinion that
+the defects in this property arise from inadequate foundation depth having
+regard to the site conditions, and that movement has probably been
+accentuated by all or any of the following factors”. These factors are then
+
+13
+enumerated and the report continues “Whilst we are in some difficult in
+arriving at the most likely of the above causes, all of them could have been
+avoided had the foundations been taken down to an adequate depth
+according to site conditions, and in our view this is where the fault lies”.
+At the trial, it will be for the court to decide, having heard all the evidence,
+whether if the foundations had been dug to 3 feet instead of only to 5 feet
+6 inches the damage would have been avoided, and if not whether the building
+inspector, had he used reasonable care and skill, should have recognised that
+the soil conditions required the foundations to have been taken down lower
+than 3 feet in order to achieve security.
+
+I must now refer to the East Suffolk Rivers Catchment Board v. Kent [1941]
+A.C. 74 upon which the Council strongly relied in an attempt to negative
+any duty of care on their part if and when they inspected the foundations.
+The East Suffolk case, which is not very satisfactory, is certainly a very different
+case from the present. Here, at the time the council elected to inspect the
+foundations in the exercise of its statutory powers, no damage had occurred
+nor could thereafter have occurred if the building inspector had noticed the
+inadequacy of the foundations. It seems to me to be a fair inference that
+probably he must have indicated to the builder by word or gesture that he
+approved them. At any rate he could have made no report to the council as
+to their inadequacy; otherwise the council would certainly should have
+ensured that the builders made the foundations conform with the bye-laws
+before the council allowed the building to be erected upon them.
+
+Even if the inspector did not give the builders any intimation as to his view
+of the foundations, the builders would have naturally assumed from the
+council's silence after the inspection that they (the builders) had the council's
+blessing to build on the existing foundations.
+
+“It is undoubtedly a well-settled principle of law that when statutory
+powers are conferred they must be exercised with reasonable care, so
+that if those who exercise them could by reasonable precaution have
+prevented an injury which has been occasioned . . . by their exercise,
+damage for negligence may be recovered.” Great Central Railway
+Company v. Hewlett [1916] 2 A.C. 511 per Lord Parker at p. 519.
+
+In my opinion a negligent inspection which for the council is vicariously
+liable coupled with subsequent inaction by the council would amount to an
+implied approval of the foundations by the council and would have occasioned
+the damage which ensued.
+
+In the East Suffolk case, the damage had already occurred before the Catch-
+ment Board arrived upon the scene and purported to carry out the work of
+repairing a river wall under its statutory powers. The river close to its estuary
+had burst through a breach it had made in the wall at high tide and swamped
+about 50 acres of adjoining pasture which was below the level of the river bed.
+At each high tide more salt water came into the pasture and the longer this
+went on the greater was the risk of pasture being permanently ruined. The
+Catchment Board attempted to repair the breach in the wall with one
+man who had been in their employment for 18 months and was totally in-
+experienced in this kind of work and four labourers from the Employment
+Exchange and with practically no equipment. It took one hundred and seventy
+eight days to close the breach which could have been closed in fourteen days
+had the work been carried out with reasonable care and skill. It would
+appear that there had been exceptionally high tides as well as gales and that
+the Catchment Board had to cope with a number of similar problems with
+limited funds and insufficient experienced men at their disposal.
+
+In the instant case, as far as we know, the council was not faced, as was the
+Catchment Board, with a task of any difficulty, nor with any damage because
+nothing had been built on the foundations, nor with the lack of reasonably
+competent building inspector well able to measure the depth of the foundations
+and, if necessary, assess whether they were deep enough, having regard to the
+soil on which they rested.
+310530
+
+15
+
+exercise such care and skill may be shown to have caused the damage which the
+plaintiffs have suffered. The fact that the inspection was being carried out
+under a statutory power does not exclude the common law duty of those
+carrying it out to use reasonable care and skill-for it cannot in any way
+diminish the obvious proximity between the inspectors and the prospective
+tenants and their assignees.
+
+It has, however, been argued on the council's behalf that, since it was under
+no obligation to inspect the foundations, had it failed to do so, it could not
+be liable for the damage caused by the inadequacy of the foundations.
+Accordingly, so the argument runs, if the council decided to inspect the
+foundations in the exercise of its statutory powers, it owed the prospective
+tenants and their assignees no duty to inspect carefully because, even if the
+inspection was carried out negligently, the prospective tenants and their
+assignees would be no worse off than if there had been no inspection. I
+reject this argument and confess that I cannot detect that it has even any
+superficial attraction. The council is given these statutory powers to inspect
+the foundations and furnished with public funds to enable the powers to be
+used for the protection of prospective purchasers of the buildings which are to
+be built upon them. If, when the council exercises these powers, it does so
+negligently, it must be obvious that those members of the public in the position
+of the present plaintiffs are likely to suffer serious damage. The exercise of
+power without responsibility is not encouraged by the law. I recognize that
+it may not be practical to inspect the foundations of every new building.
+This, however, is no excuse for a negligent inspection of such foundations as
+are inspected. When a council exercises its powers of inspection, it should be
+and I believe is responsible in law to those who suffer damage as a result of
+that negligence.
+
+I do not think that there is any danger that the responsibility which, in my
+view, lies upon the council is likely to lead to any flood of litigation. It is
+not a common occurrence for foundations to give way, nor for their inspection
+to be negligently carried out. If the foundations do give way, there is no
+warranty by the council which has inspected them that they are sound. The
+council is responsible only if it has exercised its powers to inspect and the
+defects in the foundations, should have been detected by reasonable care and
+skill. It seems to me to be manifestly fair that any damage caused by negligence
+should be borne by those responsible for the negligence rather than by the
+innocents who suffer from it.
+
+I recognise that it would be unjust if, in the circumstances of this case, the
+whole burden should fall upon the council whilst the contractor who negligently
+put in the faulty foundations remained free from liability. It has, however,
+been decided in Gallagher v. N. McDowell Ltd. [1961] N.I. 26 that a building
+contractor owes a duty of care to the lawful user of a house and that accord-
+ingly the contractor is liable for any damage caused to a lawful user by the
+contractor's negligence in constructing the house. I agree with that decision
+for the reasons given by Lord MacDermott L.J. in delivering the leading
+judgment in the Northern Ireland Court of Appeal. I also accept what Lord
+Denning M.R. said on this topic in Dutton's case: "The distinction between
+chattels and real property is quite unsustainable [in relation to the principles
+"laid down in Donoghue v. Stevenson [1932] A.C. 562]. If the manufacturer
+"of an article is liable to a person injured by his negligence, so should the
+"builder of a house be liable." The contrary view seems to me to be entirely
+irreconcilable with logic or common sense.
+
+The instant case differs from Gallagher's case in that the contractors were
+also the owners of the land on which they built the block of maisonettes.
+In Bottomley v. Bannister [1932] 1 K.B. 458 [decided just before Donoghue v.
+Stevenson] Scrutton L.J. said at page 468 "Now it is at present well established
+"English law that, in the absence of express contract, a landlord of an
+"unfurnished house is not liable to his tenant, or a vendor of real estate to
+"his purchaser, for defects in the house or land rendering it dangerous or
+"unfit for occupation, even if he has constructed the defects himself or is
+
+16
+
+"aware of their existence". I certainly do not agree with the words in that
+passage, even if he has constructed the defects himself". The immunity of
+a landlord who sells or lets his house which is dangerous or unfit for habitation
+is deeply entrenched in our law. I cannot, however, accept the proposition
+that a contractor who has negligently built a dangerous house can escape
+liability to pay damages for negligence to anyone who, e.g. falls through a
+shoddily constructed floor and is seriously injured, just because the contractor
+happens to have been the owner of the land upon which the house stands.
+If a similar accident had happened next door in a house which the contractor
+had also negligently built on someone else's land, he would not be immune from
+liability. This does not make any sense. In each case the contractor would
+be sued for his negligence as a contractor and not in his capacity as a land-
+owner; the fact that he had owned one plot of land and not the other would
+be wholly irrelevant. I would hold that in such cases he would be liable to
+pay damages for negligence. To the extent that Bottomley v. Bannister differs
+from this proposition it should, in my view, be overruled. Cavalier v. Pope
+[1906] A.C. 428, upon which the appellants also relied, is so far away from the
+present case that I express no opinion about it.
+
+It was also contended on behalf of the appellants that the plaintiffs do not
+even allege that they relied upon the inspection of the foundations by the
+council. Nor they did, and I daresay they never even knew about it. This,
+however, is irrelevant. I think that the noble lords who decided Hedley
+Byrne & Co. Ltd. v. Heller & Partners Ltd. [1964] A.C. 465 would have been
+very surprised that what they said about reliance in that case would one day
+be cited as relevant to a case such as the present. There are a wide variety
+of instances in which a statement is negligently made by a professional man
+which he knows will be relied upon by many people besides his client, e.g. a
+well known firm of accountants certifies in a prospectus the annual profits of
+the company issuing it, and unfortunately, due to negligence on the part of the
+accountants the profits are seriously over-rated. Those persons who invested
+in the company in reliance on the accuracy of the accountants' certificate
+would have a claim for damages against the accountants for any money they
+might have lost as a result of the company's negligence, see the Hedley Byrne
+case.
+
+In the present case, however, the loss is caused not by any reliance placed
+by the plaintiffs on the council or the building inspector but by the fact that
+if the inspection had been carefully made, the defects in the foundations would
+have been rectified before the erection of the building was begun. The
+categories of negligence as Lord Macmillan said, are never closed and there are
+now a great many of them. In a few, "reliance" is of importance. In the
+present case reliance is not even remotely relevant.
+
+The remaining question is whether this action is statute barred, as found by
+the learned judge. In my view he had no real option except to find as he did.
+In Dutton's case the Master of the Rolls said, obiter, that "The damage was
+"done when the foundations were badly constructed. The period of limi-
+"tation (six years) then began to run." In Bagot v. Stevens Scanlan & Co. Ltd.
+[1966] 1 Q.B. 197, 203, Diplock L.J. (as he then was) said, obiter, that if the
+plaintiffs were not properly designed and built, "the damage from any breach
+"of that duty must have occurred at the time when the drains were improperly
+"built, because the plaintiff at that time was landed with property which had
+"bad drains when he ought to have been provided with property which had
+"good drains, and the damage accordingly occurred on that date." There
+may be a difference between the effect of badly constructed foundations and
+improperly built drains, since badly constructed foundations may not for some
+years cause any damage to the building or its occupiers; on the other hand,
+improperly built drains may cause some damage to the amenities and health
+of the occupier from the moment he occupies the building. In Higgins v.
+Arfon Borough Council [1975] 1 W.L.R. 524 Mars-Jones J., founding his
+judgment on the two obiter dicta to which I have referred, held that the erection
+of a defective building without proper foundations was caused by the local
+authority's negligence, but the action against the authority was statute barred
+because the damage occurred during the construction of the building and
+
+17
+
+time therefore began to run from 22nd March 1966 when the proprety was
+purchased." In the light of these authorities I think that it would have been
+very difficult, if not impossible, for the learned Judge to have held that the
+instant action was not Statute barred since the foundations were badly con-
+structed and all the original conveyances were executed more than six years
+before the writ was issued.
+
+In Sparham-Souter v. Town and Country Developments (Essex) Ltd. [1976]
+1 Q.B. 858, Lord Denning, M.R. reconsidered and handsomely withdrew his
+obiter dictum in Dutton's case to the effect that the period of limitation began
+to run from that date when the foundations were badly constructed. He
+acknowledged that the true view is that the cause of action in negligence
+accrued at the time when damage was sustained as a result of negligence,
+i.e. when the building began to sink and the cracks appeared. He therefore
+concluded that in Higgins v. Arfon Council and in the instant case, it had been
+wrongly decided that the action was statute barred, and as lead then judgments
+Roskill and Geoffrey Lane, L.JJ. agreed with that view; and I certainly do.
+
+All the plaintiffs, other than Mrs. O'Shea, acquired their maisonettes sub-
+stantially less than six years before their writs were issued. Accordingly their
+claims cannot be affected by the statute since clearly they could offer no
+damage before they became the purchasers of the maisonettes. The duty of
+care if and when the inspection of the foundations was carried out was owed
+to all future tenants or assignees who might suffer damage as a result of the
+negligent inspection. At the time of the inspection it was, of course, readily
+foreseeable that if the inspection was carelessly carried out future tenants or
+assignees would suffer damage but their identity was, of course, then unknown.
+Just as the identity of the plaintiff in Davis v. New Merton Board Mills Ltd. [1959]
+A.C. 604 was unknown to the defendants at the time when they negligently
+manufactured a defective tool seven years before it part of it broke off and
+flew into the plaintiff's eye. The plaintiff, Mrs. O'Shea, however acquired
+her maisonette on 13th December 1962. The writ was issued on 22nd February
+1977. If it could be proved that the building suffered damage prior to 22nd
+February 1971 which endangers the safety of its occupants or visitors Mrs.
+O'Shea's claim would be statute barred. It seems to me however, that since
+in fact no damage manifested itself until February 1970 it may be very difficult
+to prove that damage had in fact occurred four years previously. In the
+unlikely event of the defendants overcoming this difficulty, the fact that the
+damage went undetected for four years would not prevent the statute running
+from the date when the damage first occurred, see Cartledge v. E. Jopling &
+Sons Ltd. [1963] A.C. 758. In such circumstances Mrs. O'Shea could not
+have recovered damages because her cause of action would have accrued more
+than six years before the issue of her writ. Section 2(1) of the Limitation
+Act 1939 bars any action in tort after the expiration of the six years (amended
+by the Law Reform (Limitation of Actions, etc.) Act 1954 to three years in
+actions for damages for personal injuries) from the date when the cause of
+actions accrued. Every member of this House in Jopling v. Cartledge expressed
+the view that it was unreasonable and unjust that a cause of action should be
+held to accrue before it is possible to discover any injury, and therefore it is only
+possible to raise any action. A strong recommendation was made for the
+Legislature to remedy this injustice and that recommendation was accepted
+and carried into effect by the Limitation Act 1975; but that Act was confined
+to actions for damages for personal injuries. I do not think that if and when
+this action comes to be tried, the defendants should be prevented from
+attempting to prove that the claim by Mrs. O'Shea is statute barred. A
+building may be able to stand undamaged on defective foundations for years
+and then perhaps eight years or so later damage may occur. Whether it is
+possible to prove that damage to the building had occurred four years before
+it manifested itself is another matter, but it can only be decided by evidence.
+
+I should perhaps add a word about the damages to which the plaintiffs
+would in my view be entitled should they succeed in the action. Clearly the
+damage to the building constitutes a potential danger to the plaintiffs' safety
+
+18
+and the cost of underpinning the building and making it stable and safe would
+be recoverable from the defendants. So would the costs of rectifying any
+damage to the individual maisonettes and the reasonable expense incurred by
+any of the plaintiffs should it be necessary for them to find alternative
+accommodation whilst any of the structural repairs were being carried out. I
+express no opinion as to what the measure of damages should be, if it proved
+impossible to make the structure safe.
+My Lords, for the reasons I have explained I would dismiss the council's
+appeal from the order of the Court of Appeal setting aside the judgment of
+His Honour Judge Fay.
+2. I would hold that the council was under no obligation to exercise its
+power to inspect the foundations before or after the building now occupied
+by the plaintiffs was constructed, but that if it did exercise such powers of
+inspection before the building was constructed, it was under a legal duty to
+the plaintiffs to use reasonable care and skill in making the inspection.
+3. I would order the council to pay the costs of and incidental to this appeal.
+Lord Russell of Killowen
+MY LORDS,
+I was at one time attracted by the simple proposition that the case of East
+Suffolk Rivers Catchment Board v. Kent [1941] A.C. 74 afforded a sufficient
+shield for the appellant authority, even upon the assumption that there was
+an inspection of the foundations which was so carelessly conducted that it
+failed to reveal that the proposed depth was only 2' 6" below ground level
+(which we are to assume was and should have been known to be inadequate
+to cope with swelling or shrinkage of the sub-soil) and not 3' (which we are
+to assume would have been adequate for that purpose). Upon reflection I
+do not adhere to that view.
+I have, my Lords, had an opportunity to consider closely in draft the speech
+delivered by my noble and learned friend on the Woolsack. I am in agreement
+with it on all points and am content to add nothing of my own. Accordingly
+I also would dismiss this appeal.
+(310530) 260 5/77 StS

@@ -1,40 +1,48 @@
-"""Citation-integrity API: upload a brief (or paste text) -> structured verdict report.
+"""Citation verification endpoint for the frontend.
 
-`POST /api/citations/verify` accepts either a multipart `file` (PDF) or a `text`
-form field, runs the M1->M3->M4->M5 pipeline, and returns a
-:class:`~app.schemas.citation.VerifyResponse`.
+``POST /api/citations/verify`` accepts either a multipart **file** upload (the
+UploadZone) or a JSON body ``{"text": ...}`` (the paste box), runs the metadata-match
++ faithfulness pipeline, and returns ``{"citations": [...], "summary": {...}}`` — the
+per-citation verdict the dashboard/report render. As a side effect it also writes
+``report.json`` (the polling artefact) so both the sync and the file-based flows work.
 """
+
 from __future__ import annotations
 
-import os
 import tempfile
 
-from fastapi import APIRouter, File, Form, HTTPException, UploadFile
+from fastapi import APIRouter, Request
 
-from app.schemas.citation import VerifyResponse
-from app.services import pipeline_service
+from app.services.verify_service import verify_document
 
 router = APIRouter()
 
 
-@router.post("/verify", response_model=VerifyResponse)
-async def verify(
-    file: UploadFile | None = File(default=None),
-    text: str | None = Form(default=None),
-) -> VerifyResponse:
-    if file is None and not (text and text.strip()):
-        raise HTTPException(status_code=400, detail="Provide a PDF 'file' or non-empty 'text'.")
+@router.post("/verify")
+async def verify(request: Request) -> dict:
+    """Verify every citation in an uploaded document (file) or pasted text."""
+    pdf_bytes: bytes | None = None
+    text: str | None = None
 
-    if file is not None:
-        data = await file.read()
-        if not data:
-            raise HTTPException(status_code=400, detail="Uploaded file is empty.")
-        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tf:
-            tf.write(data)
-            tmp_path = tf.name
-        try:
-            return pipeline_service.verify_document(tmp_path, document_name=file.filename)
-        finally:
-            os.unlink(tmp_path)
+    if "application/json" in request.headers.get("content-type", ""):
+        data = await request.json()
+        text = (data or {}).get("text")
+    else:
+        form = await request.form()
+        upload = form.get("file")
+        if upload is not None and hasattr(upload, "read"):
+            raw = await upload.read()
+            if (getattr(upload, "filename", "") or "").lower().endswith(".txt"):
+                text = raw.decode("utf-8", "replace")  # plain-text upload
+            else:
+                pdf_bytes = raw
+        else:
+            value = form.get("text")
+            text = value if isinstance(value, str) else None
 
-    return pipeline_service.verify_text(text, document_name="pasted text")
+    if pdf_bytes:
+        with tempfile.NamedTemporaryFile(suffix=".pdf") as tmp:
+            tmp.write(pdf_bytes)
+            tmp.flush()
+            return verify_document(pdf_path=tmp.name)
+    return verify_document(text=text or "")

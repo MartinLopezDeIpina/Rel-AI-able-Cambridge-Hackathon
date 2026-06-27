@@ -1,0 +1,549 @@
+Neutral Citation Number: [2024] EWCA Civ 532
+Appeal No: CA-2024-000925
+Case No: 1637/5/7/24
+IN THE COURT OF APPEAL OF ENGLAND AND WALES (CIVIL DIVISION)
+ON APPEAL FROM THE COMPETITION APPEAL TRIBUNAL
+Sir Marcus Smith (President), Carole Begent and Dr William Bishop
+Royal Courts of Justice
+Stand, London, WC2A 2LL
+
+Date: 17/05/2024
+
+Before:
+
+SIR GEOFFREY VOS, MASTER OF THE ROLLS
+SIR JULIAN FLAUX, CHANCELLOR OF THE HIGH COURT
+and
+LADY JUSTICE ANDREWS
+- - - - - - - - - - - - - - - - - - - - -
+
+BETWEEN:
+SPORTSDIRECT.COM RETAIL LIMITED
+Claimant/Appellant
+- v -
+
+(1) NEWCASTLE UNITED FOOTBALL CLUB LIMITED
+(2) NEWCASTLE UNITED LIMITED
+Defendants/Respondents
+Tony Singla KC, David Bailey and Stefan Kuppen (instructed by Travers Smith LLP) for the
+Claimant/Appellant (“Sports Direct”)
+Tom de la Mare KC and Alison Berridge (instructed by Northridge Law LLP) for the
+Defendants/Respondents (together “Newcastle United”)
+
+Hearing date: 9 May 2024
+- - - - - - - - - - - - - - - - - - - - -
+JUDGMENT
+
+This judgment was handed down remotely at 10.00am on Friday 17 May 2024 by circulation
+to the parties or their representatives by e-mail and by release to the National Archives.
+
+SIR GEOFFREY VOS, MASTER OF THE ROLLS:
+Introduction
+1.
+This is an expedited application for permission to appeal from a decision by the
+Competition Appeal Tribunal (the Tribunal). The Tribunal dismissed Sports Direct’s
+application for a mandatory interim injunction requiring Newcastle United to continue
+to supply Sports Direct with its replica football kit for retail sale in its chain of shops
+and online. Sports Direct alleges that Newcastle United have abused their dominant
+position in the market for Newcastle United’s replica kit (the Market) and entered into
+an exclusive sales arrangement with JD Sports Fashion plc (JD Sports), which has the
+effect of unlawfully excluding Sports Direct from the Market. Sports Direct has been a
+retail outlet for the replica kit for decades. JD Sports has also sold replica kit for a few
+years.
+2.
+The Tribunal decided that Sports Direct had not shown that they had put forward a
+serious case to be tried. Accordingly, it said that the application failed at its first hurdle.
+The Tribunal nonetheless decided, because they had been fully argued, what it saw as
+the three “remaining conditions” for the grant of interim relief. It decided, in outline,
+that damages would not have been an adequate remedy either for Sports Direct (if an
+injunction were to be wrongly refused) or for Newcastle United (if an injunction were
+to be wrongly granted against it), and that the balance of convenience lay in favour of
+refusing to grant interim relief.
+3.
+It is important to understand at the outset the statutory prohibitions on which Sports
+Direct relies. Although Sports Direct and the Tribunal concentrated on the allegation of
+abuse of dominant position, Sports Direct still also maintains its position that Newcastle
+United have entered into anti-competitive arrangements.
+4.
+Section 2 of the Competition Act 1998 (the 1998 Act) imposes a prohibition on
+agreements, decisions and concerted practices which prevent, restrict or distort
+competition (the Chapter I Prohibition), as follows:
+… agreements between undertakings, decisions by associations of undertakings or
+concerted practices which—
+(a) may affect trade within the United Kingdom, and
+(b) have as their object or effect the prevention, restriction or distortion of
+competition within the United Kingdom,
+are prohibited unless they are exempt in accordance with the provisions of this Part.
+(2) Subsection (1) applies, in particular, to agreements, decisions or practices
+which—
+(a) directly or indirectly fix purchase or selling prices or any other trading
+conditions;
+(b) limit or control production, markets, technical development or investment; … .
+5.
+Section 18 of the 1998 Act imposes a prohibition on conduct which amounts to the
+abuse of a dominant position in a market (the Chapter II prohibition), as follows:
+
+(1) … any conduct on the part of one or more undertakings which amounts to the
+abuse of a dominant position in a market is prohibited if it may affect trade within
+the United Kingdom.
+(2) Conduct may, in particular, constitute such an abuse if it consists in—
+(a) directly or indirectly imposing unfair purchase or selling prices or other unfair
+trading conditions;
+(b) limiting production, markets or technical development to the prejudice of
+consumers; … .
+6.
+The parties could not agree on the applicable test for abuse of a dominant position.
+Sports Direct argued that the domestic authorities demonstrated that it was sufficient,
+as a matter of law, to show that that there was a material effect on or a distortion of
+competition (see Sir Christopher Bellamy in Burgess v. Office of Fair Trading [2005]
+CAT 25 at [336] (Burgess), Mann J in Purple Parking v. Heathrow Airport [2011]
+EWHC 987 (Ch) at [105] (Purple Parking), and Rose J in Arriva v. London Luton
+Airport [2014] EWHC 64 (Ch) at [106] and [166] (Arriva)). Conversely, Newcastle
+United argued that Sports Direct was required to show that there had been elimination
+of effective competition (see Microsoft Corp v. Commission of the European
+Communities (Case T-201/04) [2007] ECR II–3601). Both sides accepted that it was
+only if their respective hurdles were surmounted that Newcastle United had to show
+that there was objective justification for what had been done.
+7.
+Sports Direct put its case simply before us. It submitted that, as it had pleaded,
+Newcastle United had refused to continue supplies of replica kit to an existing
+customer. Its expert’s note to the court had evidenced that such a refusal obviously had
+a material effect on competition and caused harm to consumers, and Newcastle United
+had failed to show any objective justification for it. Consumer harm was axiomatic
+where Sports Direct was the leading sportswear discounter in the country, and
+Newcastle United were obviously trying to increase prices to the consumer by
+excluding Sports Direct from the Market.
+8.
+Sports Direct submitted that the Tribunal ought to have decided that it had shown there
+was a serious case to be tried, and that the balance of convenience favoured maintaining
+the status quo, which was the continued supply of replica kit to Sports Direct pending
+the speedy trial that the Tribunal had said was made more urgent by its refusal to grant
+interim relief [36]. The matter was urgent because the new season’s replica kit was due
+to be launched on 7 June 2024, and Newcastle United should be required to supply what
+Sports Direct had ordered well in advance of that date. Sports Direct placed great
+emphasis on the supposed inconsistency between the Tribunal’s holding that it had no
+serious case to be tried and its intended order for a speedy trial.
+9.
+Newcastle United supported the Tribunal’s reasoning, but said that even if there were
+a serious case to be tried, the balance of convenience favoured the refusal of an
+injunction. Moreover, damages were an adequate remedy for Sports Direct, which had
+delayed excessively in making an application for an injunction – long after the window
+for ordering replica kit for the 2024-2025 season in October 2023. Newcastle United
+made a wholesale rebuttal of Sports Direct’s case theory. It contended that (as the
+Tribunal had accepted at [34(1]) the relevant comparison was not with what happened
+before Newcastle United was taken over in October 2021, but with the position after
+
+the sale of Newcastle United and after the new owners had exercised their right to
+develop its merchandising business.
+10.
+Newcastle United complained that Sports Direct had never provided any evidence of
+its discounting strategy or of the previous distribution arrangements when Michael
+Ashley (the owner of Sports Direct) had owned Newcastle United. The reality was that,
+before the change of ownership, Sports Direct had been allowed by Newcastle United
+and its manufacturers, J Carter Sporting Club Limited (trading as Castore), to sell
+replica kit exclusively in the first 30 days after each season’s launch. That was the
+crucial period when most sales were made. There was no evidence that the replica kit
+had been discounted by Sports Direct in that period. In truth, Newcastle United had
+increased competition by replacing the old arrangements with new arrangements
+whereby Adidas AG (Adidas) manufactured, and Adidas, JD Sports and Newcastle
+United sold replica kit. There was no consumer harm and Sports Direct was merely
+trying to disrupt Newcastle United’s new and entirely legitimate marketing strategy.
+11.
+I have decided that Sports Direct’s appeal should be dismissed, even though I think that
+the Tribunal ought to have held that it had established a serious case to be tried. The
+Tribunal was right to think that, though damages would not be an adequate remedy for
+either side, the balance of convenience favoured refusing interim relief and ordering a
+speedy trial.
+12.
+Against this background, I will deal with the appeal under the following headings: (i)
+further factual background and the Tribunal’s reasoning, (ii) the principles applicable
+to the grant of interim injunctive relief, (iii) whether Sports Direct has established a
+serious case to be tried, (iv) the adequacy of damages, (v) the balance of convenience,
+and (vi) my conclusions.
+Further factual background and the Tribunal’s reasoning
+13.
+It is hard to disentangle the Tribunal’s reasoning from its treatment of the facts. In these
+circumstances, it is easier to deal with both together. The following paragraphs in this
+section seek to summarise, as briefly as possible, how the Tribunal dealt with the
+application and the relevant facts.
+14.
+The Tribunal approached the application for mandatory relief through the prism of
+American Cyanamid Co v. Ethicon Limited [1975] 1 AC 396 (American Cyanamid). It
+described the American Cyanamid structure at [7] as being made up of four conditions:
+i)
+The Tribunal must be satisfied that there is a serious issue to be tried or that
+Sports Direct has no real prospect of succeeding in their claim for a permanent
+injunction. In that context, it explained that fanciful claims were to be denied, a
+mini-trial should be avoided, and assumptions should generally be made in
+Sports Direct’s favour.
+ii)
+The Tribunal must next be satisfied that damages would not be an adequate
+remedy for Sports Direct, on the premise that broad brush estimates of damage
+were acceptable (see Garden Cottage Foods Ltd v. Milk Marketing Board
+[1984] 1 AC 130 at 143).
+
+iii)
+The Tribunal must then consider whether the undertaking in damages would
+adequately protect Newcastle United in the event of the interim injunction
+having been wrongly granted. If it would, the injunction should be granted. If it
+would not, the Tribunal proceeds to the balance of convenience.
+iv)
+The Tribunal said that the balance of convenience allowed the Tribunal to weigh
+up the rival factors in favour of granting or refusing interim relief.
+15.
+On market definition and dominance, the Tribunal said at [9]-[10] that the case
+concerned Newcastle United’s refusal to continue to supply Sports Direct with replica
+kit, a term it defined broadly to include all branded wear, thus making dominance
+“significantly harder to establish” [12]. It said that there were serious issues to be tried
+as to whether Newcastle United was dominant in the Market and as to market definition.
+16.
+The Tribunal said at [13] that, because Newcastle United owned the intellectual
+property and branding rights, they were the right defendants even though they did not
+manufacture the replica kit themselves. It was those rights that enabled their replica kit
+to be differentiated from other football clubs’ products and gave them market power.
+At [14]-[17], the Tribunal explained how Mr Ashley’s sale of Newcastle United had
+led to a change in marketing strategy. It declined to go into the circumstances or the
+evidence for fear of conducting a mini-trial of highly controversial material. It recorded,
+but did not take into account, that Newcastle United had contended that the change was
+caused to some extent by “the extent and depth of the negative feeling amongst the
+Club’s fanbase towards the previous ownership” and led to a desire to ensure that Sports
+Direct was not involved in future sales of replica kit.
+17.
+The Tribunal said it was proceeding on the basis that even a dominant undertaking was
+entitled, without necessarily making its actions abusive, to structure its business in order
+to maximise its profits or further other interests. The following sentences show how the
+Tribunal actually approached the question of whether there was a serious case to be
+tried as to whether Newcastle United’s actions were abusive:
+Put another way, before a restructuring of operations can be said to be abusive, the
+facts (to the extent that they can be uncontroversially be ascertained) need to be
+established and the nature of the abuse alleged identified.
+For the present, we are concerned with the uncontentious facts, i.e. those that can
+be relied upon for the purposes of assessing a serious issue to be tried.
+I should say, at once, that that is not the correct legal approach. On an application for
+an interim injunction, the court must take the claimant’s pleaded and evidenced case at
+face value, unless it is shown to be plainly false or fanciful. In evaluating whether there
+is a serious case to be tried, the Tribunal cannot disregard contested facts. When it
+comes to the balance of convenience, of course, the strength of the case and the
+evidential value of what is supporting it may be weighed (see Laddie J at pages 12-13
+in Series 5 Software Ltd v. Clarke [1996] FSR 273 (Series 5 Software)).
+18.
+At [18]-[26], the Tribunal explained the arrangements with Castore, which are to
+terminate on or about 26 May 2024, and the new arrangements that have been entered
+into with Adidas and JD Sports. In the course of doing so, it said it was disregarding a
+number of contentious matters. But then at [25]-[26], the Tribunal made a number of
+
+criticisms of Sports Direct’s failure to give details of its sales and exclusivity
+arrangements with Castore. Sports Direct had failed to produce any written agreement
+and had not disclosed the terms. The Tribunal referred to documents that suggested that
+Sports Direct had indeed sold the replica kit for an exclusive period in past years, but
+said that Newcastle United had no place for Sports Direct in its new arrangements. The
+Tribunal found it surprising that Sports Direct had not been more forthcoming about
+the nature of its arrangements with Castore, given the centrality of expectation to Sports
+Direct’s case, but then said:
+At the end of the day, this is another area where we consider we must tread
+carefully, because these are facts and matters for trial, not for this application.
+And concluded that:
+We do not know the extent to which Sports Direct was preferred, in terms of supply,
+by Castore over other retailers. Although there was clearly some evidence
+suggesting this, we prefer to treat this matter as a contentious matter for trial, and
+to leave it out of account for present purposes.
+19.
+The Tribunal dealt with the question of whether there was a serious case to be tried,
+which it said was whether a claim for abuse arguably arises on the facts as it had
+articulated them, at [27]-[29].
+20.
+The Tribunal emphasised the dominant undertaking’s freedom to determine the manner
+of market supply. It said (correctly, I might interpose) that it was possible to trigger the
+Chapter II prohibition by failure to supply (as was alleged here) in addition to abusive
+pricing and margin squeeze (which were not). It then took as its starting point the
+absence of any prior arrangements, and said that a refusal by a dominant undertaking
+to supply another undertaking could not give rise to an arguable case of abuse without
+some further allegation. That said, prior arrangements and unilateral change by the
+dominant undertaking were material matters deserving of a “long hard look” taking
+into account the following non-exhaustive factors: (i) the reason for change, (ii) whether
+the change was truly unilateral, (iii) the notice given, (iv) the reasonableness of the
+expectation of continuing supply, (v) the length of the supply chain, and (vi) the harm
+likely to occur.
+21.
+The Tribunal then said at [28(2) and (5)] that Sports Direct’s case was unarguable,
+without something more being alleged. That case was, it said, that “where a dominant
+undertaking … has historically supplied a non-substitutable product … in a certain way
+… then it is an abuse of dominance for the dominant undertaking to change the manner
+in which it supplies the market in the future” by ceasing to supply those previously
+supplied. It was not up to Newcastle United at this stage to show that their conduct
+could be objectively justified.
+22.
+The Tribunal’s key reasoning in rejecting Sports Direct’s submission that it had a
+serious case to be tried is at [28(6)] and [29(1)]. It said that it was a low hurdle. There
+were four reasons: (i) Sports Direct’s expectation of continuity of supply was low,
+where there was no clear understanding of the arrangements, nor of the basis on which
+Castore could have refused to supply Sports Direct, (ii) the new owners of Newcastle
+United were entitled to change their supply arrangements, including replacing Castore
+with Adidas, (iii) the suggested obligation to continue to supply Sports Direct was more
+
+a fetter on competition than an enhancement of it, and (iv) the likelihood that Sports
+Direct would undercut other retailers was irrelevant, absent an allegation of unfair
+pricing. Finally, absent an arguable claim that Newcastle United had abused its
+dominant position, there was no arguable claim that the arrangements with Adidas and
+JD Sports were improperly collusive.
+23.
+The Tribunal then decided at [30(3)] that damages would not be an adequate remedy
+for Sports Direct on one ground only. It decided that damages would be adequate as
+regards the profits on sales of replica kit and sales of other goods alongside it. It was
+not, however, an adequate remedy for the alleged loss of repeat business that Sports
+Direct would suffer from disappointed Newcastle United fans who might no longer
+think of Sports Direct as the “home of football”.
+24.
+In addition, the Tribunal decided at [32(3)] that damages would not be an adequate
+remedy for Newcastle United if the injunction were wrongly granted essentially
+because the injunction would “throw a substantial spanner in [the] delicate and complex
+works” of forging new supply arrangements.
+25.
+Finally, the Tribunal decided at [34] that the balance of convenience lay in favour of
+refusing an injunction for three reasons in descending order of importance: (i) the
+existing position was not the regime established whilst Mr Ashley owned Newcastle
+United (i.e Castore), but the position after the sale and the new owners’ right to develop
+their business “according to their rights”, (ii) greater harm in terms of long-term
+business would accrue to Newcastle United rather than Sports Direct, and (iii) the
+injunction would require considerable policing. There were three factors that the
+Tribunal regarded as either neutral or of no relevance. The neutral factor was consumer
+benefit in the form of lower prices. Both Sports Direct’s delay and its lack of clean
+hands drew the Tribunal into deciding facts that it was not prepared to find at this stage,
+and were, therefore, of no relevance.
+26.
+The Tribunal concluded by saying, as I have already mentioned, that refusing interim
+relief made a speedy trial more, and not less, urgent.
+The principles applicable to the grant of interim injunctive relief
+27.
+It is perhaps useful to cite first the classic statement of the law in this area. Lord Diplock
+said this at pages 407-8 in American Cyanamid:
+… The use of such expressions as “a probability,” “a prima facie case,” or “a strong
+prima facie case” in the context of the exercise of a discretionary power to grant an
+interlocutory injunction leads to confusion as to the object sought to be achieved
+by this form of temporary relief. The court no doubt must be satisfied that the claim
+is not frivolous or vexatious, in other words, that there is a serious question to be
+tried.
+It is no part of the court’s function at this stage of the litigation to try to resolve
+conflicts of evidence on affidavit as to facts on which the claims of either party
+may ultimately depend nor to decide difficult questions of law which call for
+detailed argument and mature considerations. These are matters to be dealt with at
+the trial. … So unless the material available to the court at the hearing of the
+application for an interlocutory injunction fails to disclose that the plaintiff has any
+
+real prospect of succeeding in his claim for a permanent injunction at the trial, the
+court should go on to consider whether the balance of convenience lies in favour
+of granting or refusing the interlocutory relief that is sought.
+As to that, the governing principle is that the court should first consider whether,
+if the plaintiff were to succeed at the trial in establishing his right to a permanent
+injunction, he would be adequately compensated by an award of damages for the
+loss he would have sustained as a result of the defendant’s continuing to do what
+was sought to be enjoined between the time of the application and the time of the
+trial. If damages in the measure recoverable at common law would be adequate
+remedy and the defendant would be in a financial position to pay them, no
+interlocutory injunction should normally be granted, however strong the plaintiff’s
+claim appeared to be at that stage. If, on the other hand, damages would not provide
+an adequate remedy for the plaintiff in the event of his succeeding at the trial, the
+court should then consider whether, on the contrary hypothesis that the defendant
+were to succeed at the trial in establishing his right to do that which was sought to
+be enjoined, he would be adequately compensated under the plaintiff’s undertaking
+as to damages for the loss he would have sustained by being prevented from doing
+so between the time of the application and the time of the trial. If damages in the
+measure recoverable under such an undertaking would be an adequate remedy and
+the plaintiff would be in a financial position to pay them, there would be no reason
+upon this ground to refuse an interlocutory injunction.
+It is where there is doubt as to the adequacy of the respective remedies in damages
+available to either party or to both, that the question of balance of convenience
+arises. It would be unwise to attempt even to list all the various matters which may
+need to be taken into consideration in deciding where the balance lies, let alone to
+suggest the relative weight to be attached to them. These will vary from case to
+case.
+28.
+Few glosses are necessary on that passage, but it is perhaps helpful in the circumstances
+of this case to cite also Lord Hoffmann in Sutradhar v. Natural Environment Research
+Counsel [2006] UKHL 33, [2006] 4 All E.R. 490, where he said at [6]:
+I therefore approach this appeal on the basis that the claimant’s allegations of
+primary fact must (unless plainly fanciful, which is not the case here) be accepted
+as true and allowance must be made for the possibility that further facts may
+emerge on discovery or at trial. The question is whether, on these assumptions, he
+has a real prospect of success.
+29.
+As it seems to me, the Tribunal in this case fell into error in completely disregarding
+contested facts. That is not, as I have said, the correct approach. The claimant’s
+allegations of primary fact must be accepted as true, unless plainly fanciful. As Lord
+Diplock explained, the court must not try to resolve conflicts of evidence or law. That
+is for trial. But that does not mean that disputed questions are disregarded. The question
+is whether the material available to the court shows that the claimant has a real prospect
+of succeeding in its claim for a permanent injunction. If so, the court proceeds to
+consider the balance of convenience.
+30.
+Whilst I accept that the 4-stage process described by the Tribunal (see [14] above)
+reflects Lord Diplock’s description, the process is perhaps a little more nuanced. The
+
+question of the adequacy of damages for both sides can perhaps be regarded as part of,
+rather than entirely distinct from, the exercise of determining where the balance of
+convenience lies. The difference may well be immaterial in this case.
+Has Sports Direct established a serious case to be tried?
+31.
+Once one feeds back into the equation of “serious case to be tried” the facts that the
+Tribunal disregarded on the grounds that they were contested, it seems to me that one
+can see that Sports Direct had indeed established a serious case to be tried. As the
+Tribunal accepted, if that were the situation in relation to Sports Direct’s preferred case
+of abuse of market dominance, it would also be so for its secondary case that Newcastle
+United’s new supply agreements distorted competition in the Market. As Mr Tom de la
+Mare KC, leading counsel for Newcastle United, effectively accepted in oral argument,
+this appeal was all about the balance of convenience, because, even if Sports Direct had
+failed to articulate a serious case to be tried at the initial hearing, it would probably be
+able to do so by amendment after further disclosure. That pragmatic approach seems to
+me to explain to some extent the apparent inconsistency between the Tribunal saying,
+on the one hand, that Sports Direct had no serious case to be tried, and, on the other
+hand, ordering a speedy trial of that unarguable case.
+32.
+In these circumstances, I can take this question shortly. Sports Direct argued that the
+Tribunal had misunderstood its case on abuse of dominant position. The Tribunal’s
+description of Sports Direct’s case at [28(4)] (see [21] above) left out the crucial
+elements of the allegation, namely that Newcastle United had refused to supply Sports
+Direct, and Sports Direct’s expert had said in a note to the court that the refusal to
+supply Sports Direct and the new arrangements had a material effect on downstream
+competition to the detriment of consumers. That, submitted Sports Direct, was because
+the Tribunal wrongly thought, as it had said at [28(2)], and at [34(1)] in relation to the
+balance of convenience, that Newcastle United’s conduct was to be judged on the basis
+that there was no existing supply to Sports Direct because the existing position was
+after the sale by Mr Ashley.
+33.
+In my judgment, the Tribunal ought to have looked at Sports Direct’s case, its pleading
+and its evidence as if it would be established at trial, without foreclosing any of the
+disputed facts against it. It was not suggested that its factual case was fanciful. There
+were important questions about the definition of the Market and Newcastle United’s
+dominance, and whether Sports Direct was right to say that the question of abuse of
+dominant position should be considered from the standpoint of the existing supplies by
+Castore. The Tribunal assumed that the Market and the dominance were as Sports
+Direct alleged, but arguably looked at its case on the status quo on the basis that
+Newcastle United would win that argument at trial. If Sports Direct were right that the
+matter was to be viewed as a refusal to supply an existing customer, it was at least
+arguable that Sports Direct’s expert was right to say that the withdrawal of its supply
+might have a material effect on competition (see the test adumbrated in Burgess, Purple
+Parking and Arriva at [6] above). It was obviously not for the court hearing an
+application for interim relief to determine the conflict between those cases and
+Microsoft, if indeed there really is one.
+34.
+I take the view that, had the Tribunal accepted Sports Direct’s pleaded case and expert
+evidence at face value, it would have formed the view that it was possible for it to
+
+succeed in showing breaches of both the Chapter II and the Chapter I prohibitions at
+trial.
+35.
+The Tribunal was right to say that the serious case to be tried threshold was low, but
+wrong to reach the conclusion that it had not been crossed. First, its view that Sports
+Direct’s expectation of continuity of supply was low assumed wrongly that its case on
+refusal of supply would be rejected. In any event, it was not for the Tribunal at this
+stage to determine the level of expectation. That was indeed something for trial.
+Secondly, whilst it is true that the new owners of Newcastle United were entitled to
+change their supply arrangements, that did not foreclose Sports Direct’s arguments
+about refusal of supply and competition harm. Thirdly, the Tribunal could not
+determine at this stage whether the suggested obligation to continue to supply Sports
+Direct was a fetter or an enhancement of competition. It could prove to be either at trial.
+Finally, whilst I can well see how the likelihood of Sports Direct undercutting other
+retailers is blunted by Newcastle United’s argument about Sports Direct’s historical
+exclusivity during the crucial first 30 days of the new season’s sales of replica kit, it
+could not properly be said at this stage that the point was irrelevant absent an allegation
+of unfair pricing. Sports Direct’s status as a cost-cutting retailer with some 480 stores
+and an online presence was a relevant part of the background to the case it was
+advancing. The “clean hands” argument advanced before the Tribunal and by way of
+Respondents’ Notice before us (to the effect that Sports Direct had a secret exclusivity
+deal it wanted to protect) could not be determined one way or another when considering
+whether there was a serious case to be tried.
+36.
+For these reasons, the Tribunal was wrong to decide that Sports Direct had no serious
+case to be tried, something that it effectively acknowledged by granting a speedy trial.
+The adequacy of damages
+37.
+On the adequacy of damages for Sports Direct, Newcastle United contend by their
+Respondents’ Notice that the Tribunal ought to have decided that damages would have
+been adequate. Newcastle United say that no evidence has been provided to substantiate
+the loss of any sales of replica kit and associated purchases on the same shopping visit,
+leading to material changes in future shopping patterns. It seems to me that it is obvious
+that Newcastle United supporters coming in large numbers to buy their replica kit as
+soon as it is launched from Sports Direct are likely to buy other things at the same time,
+and to become repeat customers for unquantifiable later purchases. If they are
+disappointed and disaffected by the inability to get replica kit where they have bought
+it before, trade may well be lost. It will be hard to assess that loss. Accordingly, I agree
+with the Tribunal’s view that, on this limited ground, damages would not be an adequate
+remedy for Sports Direct.
+38.
+Sports Direct argued that the Tribunal was wrong to decide that damages would not be
+an adequate remedy for Newcastle United if the injunction were wrongly granted. As it
+seems to me, however, the Tribunal was entirely right to say (as it did at [32]) that, if
+the injunction were wrongly granted, a substantial spanner would be thrown into
+Newcastle United’s new supply arrangements. It would be very hard to disentangle
+what loss was caused by the different consequences. Newcastle United would be
+breaking its exclusivity arrangements with JD Sports and possibly its agreement with
+Adidas. The ramifications might be very complex indeed. Damages would certainly not
+be adequate for Newcastle United.
+
+The balance of convenience
+39.
+The Tribunal decided the balance of convenience against Sports Direct. The fact that I
+have held that it was wrong about whether there is a serious case to be tried does not
+affect its reasoning on this point. Unless it can be shown that it exercised its discretion
+on the wrong legal basis or took into account matters it should not have done, or failed
+to take into account matters it should have done, we should not interfere with its
+decision, especially as it is a specialist tribunal, expert in competition matters.
+40.
+Sports Direct effectively attacked the reasoning of the Tribunal on balance of
+convenience on the same basis as it attacked its reasoning on serious case to be tried. It
+said that the Tribunal was simply wrong to look at the matter as if the existing position
+was after Mr Ashley had sold Newcastle United. The existing position was that, even
+now, Castore was supplying Sports Direct, and those supplies were being peremptorily
+withdrawn. Sports Direct was not asking for exclusivity. It was, to put it colloquially,
+‘no skin off Newcastle United’s nose’ to supply its order for the 2024/2025 season at
+the same time as Adidas supplied JD Sports.
+41.
+It seems to me that the Tribunal was, at this stage of its enquiry, entitled to take into
+account its view of the strength of Sports Direct’s overall case (see Series 5 Software
+at [17] above). Even if there were (as I have found) a serious case to be tried, the
+Tribunal was entitled to judge that it was a weak case for the reasons it effectively gave.
+By saying that the status quo was after the sale of Newcastle United, that the new
+owners had a right to develop their business, and that greater long-term harm would be
+caused to Newcastle United rather than Sports Direct, it was performing exactly the
+exercise that the balance of convenience requires. Moreover, I think it was right to
+attribute less, if any, weight to the supposed consumer benefit in the form of lower
+prices and Sports Direct’s delay and its alleged lack of clean hands. These were factors
+that may look very different once further evidence is available. So far as consumer harm
+is concerned, it is by no means clear that replacing Castore with Adidas, and replacing
+Sports Direct with JD Sports (as the main retail outlet), will lead to consumer harm. It
+may, but it may also not. It is very hard to say at this stage.
+42.
+In essence, I agree with the Tribunal’s perspective that the balance lies in favour of
+allowing the new owners to make their own new arrangements without the interference
+of interim relief. The right course was to order a speedy trial to minimise the damage
+to Sports Direct. The trial will no doubt be hard fought, but the damage to Newcastle
+United will be far more fundamental if the injunction is wrongly granted than the
+damage that will be done to Sports Direct if it misses one, or even two, season’s supply.
+We heard some argument about the kind of order that Sports Direct was seeking, and a
+new draft was presented to us in the middle of the hearing. The order would be complex
+and difficult to police as the Tribunal said. It is not simply a question of selling one line
+item at one time. It would require complex mechanisms to make it work. Whilst it could
+be done, it is another reason why the balance of convenience lies against the grant of
+interim relief.
+Conclusions
+43.
+For the reasons I have given, whilst I have decided that Sports Direct had established
+that they had a serious case to be tried, I would not allow its appeal.
+
+44.
+The question then arises whether we should grant Sports Direct permission to appeal,
+since this has been an expedited rolled up hearing. I think it is only right to grant
+permission to appeal on the ground that Sports Direct were able to show that there was
+both a real prospect of success and some other reasons for the appeal to be heard. Those
+reasons are: (i) the apparent inconsistency in the Tribunal’s disposition of Sports
+Direct’s application, finding no serious case to be tried, yet ordering a speedy trial, and
+(ii) the Tribunal’s inappropriate approach to the facts in refusing to take any account of
+facts that it thought to be contested (see [17] and [29] above).
+45.
+Accordingly, I would grant Sports Direct permission to appeal and dismiss its appeal.
+SIR JULIAN FLAUX, CHANCELLOR OF THE HIGH COURT:
+46.
+I agree.
+LADY JUSTICE ANDREWS:
+47.
+I also agree.

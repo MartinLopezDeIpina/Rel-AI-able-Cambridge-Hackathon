@@ -1,0 +1,209 @@
+Neutral Citation Number: [2012] EWCA Civ 1039
+
+Case No: B3/2011/1846
+IN THE COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE DERBY COUNTY COURT
+(SITTING IN NORTHAMPTON)
+Mr RECORDER BURNS
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+Date: 26 July 2012
+Before:
+
+THE LORD CHIEF JUSTICE OF ENGLAND AND WALES
+THE MASTER OF THE ROLLS
+And
+THE VICE-PRESIDENT OF THE COURT OF APPEAL
+
+Between:
+
+CHRISTOPHER SIMMONS
+
+Appellant
+
+ - and –
+
+DEREK CASTLE
+Respondent
+
+(Transcript of the Handed Down Judgment of
+WordWave International Limited
+A Merrill Communications Company
+165 Fleet Street, London EC4A 2DY
+Tel No: 020 7404 1400, Fax No: 020 7831 8838
+Official Shorthand Writers to the Court)
+
+David Sanderson (instructed by Shoosmiths) made written submissions for the Appellant
+Andrew Davis (instructed by Greenwoods) made written submissions for the Respondent
+
+Hearing date: 26 July 2012
+
+Judgment
+As Approved by the Court
+
+Crown copyright©
+
+The Lord Chief Justice:
+1.
+This is the judgment of the Court arising out of an application to approve a settlement
+of an appeal brought in a personal injury action.
+2.
+Because the terms of settlement involve the appeal being allowed, albeit through an
+agreed variation in the order made by the court below, it requires the consent of the
+Court of Appeal. Normally, such consent is given in writing by a single Lord Justice,
+without the need for a hearing. However, the requirement for such consent on this
+appeal provides an appropriate opportunity for this court to announce an increase in
+general damages in most tort actions with effect from 1 April 2013.
+3.
+The present appeal arises out an award of damages made by Mr Recorder Burns in the
+Derby County Court in favour of Christopher Simmons who suffered personal injuries
+as a result of being knocked off his motorcycle by a motor car driven by Derek Castle,
+who admitted negligence. The Recorder assessed general damages at £20, 000 and
+special damages of £2,730.37, each figure carrying an award of interest, and resulting
+in a total award of £24,712.72. The Recorder declined to make awards (i) of
+provisional damages, (ii) for handicap on the labour market, or (iii) to compensate Mr
+Simmons for the risk of future pecuniary loss caused by the risk of medical
+deterioration.
+4.
+Following the grant of permission to appeal to appeal by Patten LJ to Mr Simmons,
+Mr Castle made a Part 36 offer, which Mr Simmons decided to accept. The terms of
+settlement maintain the award totalling £24,712.72, but go on to provide that, if Mr
+Simmons develops ‘fulminant septicaemia resulting in long term disabling illness or
+death, which causes … significant ongoing recoverable loss of earnings’, he ‘should
+be entitled to apply for further damages …’.
+5.
+There is no reason not to approve this settlement. While it may not be necessary to
+say so (as Mr Simmons is an adult of full capacity), it appears to us that £20,000
+seems a correct figure for general damages, and the figure agreed for special damages
+also appears to be right.
+6.
+We turn, then, to the future approach to the measure of general damages in tort
+actions.
+7.
+On 1 April next year, the reforms to civil costs contained in the Legal Aid, Sentencing
+and Punishment of Offenders Act 2012 will come into force. Part 2 of the Act
+provides for the implementation of recommendations 7, 9, 14 and 94 of the Final
+Report on Civil Litigation Costs by Sir Rupert Jackson. These recommendations
+form part of a coherent package of reforms, one element of which is that general
+damages should rise by 10%: see recommendations 10 and 65 (i). The Lord Chief
+Justice, with the unanimous support of the Judicial Executive Board, has previously
+announced the judiciary’s support for this package of reforms, as has the Government
+following a consultation exercise. The 2012 Act has been introduced by the executive
+and enacted by the legislature on the basis that the reforms are a coherent package,
+and that the judiciary will give effect to the 10% increase in damages.
+8.
+As Lord Diplock said in Wright v British Railways Board [1983] 2 AC 773
+(‘Wright’), 785A-B, the Court of Appeal ‘with its caseload of appeals in personal
+injury actions’ is ‘generally speaking, the tribunal best qualified to set guidelines for
+judges trying such actions, particularly as respects non-economic loss’. Lord Woolf
+MR said when giving the judgment of the court in Heil v Rankin [2000] EWCA Civ
+
+84, [2001] QB 272 (‘Heil’), para 5, ‘it is clear that Lord Diplock also intended the
+Court of Appeal to have the responsibility for keeping guidelines up to date’.
+9.
+As Lord Woolf MR went on to explain, such an exercise should be carried out by
+reference to the ‘existing legal principles as to the assessment’ of damages, which, in
+the case of general damages, involves ‘the difficult and artificial task of converting
+into monetary damages the physical injury, deprivation and pain and to give judgment
+for what it considers to be a reasonable sum– see Heil, paras 20 and 23, quoting Lord
+Pearce in H West & Sons Ltd v Shephard [1964] AC 326, 364. Much the same point
+was made by Lord Diplock, when he referred to ‘the inescapably artificial and
+conventional nature of the assessment of damages for non-economic loss’ – Wright,
+784F.
+10.
+As Lord Woolf MR also said in Heil, para 25, consistency of approach in the
+assessment of damages, whether special or general, is ‘important’, partly because it is
+a fundamental aspect of justice, and partly because it assists settlement (and see per
+Lord Diplock in Wright, 784G-H). Hence the valuable Guidelines for the Assessment
+of General Damages for Personal Injury published by the Judicial College (formerly
+Judicial Studies Board), which are produced approximately every two years, and
+which helpfully and clearly set out the appropriate guidelines for awards of damages
+in all types of personal injury action.
+11.
+At paras 28-9 of Heil, Lord Woolf MR then emphasised ‘the continuous responsibility
+of the court’ both ‘to set damages’, and ‘to keep the tariffs up to date’. He then
+emphasised that changes could be justified by ‘changes which take place in society’,
+and should by no means be confined to changes in the value of money. Again this
+reflects what Lord Diplock said in Wright, 785C, that ‘guidelines should be altered if
+circumstances relevant to the particular guideline change’.
+12.
+These observations make it clear that this court has not merely the power, but a
+positive duty, to monitor, and where appropriate to alter, the guideline rates for
+general damages in personal injury actions. Having said that, it must be acknowledged
+that the present circumstances are slightly different from those considered in Heil.
+13.
+First, we are laying down a principle which will not take effect immediately, but only
+in some eight months time. However, there are now many cases proceeding towards a
+hearing, which include claims for such damages. Some of those claims may well not
+be due to proceed as far as a judgment until after 1 April 2013. Accordingly, it is
+appropriate for this court to state the position formally now, well ahead of the date
+when it will take effect. However, this has the advantage that proper prospective
+warning is give to parties in, or contemplating, litigation – which was not the case in
+Heil, causing the court some concern – see at paras 49-51.
+14.
+Secondly, the increase in general damages we are laying down here extends to tort
+claims other than personal injury actions. We cannot see any good reason why the
+observations and reasoning in Heil, and in the cases cited by Lord Woolf MR in his
+judgment in that case, do not apply equally to general damages in all tort cases.
+15.
+Thirdly, the increase we are laying down arises from a different set of facts from those
+in Heil. It is attributable to the forthcoming change in the civil costs regime initiated
+by Sir Rupert’s reforms, as accepted by the executive and enacted by the legislature.
+As already explained, the increase was recommended by Sir Rupert as an integral part
+of his proposed reforms, which were unconditionally endorsed and supported as such
+
+by the judiciary publicly, and it was plainly on the basis that the 10% increase would
+be formally adopted by the judiciary that the 2012 Act was introduced and enacted.
+16.
+This is, no doubt, an unusual basis on which to rest a judgment or to adjust guidelines.
+However the recommendation to adjust the level of damages arises from a report
+prepared by a judge, which was initiated by the judiciary (as it was Lord Clarke, who,
+as Master of the Rolls, initiated Sir Rupert’s report) and which contains policy
+recommendations, which is itself unusual (and, we would add, can only be justified in
+relation to a topic as closely concerned with the administration of, and access to,
+justice, as legal costs). With the exception of the 10% increase in general damages,
+the great bulk of those policy recommendations have been adopted in full by the
+legislature in an Act sponsored by the executive, on the clear understanding that the
+judges would implement the 10% increase. It would therefore be little short of a
+breach of faith for the judiciary not to give effect to the 10% increase in damages
+recommended by Sir Rupert.
+17.
+It is fourthly to be noted that, unlike in Heil, we have not been addressed by counsel
+on the issue of increasing the level of general damages. It does not seem to us to be
+appropriate, let alone necessary, for us to be so addressed. Quite apart from the points
+already made, Sir Rupert consulted widely before publishing his Interim Report and
+before publishing his Final Report, and the Ministry of Justice subsequently consulted
+on Sir Rupert’s main proposals, and they have also subsequently been debated in (and
+out of) Parliament. Unusual though we accept that it is, it seems clear to us that there
+would simply be no point in incurring expense and time in going over ground which
+has already been well trodden in order to debate a point which will only involve
+future judgments and is part of a coherent package, the rest of which has already been
+brought into law.
+18.
+It is worth referring in connection with all these points to another passage in the
+speech of Lord Diplock in Wright at 785B, where he explained that, at least as a
+matter of strict legal principle, a ‘guideline as to quantum of conventional damages …
+is not a rule of law nor is it a rule of practice’. However, as he also explained at 784H,
+guidelines, such as those being laid down in this judgment, are ‘addressed’ to first
+instance judges, and it is highly desirable that parties to litigation and their advisers
+have ‘confidence that trial judges will apply them’.
+19.
+The only remaining question is precisely how the increase should be applied. We have
+concluded that it should apply to all cases where judgment is given after 1 April 2013.
+It seems to us that, while it can be said that this conclusion does not achieve perfect
+justice in every case, the same thing can be said about any other answer to the
+question, particularly in the light of a number of the forthcoming changes being made
+to the costs regime pursuant to Sir Rupert’s recommendations. Our conclusion has the
+great merits of (i) providing a simplicity and clarity, which are both so important in
+litigation, and (ii) according with the recommendation of Sir Rupert, which is
+consistent with much of the rationale of the 10% increase in general damages.
+20.
+Accordingly, we take this opportunity to declare that, with effect from 1 April 2013,
+the proper level of general damages for (i) pain, suffering and loss of amenity in
+respect of personal injury, (ii) nuisance, (iii) defamation and (iv) all other torts which
+cause suffering, inconvenience or distress to individuals, will be 10% higher than
+previously. It therefore follows that, if the action now under appeal had been the
+subject of a judgment after 1 April 2013, the proper award of general damages would
+be 10% higher than that agreed in this case, namely £22,000 rather than £20,000.

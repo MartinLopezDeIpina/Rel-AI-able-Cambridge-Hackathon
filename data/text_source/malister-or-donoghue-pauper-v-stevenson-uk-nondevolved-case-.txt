@@ -1,0 +1,1675 @@
+Die Jovis, 26° Maii, 1932.
+
+Parliamentary Archives, HL/PO/JU/4/3/873
+M'ALISTER or DONOGHUE (Pauper) Appellant
+v.
+STEVENSON. Respondent
+-------------
+Lords Present
+Lord Buckmaster
+Lord Atkin
+Lord Tomlin
+Lord Thankerton
+Lord Macmillan
+Judgment
+--------
+Lord Buckmaster (read by Lord Tomlin)
+MY LORDS,
+The facts of this case are simple.
+On August 26th, 1928, the Appellant drank a bottle of ginger beer, manufactured
+by the Respondent, which a friend had bought from a retailer and given to her. The
+bottle contained the decomposed remains of a snail which were not and could not
+be detected until the greater part of the contents of the bottle had been consumed.
+As a result she alleged and, at this stage her allegations must be accepted as true,
+that she suffered from shock and severe gastro enteritis. She accordingly instituted
+the proceedings against the manufacturers which have given rise to this appeal.
+The foundation of her case is that the Respondent, as the manufacturers of an
+article intended for consumption and contained in a receptacle which prevented
+
+inspection owed a duty to her as consumer of the article to take care that there was
+no noxious element in the goods, that they neglected such duty and are
+consequently liable for any damage caused by such neglect. After certain
+amendments which are now immaterial, the case came before the Lord Ordinary
+who rejected the plea in Law of the Respondent and allowed a proof. His
+interlocutor was revoked by the second Division of the Court of Session from
+whose judgment this appeal has been brought.
+Before examining the merits two comments are desirable —
+
+(1) That the Appellant's case rests solely on the ground of a tort based not on fraud
+but on negligence; and
+(2) that throughout the appeal the case has been argued on the basis, undisputed by
+the Second Division and never questioned by counsel for the Appellants or by any
+of your Lordships, that the English and the Scots law on the subject are identical.
+
+It is, therefore, upon the English law alone that I have considered the matter and in
+my opinion it is on the English law alone that in the circumstances we ought to
+proceed.
+The law applicable is the common law and, though. its principles are capable of
+application to meet new conditions not contemplated when the law was laid down,
+yet themselves they cannot be changed nor can additions be made to them because
+any particular meritorious case seems outside their ambit.
+Now the common law must be sought in law books by writers of authority and in
+the judgments of the Judges entrusted with its administration. The law books give
+no assistance because the work of living authors (however deservedly eminent
+cannot be used as authorities though the opinions they express may demand
+attention, and the ancient books do not assist. I turn therefore to the decided cases
+to see if they can be construed so as to support the Appellant's case. One of the
+earliest is the case of Langridge v. Levy , 2 M. & W.,519. It is a case often quoted
+and variously explained. There a man sold a gun which he knew was dangerous for
+the use of the purchaser's son. The gun exploded in the son's hands and he was held
+to have a right of action in tort against the gunmaker. How far it is from the present
+case can be seen from the judgment of Parke B. who in delivering the judgment of
+the Court used these words
+"We should pause before we make a precedent by our decision
+which would be an authority for an action against the vendors even
+of such instruments and articles as are dangerous in themselves at the
+suit of any person whomsoever into whose hands they might happen
+to pass and who should be injured thereby, and in Longmeid v.
+
+Holliday , 5 Ex., 761, the same eminent Judge points out that the
+earlier case was based on a fraudulent misstatement, and he
+expressly repudiates the view that it has any wider application.
+The case of Langridge v. Levy , therefore, can be dismissed from
+consideration with the comment that it is rather surprising it has so
+often been cited for a proposition it cannot support.
+The case of Winterbottom v. Wright , 10 M. & W., 109, is, on the
+other hand, an authority that is closely applicable. Owing to
+negligence in the construction of a carriage it broke down and a
+stranger to the manufacture and sale sought to recover damages for
+injuries which he alleged were due to negligence in the work, and it
+was held that he had no cause of action. This case seems to me to
+show that the manufacturer of any article is not liable to a third party
+injured by negligent construction for there can be nothing in the
+character of a coach to place it in a special category. It may be noted
+also that in this case Alderson B. said "The only safe rule is to
+confine the right to recover to those who enter into the contract. If
+we go one step beyond that there is no reason why we should not go
+fifty."
+Longmeid v. Holliday was the case of a defective lamp sold to a man whose wife
+was injured by its explosion. The vendor of the lamp against whom the action was
+brought was not the manufacturer so that the case is not parallel to the present, but
+the statement of Baron Parke in his judgment covers the case of manufacturer for
+he said:
+"It would be going much too far to say that so much care is required
+in the ordinary intercourse of life between one individual and
+another that if a machine not in its nature dangerous but which might
+become so by a latent defect entirely unknown, although
+discoverable by the exercise of ordinary care, should be lent or given
+by one person, even by the manufacturer, to another, the former
+should be answerable to the latter for the subsequent damage
+accruing by the use of it."
+It is true that he uses the words "lent or given" and omits the word; "sold", but if
+the duty be entirely independent of contract and is a duty owed to a third person, it
+seems to me the same whether the article be originally given or sold. The fact in
+the present case that the ginger beer originally left the premises of the manufacturer
+on a purchase as was probably the case cannot add to his duty, if such existed, to
+
+take care in its preparation.
+It has been suggested that the statement of Baron Parke does not cover the case of
+negligent construction but the omission to exercise reasonable care in the discovery
+of a defect in the manufacture of an article where the duty of examination exists is
+just as negligent as the negligent construction itself.
+The general principle of these cases is stated by Lord Sumner in the case of
+Blacker v. Lake & Elliot , 106, L.T. 533, in these terms:
+"The breach of the Defendant's contract with A. to use care and skill
+in the manufacture or repair of an article does not of itself give any
+cause of action to B. when he is injured by reason of the article
+proving defective."
+From this general rule there are two Well-known exceptions—
+(1) In the case of an article dangerous in itself and
+(2) where the article not in itself dangerous is in fact dangerous due
+to some defect or for any other reason, and this is known to the
+manufacturer. Until the case of George v. Skivington , L.R., 5 Ex., 1,
+I know of no further modification of the general rule.
+As to (1), in the case of things dangerous in themselves, there is, in the words of
+Lord Dunedin, "a peculiar duty to take precaution imposed on those who send forth
+or instal such articles when it is necessarily the case that other parties will come
+within their proximity" — Dominion Gas Coy. v. Collins , 1909, A.C., 640. And as
+to (2) this depends on the fact that the knowledge of the danger creates the
+obligation to warn, and its concealment is in the nature of fraud.
+In this case no one can suggest the ginger beer was an article dangerous in itself,
+and the words of Lord Dunedin show that the duty attaches only to such articles,
+for I read the words "a peculiar duty" as meaning a duty peculiar to the special
+class of subject mentioned.
+Of the remaining cases George v. Skivington is the one nearest to the present and
+without that case and the statement of Baron Cleasby in Francis v. Cockrell , L.R.,
+5 Q.B. 501, at p. 515, and the dicta of Lord Esher M.R. in Heaven v. Pender , 11 Q.
+B.D., 503 at pp. 500 et seq., the Appellants would be destitute of authority. George
+v. Skivington related to the sale of a noxious hairwash and a claim made by a
+person who had suffered from its use based on it having been negligently
+
+compounded was allowed. It is remarkable that Langridge v. Levy was used in
+support of the claim and influenced the judgment of all the parties to the decision;
+both Kelly B. and Pigott B. stressed the fact that the article had been purchased to
+the knowledge of the Defendant for the use of the Plaintiff as in Langridge v.
+Levy , and Cleasby B. who, realising that Langridge v. Levy was decided on the
+ground of fraud, said:
+"Substitute the word 'negligent' for 'fraud' and the analogy between
+Langridge v. Levy and this case is complete".
+It is unnecessary to point out too emphatically that such a substitution cannot
+possibly be made. No action based on fraud can be supported by mere proof of
+negligence.
+I do not propose to follow the fortunes of George v. Skivington ; few cases can
+have lived so dangerously and lived so long. Sumner L. in the case of Blacker v.
+Lake & Elliot , 106, L.T., 533, closely examines its history and I agree with his
+analysis. He said that he could not presume to say that it was wrong but he
+declined to follow it on the ground which is I think firm that it was in conflict with
+Winterbottom v. Wright .
+In Francis v. Cockrell the Plaintiff had been injured by the fall of a stand on a race
+course for a seat in which he had paid. The Defendant was part-proprietor of the
+stand and acted as receiver of the money. The stand had been negligently erected
+by a contractor though the Defendant was not aware of the defect. The Plaintiff
+succeeded. The case has no bearing upon the present .but in the course of his
+judgment Cleasby B. made the following observation:
+"The point that Mr. Matthews referred to last was raised in the case
+of George v. Skivington where there was an injury to one person, the
+wife, and a contract of sale with another person, the husband. The
+wife was considered to have a good cause of action and I would
+adopt the view which the Lord Chief Baron took in that case. He said
+there was a duty in the vendor to use ordinary care in compounding
+the article sold and that this extended to the person for whose use he
+knew it was purchased and their duty having been violated and he
+having failed to use reasonable care was liable in an action at the suit
+of the third person."
+It is difficult to appreciate what is the importance of the fact that the vendor knew
+who was the person for whom the article was purchased unless it be that the cage
+was treated as one of fraud and that without this element of knowledge it could not
+
+be brought within the principle of Langridge v. Levy . Indeed this is the only view
+of the matter which adequately explains the references in the judgments in George
+v. Skivington to Langridge v. Levy and the observations of Cleasby B. upon George
+v. Skivington .
+The dicta of Lord Esher M.R. in Heaven v. Pender are rightly relied on by the
+Appellant. The material passage is as follows:
+"The proposition which these recognised cases suggest and which is
+therefore to be deduced from them is that wherever one person is by
+circumstances placed in such a position with regard to another that
+everyone of ordinary sense who did think would at once recognise
+that if he did not use ordinary care and skill in his own conduct with
+regard to those circumstances he would cause danger of injury to the
+person or property of the other a duty arises to use ordinary care and
+skill to avoid such danger. … Let us apply this proposition to the
+case of one person supplying goods or machinery or instruments or
+utensils or the like for the purpose of their being used by another
+person but with whom there is no contract as to the supply. The
+proposition will stand thus: whenever one person supplies goods or
+machinery or the like for the purpose of their being used by another
+person under such circumstances that everyone of ordinary sense
+would if he thought recognise at once that unless he used ordinary
+care and skill with regard to the condition of the thing supplied or the
+mode of supplying it there will be danger of injury to the person or
+property of him for whose use the thing is supplied and who is to use
+it a duty arises to use ordinary care and skill as to the condition or
+manner of supplying such thing. And for a neglect of such ordinary
+care or skill whereby injury happens a legal liability arises to be
+enforced by an action for negligence. This includes the case of
+goods, etc., supplied to be used immediately by a particular person
+or persons or one of a class of persons where it would be obvious to
+the person supplying it if he thought that the goods would in all
+probability be used at once by such persons before a reasonable
+opportunity for discovering any defect which might exist and where
+the thing supplied would be of such a nature that a neglect of
+ordinary care or skill as to its condition or the manner of supplying it
+would probably cause danger to the person or property of the person
+for whose use it was supplied and who was about to use it. It would
+exclude a case in which the goods are supplied under circumstances
+in which it would be a chance by whom they would be used or
+whether they would be used or not or whether they would be used
+before there would probably be means of observing any defect or
+
+where the goods would be of such a nature that a want of care or
+skill as to their condition or the manner of supplying them would not
+probably produce danger of injury to person or property. The cases
+of vendor and purchaser and lender and hirer under contract need not
+be considered, as the liability arises under the contract and not
+merely as a duty imposed by law, though it may not be useless to
+observe that it seems difficult to import the implied obligation into
+the contract except in cases in which if there were no contract
+between the parties the law would according to the rule above stated
+imply the duty."
+"The recognised cases" to which the Master of the Rolls refers are not definitely
+quoted, but they appear to refer to cases of collision and carriage and the cases of
+visitation to premises on which there is some hidden danger, cases far removed
+from the doctrine he enunciates. None the less this passage has been used as a
+tabula in naufragio for many litigants struggling in the seas of adverse authority. It
+cannot, however, be divorced from the fact that the case had nothing whatever to
+do with the question of manufacture and sale. An unsound staging had been erected
+on premises to which there had been an invitation to the plaintiffs to enter and the
+case really depended on the duty of the owner of the premises to persons so
+invited. None the less it is clear that Lord Esher considered the cases of
+manufactured articles, for he examined Langridge v. Levy , and says that it does
+not negative the proposition that the case might nave been supported on the ground
+of negligence.
+In the same case, however, Cotton L.J., in whose judgment Bowen L.J. concurred,
+said that (he was unwilling to concur with the Master of the Rolls in laying down
+unnecessarily the larger principle which he entertained inasmuch as there were
+many cases in which the principle was impliedly negatived.
+He then referred to Langridge v. Levy , and stated that it was based upon fraudulent
+misrepresentation and had been so treated byColeridge J. in Blackmore v. Bristol
+and Exeter Railway Co. (8 E. & B. 1035), and that in Collis v. Selden (2 M. & W.
+519 and M. & W. 337) Willes J. had said that tine judgment in Langridge v. Levy
+was based on the fraud of the Defendant. The Lord Justice then proceeded as
+follows:
+"This impliedly negatives the existence of the larger general
+principle which is relied on and the decisions in Collis v. Selden and
+in Langmeid v. Hollidayd (in each of which the plaintiff failed) are in
+my opinion at variance with the principle contended for. The case of
+George v. Skivington and especially what is said by Cleasby B. in
+giving judgment in that case seem to support the existence of the
+
+general principle. But it is not in terms laid down that any such
+principle exists and that case was decided by Cleasby B. on the
+ground that the negligence of the Defendant which was his own
+personal negligence was equivalent for the purposes of that action to
+fraud on which (as he said) the decision in Langridge v. Levy was
+based. In declining to concur in laying down the principle enunciated
+by the Master of the Rolls I in no way intimate any doubt as to the
+principle that anyone who leaves a dangerous instrument as a gun in
+such a way as to cause danger or who without due warning supplies
+to others for use an instrument or thing which to his knowledge from
+its construction or otherwise is in such a condition as to cause danger
+not necessarily incident to the use of such an instrument or, thing is
+liable for injury caused to others by reason of his negligent act."
+With the views expressed by Cotton L.J. I agree.
+In Le Liecre v Gould , 1893, 1 Q.B. 491, the mortgagees of the interest of a builder
+under a building agreement advanced money to him from time to time on the faith
+of certificates given by a surveyor that certain specified stages in the progress of
+the buildings had been reached. The surveyor was not appointed by the mortgagees
+and there was no contractual relationship between him and them. In consequence
+of the negligence of the surveyor the certificates contained untrue statements as to
+the progress of the buildings, but there was no fraud on his part. It was held that the
+surveyor owed no duty to the mortgagees to exercise care in giving his certificates
+and they could not maintain an action against him by reason of his negligence. In
+this case Lord Esher seems to have qualified to some extent what he said in
+Heaven v. Pender , for at p. 497 he says this:
+"But can the plaintiffs rely upon negligence in the absence of fraud?
+The question of "liability for negligence cannot arise at all until it is
+established that the man who has been negligent owed some duty to
+the person who seeks to make him liable for his negligence. What
+duty is there when there is no relation between the parties by
+contract? A man is entitled to be as negligent as he pleases towards
+the whole world if he owes no duty to them."
+The case of Heaven v. Pender has no bearing upon the present question. That case
+established that under certain circumstances one man may owe a duty to another
+even though there is no contract between them. If one man is near to another or is
+near to the property of another a duty lies upon him not to do that which may cause
+a personal injury to that person or may injure his property.
+
+In the same case at p. 504 A. L. Smith L.J. said:
+"The decision of Heaven v. Pender was founded upon the principle
+that a duty to take care did arise when the person or property of one
+was in such proximity to the person or property of another that if due
+care was not taken damage might be done by one to the other.
+Heaven v. Pender goes no further than this, though it is often cited to
+support all kinds of untenable propositions."
+In Earl v. Lubbock , 1905, 1 K.B. 253, the plaintiff had been injured by a wheel
+coming off a van which he was driving for his employer and which it was the duty
+of the defendant under contract with such employer to keep in repair. The County
+Court Judge and the Divisional Court both held that even if negligence was proved
+the action would not lie. It was held by the Appeal Court that the defendant was
+under no duty to the plaintiff and that there was no cause of action. In his judgment
+Sir Richard Henn Collins M.R. said the case was concluded by the authority of
+Winterbottom v. Wright , and he pointed out that the dictum of Lord Esher in
+Heaven v. Pender was not a decision of the Court and that it was subsequently
+qualified and explained by Lord Esher himself in Le Lievre v. Gould . Stirling L.J.
+said that in order to succeed in the action the plaintiff must bring his case within
+the proposition enunciated by Cotton L.J. and agreed to by Bowen L.J. in Heaven
+v. Pender , while Mathew L.J. made the following observation:
+"The argument of counsel for the plaintiff was that the defendant's
+servants had been negligent in the performance of the contract with
+the owners of the van and that it followed as a matter of law that
+anyone in their employment or indeed anyone else who sustained an
+injury traceable to that negligence had a cause of action against the
+defendant. It is impossible to accept such a wide proposition and
+indeed it is difficult to see ' how if it were the law trade could be
+carried on. No prudent man would contract to make or repair what
+the employer intended to permit others to use in the way of his
+trade."
+In Bates v. Batey & Co. Ld., 1913, 3 K.B. 351, the defendants, ginger beer
+manufacturers, were held not liable to a consumer (who had purchased from a
+retailer one of their bottles) for injury occasioned by the bottle bursting as the
+result of a defect of which the defendants did not know, but which by the exercise
+of reasonable care they could have discovered. In reaching this conclusion Mr.
+Justice Horridge stated that he thought the judgments of Parke B. in Langmeid v.
+Hollidayd , of Cotton and Bowen L.JJ. in Heaven v. Pender , of Stirling L.J. in
+Earl v. Lubbock , and of Hamilton J. in Blacker v. Lake and Elliot, made it clear
+that the plaintiff was not entitled to recover, and that he had not felt himself bound
+
+by George v. Skivington .
+So far therefore as the case of George v. Skivington and the dicta in Heaven v.
+Pender are concerned it is in my opinion better that they should be buried so
+securely that their perturbed spirits shall no longer vex the law.
+One further case mentioned in argument may be referred to certainly not by way of
+authority but to gain assistance by considering how similar cases are dealt with by
+eminent judges of the J.S. A. That such cases can have no close application and no
+authority is clear, for though the source of the law in the two countries may be the
+same, its current may well flow in different channels. The case referred to is that of
+Thomas v. Winchester , 6 N.Y. 397 There a chemist issued poison in answer to a
+request for a harmless drug and he was held responsible to a third party injured by
+his neglect.
+It appears to me that the decision might well rest on the principle mat he in tact
+sold a drug dangerous in itself, none the less so because he was asked to sell
+something else, and on this view the case does not advance the matter.
+In another case of Macpherson v. Buick Motor Co , 1916, 217 N.Y. 382, where a
+manufacturer of a defective motor car was held liable for damages at the instance
+of a third party, the learned Judge appears to base his judgment on the view that a
+motor car might reasonably be regarded as a dangerous article.
+In my view, therefore, the authorities are against the Appellant's contention, and
+apart from authority it is difficult to see how any common law proposition can be
+formulated to support her claim.
+The principle contended for must be this: that the manufacturer or indeed the
+repairer of any article, apart entirely from contract, owes a duty to any person by
+whom the article is lawfully used to see that it has been carefully constructed. All
+rights in contract must be excluded from consideration of this principle, for such
+rights undoubtedly exist in successive steps from the original manufacturer down
+to the ultimate purchaser, embraced in the general rule that an article is warranted
+as reasonably fit for the purpose for which it is sold. Nor can the doctrine be
+confined to cases where inspection is difficult or impossible to introduce. This
+conception is simply to misapply to tort doctrines applicable to sale and purchase.
+The principle of tort lies completely outside the region where such considerations
+apply and the duty, if it exists, must extend to every person who, in lawful
+circumstances, uses the article made. There can be no special duty attaching to the
+manufacture of food, apart from that implied by contract or imposed by statute. If
+
+such a duty exists it seems to me it must cover the construction of every article,
+and I cannot see any reason why it should not apply to the construction of a house.
+If one step why not fifty? Yet if a house be, as it sometimes is, negligently built,
+and in consequence of that negligence the ceiling falls and injures the occupier or
+any one else, no action against the builder exists according to the English law,
+although I believe such a right did. exist according to the laws of Babylon. Were
+such a principle known and recognised, it seems to me impossible, having regard
+to the numerous cases that must have arisen to persons injured by its disregard, that
+with the exception of George v. Skivington , no case directly involving the
+principle has ever succeeded in the Courts, and were it well known and accepted
+much of the discussion of the earlier cases would have been waste of time.
+In Mullin v. Barr , 1929 S.C. p. 461, a case indistinguishable from the present,
+excepting upon the ground that a mouse is not a snail, and necessarily adopted by
+the Second Division in their judgment, Lord Anderson says this:
+"In a case like the present where the goods of the defenders are
+widely distributed throughout Scotland, it would seem little short of
+outrageous to make them responsible to members of the public for
+the condition of the contents of every bottle which issues from their
+works. It is obvious that if such responsibility attached to the
+Defenders, they might be called on to meet claims of damages which
+they could not possibly investigate or insure."
+In agreeing, as I do, with the judgment of Lord Anderson, I desire to add that I find
+it hard to dissent from the emphatic nature of the language with which his
+judgment is clothed. I am of opinion that this Appeal should be dismissed, and I
+beg to move your Lordships accordingly.
+Lord Atkin
+MY LORDS,
+The sole question for determination in this case is legal: do the averments made by
+the pursuer in her pleading if true disclose a cause of action? I need not restate the
+particular facts. The question is whether the manufacturer of an article of drink
+sold by him to a distributor in circumstances which prevent the distributor or the
+ultimate purchaser or consumer from discovering by inspection any defect is under
+any legal duty to the ultimate purchaser or consumer to take reasonable care that
+the article is free from defect likely to cause injury to health. I do not think a more
+important problem has occupied your Lordships in your judicial 'capacity:
+important both because of its bearing on public health and because of the practical
+
+test which it applies to the system of law under which it arises. The case has to be
+determined in accordance with Scots Law: but it has been a matter of agreement
+between the experienced counsel who argued this case, and it appears to be the
+basis of the judgments of the learned judges of the Court of Session that for the
+purposes of determining this problem the law of Scotland and of England are the
+same. I speak with little authority on this point, but my own research such as it is
+satisfies me that the principles of the law of Scotland on such a question as the
+present are identical with those of English law: and I discuss the issue on that
+footing. The law of both countries appears to be that in order to support an action
+for damages for negligence the complainant has to show that he has been injured
+by the breach of a duty owed to him in the circumstances by the defendant to take
+reasonable care to avoid such injury. In the present case we are not concerned with
+the breach of the duty; if a duty exists that would be a question of fact which is
+sufficiently averred and for present purposes must be assumed. We are solely
+concerned with the question whether as a matter of law in the circumstances
+alleged the defender owed any duty to the pursuer to take care.
+It is remarkable how difficult it is to find in the English authorities statements of
+general application defining the relations between parties that give rise to the duty.
+The courts are concerned with the particular relations which come before them in
+actual litigation, and it is sufficient to say whether the duty exists in those
+circumstances. The result is that the courts have been engaged upon an elaborate
+classification of duties as they exist in respect of property whether real or personal
+with further divisions as to ownership, occupation or control, and distinctions
+based on the particular relations of the one side or the other whether manufacturer
+salesman or landlord, customer, tenant, stranger and so on. In this way it can be
+ascertained at any time whether the law recognises a duty, but only where the case
+can be referred to some particular species which has been examined and classified.
+And yet the duty which is common to all the cases where liability is established
+must logically be based upon some element common to the cases where it is found
+to exist. To seek a complete logical definition of the general principle is probably
+to go beyond the function of the judge, for the more general the definition the more
+likely it is to omit essentials or introduce non-essentials. The attempt was made by
+Lord Esher in Heaven v. Pender in a definition to which I will later refer. As
+framed it was demonstrably too wide, though it appears to me if properly limited to
+be capable of affording a valuable practical guide.
+At present I content myself with pointing out that in English law there must be and
+is some general conception of relations, giving rise to a duty of care, of which the
+particular cases found in the books are but instances. The liability for negligence
+whether you style it such or treat it as in other systems as a species of "culpa," is no
+doubt based upon a general public sentiment of moral wrongdoing for which the
+offender must pay. But acts or omissions which any moral code would censure
+
+cannot in a practical world be treated so as to give a right to every person injured
+by them to demand relief. In this way rules of law arise which limit the range of
+complainants and the extent of their remedy. The rule that you are to love your
+neighbour becomes m law you must not injure your neighbour; and the lawyer's
+question "Who is my neighbour?" receives a restricted reply. You must take
+reasonable care to avoid acts or omissions which you can reasonably foresee would
+be likely to injure your neighbour. Who then in law is my neighbour? The answer
+seems to be persons who are so closely and directly affected by my act that I ought
+reasonably to have them in contemplation as being so affected when I am directing
+my mind to the acts or omissions which are called in question. This appears to me
+to be the doctrine of Heaven v. Pender as laid down by Lord Esher when it is
+limited by the notion of proximity introduced by Lord Esher himself and A. L.
+Smith L.J. in Le Lievre v. Gould , 1893,1 Q.B. 497. Lord Esher at p. 497 says :
+"That case established that under certain circumstances one man may
+owe a duty to another even though there is no contract between
+them. If one man is near to another or is near to the property of
+another a duty lies upon him not to do that which may cause a
+personal injury to that other or may injure his property."
+So A. L. Smith L.J.:
+"The decision of Heaven v. Pender was founded upon the principle
+that a duty to take due care did arise when the person or property of
+one was in such proximity to the person or property of another that if
+due care was not taken damage might be done by the one to the
+other."
+I think that this sufficiently states the truth if proximity be not confined to mere
+physical proximity; but be used, as I think it was intended, to extend to such close
+and direct relations that the act complained of directly affects a person whom the
+person alleged to be bound to take care would know would be directly affected by
+his careless act. That this is the sense in which nearness or "proximity" was
+intended by Lord Esher is obvious from his own illustration in Heaven v. Pender at
+p. 510 of the application of his doctrine to the sale of goods :
+"This" (i.e. the rule he has just formulated) "includes the case of
+goods, etc., supplied to be used immediately by a particular person
+or persons or one of a class of persons where it would be obvious to
+the person supplying if he thought that the goods would in all
+probability be used at once by such persons before a reasonable
+opportunity for discovering any defect which might exist and where
+
+the thing supplied would be of such a nature that a neglect of
+ordinary care or skill as to its condition or the manner of supplying it
+would probably cause danger to the person or property of the person
+for whose use it was supplied and who was about to use it. It would
+exclude a case in which the goods are supplied under circumstances
+in which it would be a chance by whom they would be used or
+whether they would be used or not or whether there would probably
+be means of observing any defect, or where the goods would be of
+such a nature that a want of care or skill as to their condition or the
+manner of supplying them would not probably produce danger of
+injury to person or property."
+I draw particular attention to the fact that Lord Esher emphasizes the necessity of
+goods having to be "used immediately" and "used at once before a reasonable
+opportunity of inspection." This is obviously to exclude the possibility of goods
+having their condition altered by lapse of time; and to call attention to the
+proximate relationship, which may be too remote where inspection even of the
+person using, certainly of an intermediate person, may reasonably be interposed.
+With this necessary qualification of proximate relationship as explained in Le
+Lievre v. Gould , 1893, 1 Q.B. 491, I think the judgment of Lord Esher expresses
+the law of England; without the qualification I think that the majority of the Court
+in Heaven v. Pender were justified in thinking the principle as expressed in too
+general terms. There will no doubt arise cases where it will be difficult to
+determine whether the contemplated relationship is so close that the duty arises.
+But in the class of case now before the Court I cannot conceive any difficulty to
+arise. A manufacturer puts up an article of food in a container which he knows will
+be opened by the actual consumer. There can be no inspection by any purchaser
+and no reasonable preliminary inspection by the consumer. Negligently in the
+course of preparation he allows the contents to be mixed with poison. It is said that
+the law of England and Scotland is that the poisoned consumer has no remedy
+against the negligent manufacturer. My Lords, if this were the result of the
+authorities I should consider the result a grave defect in the law, and so contrary to
+principle that I should hesitate long before following any decision to that effect
+which had not the authority of this House. I would point out that in the assumed
+state of the authorities not only would the consumer have no remedy against the
+manufacturer, he would have none against anyone else, for in the circumstances
+alleged there would be no evidence of negligence against anyone other than the
+manufacturer; and except in the case of a consumer who was also a purchaser no
+contract and no warranty of fitness and in the case of the purchase of a specific
+article under its patent or trade name, which might well be the case in the purchase
+of some articles of food or drink, no warranty protecting even the purchaser-
+consumer. There are other instances than of articles of food and drink where goods
+are sold intended to be used immediately by the consumer, such as many forms of
+
+goods sold for cleaning purposes, when the same liability must exist. The doctrine
+supported by the decision below would not only deny a remedy to the consumer
+who was injured by consuming bottled beer or chocolates poisoned by the
+negligence of the manufacturer, but also to the user of what should be a harmless
+proprietary medicine, an ointment, a soap, a cleaning fluid or cleaning powder. I
+confine myself to articles of common household use, where everyone including the
+manufacturer knows that the articles will be used by other persons than the actual
+ultimate purchaser, viz., by members of his family and his servants, and in some
+oases his guests. My Lords, I do not think so ill of our jurisprudence as to suppose
+that its principles are so remote from the ordinary needs of civilised society and the
+ordinary claims it makes upon its members as to deny a legal remedy where there
+is so obviously a social wrong.
+It will be found I think on examination that there is no case in which the
+circumstances have been such as I have just suggested where the. liability has been
+negatived. There are numerous cases where the relations were much more remote
+where the duty has been held riot to exist. There are also dicta in such cases which
+go further than was necessary for the determination of the particular issues, which
+have caused the difficulty experienced by the Courts below. I venture to say that in
+the branch of the law which deals with civil wrongs, dependent in England at any
+rate entirely upon the application by judges of general principles also formulated
+by judges, it is of particular importance to guard against the danger of stating
+propositions of law in wider terms than is necessary, lest essential factors be
+omitted in the wider survey, and the inherent adaptability of English law be unduly
+restricted. For this reason it is very necessary in considering reported cases in the
+law of torts that the actual decisionaAlone should carry authority proper weight of
+course being given to the dicta of the judges.
+In my opinion several decided cases support the view that in such a case as the
+present the manufacturer owes a duty to the consumer to be careful. A direct
+authority is George v. Skivington L.R. 5 Ex. 1. That was a decision on a demurrer
+to a declaration which averred that the defendant professed to sell a hair wash
+made by himself and that the plaintiff Joseph George bought a bottle to be used by
+his wife, the plaintiff Emma George, as the defendant then knew and that the
+defendant had so negligently conducted himself in preparing and selling the
+hairwash that it was unfit for use whereby the female plaintiff was injured. Kelly C.
+B. said that there was no question of warranty but whether the chemist was liable
+in an action on the case for unskilfulness and negligence in the manufacture of it;
+"Unquestionably, there was such a duty toward the purchaser and it extends in my
+judgment to the person for whose use the vendor knew the compound was
+purchased." Pigott & Cleasby B.B. put their judgments on the same ground. I
+venture to think that Fry L.J. in Heaven v: Pender 12 Q.B.D. at p. 517 misinterprets
+Cleasby B.'s judgment in the reference to Langridge v. Levy 4 M. & W. 337.
+
+Cleasby B. appears to me to make it plain that in his opinion the duty to take
+reasonable care can be substituted for the duty which existed in Langridge v. Levy
+not to defraud. It is worth noticing that George v. Skivington was referred to by
+Cleasby B. himself sitting as a member of the Court of Exchequer Chamber in
+Francis v. Cockrell (L.R. 5 Q.B. at p. 515) and was recognised by him as based on
+an ordinary duty to take care. It was also affirmed by Lord Esher M.R. in
+Cunnington v. South Western Railway Co., 1883 49 L.T. 392, decided on July 2nd
+at a date between the argument and the judgment in Heaven v. Pender , though as
+in that case the Court negatived any breach of duty the expression of opinion is not
+authoritative. The existence of the duty contended for is also supported by Hawkins
+v. Greville (1896) 12 T.L.R. 532, where a dock labourer in the employ of the Dock
+Co. was injured by a defective sack which had been hired by the consignees from
+the defendant who knew the use to which it was to be put, and had been provided
+by the consignees for the use of the Dock Company, who had been employed by
+them to unload the ship on the Dock Company's premises. The Divisional Court,
+Day and Lawrence J.J., held the defendant liable for negligence. Similarly in Elliott
+v. Hall (1885) 15 Q.B.D. 315 the defendants, colliery owners, consigned coal to
+the plaintiff's employers, coal merchants, in a truck hired by the defendants from a
+wagon company. The plaintiff was injured in the course of unloading the coal by
+reason of the defective condition of the truck and was held by a Divisional Court,
+Grove and A. L. Smith J.J., entitled to recover on the ground of the defendant's
+breach of duty to see that the truck was not in a dangerous condition. It is to be
+noticed that in neither case was the defective chattel in the defendant's occupation,
+possession or control or on their premises, while in the latter case it was not even
+their property. It is sometimes said that the liability in these cases depends upon an
+invitation by the defendant to the plaintiff to use his chattel. I do not find the
+decisions expressed to be based upon this ground but rather upon the knowledge
+that the plaintiff in the course of the contemplated use of the chattel would use it:
+and the supposed invitation appears to me to be in many cases a fiction and merely
+a form of expressing the direct relation between supplier and user which gives rise
+to the duty to take care. A very recent case which has the authority of this House is
+Chapman v. Sadler & Co. . , 1929 A.C. 584. In that case a firm of stevedores
+employed to unload a cargo of maize in bags provided the rope slings by which the
+cargo was raised to the ship's deck by their own men using the ship's tackle, and
+then transported to the dockside by the shore porters of whom the plaintiff was
+one. The porters relied on examination by the stevedores and had themselves no
+opportunity of examination In these circumstances this House reversing the
+decision of the First Division held that there was a duty owed by the stevedore
+company to the porters to see that the slings were fit for use and restored the
+judgment of the Lord Ordinary, Lord Morison, in favour of the pursuer. I find no
+trace of the doctrine of invitation in the opinions expressed in this House of which
+mine was one : the decision was based upon the fact that the direct relations
+established especially the circumstance that the injured porter had no opportunity
+
+of independent examination gave rise to a duty to be careful.
+I should not omit in this review of cases the decision in Grote v. Chester and
+Holyhead Railway (1848) 2 Ex. 251. That was an action on the case in which it
+was alleged that the defendants had constructed a bridge over the Dee on their
+railway and had licensed the use of the bridge to the Shrewsbury and Chester
+Railway to carry passengers over it, and had so negligently constructed the bridge
+that the plaintiff, a passenger of the last named railway, had been injured by the
+falling of the bridge. At the trial before Vaughan Williams J. the judge had directed
+the jury that the plaintiff was entitled to recover if the bridge was not constructed
+with reasonable care and skill. On a motion for a new trial the Attorney-General,
+Sir John Jervis, contended that there was misdirection, for the defendants were
+only liable for negligence and the jury might have understood that there was an
+absolute liability. The Court of Exchequer, after consulting the trial judge as to his
+direction, refused the rule. This case is said by Kelly C.B. in Francis v. Cockrell in
+the Exchequer Chamber (1870) L.R. 5 Q.B. at p. 505 to have been decided upon an
+implied contract with every person lawfully using the bridge that it was reasonably
+fit for the purpose. I can find no trace of such a ground in the pleading or in the
+argument or judgment. It is true that the defendants were the owners and occupiers
+of the bridge. The law as to the liability to invitees and licensees had not then been
+developed. The case is interesting because it is a simple action on the case for
+negligence, and the Court upheld the duty to persons using the bridge to take
+reasonable care that the bridge was safe.
+It now becomes necessary to consider the cases which have been referred to in the
+Courts below as laying down the proposition that no duty to take care is owed to
+the consumer in such a case as this.
+In Dixon v. Bell , 1816 5 M. & S. 198, the defendant had left a loaded gun at his
+lodgings and sent his servant, a mulatto girl aged about 13 or 14, for the gun,
+asking the landlord to remove the priming and give it her. The landlord did remove
+the priming and gave it to the girl, who later levelled it at the plaintiff's small son,
+drew the trigger and injured the boy. The action was in case for negligently
+entrusting the young servant with the gun. The jury at the trial before Lord
+Ellenborough had returned a verdict for the plaintiff. A motion by Sir William
+Garrow, Attorney-General, for a new trial was dismissed by the Court. Lord
+Ellenborough and Bayley J.J., the former remarking that it was incumbent on the
+defendant, who by charging the gun had made it capable of doing mischief, to
+render it safe and innoxious.
+In, Langridge v. Levy (1837) 2 M. & W. 519 (1838) 4 M. & W. 337 the action was
+in case and the declaration alleged that the defendant by falsely and fraudulently
+warranting a gun to have been made by Nock and to be a good, safe and secure
+
+gun, sold the gun to the plaintiff's father for the use of himself and his son, and that
+one of his sons confiding in the warranty used the gun, which burst and injured
+him. Plea not guilty and no warranty as alleged. The report is not very satisfactory.
+No evidence is reported of any warranty or statement except that the gun was an
+elegant twist gun by Nock. The judge left to the jury whether the defendant had
+warranted the gun to be by Nock and to be safe: whether it was in fact unsafe: and
+whether the defendant warranted it to be safe knowing that it was not so. The jury
+returned a general verdict for the plaintiff. It appears to have been argued that the
+plaintiff could recover wherever there is a breach of duty imposed on the defendant
+by contract or otherwise, and the plaintiff is injured by reason of its breach: by this
+is meant apparently that the duty need not be owed to the plaintiff but that he can
+take advantage of the breach of a duty owed to a third party. This contention was
+negatived by the Court, who held, however, that the plaintiff could recover if a
+representation known to be false was made to a third person with the intention that
+a chattel should be used by the plaintiff, even though it does not appear that the
+defendant intended the false representation to be communicated to him. See per
+Parke B. 2 M. & W. at p. 531. The same view was adopted by the Exchequer
+Chamber, the user by the plaintiff being treated by the Court as one of the acts
+contemplated by the fraudulent defendant. It is unnecessary to consider whether the
+proposition can be supported in its widest form. It is sufficient to say that the case
+was based as I think in the pleading and certainly in the judgment on the ground of
+fraud, and it appears to add nothing of value positively or negatively to the present
+discussion. Winterbottom v. Wright 1842 10 M. & W. 109 was a case decided on a
+demurrer. The plaintiff had demurred to two of the pleas as to which there was no
+decision by the Court, but on the hearing of the plaintiff's demurrer the Court in
+accordance with the practice of the day were entitled to consider the whole record
+including the declaration, and coming to the conclusion that the declaration
+disclosed no cause of action, gave judgment for the defendant - See Sutton's
+"Personal Actions at Common Law" page 113. The advantage of the procedure is
+that we are in a position to know the precise issue at law which arose for
+determination. The declaration was in case and alleged that the defendant had
+contracted with the Postmaster-General to provide the mail coach to convey mails
+from Hartford to Holyhead and to keep the mails in safe condition, that Atkinson
+and others with notice of the said contract bad contracted with the Postmaster-
+General to convey the road mailcoach from Hartford to Holyhead : and that the
+plaintiff relying on the said first contract hired himself to Atkinson to drive the
+mailcoach, but that the defendant so negligently conducted himself and so utterly
+disregarded his aforesaid contract that the defendant having the means of knowing
+and well knowing all the aforesaid premises, the mailcoach being in a dangerous
+condition owing to certain latent defects and to no other cause gave way, whereby
+the plaintiff was thrown from his seat and injured. It is to be observed that no
+negligence apart from breach of contract was alleged, in other words no duty was
+alleged other than the duty arising out of the contract : it is not stated that the
+
+defendant knew or ought to have known of the latent defect. The argument of the
+defendant was that on the face of the declaration the wrong arose merely out of the
+breach of a contract, and that only a party to the contract could sue. The Court of
+Exchequer adopted that view, as clearly appears from the judgments of Alderson
+and Rolfe B.B. There are dicta by Lord Abinger which are too wide as to an action
+of negligence being confined to cases of breach of a public duty. The actual
+decision appears to have been manifestly right; no duty to the plaintiff arose out of
+the contract; and the duty of the defendant under the contract with the Postmaster
+General to put the coach in good repair could not have involved those direct
+relations with the servant of the persons whom the Postmaster-General employed
+to drive the coach as would give rise to a duty of care owed to such servant. We
+now come to Langmeid v. Holliday (1851) 6 Ex. 761, the dicta in which have had
+considerable effect in subsequent decisions. In that case the declaration in case
+alleged that the plaintiff, Frederick Langmeid, had bought from the defendant, the
+maker and seller of " the Holliday lamp," a lamp to be used by himself and his wife
+Eliza in the plaintiff's shop; that the defendant induced the sale by the false and
+fraudulent warranty that the lamp was reasonably fit for the purpose; and that the
+plaintiff Eliza, confiding in the said warranty, lighted the lamp which exploded
+whereby she was injured. It is perhaps not an extravagant guess to suppose that the
+plaintiffs pleader had read the case of Langridge v. Levy . The jury found all the
+facts for the plaintiffs except the allegation of fraud; they were not satisfied that the
+defendant knew of the defects. The plaintiff Frederick had already recovered
+damages on the contract of sale for breach of the implied warranty of fitness. The
+declaration made no averment of negligence. Verdict was entered at the trial by
+Baron Martin for the plaintiff but with liberty to the defendant to move to enter the
+verdict for him. A rule having been obtained plaintiff's counsel sought to support
+the verdict on the ground that this was not an action for a breach of duty arising
+solely from contract but for an injury resulting from conduct amounting to fraud.
+Baron Parke, who delivered the judgment of the Court, held that fraud having been
+negatived the action could not be maintained on that ground. He then went on to
+discuss cases in which a third person not a party to a contract may sue for damages
+sustained if it is broken. After dealing with the negligence of a surgeon or of a
+carrier, or of a firm in breach of contract committing a nuisance on a highway, he
+deals with the case where anyone delivers to another without notice an instrument
+in its nature dangerous or under particular circumstances', as a loaded gun, and
+refers to Dixon v. Bell , though what this case has to do with contract it is difficult
+to see. He then goes on:
+"But it would be going much too far to say that so much care is
+required in the ordinary intercourse of life between one individual
+and another that if a machine not in its nature dangerous, a carriage
+for instance, but which might become so by a latent defect entirely
+unknown although discoverable by the exercise of ordinary care
+
+should be lent or given by one person, even by the person who
+manufactured it, to another, the former should be answerable to the
+latter for a subsequent damage accruing by the use of it."
+It is worth noticing how guarded this dictum is. The case put is a machine such as a
+carriage not in its nature dangerous which might become dangerous by a latent
+defect entirely unknown. Then there is the saving although discoverable by "the
+exercise of ordinary care," discoverable by whom is not said; it may include the
+person to whom the innocent machine is "lent or given". Then the dictum is
+confined to machines "lent or given" (a later sentence makes it clear that a
+distinction is intended between these words and delivered to the purchaser under
+the contract of sale), and the manufacturer is introduced for the first time even by
+the person who manufactured it. I do not for a moment believe that Baron Parke
+had in his mind such a case as a loaf negligently mixed with poison by the baker
+which poisoned a purchaser's family. He is in my opinion confining his remarks
+primarily to cases where a person is seeking to rely upon a duty of care which
+arises out of a contract with a third party; and has never even discussed the case of
+a manufacturer negligently causing an article to be dangerous and selling it in that
+condition whether with immediate or mediate effect upon the consumer. It is
+noteworthy that he only refers to "letting or giving" chattels, operations known to
+the law where the special relations thereby created have a particular bearing on the
+existence or non-existence of a duty to take care. Next in this chain of authority
+come George v. Skivington , 1869, L.R. 5, Ex. 1, and Heaven v. Pender , 1883, 11
+Q.B.D. 503, which I have already discussed. The next case is Earl v. Lubbock ,
+1905, 1 K.B. 253. The plaintiff sued in the County Court for personal injuries due
+to the negligence of the defendant. The plaintiff was a driver in the employ of a
+firm who owned vans. The defendant, a master wheelwright, had contracted with
+the firm to keep their vans in good and substantial repair. The allegation of
+negligence was that the defendant's servant had negligently failed to inspect and
+repair a defective wheel, and had negligently repaired the wheel. The learned
+County Court judge had held that the Defendant owed no duty to the Plaintiff, and
+the Divisional Court, Lord Alverstone, L.C.J., Wills and Kennedy, J.J., and the
+Court of Appeal agreed with him. The Master of the Rolls, Sir R. Henn Collins,
+said that the case was concluded by Winterbottom v. Wright , 10 M. & W. 109. In
+other words he must have treated the duty as alleged to arise only from a breach of
+contract; for as has been pointed , out that was the only allegation in Winterbottom
+v. Wright , negligence apart from contract being neither averred nor proved. It is
+true that he cites with approval the dicta of Lord Abinger in that case: but
+obviously I think his approval must be limited to those dicta so far as they related
+to the particular facts before the Court of Appeal: and to cases where as Lord
+Abinger says the law, permits a contract to be turned into a tort. Stirling, L.J., it is
+true said that to succeed the Plaintiff must bring his case within the proposition of
+the majority in Heaven v. Pender that any one who without due warning supplies
+
+to others for use an instrument which to his knowledge is in such a condition as to
+cause danger is liable for injury. I venture to think that the Lord Justice is
+mistakenly treating a proposition which applies one test of a duty as though it
+afforded the only criterion.
+Mathew, L.J., appears to me to put the case on its proper footing when he says at p.
+259 the argument of the Plaintiff was that the Defendant's servants had been
+negligent in the performance of the contract with the owners of the van and that it
+followed as a matter of law that any one in this employment had a cause of action
+against the Defendant. " It is impossible to accept such a wide proposition and
+indeed it is difficult to see how if it were the law trade could be carried on." I
+entirely agree. I have no doubt that in that case the Plaintiff failed to show that the
+repairer owed any duty to him. The question of law in that case seems very
+different to that raised in the present case. The case of Blacker v. Lake & Elliot
+Ltd. 1912 (104 L.T. 533) approaches more nearly the facts of this case. I have read
+and re-read it having unfeigned respect for the authority of the two learned judges,
+Hamilton and Lush, J.J., who decided it: and I am bound to say I have found
+difficulty in formulating the precise grounds upon which the judgment was given.
+The Plaintiff had been injured by the bursting of a brazing lamp which he had
+bought from a shopkeeper who had bought it from the manufacturer, the
+Defendant. The Plaintiff had used the lamp for 12 months before the accident. The
+case was tried in the County Court before that excellent lawyer, the late Judge Sir
+Rowland Roberts. That learned judge had directed the jury that the Plaintiff could
+succeed if the Defendants had put upon the market a lamp not fit for use in the
+sense that a person working it with reasonable care would incur a risk which a
+properly constructed lamp would not impose upon him. The jury found that the
+lamp was defective by reason of an improper system of making an essential joint
+between the container and the vaporiser; that the Defendants did not know that it
+was dangerous but ought as reasonable men to have known it. Hamilton J. seems to
+have thought that there was no evidence of negligence in this respect. Lush J.
+expressly says so and implies "I also think" that Hamilton J. so thought. If so the
+case resolves itself into a series of important dicta. Hamilton J. says at p. 536 that it
+has been decided in authorities from Winterbottom v. Wright to Earl v. Lubbock
+that the breach of the Defendants' contract with A, to use care and skill in and
+about the manufacture or repair of an article does not itself give any cause of action
+to B when injured by the article proving to be defective in breach of that contract.
+He then goes on to say how is the case of the Plaintiffs any better when there is no
+contract proved of which there could be a breach. I think with respect that this
+saying does not give sufficient weight to the actual issues raised by the pleadings
+on which alone the older cases are an authority. If the issue raised was an alleged
+duty created by contract it would have been irrelevant to consider duties created
+without reference to contract: and contract cases cease to be authorities for duties
+alleged to exist beyond or without contract. Moreover it is a mistake to describe the
+
+authorities as dealing with the breach of care or skill in the manufacture of goods,
+as contrasted with repair. The only manufacturing case was Langmeid v. Hollidayd
+where negligence was not alleged. Hamilton J. recognises that George v.
+Skivington was a decision which if it remained an authority bound him. He says
+that without presuming to say it was wrong he cannot follow it because it is in
+conflict with Winterbottom v. Wright . I find this very difficult to understand: for
+George v. Skivington was based upon a duty in the manufacturer to take care
+independently of contract while Winterbottom v. Wright was decided on demurrer
+in a case where the alleged duty was based solely on breach of a contractual duty to
+keep in repair and no negligence was alleged. Lush J. says in terms that there are
+only 3 classes of cases in which a stranger to a contract can sue for injury by a
+defective chattel: one is fraud, the second is articles dangerous or noxious in
+themselves where the duty is only to warn, the third is public nuisance. He does not
+bring the cases represented by Elliott v. Hall (the defective coal wagon) within his
+classes at all. He says they belong to a totally different class "where the control of
+premises or the management of a dangerous thing upon premises creates a duty." I
+have already pointed out that this distinction is unfounded in fact, for in Elliott v.
+Hall as in Hawkins v. Smith (the defective sack) the defendant exercised no control
+over the article and the accident did not occur on his premises. With all respect I
+think that the judgments in the case err by seeking to confine the law to rigid and
+exclusive categories: and by not giving sufficient attention to the general principle
+which governs the whole law of negligence in the duty owed to those who will be
+immediately injured by lack of care. The last case I need refer to is Bates v. Batey
+& Co., Ltd. (1913, 3 K.B., 351), where manufacturers of ginger beer were sued by
+a plaintiff who had been injured by the bursting of a bottle of ginger beer bought
+from a shopkeeper who had obtained it from the manufacturers. The manufacturers
+had bought the actual bottle from its maker, but were found by the jury to have
+been negligent in not taking proper means to discover whether the bottle was
+defective or not. Horridge, J., found that a bottle of ginger beer was not dangerous
+in itself, but that this defective bottle was in fact dangerous; but as the Defendants
+did not know that it was dangerous they were not liable though by the exercise of
+reasonable care they could have discovered the defect. This case differs from the
+present only by reason of the fact that it was not the manufacturers of the ginger
+beer who caused the defect in the bottle : but on the assumption that the jury were
+right in finding a lack of reasonable care in not examining the bottle, I should have
+come to the conclusion that as the manufacturers must have contemplated the
+bottle being handled immediately by the consumer they owed a duty to him to take
+care that he should not be injured externally by explosion just as I think they owed
+a duty to him to take care that he should not be injured internally by poison or
+other noxious thing. My Lords, I do not find it necessary to discuss at length the
+cases dealing with duties where a thing is dangerous, or in the narrower category
+belongs to a class of things which are dangerous in themselves. I regard the
+distinction as an unnatural one so far as it is used to serve as a logical
+
+differentiation by which to distinguish the existence or non-existence of a legal
+right. In this respect I agree with what was said by Scrutton, L. J., in Hope & Son
+v. Anglo American Oil Co. (1922), 12 Lloyds List 183 at p. 187, a case which was
+ultimately decided on a question of fact:
+"Personally I do not understand the difference between a thing
+dangerous in itself as poison, and a thing not dangerous as a class but
+by negligent construction dangerous as a particular thing. The latter
+if anything seems the more dangerous of the two : it is a wolf in
+sheep's clothing instead of an obvious wolf."
+The nature of the thing may very well call for different degrees of care, and the
+person dealing with it may well contemplate persons as being within the sphere of
+his duty to take care who would not be sufficiently proximate with less dangerous
+goods; so that not only the degree of care but the range of persons to whom a duty
+is owed may be extended. But they all illustrate the general principle. In the
+Dominion Natural Gas Co., Ltd. v. Collins & Perkins 1909 A.C. 640 the
+Appellants had installed a gas apparatus and were supplying natural gas on the
+premises of a railway company. They had installed a regulator to control the
+pressure and their men negligently made an escape valve discharge into the
+building instead of into the open air. The railway workmen—the plaintiffs —were
+injured by an explosion in the premises. The defendants were held liable. Lord
+Dunedin in giving the judgment of the Judicial Committee consisting of himself,
+Lord Macnaghten, Lord Collins and Sir Arthur Wilson, after stating that there was
+no relation of contract between the plaintiffs and the defendants, proceeded:
+"There may be, however, in the case of anyone performing an
+operation or setting up and installing a machine a relationship of
+duty. What that duty is will vary according to the subject matter of
+the things involved. It has, however, again and again been held that
+in the case of articles dangerous in themselves, such as loaded
+firearms, poisons, explosives and other things ejusdem generis there
+is a particular duty to take precaution imposed upon those who send
+forth or instal such articles where it is necessarily the case that other
+parties will come within their proximity."
+This with respect exactly sums up the position. The duty may exist independently
+of contract. Whether it exists or not depends upon the subject matter involved, but
+clearly in the class of things enumerated there is a special duty to take precautions.
+This is the very opposite of creating a special category in which alone the duty
+exists. I may add, though it obviously would make no "difference in the creation,
+of a duty, that the installation of an apparatus to be used for gas perhaps more
+closely resembles the manufacture of a gun than a dealing with a loaded gun. In
+
+both cases the actual work is innocuous: it is only when the gun is loaded or the
+apparatus charged with gas that the danger arises. My Lords, I do not think it
+necessary to consider the obligation of a person who entrusts to a carrier goods
+which are dangerous or which he ought to know are dangerous. As far as the direct
+obligation of the consignor to the carrier is concerned, it has been put upon an
+implied warranty ( Brass v. Maitland (1856) 6 E. & B. 470), but it is also a duty
+owed independently of contract, e.g. to the carrier's servant ( Farrant v. Barnes 11
+C.B.N.S. 563). So far as the cases afford an analogy they seem to support the
+proposition now asserted. I need only mention to distinguish two cases in this
+House which are referred to in some of the cases which I have reviewed.
+Caledonian Railway Co. v. Warwick 1898 A.C. 216 in which the appellant
+company were held not liable for injuries caused by a defective brake on a coal
+wagon conveyed by the railway company to a point in the transit where their
+contract ended and where the wagons were taken over for haulage for the last part
+of the journey by a second railway company on which part the accident happened.
+It was held that the first railway company were under no duty to the injured
+workman to examine the wagon for defects at the end of their contractual haulage.
+There was ample opportunity for inspection by the second railway company. The
+relations were not proximate. In the second Cavalier v. Pope (1906 A.C. 428) the
+wife of the tenant of a house let unfurnished sought to recover from the landlord
+damages for personal injuries arising from the non-repair of the house on the
+ground that the landlord had contracted with her husband to repair the house. It
+was held that the wife was not a party to the contract: and that the well-known
+absence of any duty in respect of the letting an unfurnished house prevented her
+from relying on any cause of action for negligence.
+In the most recent case Bottomley v. Bannister (1932) 101 L. J. K.B. 46 an action
+under Lord Campbell's Act the deceased man the father of the plaintiff had taken
+an unfurnished house from the defendants who had installed a gas boiler with a
+special gas burner which if properly regulated required no flue. The deceased and
+his wife were killed by fumes from the apparatus. The case was determined on the
+ground that the apparatus was part of the realty and that the landlord did not know
+of the danger : but there is a discussion of the case on the supposition that it was a
+chattel. Greer L.J. at p. 54 states with truth that it is not easy to reconcile all the
+authorities: and that there is no authority binding on the Court of Appeal that a
+person selling an article which he did not know to be dangerous can be held liable
+to a person with whom he has made no contract by reason of the fact that
+reasonable inquiries might have enabled him to discover that the article was in fact
+dangerous. When the danger is in fact occasioned by his own lack of care then in
+cases of a proximate relationship this case will I trust supply the deficiency.
+It is always a satisfaction to an English lawyer to be able to test his application of
+fundamental principles of the common law by the development of the same
+
+doctrines by the lawyers of the Courts of the United States. In that country I find
+that the law appears to be well established in the sense in which I have indicated.
+The mouse had emerged from the ginger beer bottle in the U.S. before it appeared
+in Scotland but there it brought a liability upon the manufacturer. I must not in this
+long judgment do more than refer to the illuminating judgment of Cardozo J. in
+McPherson v. Buick Motor Co. in the New York Court of Appeals (1916) 217 N.Y.
+382 in which he states the principles of the law as I should desire to state them and
+reviews the authorities in other States than his own. Whether the principle he
+affirms would apply to the particular facts of that case in this country would be a
+question for consideration if the case arose. It might be that the course of business
+by giving opportunities of examination to the immediate purchaser or otherwise
+prevented the relation between manufacturer and the user of the car being so close
+as to create a duty. But the American decision would undoubtedly lead to a
+decision in favour of the pursuer in the present case.
+My Lords if your Lordships accept the view that this pleading discloses a relevant
+cause of action you will be affirming the proposition that by Scots and English law
+alike a manufacturer of products which he sells in such a form as to show that he
+intends them to reach the ultimate consumer in the form in which they left him
+with no reasonable possibility of intermediate examination, and with the
+knowledge that the absence of reasonable care in the preparation or putting up of
+the products is likely to result in injury to the consumers life or property owes a
+duty to the consumer to take that reasonable care. It is a proposition that I venture
+to say no one in Scotland or England who was not a lawyer would for one moment
+doubt. It will be an advantage to make it clear that the law in this matter as in most
+others is in accordance with sound common sense. I think that this appeal should
+be allowed.
+Lord Tomlin
+MY LORDS,
+I have had an opportunity of considering the opinion prepared by my noble and
+learned friend Lord Buckmaster which I have already read. As the reasoning of that
+opinion and the conclusions reached therein accord in every respect with my own
+views, I propose to say only a few words.
+First I think that if the appellant is to succeed it must be upon the proposition that
+every manufacturer or repairer of any article is under a duty to everyone who may
+thereafter legitimately use the article to exercise due care in the manufacture or
+repair. It is logically impossible to stop short of this point. There can be no
+distinction between food and any other article. Moreover the fact that an article of
+
+food is sent out in a sealed container can have no relevancy on the question of
+duty. It is only a factor which may render it easier to bring negligence home to the
+manufacturer.
+Secondly I desire to say that in my opinion the decision in Winterbottom v.
+Wright , 10 M. & W. 109, is directly in point against the appellant.
+The examination of the report makes it, I think, plain (1) that negligence was
+alleged and was the basis of the claim, and (2) that the wide proposition which I
+have indicated was that for which the plaintiff was contending.
+The declaration averred ( inter alia ) that the defendant "so improperly and
+negligently conducted himself" that the accident complained of happened.
+The plaintiff's counsel said, "here the declaration alleges the accident to have
+happened through the defendant's negligence and want of care."
+The alarming consequences of accepting the validity of this proposition were
+pointed out by the defendant's counsel, who said, "For example, every one of the
+sufferers by such an accident as that which recently happened on the Versailles
+Railway might have his action against the manufacturer of the defective axle."
+That the action which was in case embraced a cause of action in tort is I think
+implicit in its form and appears from the concluding sentence of Lord Abinger's
+judgment, which was in these terms:
+"By permitting this action we should be working this injustice, that
+after the defendant had done everything to the satisfaction of his
+employer and after all matters between them had been adjusted and
+all accounts settled on the footing of their contract, we should
+subject them to be ripped open by this action of tort being brought
+against him."
+I will only add to what has been already said by my noble and learned friend Lord
+Buckmaster with regard to the decisions and dicta relied upon by the appellant, and
+the other relevant reported cases that I am unable to explain how the cases of
+dangerous articles can have been treated as "exceptions" if the appellant's
+contention is well founded. Upon the view which I take of the matter the reported
+cases, some directly, others impliedly, negative the existence as part of the
+Common Law of England of any principle affording support to the appellant's
+claim, and therefore there is in my opinion no material from which it is legitimate
+for your Lordships' House to deduce such a principle.
+
+Lord Thankerton
+MY LORDS,
+In this action the Appellant claims reparation from the Respondent in respect of
+illness and other injurious effects resulting from the presence of a decomposed
+snail in a bottle of ginger beer, alleged to have been manufactured by the
+Respondent, and which was partially consumed by her, it having been ordered by a
+friend on her behalf in a cafe in Paisley.
+The action is based on negligence, and the only question in this appeal is whether,
+taking the Appellant's averments pro veritate , they disclose a case relevant in law,
+so as to entitle her to have them remitted for proof. The Lord Ordinary allowed a
+proof, but, on a reclaiming note for the Respondent, the Second Division of the
+Court of Session recalled the Lord Ordinary's interlocutor and dismissed the action,
+following their decision in the recent cases of Mullen v. Barr & Co. and McGowan
+v. Barr & Co. , 1929 S.C. 461.
+The Appellant's case is that the bottle was sealed with a metal cap, and was made
+of dark opaque glass, which not only excluded access to the contents before
+consumption if the contents were to retain their aerated condition, but also
+excluded the possibility of visual examination of the contents from outside; and
+that on the side of the bottle there was pasted a label containing the name and
+address of the Respondent, who was the manufacturer. She states that the
+shopkeeper, who supplied the ginger beer, opened it and poured some of its
+contents into a tumbler, which contained some ice cream, and that she drank some
+of the contents of the tumbler; that her friend then lifted the bottle and was pouring
+the remainder of the contents into the tumbler, when a snail, which had been,
+unknown to her, her friend, or the shopkeeper, in the bottle, and was in a state of
+decomposition, floated out of the bottle.
+The duties which the Appellant accuses the Respondent of having neglected may
+be summarised as follows:
+(a) that the ginger beer was manufactured by the Respondent or his
+servants to be sold as an article of drink to members of the public
+(including the Appellant), and that accordingly it was his duty to
+exercise the greatest care in order that snails would not get into the
+bottles, render the ginger beer dangerous and harmful, and be sold
+with the ginger beer,
+
+(b) a duty to provide a system of working his business which would
+not allow snails to get into the sealed bottles, and in particular would
+not allow the bottles when washed to stand in places to which snails
+had access,
+(c) a duty to provide an efficient system of inspection, which would
+prevent snails getting into the sealed bottles, and
+(d) a duty to provide clear bottles, so as to facilitate the said system
+of inspection.
+There can be no doubt, in my opinion, that equally in the law of Scotland and of
+England it lies upon the party claiming redress in such a case to show that there
+was some relation of duty between her and the defender which required the
+defender to exercise due and reasonable care for her safety. It is not at all necessary
+that there should be any direct contract between them, because the action is not
+based upon contract, but upon negligence; but it is necessary for the pursuer in
+such an action to show there was a duty owed to her by the defender, because a
+man cannot be charged with negligence if he has no obligation to exercise
+diligence — Kemp & Dougall v Darngavil Coal Co. , 1909 S.C. 1314, per Lord
+Kinnear at p. 1319; See also Clelland v. Robb , 1911 S.C. 253, per Lord President
+Dunedin and Lord Kinnear at p. 256. The question in each case is whether the
+pursuer has established, or, in the stage of the present appeal, has relevantly
+averred, such facts as involve the existence of such a relation of duty.
+We are not dealing here with a case of what is called an article per se dangerous or
+one which was known by the defender to be dangerous, in which cases a special
+duty of protection or adequate warning is placed upon the person who uses or
+distributes it. The present case is that of a manufacturer and a consumer, with
+whom he has no contractual relation, of an article which the manufacturer did not
+know to be dangerous, and, unless the consumer can establish a special relationship
+with the manufacturer, it is clear, in my opinion, that, neither the Law of Scotland
+nor the Law of England, will hold that the manufacturer has any duty towards the
+consumer to exercise diligence. In such a case the remedy of the consumer, if any,
+will lie against the intervening party from whom he has procured the article. I am
+aware that the American Courts, in the decisions referred to by my noble and
+learned friend Lord Macmillan, have taken a view more favourable to the
+consumer.
+The special circumstances, from which the Appellant claims that such a
+relationship of duty should be inferred, may, I think, be stated thus, viz. that the
+Respondent, in placing his manufactured article of drink upon the market, has
+
+intentionally so excluded interference with, or examination of, the article by any
+intermediate handler of the goods between himself and the consumer, that he has,
+of his own accord, brought himself into direct relationship with the consumer, with
+the result that the consumer is entitled to rely upon the exercise of diligence by the
+manufacturer to secure that the article shall not be harmful to the consumer. If that
+contention be sound, the consumer, on her showing that the article has reached her
+intact, and that she has been injured by the harmful nature of the article owing to
+the failure of the manufacturer to take reasonable care in its preparation prior to its
+enclosure in the sealed vessel, will be entitled to reparation from the manufacturer.
+In my opinion the existence of a legal duty under such circumstances is in
+conformity with the principles of both the Law of Scotland and of the Law of
+England. The English cases demonstrate how impossible it is to finally catalogue,
+amid the ever varying types of human relationships, those relationships in which a
+duty to exercise care arises apart from contract, and each of these cases relates to
+its own set of circumstances, out of which it was claimed that the duty had arisen.
+In none of these cases were the circumstances identical with the present case as
+regards that which regard as the essential element in this case, viz., the
+manufacturer's own action in bringing himself into direct relationship with the
+party injured. I have had the privilege of considering the discussion of these
+authorities by my noble and learned friend Lord Atkin in the judgment which he
+has just delivered, and I so entirely agree with it that I cannot usefully add anything
+to it.
+An interesting illustration of similar circumstances is to be found in Gordon v.
+McHardy , (1903) 6 F. 210, in which the pursuer sought to recover damages from a
+retail grocer on account of the death of his son by ptomaine poisoning, caused by
+eating tinned salmon purchased from the defender. The pursuer averred that the tin,
+when sold, was dented, but he did not suggest that the grocer had cut through the
+metal and allowed air to get in, or had otherwise caused injury to the contents. The
+action was held irrelevant, the Lord Justice Clerk remarking, "I do not see how the
+defender could have examined the tin of salmon which he is alleged to have sold
+without destroying the very condition which the manufacturer had established in
+order to preserve the contents, the tin not being intended to be opened until
+immediately before use." Apparently in that case the manufacturers' label was off
+the tin when sold, and they had not been identified. I should be sorry to think that
+the meticulous care of the manufacturer to exclude interference or inspection by
+the grocer in that case should relieve the grocer of any responsibility to the
+consumer without any corresponding assumption of duty by the manufacturer.
+My Lords, I am of opinion that the contention of the Appellant is sound and that
+she has relevantly averred a relationship of duty as between the Respondent and
+herself, as also that her averments of the Respondent's neglect of that duty are
+
+relevant.
+The cases of Mullen and McGowan which the learned Judges of the Second
+Division followed in the present case related to facts similar in every respect
+except that the foreign matter was a decomposed mouse. In these cases the same
+Court—Lord Hunter dissenting—held that the manufacturer owed no duty to the
+consumer. The view of the majority was that the English authorities excluded the
+existence of such a duty, but Lord Ormidale (at p. 471) would otherwise have been
+prepared to come to a contrary conclusion. Lord Hunter's opinion seems to be in
+conformity with the view I have expressed above.
+My conclusion rests upon the facts averred in this case, and would apparently also
+have applied in the cases of Mullen and McGowan , in which, however, there had
+been a proof before answer, and there was also a question as to whether the
+pursuers had proved their averments.
+I am therefore of opinion that the appeal should be allowed and the case should be
+remitted for proof, as the pursuer did not ask for an issue.
+Lord Macmillan
+MY LORDS,
+The incident which in its legal bearings your Lordships are called upon to consider
+in this appeal was in itself of a trivial character, though the consequences to the
+appellant, as she describes them, were serious enough. It appears from the
+appellant's allegations that on an evening in August, 1928, she and a friend visited
+a cafe" in Paisley, where her friend ordered for her some ice cream and a bottle of
+ginger beer. These were supplied by the Shopkeeper, who opened the ginger beer
+bottle and poured some of the contents over the ice cream which was contained in
+a tumbler. The appellant drank part of the mixture and her friend then proceeded to
+pour the remaining contents of the bottle into the tumbler. As she was doing so a
+decomposed snail floated out with the ginger beer. In consequence of her having
+drunk part of the contaminated contents of the bottle the appellant alleges that she
+contracted a serious illness. The bottle is stated to (have been of dark opaque glass,
+so that the condition of the contents could not be ascertained by inspection, and to
+have been closed with a metal cap, while on the side was a label bearing the name
+of the respondent, who was the manufacturer of the ginger beer of which the
+shopkeeper was merely the retailer.
+The allegations of negligence on which the appellant founds her action against the
+respondent may be shortly summarised. She says that the ginger beer was
+
+manufactured by the respondent for sale as an article of drink to members of the
+public, including herself; that the presence of a decomposing snail in ginger beer
+renders the ginger beer harmful and dangerous to those consuming it; and that it
+was the duty of the respondent to exercise his process of manufacture with
+sufficient care to prevent snails getting into or remaining in the bottles which he
+filled with ginger beer. The appellant attacks the respondent's system of conducting
+his business, alleging that he kept his bottles in premises to which snails (had
+access and that he failed to have his bottles properly inspected for the presence of
+foreign matter before he filled them.
+The respondent challenged the relevancy of the appellant's averments and, taking
+them pro veritate , as for this purpose he was bound to do, pleaded that they
+disclosed no ground of legal liability on his part to the appellant.
+The Lord Ordinary repelled the respondent's plea to the relevancy and allowed the
+parties a proof of their averments, but on a reclaiming note their Lordships of the
+Second Division (Lord Hunter dissenting, or perhaps more accurately, protesting)
+dismissed the action and in doing so followed their decision in the previous cases
+of Mullen v. Barr & Co. and McGowan v. Barr & Co. , 1929 S.C. 461. The only
+difference in fact between those cases and the present case is that it was a mouse
+and not a snail which was found in the ginger beer. The present appeal is
+consequently in effect against the decision in these previous cases, which I now
+proceed to examine.
+The two cases, being to all intents and purposes identical, were heard and decided
+together. In Mullen v. Barr & Co. the Sheriff-Substitute allowed a proof, but the
+Sheriff on appeal dismissed the action as irrelevant. In McGowan v. Barr & Co. the
+Sheriff-Substitute allowed a proof and the Sheriff altered his interlocutor by
+allowing a proof before answer, that is to say, a proof under reservation of all
+objections to the relevancy of the action. On the cases coming before the Second
+Division on the appeals of the pursuer and the defenders respectively their
+Lordships ordered a proof before answer in each case arid the evidence was taken
+before Lord Hunter. It will be sufficient to refer to ullen's case in which their
+Lordships gave their reasons for assoilzieing the defenders in both cases. The Lord
+Justice-Clerk held that negligence had not been proved and therefore did not
+pronounce upon the question of relevancy. Lord Ormidale held that there was no
+relevant case against the defenders, but would have been prepared if necessary to
+hold that in any case negligence had not been established by the evidence. Lord
+Hunter held that the case was relevant and that negligence had been proved. Lord
+Anderson held that the pursuer had no case in law against the defenders, but that if
+this view was erroneous, negligence had not been proved.
+I desire to draw special attention to certain passages in the opinions of their
+
+Lordships. At p. 470 the learned Lord Justice Clerk states that he prefers " to base
+his judgment on the proposition that the pursuer has failed to prove fault on the
+part of the defenders" and feels " absolved from expressing a concluded opinion on
+the thorny and difficult question of law whether, assuming fault to be proved on
+the part of the defenders, the pursuer has in law a right to sue them." In the present
+case his Lordship, after pointing out that he had formally reserved his opinion on
+the point in Mullen v. Barr & Co. proceeds :—
+"I think I indicated not obscurely the view which I entertained on a
+perusal of the English cases,"
+and to that view, in deference to the English cases which his Lordship has
+reconsidered, he has given effect adversely to the present appellant. That the
+opinions of the majority of the judges of the second Division in Mullen's case on
+the question of relevancy are founded entirely on their reading of the series of
+English cases cited to them is made clear by Lord Ormidale. After stating the
+questions in the case, the first being "whether, in the absence of any contractual
+relation between the pursuers and the defenders, the latter owed a duty to the
+pursuers, as the consumers of the beer, of taking precautions to see that nothing of
+a poisonous or deleterious nature was allowed to enter and remain in the bottles,"
+his Lordship proceeds:
+"I recognise the difficulty of determining the first of these questions
+with either confidence or satisfaction; and were it not for the
+unbroken and consistent current of decisions beginning with
+Winterbottom v. Wright (1842, 10 M. & W., 109) to which we were
+referred I should have been disposed to answer it in the affirmative.
+The evidence shows that the greatest care is taken by the
+manufacturers to ensure by tab and label that the ginger beer should
+pass, as it were, from the hand of the maker to the hand of the
+ultimate user uninterfered with by the retail dealer—who has little
+interest in, and no opportunity of, examining the contents of the
+containers. Accordingly it would appear to be reasonable and
+equitable to hold that, in the circumstances and apart altogether from
+contract, there exists a relationship of duty as between the maker and
+the consumer of the beer. Such considerations, however, as I read the
+authorities, have been held to be irrelevant in analogous
+circumstances."
+Lord Ormidale thus finds himself constrained to reach a conclusion which appears
+to him to be contrary to reason and equity by his reading of what he describes as an
+"unbroken and consistent current of decisions beginning with Winterbottom v.
+Wright ." In view of the deference thus paid to English precedents it is a singular
+
+fact that the case of Winterbottom v. Wright is one in which no negligence in the
+sense of breach of a duty owed by the defendant to the plaintiff was alleged on the
+part of the defendant. The truth, as I hope to show, is that there is in the English
+reports no such "unbroken and consistent current of decisions" as would justify the
+aspersion that the law of England has committed itself irrevocably to what is
+neither reasonable nor equitable, or require a Scottish judge in following them to
+do violence to his conscience. "In my opinion," said Lord Esher in Emmens v.
+Pottle, 1885, 16 Q.B.D., 354 at pp. 357-8, "any proposition the result of which
+would be to show that the common law of England is wholly unreasonable and
+unjust cannot be part of the common law of England."
+At your Lordships' bar Counsel for both parties to the present appeal, accepting, as
+I do also, the view that there is no distinction between the law of Scotland and the
+law of England in the legal principles applicable to the case, confined their
+arguments to the English authorities. The appellant endeavoured to establish that
+according to the law of England the pleadings disclose a good cause of action; the
+respondent endeavoured to show that on the English decisions the appellant had
+stated no admissible case. I propose therefore to address myself at once to an
+examination of the relevant English precedents.
+I observe in the first place that there is no decision of this House upon the point at
+issue, for I agree with Lord Hunter that such cases as Cavalier v. Pope [1906] A.C.
+428 and Cameron v. Young [1909] A.C. 640 which decided that "a stranger to a
+lease cannot found upon a landlord's failure to fulfil obligations undertaken by him
+under contract with his lessee" are in a different chapter of the law. Nor can it by
+any means be said that the cases present "an unbroken and consistent current" of
+authority for some flow one way and some the other.
+It humbly appears to me that the diversity of view which is exhibited in such cases
+as George v. Skivington , 1869, L.R. 5 Ex. 1 on the one hand and Blacker v. Lake
+& Elliot , 1912, 106 L.T. 533, on the other hand—to take two extreme instances—
+is explained by the fact that in the discussion of the topic which now engages your
+Lordships' attention two rival principles of the law find a meeting place where each
+has contended for supremacy. On the one hand there is the well-established
+principle that no one other than a party to a contract can complain of a breach of
+that contract. On the other hand there is the equally well-established doctrine that
+negligence apart from contract gives a right of action to the party injured by that
+negligence—and here I use the term negligence of course in its technical legal
+sense, implying a duty owed and neglected. The fact that there is a contractual
+relationship between the parties which may give rise to an action for breach of
+contract does not exclude the co-existence of a right of action founded on
+negligence as between the same parties independently of the contract though
+arising out of the relationship in fact brought about by the contract. Of this the best
+
+illustration is the right of the injured railway passenger to sue the railway company
+either for breach of the contract of safe carriage or for negligence in carrying him.
+And there is no reason why the same set of facts should not give one person a right
+of action in contract and another person a right of action in tort. I may be permitted
+to adopt as my own the language of a very distinguished English writer on this
+subject:
+"It appears," says Sir Frederick Pollock (Law of Tarts, 13th ed., p.
+570) "that there has been (though perhaps there is no longer) a
+certain tendency to hold that facts which constitute a contract cannot
+have any other legal effect. The authorities formerly relied on for
+this proposition really proved something different and much more
+rational, namely, that if A breaks his contract with B (which may
+happen without any personal default in A or A's servants) that is not
+of itself sufficient to make A liable to C, a stranger to the contract,
+for consequential damage. This, and only this, is the substance of the
+perfectly correct decision of the Court of Exchequer in Winterbottom
+v. Wright (cit. sup.) and Longmeid v. Holliday (1851, 6 Ex. 761). In
+each case the defendant delivered under a contract of sale or hiring a
+chattel which was in fact unsafe to use but in the one case it was not
+alleged, in the other was alleged but not proved, to have been so to
+his knowledge. In each case a stranger to the contract using the
+chattel—a coach in the one case, a lamp in the other—in the ordinary
+way came to harm through its dangerous condition and was held not
+to have any cause of action against the purveyor. Not in contract, for
+there was no contract between these parties; not in tort, for no bad
+faith or negligence on the defendant's part was proved."
+Where, as in cases like the present, so much depends upon the avenue of approach
+to the question it is very easy to take the wrong turning. If you begin with the sale
+by the manufacturer to the retail dealer, then the consumer who purchases from the
+retailer is at once seen to be a stranger to the contract between the retailer and the
+manufacturer and so disentitled to sue upon it. There is no contractual relation
+between manufacturer and the consumer and thus the plaintiff if he is to succeed is
+driven to try to bring himself within one or other of the exceptional cases where the
+strictness of the rule that none but a party to a contract can found on a breach of
+that contract has been mitigated in the public interest as it has been in the case of a
+person who issues a chattel which is inherently dangerous or which he knows to be
+in a dangerous condition. If on the other hand you disregard the fact that the
+circumstances of the case at one stage include the existence of a contract of sale
+between the manufacturer and the retailer and approach the question by asking
+whether there is evidence of carelessness on the part of the manufacturer and
+whether he owed a duty to be careful in a question with the party who has been
+
+injured in consequence of his want of care, the circumstance that the injured party
+was not a party to the incidental contract of sale becomes irrelevant and his title to
+sue the manufacturer is unaffected by that circumstance. The appellant in the
+present instance asks that her case be approached as a case of delict not as a case of
+breach of contract. She does not require to invoke the exceptional cases in which a
+person not a party to a contract has been held to be entitled to complain of some
+defect in the subject matter of the contract which has caused him harm. The
+exceptional case of things dangerous in themselves or known to be in a dangerous
+condition has been regarded as constituting a peculiar category outside the ordinary
+law both of contract and of tort. I may observe that it seems to me inaccurate to
+describe the case of dangerous things as an exception to the principle that no one
+but a party to a contract can sue on that contract. I rather regard this type of case as
+a special instance of negligence where the law exacts a degree of diligence so
+stringent as to amount practically to a guarantee of safety.
+With these preliminary observations I turn to the series of English cases which is
+said to compose the consistent body of authority on which we are asked to non-suit
+the appellant. It will be found that in most of them the facts were very different
+from the facts of the present case and did not give rise to the special relationship
+and consequent duty which in my opinion is the deciding factor here. Dixon v.
+Bell , 1816, 5 M. & S. 198 is the starting point. There a maidservant was sent to
+fetch a gun from a neighbour's house; on the way back she pointed it at a child and
+the gun went off and injured the child. The owner of the gun was held liable for the
+injury to the child on the ground that he should have seen that the charge was
+drawn before he entrusted the gun to the maid-servant. "It was incumbent on him
+who, by charging the gun, had made it capable of doing mischief, to render it safe
+and innoxious." This case in my opinion merely illustrates the high degree of care,
+amounting in effect to insurance against risk, which the law exacts from those who
+take the responsibility of giving out such dangerous things as loaded firearms. The
+decision if it has any relevance is favourable to the appellant who submits that
+human drink rendered poisonous by careless preparation may be as dangerous to
+life as any loaded firearm. Langridge v. Levy 1837, 2 M. & W. 519; 4 M. & W.
+337, is another case of a gun, this time of defective make and known to the vendor
+to be defective. The purchaser's son was held entitled to sue for damages in
+consequence of injuries sustained by him through the defective condition of the
+gun causing it to explode. The ground of the decision seems to have been that there
+was a false representation by the vendor that the gun was safe, and the
+representation appears to have been held to extend to the purchaser's son. The case
+is treated by commentators as turning on its special circumstances and as not
+deciding any principle of general application. As for Winterbottom v. Wright (cit.
+sup.} and Longmeid v. Holliday (cit. sup.), neither of these cases is really in point
+for the reason indicated in the passage from Sir Frederick Pollock's treatise which I
+have quoted above. Then comes George v. Skivington , 1869, L.R. 5 Ex. 1, which
+
+is entirely in favour of the appellant's contention. There was a sale in that case by a
+chemist of some hair wash to a purchaser for the use of his wife, who suffered
+injury from using it by reason of its having been negligently compounded. As
+Kelly C.B. points out the action was not founded on any warranty implied in the
+contract of sale between the vendor and the purchaser, and the plaintiff, the
+purchaser's wife, was not seeking to sue on the contract to which she was not a
+party. The question, as the Chief Baron stated it, was "whether the defendant, a
+chemist, compounding the article sold for a particular purpose and knowing of the
+purpose for which it was bought is liable in an action on the case for unskilfulness
+and negligence in the manufacture of it whereby the person who used it was
+injured." And this question the Court unanimously answered in the affirmative. I
+may mention in passing that Lord Atkinson in this House speaking of that case and
+Langridge v. Levy (cit. sup.) observed that "in both these latter cases the defendant
+represented that the article sold was fit and proper for the purposes for which it was
+contemplated that it should be used and the party injured was ignorant of its
+unfitness for these purposes." It is true that George v. Skiving ton. has been the
+subject of some criticism and was said by Hamilton, J., as he then was, in Blacker
+v. Lake & Elliot , 1912, 106 L.T. 533, to have been in later cases as nearly
+disaffirmed as is possible without being expressly overruled. I am not sure that it
+has been so severely, handled as that. At any rate I do not think that it deserved to
+be and certainly, so far as I am aware, it has never been disapproved in this House.
+It has been cited in a judgment of the Privy Council by Lord Dunedin without any
+indication of disapproval (Dominion Natural Gas Co. v. Collins [1909], A.C. 640,
+at p. 646). Heaven v. Fender, 1883, 11 Q.B.D. 503, has probably been more quoted
+and discussed in this branch of the law than any other authority, because of the
+dicta of Sir Baliol Brett, M.R., as he then was. on the general principles regulating
+liability to third parties. In his opinion "it may safely be affirmed to be a true
+proposition" that "whenever one person is by circumstances placed in such a
+position with regard to another that everyone of ordinary sense who did think
+would at once recognise that if he did not use ordinary care and skill in his own
+conduct with regard to those circumstances he would cause danger of injury to the
+person or property of the other, a duty arises to use ordinary care and skill to avoid
+such danger." The passage specially applicable to the present case is as follows:
+"Whenever one person supplies goods … for the purpose of their
+being used by another person under such circumstances that
+everyone of ordinary sense would, if he thought, recognise at once
+that unless he used ordinary care and skill with regard to the
+condition of the thing supplied or the mode of supplying it there will
+be danger of injury to the person or property of him for whose use
+the thing is supplied and who is to use it, a duty arises to use
+ordinary care and skill as to the condition or manner of supplying
+such thing. And for a neglect of such ordinary care or skill whereby
+
+injury happens a legal liability arises, to be enforced by an action for
+negligence."
+Cotton, L.J., with whom Bowen, L.J., agreed, expressed himself as "unwilling to
+concur with the Master of the Rolls in laying down unnecessarily the larger
+principle which he entertains inasmuch as there are many cases in which the
+principle was impliedly negatived," but the decision of the Court of Appeal was
+unanimously in the plaintiff's favour. The passages I have quoted like all attempts
+to formulate principles of law compendiously and exhaustively may be open to
+some criticism and their universality may require some qualification but as
+enunciations of general legal doctrine I am prepared, like Lord Hunter, to accept
+them as sound guides. I now pass to the three modern cases of Earl v. Lubbock
+[1905], 1 K.B. 253, Blacker v. Lake & Elliot , cit. sup. and Bates v. Batey & Co.,
+Ltd. [1913], 3 K.B. 351. The first of these cases related to a van which had recently
+been repaired by the defendant under contract with the owner of the van. A driver
+in the employment of the owner was injured in consequence of a defect in the van
+which was said to be due to the careless manner in which the repairer had done his
+work. It was held that the driver had no right of action against the repairer. The
+case turns upon the rule that a stranger to a contract cannot found an action of tort
+on a breach of that contract. It was pointed out that there was no evidence that the
+plaintiff had been invited by the defendant to use the van and the van owner was
+not complaining of the way in which the van had been repaired. The negligence, if
+negligence there was, was too remote and the practical consequences of affirming
+liability in such a case were considered to be such as would render it difficult to
+carry on a trade at all. No prudent man,says Mathew, L.J., "would contract to make
+or repair what the employers intended to permit others to use in the way of his
+trade. The species facti in that case seems to me to differ widely from the
+circumstances of the present case where the manufacturer has specifically in view
+the use and consumption of his products by the consumer and where the retailer is
+merely the vehicle of transmission of the products to the consumer and by the
+nature of the products is precluded from inspecting or interfering with them in any
+way. The case of Blacker v. Lake & Elliot (cit. sup.) is of importance because of
+the survey of previous decisions which it contains. It related to a brazing lamp
+which, by exploding owing to a latent defect, injured a person other than the
+purchaser of it and the vendor was held not liable to the party injured. There
+appears to have been some difference of opinion between Hamilton, J., and Lush,
+J., who heard the case in the Divisional Court, as to whether the lamp was an
+inherently dangerous thing. The case seems to have turned largely on the question
+whether, there being a contract of sale of the lamp between the vendor and the
+purchaser, the article was of such a dangerous character as to impose upon the
+vendor in a question with a third party any responsibility for its condition. This
+question was answered, in the negative. So far as negligence was concerned, it may
+well have been regarded as too remote, for I find that Hamilton, J., used these
+
+words at p. 537 :—
+"In the present case all that can be said is that the defendants did not
+know that their lamp was not properly safe and had no reason to
+believe that it was not so, in the sense that no one had drawn their
+attention to the fact, but that had they been wiser men or more
+experienced men they would then have known what the plaintiff's
+experts say that they ought to have known."
+I should doubt indeed if that is really a finding of negligence at all. The case on its
+facts is very far from the present one and if any principle of general application can
+be derived from it adverse to the appellant's contention I should not be disposed to
+approve of such principle. I may add that in White v. Steadman [1913] 3 K.B., 340,
+at p. 348, I find that Lush, J., who was a party to the decision in Blacker v. Lake &
+Elliot t, expressed the view "that a person who has the means of knowledge and
+only does not know that the animal or 'chattel which he supplies is dangerous
+because he does not take ordinary care to avail himself of his opportunity of
+knowledge is in precisely the same position as the person who knows". As for
+Bates v. Batey & Co. , Ltd., cit. sup., where a ginger beer bottle burst owing to a
+defect in it which though unknown to the manufacturer of the ginger beer could
+have been discovered by him by the exercise of reasonable care, Horridge J., there
+held that the plaintiff, who bought the bottle of ginger beer from a retailer to whom
+the manufacturer had sold it and who was injured by its explosion, had no right of
+action against the manufacturer. The case does not advance matters for it really
+turns upon the fact that the manufacturer did not know that the bottle was defective
+and this in the view of Horridge J., as he read the authorities, was enough to
+absolve the manufacturer. I would observe that in a true case of negligence
+knowledge of the existence of the defect causing damage is not an essential
+element at all.
+This summary survey is sufficient to show what more detailed study confirms that
+the current of authority has by no means always set in the same direction. In
+addition to George v. Skivington cit. sup. there is the American case of Thomas v.
+Winchester , 1852, 6 N.Y., 397, which has met with considerable acceptance in this
+country and which is distinctly on the side of the appellant. There a chemist
+carelessly issued in response to an order for extract of dandelion, a bottle
+containing belladonna which he labelled extract of dandelion, with the
+consequence that a third party who took a dose from the bottle suffered severely.
+The chemist was held responsible. This case is quoted by Lord Dunedin in giving
+the judgment of the Privy Council in Dominion Natural Gas Co. v. Collins (cit.
+sup.) as an instance of liability to third parties and I think it was a sound decision.
+In the American Courts the law has advanced considerably in the development of
+
+the principle exemplified in Thomas v. Winchester . In one of the latest cases in the
+United States, Macpherson v. Buick Motor Co ., 1916, 217 N.Y. 382, the plaintiff
+who had purchased from a retailer a motor car manufactured by the defendant
+company was injured in consequence of a defect m the construction of the car and
+was held entitled to recover damages from the manufacturer. Cardozo, J., the very
+eminent Chief Judge of the New York Court of Appeals, and now an Associate
+Justice of the United States Supreme Court, thus stated the law :
+"There is no claim that the defendant knew of the defect and wilfully
+concealed it. … The charge is one, not of fraud, but of negligence.
+The question to be determined is whether the defendant owed a duty
+of care and vigilance to anyone but the immediate purchaser. The
+principle of Thomas v. Winchester is not limited to poisons,
+explosives and things of like nature, to things which, in their normal
+operation, are implements of destruction. If the nature of a thing is
+such that it is reasonably certain to place life and limb in peril when
+negligently made, it is then a thing of danger. Its nature gives
+warning of the consequences to be expected. If to the element of
+danger there is added knowledge that the thing will be used by
+persons other than the purchaser, and used without new tests, then
+irrespective of contract, the manufacturer of this thing of danger is
+under a duty to make it carefully. That is as far as we are required to
+go for the decision of this case. There must be knowledge of a
+danger, not merely possible, but probable … There must also be
+knowledge that in the usual course of events the danger will, be
+shared by others than the buyer. Such knowledge may often be
+inferred from the nature of the transaction. … The dealer was indeed
+the one person of whom it might be said with some approach to
+certainty that by him the car would not be used. Yet the defendant
+would have us say that he was the one person whom it [the defendant
+company] was under a legal duty to protect. The law does not lead us
+to so inconsequent a conclusion. "
+The prolonged discussion of English and American cases into which I have been
+led might well dispose your Lordships to think that I had forgotten that the present
+is a Scottish appeal which must be decided according to Scots law. But this
+discussion has been rendered inevitable by the course of the argument at your
+Lordships' bar which, as I have said, proceeded on the footing that the law
+applicable to the case was the same in England and Scotland. Having regard to the
+inconclusive state of the authorities in the courts below and to the fact that the
+important question involved is now before your Lordships for the first time I think
+it desirable to consider the matter from the point of view of the principles
+applicable to this branch of law which are admittedly common to both English and
+
+Scottish jurisprudence.
+The law takes no cognisance of carelessness in the abstract. It concerns itself with
+carelessness only where there is a duty to take care and where failure in that duty
+has caused damage. In such circumstances carelessness assumes the legal quality
+of negligence and entails the consequences in law of negligence. What then are the
+circumstances which give rise to this duty to take care ? In the daily contacts of
+social and business life human beings are thrown into or place themselves in an
+infinite variety of relationships with their fellows and the law can refer only to the
+standards of the reasonable man in order to determine whether any particular
+relationship gives rise to a duty to take care as between those who stand in that
+relationship to each other. The grounds of action may be as various and manifold
+as human errancy and the conception of legal responsibility may develop in
+adaptation to altering social conditions and standards. The criterion of judgment
+must adjust and adapt itself to the changing circumstances of life. The categories of
+negligence are never closed. The cardinal principle of liability is that the party
+complained of should owe to the party complaining a duty to take care and that the
+party complaining should be able to prove that he has suffered damage in
+consequence of a breach of that duty. Where there is room for diversity of view is
+in determining what circumstances will establish such a relationship between the
+parties as to give rise on the one side to a duty to take care and on the other side to
+a right to have care taken To descend from these generalities to the circumstances
+of the present case I do not think that any reasonable man or any twelve reasonable
+men would hesitate to hold that if the appellant establishes her allegations the
+respondent has exhibited carelessness in the conduct of his business. For a
+manufacturer of aerated water to store his empty bottles in a place where snails can
+get access to them and to fill his bottles without taking any adequate precautions by
+inspection or otherwise to ensure that they contain no deleterious foreign matter
+may reasonably be characterised as carelessness without applying too exacting a
+standard. But, as I have pointed out, it is not enough to prove the respondent to be
+careless in (his process of manufacture. The question is, does he owe a duty to take
+care, and to whom does he owe that duty? Now I have no hesitation in affirming
+that a person who for gain engages in the business of manufacturing articles of
+food and drink intended for consumption by members of the public in the form in
+which he issues them is under a duty to take care in the manufacture of these
+articles. That duty, in my opinion, he owes to those whom he intends to consume
+his products. He manufactures his commodities for human consumption; he intends
+and contemplates that they shall be consumed. By reason of that very fact he places
+himself in a relationship with all the potential consumers of his commodities and
+that relationship which he assumes and desires for this own ends imposes upon him
+a duty to take care to avoid injuring them. He owes them a duty not to convert by
+his own carelessness an article which he issues to them as wholesome and innocent
+into an article which is dangerous to life and health. It is sometimes said that
+
+liability can only arise where a reasonable man would have foreseen and could
+have avoided the consequences of his act or omission. In the present case the
+respondent, when he manufactured his ginger beer, had directly in contemplation
+that it would be consumed by members of the public; can it be said that he could
+not be expected as a reasonable man to foresee that if lie conducted (his process of
+manufacture carelessly he might injure those whom he expected and desired to
+consume his ginger beer? The possibility of injury so arising seems to me in no
+sense so remote as to excuse him from foreseeing it. Suppose that a baker through
+carelessness allows a large quantity of arsenic to be mixed with a batch of his
+bread, with the result that those who subsequently eat it are poisoned, could he be
+heard to say that he owed no duty to the consumers of his bread to take care that it
+was free from poison, and that, as 'he did not know that any poison bad got into it,
+his only liability was for breach of warranty under his. contract of sale to those
+who actually bought the poisoned bread from him? Observe that I have said
+through carelessness and thus excluded the case of a pure accident such as may
+happen where every care is taken. I cannot believe, and I do not believe, that
+neither in the law of England nor in the law of Scotland is there redress for such a
+case. The state of facts I have figured might well give rise to a criminal charge and
+the civil consequence of such carelessness can scarcely be less wide than its
+criminal consequences. Yet the principle of the decision appealed from is that the
+manufacturer of food products intended by him for human consumption does not
+owe to the consumers whom he has in view any duty of care, not even the duty to
+take care that he does not poison them.
+My Lords, the recognition by counsel that the law of Scotland applicable to the
+case was the same as the law of England implied that there was no special doctrine
+of Scots law which either the appellant or the respondent could invoke to support
+her or his case and your Lordships have thus been relieved of the necessity of a
+separate consideration of the law of Scotland. For myself I am satisfied that there is
+no specialty of Scots law involved and that the case may safely be decided on
+principles common to both systems. I am happy to think that in their relation to the
+practical problem of everyday life which this appeal presents the legal systems of
+the two countries are in no way at variance and that the principles of both alike are
+sufficiently consonant with justice and common sense to admit of the claim which
+appellant seeks to establish.
+I am anxious to emphasise that the principle of judgment which commends itself to
+me does not give rise to the sort of objection stated by Parke, B., at p. 768, in
+Longmeid v Holliday (cit. sup.), where he said :-
+"But it would be going much too far to say that so much care is
+required in the ordinary intercourse of life between one individual
+and another that if a machine, not in its nature dangerous, a carriage
+
+for instance, but which might become so by a latent defect entirely
+unknown although discoverable by the exercise of ordinary care
+should be lent or given by one person, even by the person who
+manufactured it to another, the former should be answerable to the
+latter for a subsequent damage accruing by the use of it."
+I read this passage rather as a note of warning that the standard of care exacted in
+human dealings with each other must not be pitched too high, than as giving any
+countenance to the view that negligence may be exhibited with impunity. It must
+always be a question of circumstances whether the carelessness amounts to
+negligence and whether the injury is not too remote from the carelessness. I can
+readily conceive that where a manufacturer has parted with his product and it has
+passed into other hands it may well be exposed to vicissitudes which may render it
+defective or noxious and for which the manufacturer could not in any view be held
+to be to blame. It may be a good general rule to regard responsibility as ceasing
+when control ceases. So also where between the manufacturer and the user there is
+interposed a party who has the means and opportunity of examining the
+manufacturer's product before he re-issues it to the actual user. But where as in the
+present case the article of consumption is so prepared as to be intended to reach the
+consumer in the condition in which it leaves the manufacturer and the
+manufacturer takes steps to ensure this by sealing or otherwise closing the
+container, so that the contents cannot be tampered with, I regard his control as
+remaining effective until the article reaches the consumer and the container is
+opened by him. The intervention of any exterior agency is intended to be excluded
+and was in fact in the present case excluded. It is doubtful whether in such a case
+there is any redress against the retailer ( Gordon v. McHardy , 1903, 6 F. 210).
+The burden of proof must always be upon the injured party to establish that the
+defect which caused the injury was present in the article when it left the hands of
+the party whom he sues, that the defect was occasioned by the carelessness of that
+party and that the circumstances are such as to cast upon the defender a duty to
+take care not to injure the pursuer. There is no presumption of negligence in such a
+case as the present, nor is there any justification for applying the maxim res ipsa
+loquitur . Negligence must be both averred and proved. The appellant accepts this
+burden of proof and in my opinion she is entitled to have an opportunity of
+discharging it if she can. I am accordingly of opinion that this appeal should be
+allowed, the judgment of the Second Division of the Court of Session reversed and
+the judgment of the Lord Ordinary restored.

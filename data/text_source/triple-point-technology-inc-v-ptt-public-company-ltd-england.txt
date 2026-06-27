@@ -1,0 +1,2383 @@
+Trinity Term
+[2021] UKSC 29
+On appeal from: [2019] EWCA Civ 230
+
+JUDGMENT
+
+Triple Point Technology, Inc (Respondent) v PTT
+Public Company Ltd (Appellant)
+before
+
+Lord Hodge, Deputy President
+Lady Arden
+Lord Sales
+Lord Leggatt
+Lord Burrows
+
+JUDGMENT GIVEN ON
+
+16 July 2021
+
+Heard on 12 November 2020
+
+Appellant
+
+Respondent
+James Howells QC
+
+Paul Darling QC
+Nicholas Maciolek
+
+Andrew Stafford QC
+
+Nathaniel Barber
+(Instructed by Watson
+Farley & Williams LLP)
+
+(Instructed by Kobre &
+Kim (UK) LLP (London))
+
+Page 2
+
+LADY ARDEN: (with whom Lord Leggatt and Lord Burrows agree)
+Outline of the software contract in issue, the issues on this appeal and my
+determination of them
+1.
+This is an appeal concerning a software contract which provides for the
+implementation and provision of a software-based business system. The appeal
+raises general issues about a provision for liquidated damages and specific issues
+about the limitation of remedies under this contract.
+2.
+The software contract (“the CTRM Contract”), dated 8 February 2013, was
+made between the appellant, PTT Public Company Ltd (“PTT”) and Triple Point
+Technology, Inc (“Triple Point”) for the design, installation (by data transmission),
+maintenance and licencing of software to assist PTT to carry on its business in
+commodity trading. Triple Point had to customise its proprietary software for
+commodity trading and risk management to the needs of PTT, and it was
+remunerated by reference to “milestones” set by the contract at which specified work
+had been done and steps completed. Triple Point also agreed to enter into
+maintenance, upgrade, replacement, online support and staff training obligations. It
+further agreed to enter into a perpetual licence. The terms of the Perpetual License
+Agreement (“PLA”), which formed part of the CTRM Contract, which was based
+on Triple Point’s standard form licence agreement and contained various warranties
+as to the quality of the software, were annexed to the main part of the CTRM
+Contract (“the Main Part”). There were provisions for checking that the software
+provided conformed to specification, ie achieved the agreed “functionality” or the
+purposes and range of functions that it was designed to perform: it is obvious that
+this was an important part of the CTRM Contract and that software defects could
+cause enormous financial and other harm to PTT.
+3.
+The CTRM Contract was not, therefore, simply a standard-form contract but
+was tailored to the requirements of this particular project. The governing law was
+English law. The provisions of the Main Part provided that, in the event of
+inconsistency between the PLA or other annexed parts, and the Main Part, the terms
+of the Main Part were to prevail (article 29).
+4.
+The parties agreed substantial limitations on the remedies available in the
+event of delay and so on. Liquidated damages were available for delay (article 5.3
+of the Main Part). There was a non-financial remedy for certain other breaches of
+contract in that in specified circumstances Triple Point had an opportunity to cure
+
+Page 3
+
+the defect. If it failed to do so, damages were payable but were limited to the fees
+paid for the relevant work (article 12.3 of the Main Part).
+5.
+The principal issue (“the availability of liquidated damages issue”) on this
+appeal is whether PTT is entitled under the CTRM Contract to liquidated damages
+for delay in respect of work which had not been completed before the contract was
+terminated. The second and third issues arise from article 12.3 of the Main Part
+which imposes a limit or “cap” on the amount of damages which PTT could claim
+for Triple Point’s breach of contract. Thus the second issue (“the cap carve-out for
+negligence issue”) is whether an exception from the cap in article 12.3 for
+negligence removes from the cap losses caused by Triple Point’s negligent breach
+of contract or only losses for the commission of some independent tort. The third
+issue (“capping of liquidated damages issue”) is whether liquidated damages fell
+within the cap on Triple Point’s liability imposed by article 12.3.
+6.
+In my judgment, for the reasons explained in this judgment, the Court of
+Appeal fell into error on Issue 1 in its approach to the liquidated damages clause,
+which failed to take account in the process of interpretation of the legal incidents
+and function of such clauses, and on Issue 2 in relation to the interpretation of the
+cap carve-out for negligence. However, on Issue 3, I conclude that the Court of
+Appeal was right to hold that (subject to the cap carve-out for negligence) liquidated
+damages fall within the cap.
+The facts in greater detail
+7.
+By the CTRM Contract, PTT, a Thai company, contracted with Triple Point
+for the provision of a software system which would facilitate its trading in certain
+commodities and manage their purchase, including their delivery and so on. Triple
+Point had standard terms, but it agreed to supplement these by customised terms,
+which were to have priority over its standard terms.
+8.
+The CTRM Contract was negotiated over a period of some six to seven
+months in 2012 and 2013 and the functional specifications for the software system
+to be supplied by Triple Point were ultimately recorded in the Terms of Reference
+and clarifications incorporated as annexes to the CTRM Contract. At the time the
+parties entered into the CTRM Contract, they had agreed the Contract Price for the
+Phase 1 Services, including business consultancy, design, configuration and
+implementation services, software licenses and year one software maintenance
+services, to be $6,920,000. The CTRM Contract was subsequently varied by the
+addition of two further order forms, with which this appeal is not directly concerned.
+
+Page 4
+
+Relevant terms of the CTRM Contract (the software contract)
+9.
+We are told that the CTRM Contract followed a structure used for software
+contracts which involve the implementation and provision of software-based
+business systems. There was no supply of hardware involved and no physical
+construction work. What Triple Point agreed to do was to design, implement,
+support and maintain an IT system which was to be built based upon configurable
+packages of Triple Point proprietary software marketed for use in businesses
+focussed upon trading in petrochemicals and other commodities markets.
+10.
+In article 1.2 of the Main Part, “Services” were defined in wide terms to
+include almost anything done by Triple Point under the CTRM Contract:
+“all activities rendered by CONTRACTOR to PTT in
+connection with the Project.”
+11.
+Article 5 of the Main Part provided for Triple Point to perform the Services
+in accordance with the Project Plan (which set out the timetable for performance)
+and to pay damages for delay:
+“ARTICLE 5. SCHEDULE OF SERVICES
+1.
+The Services to be performed by the CONTRACTOR
+shall be in conformance with the Schedule for the Services
+(‘Project Plan’) as proposed by the CONTRACTOR and
+accepted by PTT.
+2.
+The CONTRACTOR shall use its best effort and
+professional abilities to complete Phase 1 of the Project within
+460 calendar days after the Effective Date. If however such
+date is not attainable due to a delay out of the control of the
+CONTRACTOR, the CONTRACTOR shall continue to
+perform the Services for the time necessary to complete the
+project. This extension will require written approval from PTT.
+(Para numbers added)
+3.
+If CONTRACTOR fails to deliver work within the time
+specified and the delay has not been introduced by PTT,
+CONTRACTOR shall be liable to pay the penalty at the rate of
+0.1% (zero point one percent) of undelivered work per day of
+
+Page 5
+
+delay from the due date for delivery up to the date PTT accepts
+such work, provided, however, that if undelivered work has to
+be used in combination with or as an essential component for
+the work already accepted by PTT, the penalty shall be
+calculated in full on the cost of the combination.” (Para
+numbers added)
+12.
+Article 12 of the Main Part provided for Triple Point to use reasonable care
+and skill, and limits on its liability (by way of a “cap”) and restrictions on PTT’s
+remedies:
+“ARTICLE 12. LIABILITY AND RESPONSIBILITY
+12.1 CONTRACTOR shall exercise all reasonable skill, care
+and diligence and efficiency in the performance of the Services
+under the Contract and carry out all his responsibilities in
+accordance
+with
+recognized
+international
+professional
+standards. [...]
+12.3 CONTRACTOR shall be liable to PTT for any damage
+suffered by PTT as a consequence of CONTRACTOR’s breach
+of contract, including software defects or inability to perform
+‘Fully Complies’ or ‘Partially Complies’ functionalities as
+illustrated in Section 24 of Part III Project and Services. The
+total liability of CONTRACTOR to PTT under the Contract
+shall be limited to the Contract Price received by
+CONTRACTOR with respect to the services or deliverables
+involved under this Contract. Except for the specific remedies
+expressly identified as such in this Contract, PTT’s exclusive
+remedy for any claim arising out of this Contract will be for
+CONTRACTOR, upon written notice, to use best endeavor to
+cure the breach at its expense, or failing that, to return the fees
+paid to CONTRACTOR for the Services or Deliverables
+related to the breach. This limitation of liability shall not apply
+to CONTRACTOR’s liability resulting from fraud, negligence,
+gross negligence or wilful misconduct of CONTRACTOR or
+any of its officers, employees or agents.”
+13.
+Article 13 of the Main Part provided:
+“ARTICLE 13. INDEMNITY
+
+Page 6
+
+13.1 Each party shall indemnify, protect, defend and hold
+harmless the other party, its affiliates and their respective
+directors, officers, agents and employees from and against all
+losses, damages, liabilities and claims, including legal
+expenses, arising out of or relating to the performance or
+obligation of CONTRACTOR under this Contract, provided
+that such losses, damages, liabilities and claims shall occur as
+a consequence of the errors, omissions, negligence or wilful
+misconduct of the indemnifying party, its personnel or agents
+on the CONTRACTOR’s part.”
+14.
+Article 18 of the Main Part provided:
+“18.1 Payment shall be made by milestone as indicated in the
+below table. The CONTRACTOR shall submit invoice to PTT
+(1 original and 2 copies) along with sign off document of each
+milestone in section 23, DELIVERABLES of Part III Project
+and Services.”
+
+Milestone
+Percentage of Payment
+of Total Contract Value
+Phase 1
+Project Preparation and Review
+Business Process
+15%
+Phase 2
+Business Blueprint
+Phase 3
+Implementation and Configuration
+30%
+Phase 4
+Functional/Technical Test
+Phase 5
+Core Team Training
+45%
+Phase 6
+UAT/End User Training
+Phase 7
+Final Preparation
+Phase 8
+Go-Live and Post Implementation
+Support
+10%
+Phase 9
+First Month End Closing
+Total
+100%
+
+Page 7
+
+15.
+Articles 28 and 29 of the Main Part provided:
+“ARTICLE 28. MODIFICATION TO CONTRACT
+This Contract consists of the Contract document and the
+Exhibits thereto.
+Exhibit 1
+Letter of Intent Number 4110000917 and
+Terms of Reference (TOR) For Commodity Trading &
+Risk Management (CTRM) System, Rev June 13, 2012
+Exhibit 2
+Technical Document (Clarification)
+Exhibit 3
+Triple Point Software Product Perpetual
+License Agreement, Software Maintenance Services
+and Order Form 2012 (dated January 31, 2013)
+Exhibit 4
+Performance Security
+The Contract constitutes the entire agreement between PTT and
+CONTRACTOR and shall not be altered, amended or modified
+except in writing which shall bear the authorized signatures of
+both parties.
+ARTICLE 29. ORDER OF PRECEDENCE
+In the event of a conflict in the provisions of this Contract, the
+following shall prevail in the order set forth below:
+29.1 This Contract
+29.2 Exhibit 1 and 2
+29.3 Exhibit 3
+
+Page 8
+
+CONTRACTOR shall immediately refer to PTT for
+clarification of any such inconsistency.”
+16.
+Articles 23 and 24 of the Terms of Reference (part of Exhibit 1 to the CTRM
+Contract) made provision for “deliverables” and “functionalities”. Deliverables,
+which were itemised in article 23, were essentially the documentation to be delivered
+by Triple Point at the end of each specified step in the development and installation
+of the CTRM system verifying that that particular step had been completed.
+Functionalities were dealt with in article 24. PTT had in its invitation for bids
+specified a number of functionalities which it needed, and it stipulated that bidders
+should in their bids state whether the functionality of their system complied wholly
+or partly with its requirements. By article 24 of the Terms of Reference, the parties
+in effect incorporated into their agreement the 567 functionalities of the system
+identified in the bidding process which PTT wanted. Article 24 left the agreed level
+of compliance with the required functionalities blank but it appears that PTT agreed
+to the level of functionalities which Triple Point had specified in its bid. Triple
+Point’s bid contained over 600 functionalities. At all events, it is clear from article
+12.3 that the parties had agreed on some functionalities.
+17.
+The relevant provisions of the PLA forming part of the CTRM Contract were
+as follows:
+(a)
+Clause 7 of the PLA was headed: “Warranties, Liabilities and
+Indemnification”. Paragraph 7.1 of the PLA provided:
+“Triple Point represents and warrants to Licensee that the
+Maintenance Services and Consulting Services, if applicable,
+will be provided with its best efforts and professional abilities.
+Triple Point represents and warrants to Licensee that Licensee’s
+use of the Licensed Software as contemplated by this
+Agreement does not infringe any US patent, trademark, trade
+secret, copyright or similar right of any third party. If the
+Licensed Software is held, or believed by Triple Point, to so
+infringe or misappropriate, Triple Point shall have the option,
+at its expense, to (x) modify the Licensed Software to be non-
+infringing or (y) obtain for Licensee a license to continue using
+the Licensed Software, and if (x) or (y) are commercially
+impractical, then Triple Point may terminate the Software
+License and refund the Software License Fee paid by Licensee,
+pro rated over a five year term from the Effective Date.”
+(b)
+Paragraph 7.2 provided:
+
+Page 9
+
+“If any third party claim of intellectual property infringement
+is brought against Licensee arising from Licensee’s use of the
+Licensed Software licensed under this Agreement in
+accordance with the terms hereof, Triple Point will indemnify,
+defend and hold harmless at its own expense, Licensee from
+and against any and all costs, damages, expenses, liability,
+suits, claims and proceedings (including reasonable attorneys’
+and professional fees) incurred by Licensee as a result of any
+such suit or action. Licensee shall provide Triple Point with as
+soon as possible written notice of the suit or action for which
+indemnity is claimed giving Triple Point sole control of the
+defence thereof and any related settlement negotiations; and
+providing all assistance, information and authority reasonably
+required to defend or settle the suit or action.”
+(c)
+Paragraph 7.3 provided:
+“Triple Point represents and warrants that the Licensed
+Software will substantially conform to the documentation in all
+material respects and Triple Point’s sole obligation hereunder
+shall be to repair any defect in the Licensed Software or replace
+the Licensed Software that causes it to fail to so conform
+provided that written notice of such defect is received by Triple
+Point during the Maintenance Term. Except with respect to the
+warranty set forth in this section, the Licensed Software,
+Documentation, Maintenance and Consulting Services are
+provided ‘as is’ and without warranty of any kind, express or
+implied, including any implied warranties of merchantability or
+fitness for a particular purpose. Triple Point does not warrant
+that the Licensed Software will be free of defects, will operate
+uninterrupted or error free or will satisfy the operational
+requirements of Licensee.”
+(d)
+Paragraph 7.4 provided:
+“Without limiting the foregoing, Licensee agrees that the
+aggregate liability of Triple Point for damages from any cause
+of action whatsoever, regardless of the form of action, shall not
+exceed the fees paid to Triple Point under the CTRM Contract
+and except such damages caused by fraud, gross negligence and
+wilful misconduct.”
+
+Page 10
+
+(e)
+Paragraph 7.5 provided:
+“In no event shall either party be liable for lost profits or
+indirect, incidental, consequential, special or punitive damages
+of any nature whatsoever.”
+(f)
+Paragraph 10.9 of the PLA provides that that Agreement and the
+CTRM Contract should constitute the entire agreement and understanding
+between the parties. The proviso in paragraph 10.9 stated:
+“Provided, however, that Triple Point agrees that this
+Agreement shall not supersede and shall be an Annex to the
+CTRM Contract. In addition, Triple Point agrees that if there is
+any conflict between the CTRM Contract and this Agreement,
+the CTRM Contract shall prevail and be enforceable.”
+Performance of the Contract
+18.
+The completion of the Phase 1 business blueprints was significantly delayed.
+Work did not commence on the preparation of the Phase 2 scope of works at all. In
+December 2013 and March 2014, the parties met in Singapore to seek to resolve
+disagreements as to the functional scope of the Project and as to significant aspects
+of the functionality. At a meeting on 19 March 2014 the parties agreed that PTT
+would accept the work performed in respect of Project milestones 1 and 2 of Phase
+1 (the first payment Milestone) subject to recording certain areas as to be completed.
+The parties thereafter also agreed a Revised Phase 1 Project Plan. On 31 March 2014
+Triple Point agreed that if the payment was made in respect of the first payment
+Milestone in the sum of US$1,038,000 by 28 April 2014 it would not suspend its
+works on the Project. In May 2014 Triple Point demanded payment in respect of
+other invoices it had previously submitted. PTT refused to make those payments on
+the grounds that they were not payable under the terms of the CTRM Contract. From
+May 2014 Triple Point refused to continue performance of the CTRM Contract
+without payment of the additional sums it had demanded. Triple Point did not
+complete the works in respect of any other part of Phase 1 or any part of Phase 2
+prior to termination. On 23 March 2015, PTT gave notice stating it was terminating
+the CTRM Contract under articles 15.1 and 15.7 of the Main Part.
+These proceedings from commencement to date
+19.
+Triple Point commenced proceedings in the Technology and Construction
+Court in London on 12 February 2015. Triple Point claimed in respect of alleged
+
+Page 11
+
+failures to make payments for software licence fees. In its Defence and Counterclaim
+dated 21 May 2015, PTT denied all of Triple Point’s claims and counterclaimed
+damages for breach of contract on termination of the parties’ contract in respect of
+its wasted costs in respect of hardware purchased prior to termination, liquidated
+damages under the terms of the contract up to the date of termination and, as
+termination loss, the costs of procuring a replacement system plus interest pursuant
+to statute. In its Reply and Defence to Counterclaim dated 9 July 2015, Triple Point
+denied that it was liable as alleged. It also relied on the cap in article 12.3 of the
+Main Part as limiting the damages claimed by PTT. Triple Point contended that any
+sums found to be due to PTT should be set off against the Performance Security,
+being the security for payment required to be provided by Triple Point under the
+terms of the CTRM Contract.
+20.
+In due course the matter came on for trial before Jefford J between 28
+November to 14 December 2016 and on 31 January 2017. She gave judgment on 23
+August 2017. She found that the delay in performance of the CTRM Contract was
+caused by Triple Point’s breach of article 12.1 of the Main Part to exercise
+reasonable skill, care and diligence in the performance of its services, through
+negligently: failing carefully to plan, programme and manage the Project or delays
+in the Project; failing to provide sufficient numbers of suitably qualified staff; failing
+to conduct adequate business analysis and production of business blueprints required
+under the terms of the CTRM Contract; and, failing to follow internationally
+recognised and applied methodologies for the design, development and
+implementation of software.
+21.
+The judge dismissed Triple Point’s claims and decided that PTT was, prima
+facie, entitled to damages for breach of contract by Triple Point and on termination
+of the CTRM Contract and/or repudiation of that contract in the sums of:
+US$3,459,278.40 in respect of liquidated damages for delays prior to termination;
+US$630,000 damages in respect of wasted costs of hardware purchases prior to
+termination; and, US$10,574,756.78 in respect of termination loss for the costs of
+procuring a replacement system from a new contractor.
+22.
+The judge held that Triple Point’s liability for damages in respect of wasted
+costs and termination loss was capped at US$1,038,000 by article 12.3 of the Main
+Part, being the amount paid by PTT under the contract prior to termination. The
+judge rejected arguments, including arguments as to the quantum of liquidated
+damages, from which Triple Point did not appeal. The judge decided that PTT’s
+entitlement to liquidated damages was not subject to the cap.
+23.
+Triple Point appealed to the Court of Appeal and PTT cross appealed. The
+Court of Appeal (Lewison and Floyd LLJ and Sir Rupert Jackson) held that PTT
+was entitled only to liquidated damages in respect of works that had been completed
+
+Page 12
+
+by reference to the agreed stages contained in article 18 of the Main Part and the
+Project Plan and that the appellant’s entitlement to receive liquidated damages under
+article 5 of the Main Part was, together with all entitlements to general damages on
+termination, subject to the cap in article 12.3 of the Main Part. The Court of Appeal
+held that the exception to the limitation on liability for breach of contract in article
+12.3 for “negligence” did not apply to cases where Triple Point was liable for breach
+of the contractual obligation to exercise reasonable skill and care and only applied
+to cases of “freestanding torts or deliberate wrongdoing”, and that in those
+circumstances it did not apply (para 119 of the Court of Appeal’s judgment [2019]
+1 WLR 3549).
+Issue 1: Are liquidated damages payable under article 5.3 of the Main Part
+where Triple Point never completes the work and PTT never accepts it?
+24.
+The issue here is whether PTT is entitled (subject to any operation of the cap)
+to liquidated damages for work which Triple Point never completed, and which was
+therefore never accepted by PTT. This point was raised only orally in the Court of
+Appeal with Triple Point submitting that it was not liable to pay any liquidated
+damages for delay under article 5.3 because the work in question was never
+completed or accepted by PTT. So we have no skeleton arguments for this point in
+the Court of Appeal and we cannot tell precisely how it was put. However, it is clear
+that initially Triple Point did not propose to argue the point by reference to an
+analysis of the authorities which were ultimately cited by the Court of Appeal in its
+judgment.
+25.
+However, it appears from the judgment of Sir Rupert Jackson, with whom
+Lewison and Floyd LJJ agreed, that the Court of Appeal regarded the point as raising
+questions of principle although the application of the principle would be affected by
+the terms of the contract in question. In the course of his judgment, Sir Rupert
+Jackson examined or referred to some ten authorities. He considered that the first
+case, British Glanzstoff Manufacturing Co Ltd v General Accident, Fire and Life
+Assurance Corpn Ltd [1913] AC 143, established a point of principle though the
+principle in question was never to my mind clearly articulated. This case loomed
+large in the reasoning of the Court of Appeal although its significance had not
+previously been appreciated. The essential facts are very simple.
+26.
+Glanzstoff employed Brown to build a new factory. The contractual
+completion date was 31 January 1910 (which it was agreed should be extended to
+February 1910), but Brown ceased work before that date. On 16 September 1909,
+Glanzstoff engaged Henshaw to complete the contract and he completed the works
+on 28 March 1910. The issue was whether Glanzstoff could claim liquidated
+damages for delay from Brown under clause 24 of the contract between Brown and
+Glanzstoff for the period from February 1910 to 28 March 1910. Brown had
+
+Page 13
+
+provided a guarantee to secure the performance of his contractual obligations and
+Glanzstoff hoped to recover the liquidated damages under the guarantee. Clause 24
+provided:
+“If the contractor fail to complete the works by the date named
+in clause 23 … and the architect shall certify in writing that the
+works could reasonably have been completed by the said date,
+… the contractor shall pay or allow to the employer the sum of
+£250 sterling per week for the first four weeks, and £500 per
+week for all subsequent weeks as liquidated and ascertained
+damages for every week beyond the said date or extended time,
+as the case may be, during which the works shall remain
+unfinished …”
+27.
+The Outer House and Inner House of the Court of Session dismissed
+Glanzstoff’s claim as did the House of Lords. As Sir Rupert Jackson explains, the
+judgment of the House of Lords is more fully reported in the Reports of the Sessions
+Cases: 1913 SC (HL) 1. Viscount Haldane LC gave the leading judgment. He
+characterised clause 26 as “an enclave in the contract by itself providing for a special
+remedy”: p 2. He held that that clause did not apply for two reasons:
+“In my opinion it does not apply, and I think it does not apply
+for two reasons: first of all, that it is altogether inapt to the
+provisions made by clause 26, which contain a complete code
+of themselves; and secondly, because upon its construction I
+read it as meaning that if the contractors have actually
+completed the works, but have been late in completing the
+works, then, and in that case only, the clause applies. Under
+the circumstances in which this appeal comes before us the
+contractors have not completed the works; on the contrary, they
+have been ousted from the works by the employers under their
+powers given them by clause 26. I am therefore of the same
+opinion as the learned Judges in the Court of Session, who were
+unanimous in holding that clause 24 has no application to the
+present case …” (p 3, Emphasis added)
+28.
+Sir Rupert Jackson focused on the passage which I have italicised in the
+preceding paragraph. He examined some ten other cases on the operation of
+liquidated damages clauses. The conclusions of this examination are set out in para
+106 of his judgment which placed the cases which had been examined into three
+categories:
+
+Page 14
+
+“106. Let me now stand back from the authorities and review
+where we have got to. In cases where the contractor fails to
+complete and a second contractor steps in, three different
+approaches have emerged to clauses providing liquidated
+damages for delay:
+(i)
+The clause does not apply: the Glanzstoff case
+[1913] AC 143; the Chanthall case 1976 SC 73; the
+Gibbs case 35 Con LR 86.
+(ii)
+The clause only applies up to termination of the
+first contract: the Greenore case [2006] EWHC 3119
+(TCC); the Shaw case [2010] EWHC 1839 (TCC); the
+LW Infrastructure case [2012] BLR 13; the Bluewater
+case 155 Con LR 85.
+(iii)
+The clause continues to apply until the second
+contractor achieves completion: the Hall case [2010]
+EWHC 586 (TCC); the Crestdream case (2013) HCCT
+32/2013; the GPP case [2018] EWHC 2866 (Comm).”
+29.
+Sir Rupert Jackson rejected the argument that the principle in Glanzstoff
+could be confined to cases where the contract was terminated before the contractual
+completion date (para 108). As to category (ii), he held:
+“110. The textbooks generally treat category (ii) as the
+orthodox analysis, but that approach is not free from difficulty.
+If a construction contract is abandoned or terminated, the
+employer is in new territory for which the liquidated damages
+clause may not have made provision. Although accrued rights
+must be protected, it may sometimes be artificial and
+inconsistent with the parties’ agreement to categorise the
+employer’s losses as £x per week up to a specified date and
+then general damages thereafter. It may be more logical and
+more consonant with the parties’ bargain to assess the
+employer’s total losses flowing from the abandonment or
+termination, applying the ordinary rules for assessing damages
+for breach of contract. In my view, the question whether the
+liquidated damages clause (a) ceases to apply or (b) continues
+to apply up to termination/abandonment, or even conceivably
+beyond that date, must depend upon the wording of the clause
+itself. There is no invariable rule that liquidated damages must
+
+Page 15
+
+be used as a formula for compensating the employer for part of
+its loss.”
+30.
+Sir Rupert Jackson saw much force in the reasoning of the House of Lords
+and took the view that the wording of the liquidated damages clause could be so
+close to the wording in Glanzstoff that the House of Lords decision is binding. I find
+this observation difficult to follow as the clauses in question in Glanzstoff were not
+said to be some market-accepted wording or clauses from some standard form
+recognised in the industry where the interpretations of the courts in reported cases
+may in practice be treated as binding in later cases involving the same wording. With
+those exceptions, in general the decision of one case as to the meaning and effect of
+a clause cannot be binding as to the meaning and effect of even a similar clause in
+another case.
+31.
+Sir Rupert Jackson went on to hold that if the liquidated damages clause did
+not make specific provision for a particular circumstance, the employer was in new
+territory for which the liquidated damages clause may have made no provision. It
+was possible that the parties intended the situation after the contractor ceased to act
+to be dealt with as general damages. The question whether the liquidated damages
+clause should apply would have to depend on the wording of the clause. In this case,
+however, the Court of Appeal considered that the words “up to the date PTT accepts
+such work” meant that article 5.3 had no application in a situation where the
+contractor never completed the works, and, by definition, the employer never
+accepted them. As Sir Rupert Jackson put it:
+“112. Let me now turn to article 5.3 in the present case. This
+clause, like clause 24 in the Glanzstoff case, seems to be
+focused specifically on delay between the contractual
+completion date and the date when Triple Point actually
+achieves completion. The phrase in article 5.3 ‘up to the date
+PTT accepts such work’ means ‘up to the date when PTT
+accepts completed work from Triple Point’. In my view article
+5.3 in this case, like clause 24 in the Glanzstoff case, has no
+application in a situation where the contractor never hands over
+completed work to the employer.”
+32.
+Mr James Howells QC, for PTT, contends that Sir Rupert Jackson erred in
+law in this passage. By contrast, Mr Darling QC and Mr Stafford QC, for Triple
+Point, seek to uphold the decision of the Court of Appeal. They argue that, although
+the judgment of Sir Rupert Jackson included an analysis of a number of previous
+decisions on liquidated damages, this analysis had little bearing on the decision
+reached by the Court of Appeal. The decision identified several different outcomes
+from previous cases and then identified the outcome based on the wording in the
+
+Page 16
+
+CTRM Contract. Moreover, on their submission, the decision made business sense.
+On Triple Point’s case, there is logical force, and high authority, in support of the
+Court of Appeal’s approach in the cases cited by Sir Rupert Jackson and see also per
+Coulson LJ in Construction Law: Recent Highlights and Greatest Hits, October
+2019, The Society of Construction Law Paper No 220, p 4.
+33.
+In my judgment, the passages that I have quoted from Sir Rupert Jackson’s
+judgment are equivocal as to whether the point is being treated as one of
+interpretation or as one of principle. The approach seems to have been a mixture of
+the two. The point may have ultimately been presented to the Court of Appeal as
+one of principle rather than one of interpretation of article 5.3. If the question was
+one of interpretation, para 106 must refer to three possible outcomes rather than
+categories.
+34.
+The more important question is: what was the conclusion which the Court of
+Appeal drew from Sir Rupert Jackson’s analysis of the authorities? The Court of
+Appeal were alive to the fact that they were departing from the generally understood
+position as to the meaning of liquidated damages clauses (see para 110, set out
+above). In my judgment, the Court of Appeal concluded that Glanzstoff showed that
+there were circumstances in which a liquidated damages clause would not
+necessarily apply even if the contractor had been guilty of delay and had not
+completed the work on time. It followed in the Court of Appeal’s view that it should
+not be assumed that the liquidated damages clause had any operation beyond the
+precise event for which it expressly provided: the only event for which article 5.3
+provided was that in which the employer accepted the delayed work. The event
+described in the liquidated damages clause was to be determined from the words
+used. PTT did not, therefore, in the judgment of the Court of Appeal, have an
+entitlement to liquidated damages in the present case where the contractor did not
+complete the work.
+35.
+The difficulty about this approach is that it is inconsistent with commercial
+reality and the accepted function of liquidated damages. Parties agree a liquidated
+damages clause so as to provide a remedy that is predictable and certain for a
+particular event (here, as often, that event is a delay in completion). The employer
+does not then have to quantify its loss, which may be difficult and time-consuming
+for it to do. Parties must be taken to know the general law, namely that the accrual
+of liquidated damages comes to an end on termination of the contract (see Photo
+Production Ltd v Securicor Transport Ltd [1980] AC 827, 844 and 849). After that
+event, the parties’ contract is at an end and the parties must seek damages for breach
+of contract under the general law. That is well-understood: see per Recorder Michael
+Harvey QC in Gibbs v Tomlinson (1992) 35 Con LR 86, p 116. Parties do not have
+to provide specifically for the effect of the termination of their contract. They can
+take that consequence as read. I do not, therefore, agree with Sir Rupert Jackson
+when he holds in the second sentence of para 110 of his judgment that “If a
+
+Page 17
+
+construction contract is abandoned or terminated, the employer is in new territory
+for which the liquidated damages clause may not have made provision.” The
+territory is well-trodden, and the liquidated damages clause does not need to provide
+for it.
+36.
+Of course, the parties may out of prudence provide for liquidated damages to
+terminate on completion and acceptance of the works so as to remove any question
+of their being payable thereafter. But if they do, it is in my judgment unrealistic to
+interpret the clause as meaning that if that event does not occur the contractor is free
+from all liability for liquidated damages, and that the employer’s accrued right to
+liquidated damages simply disappears. It is much more probable that they will have
+intended the provision for liquidated damages to cease on completion and
+acceptance of the works to stand in addition to and not in substitution for the right
+to liquidated damages down to termination.
+37.
+Reading the clause in that way meets commercial common sense and
+prevents the unlikely elimination of accrued rights. The Court of Appeal was aware
+of the importance of accrued rights because after the sentence last quoted the
+judgment of Sir Rupert Jackson begins: “Although accrued rights must be protected,
+...”. However the rest of that sentence and the next sentence go on to hold that it may
+be that the parties intended that general damages should take the place of liquidated
+damages: “… it may sometimes be artificial and inconsistent with the parties’
+agreement to categorise the employer’s losses as £x per week up to a specified date
+and then general damages thereafter. It may be more logical and more consonant
+with the parties’ bargain to assess the employer’s total losses flowing from the
+abandonment or termination, applying the ordinary rules for assessing damages for
+breach of contract.” If that were so, it is hard to believe that the parties would have
+gone to the trouble of providing for liquidated damages in the first place. Moreover,
+under this approach, accrued rights are not protected. They are lost.
+38.
+The Court of Appeal did not ask whether there was any commercial reason
+for holding that the parties intended that the liquidated damages clause should
+provide for damages only in the one case, which is where delay occurs, but Triple
+Point subsequently produces work which PTT is content to accept as complying
+with the contract. Why should the parties want liquidated damages in that event but
+not in any other event where the work had not been delivered on schedule? If their
+purpose was to achieve a certain and quick resolution of the employer’s claim for
+loss for the potential benefit of both parties, in the event of delay, then it would not
+be achieved by limiting article 5.3 to the situation where the work is ultimately done
+and accepted. Put another way, it must follow on the Court of Appeal’s approach
+that some positive wording is needed if the employer is to be protected against other
+causes of delay. In my judgment, additional wording is not needed. It would be
+sufficient to interpret the words “up to the date PTT accepts such work” as meaning
+“up to the date (if any) PTT accepts such work”.
+
+Page 18
+
+39.
+The detailed analysis of the later authorities by the Court of Appeal therefore
+proceeded from the wrong hypothesis and nothing would in my judgment be gained
+by this Court analysing those authorities again. They all turn on their particular
+circumstances.
+40.
+Mr Howells impressed on us that a liquidated damages clause gave rise to an
+accrued right to liquidated damages on the part of the employer and that the courts
+have held that this right should not be taken away without clear words. I have dealt
+with accruals above: the parties are unlikely to intend that the right to liquidated
+damages once it had accrued is simply extinguished.
+41.
+Mr Darling submits that the issue in this case is not whether the right to
+liquidated damages was extinguished but whether any such right existed in the first
+place. But a sufficient answer to Mr Darling’s point is that there is nothing to suggest
+that the aim of the parties in this case was that the entitlement to liquidated damages
+should be limited to the situation where Triple Point was late in completing its work,
+but depends on whether it finished the work and PTT accepted it. By contrast it was
+perfectly natural that the parties should seek to put an end date on the accrual of
+liquidated damages to prevent a party who had accepted the performance of work
+from continuing to demand liquidated damages.
+42.
+Nor do I consider that the little-known case of Glanzstoff should have led the
+Court of Appeal to their radical re-interpretation of the case law on liquidated
+damages clauses. In my judgment, Glanzstoff is a decision on the interpretation of a
+particular contract. The decision is, as one would expect, that the liquidated damages
+clause in Brown’s contract could not be relied on to make him liable for the delay
+in completion due to the employment of a substitute contractor. An alternative
+explanation for the decision is that the contract with Brown had terminated before
+the contractual completion date so that in accordance with general principle the only
+remedy for loss after the date of termination was for (unliquidated) damages for
+breach of contract, but I agree with Sir Rupert Jackson that this is not the basis of
+the decision (although in my judgment it is also clear that (as stated in the Appeal
+Cases report) all the House of Lords did was to affirm the decision of the Inner
+House: 1912 SC 591). When the court is required to interpret a similar clause today,
+it will have to decide the issue in the same way as any other question of interpretation
+and not by treating Glanzstoff as having created some special rule applying to
+liquidated damages clauses.
+43.
+Although the Court of Appeal treated the Glanzstoff case as a case of
+significance, it is not. The first edition of The Law of Contract: A Treatise on the
+Principles of Contract in the Law of Scotland, W M Gloag, (1914), p 798, a leading
+work, treated the Glanzstoff case as one on the meaning of the particular clause,
+
+Page 19
+
+rather than as establishing any point of principle. In my judgment, it turns on its
+particular facts and establishes no new proposition of law whatever.
+44.
+Sir Rupert Jackson included Chanthall Investments Ltd v F G Minter Ltd
+1976 SC 73 with Glanzstoff in the first of the three categories of clause which he
+sets out at para 106 of his judgment. Glanzstoff had indeed been cited in that case.
+The material point in this decision of the Inner House of the Court of Session was
+that the Inner House applied Glanzstoff in support of its acceptance of the
+contractor’s contention that, although he was late in performing the work he had
+agreed to undertake under the contract, he was not liable under the liquidated
+damages clause, clause 22, for delays caused by others. Clause 22 provided as
+follows:
+“22.
+If the Contractor fails to complete the Works by the Date
+for Completion …, then the Contractor shall pay or allow to the
+Employer a sum calculated at the rate stated in the said
+appendix as Liquidated and Ascertained Damages for the
+period during which the Works shall so remain or have
+remained incomplete, and the Employer may deduct such sum
+from any monies due or to become due to the Contractor under
+this Contract.”
+45.
+Lord Justice-Clerk Wheatley, with whom the other members of the Inner
+House of the Court of Session agreed, treated Glanzstoff as a case where it was held
+that references to completion in the relevant clause were to completion under and in
+conformity with the same contract. Lord Wheatley considered that this was the view
+taken by Viscount Haldane LC in Glanzstoff when he held that the liquidated
+damages clause in that case applied where the original contractor had completed the
+works but had been late in doing so. Viscount Haldane was not dealing with the
+situation where there had been a delay in completion, but where the delay had been
+caused by other factors. Again the approach is one of interpreting the liquidated
+damages clause in very different circumstances from those in the present case.
+46.
+Recorder Michael Harvey QC approached the Glanzstoff case in a similar
+way in Gibbs v Tomlinson (above, para 35). This is the other case to which Sir Rupert
+Jackson referred in his first category, along with Glanzstoff.
+47.
+Glanzstoff is rarely discussed in leading works on the law of contract in
+England and Wales. It is an illustration of how a liquidated damages clause can be
+interpreted. Lewison on The Interpretation of Contracts, 7th ed (2020), para 17.50
+helpfully sums up the overall position on the categorisation of cases made in para
+106 of the judgment of Sir Rupert Jackson as follows:
+
+Page 20
+
+“Ultimately the question turns on the wording of the particular
+clause. One question that will arise is whether the purpose of
+the clause is limited to liquidating damages for delay in
+completion, or whether it also liquidates damage for failure to
+complete at all.”
+48.
+In the instant case, article 5.3 of the Main Part on its true construction
+provided for liquidated damages if Triple Point did not discharge its obligations
+within the time fixed by the contract irrespective of whether PTT accepted any
+works which were completed late. The function of the words on which the Court of
+Appeal relied was to provide an end date for liquidated damages on acceptance of
+the works by PTT to ensure that in that event there was no further claim for
+liquidated damages in respect of the relevant delay. But it did not follow that there
+were to be no liquidated damages if there was no such acceptance. To reach that
+conclusion would be to render the liquidated damages clause of little value in a
+commercial contract. To use an idiomatic phrase, the interpretation accepted by the
+Court of Appeal in effect threw out the baby with the bathwater.
+49.
+I conclude with my views on some interesting but in the end not very
+convincing auxiliary arguments made in this Court. I do not see much force in the
+argument advanced by Triple Point that this Court’s interpretation would hand all
+control to the employer if there were delay in completing the works since only PTT
+had the ability to terminate the CTRM Contract under article 15. That would have
+been obvious to Triple Point when the CTRM Contract was made: it was part of
+their bargain. Mr Darling also submits that there are circumstances in which an
+employer may prefer general damages to those available under a liquidated damages
+clause, but he did not point to any specific matter in this regard. Mr Darling further
+argues that there was no contractual mechanism for recovering overpaid liquidated
+damages. This was so whichever interpretation was adopted. Mr Darling’s point
+may be said to be an argument for preferring a restrictive interpretation of the
+liquidated damages clause. However, the absence of this mechanism would also
+seem to indicate that the parties never thought about the issue, which means that
+they cannot have attached much significance to it.
+Issue 2: Are damages for Triple Point’s negligent breach of the CTRM
+Contract within the liability-limitation exception in the final sentence of
+article 12.3?
+50.
+On this appeal, the parties provided the Court at its request with a full copy
+of the CTRM Contract (507 pages) rather than simply the extracts of some 74 pages
+originally included in the electronic bundle. No doubt the decision to provide only
+a limited number of pages was done for reasons of economy but speaking for myself,
+I found it helpful to see the entire contract. I do not know whether this was an
+
+Page 21
+
+advantage which the Court of Appeal also had. Contrary to the conclusions of the
+judge and the Court of Appeal, I take the view that the liquidated damages are within
+the cap carve-out in the fourth sentence of article 12.3 if they result from breaches
+by Triple Point of its contractual obligation of skill and care so that liability for them
+is uncapped. My reasons are contained in the paragraphs immediately following.
+(1)
+Structure of article 12.3
+51.
+Article 12.3 consists of four sentences. The first constitutes a statement that
+Triple Point is liable to PTT for any damage in consequence of any breach of
+contract, including software defects or inability to meet the functionality criteria.
+The second sentence is the cap, namely the global limit for all breaches of contract,
+fixed at the contract price received by Triple Point. The third sentence deals with
+the form of remedies. Apart from specific remedies PTT’s exclusive remedy was for
+the contractor to use his best endeavours to cure the defect and failing that to return
+the attributable part of the fees paid. The fourth and final sentence contained a carve-
+out from the limitation of liability, and I call it the “cap carve-out”. It provided that
+the contractor’s liability resulting from the fraud, negligence, gross negligence or
+wilful misconduct of the contractor was not limited. I will set out article 12.3 again,
+this time numbering each of the sentences for convenience:
+“ARTICLE 12.3
+1.
+CONTRACTOR shall be liable to PTT for any damage
+suffered by PTT as a consequence of CONTRACTOR’s
+breach of contract, including software defects or inability to
+perform
+‘Fully
+Complies’
+or
+‘Partially
+Complies’
+functionalities as illustrated in Section 24 of Part III Project and
+Services.
+2.
+The total liability of CONTRACTOR to PTT under the
+Contract shall be limited to the Contract Price received by
+CONTRACTOR with respect to the services or deliverables
+involved under this Contract.
+3.
+Except for the specific remedies expressly identified as
+such in this Contract, PTT’s exclusive remedy for any claim
+arising out of this Contract will be for CONTRACTOR, upon
+receipt of written notice, to use best endeavor to cure the breach
+at its expense, or failing that, to return the fees paid to
+
+Page 22
+
+CONTRACTOR for the Services or Deliverables related to the
+breach.
+4.
+This limitation of liability shall not apply to
+CONTRACTOR’s liability resulting from fraud, negligence,
+gross negligence or wilful misconduct of CONTRACTOR or
+any of its officers, employees or agents.” (Numbering and
+italics added)
+(2)
+The concept of “negligence” denoted by article 12.3
+52.
+The first point to make is that the word “negligence” has an accepted meaning
+in English law, which was the governing law of the CTRM Contract. It covers both
+the separate tort of failing to use due care and also breach of a contractual provision
+to exercise skill and care. Unless, therefore, some strained meaning can be given to
+the word “negligence” in the context of the final sentence of article 12.3 the effect
+of that clause is that liability for negligence does not exclude the breach of a
+contractual duty of care. As I shall explain in the next paragraph, the courts below
+took the view that the contractual duty of care was not included in the reference to
+negligence in the final sentence of article 12.3.
+(3)
+The CTRM Contract is not just for services to be provided carefully: it is
+also for defect-free software and deliverables and functionality compliance
+53.
+The judge considered that there would be little point in imposing a cap on
+liability for breach of the contractual duty of skill and care in a contract which was
+wholly or substantially for services, which had to be provided with skill and care,
+only to remove the cap in the final sentence. The Court of Appeal agreed. The
+argument that impressed the courts below was therefore that, since the centrepiece
+of the contract was services, there was little point in having a cap and then carving
+out, by the cap carve-out, the bulk if not the entirety of the claims. Put another way,
+if the cap carve-out included breaches of the contractual duty of care, the cap was
+emasculated. Therefore, it is said, the word “negligence” could not mean
+“negligence” in the ordinary sense of that word. It had to exclude breaches of a
+contractual duty of care and be limited to breaches of a duty of care which arose
+entirely independently of those breaches, ie independent torts.
+54.
+The difficulty with that argument, however, as Mr Howells points out, was
+that the contract was not solely about the provision of services. It included important
+obligations on Triple Point’s part for the provision of defect-free software and the
+“Deliverables”. It was clear from the opening sentence of article 12.3 that there were
+
+Page 23
+
+certain matters which Triple Point agreed to do or provide as an absolute covenant,
+not merely one of skill and care. Those matters also included the agreed level of
+functionality. Thus, in the first sentence of article 12.3, there was an obligation to
+provide software which met the specifications as to functionality. An example is the
+ability to create trade templates. PTT had specified in the invitation to bid that the
+system must have this functionality and that bidders had to state the level of
+compliance of their systems. Accordingly in its bid, Triple Point stated that its
+system had the desired functionality and fully complied with the bid specification.
+It added a note explaining that the CTRM system allowed users to create trade
+templates with frequently used trade data. As Mr Howells pointed out, apart from
+software defects and functionality compliance (article 12.3), the CTRM Contract
+and the documents annexed to it or incorporated into it contain the following further
+obligations which were obligations of result on the part of Triple Point and not
+obligations of skill and care:
+(a)
+Warranties as to use of intellectual property/non-infringement of third-
+party intellectual property rights, and conformity to documentation (PLA
+paragraphs 7.1 and 7.3).
+(b)
+Obligations as to time for completion (article 5).
+(c)
+Obligations as to use and protection of confidential information
+(article 6).
+(d)
+Obligations as to appointment, replacement and control of personnel
+(article 10).
+(e)
+Obligations as to sub-contracting or assignment of rights to payment
+(article 10.8).
+(f)
+Obligations as to remuneration and prohibition on gratuities and
+commission (article 17).
+(g)
+Obligations as to maintenance of records of expenses and audit (article
+18.9).
+(h)
+Obligations to pay all taxes and duties (article 19).
+
+Page 24
+
+(i)
+Obligation to ensure any sub-contract is assignable and assigned to
+PTT on termination (articles 15.4.2 and 20).
+(j)
+Obligations arising in respect of the Software Warranty (article 22,
+Perpetual License Agreement paragraph 7).
+(k)
+Obligations as to title (article 25).
+(l)
+Obligations of the respondent and its staff to abide by the rules and
+regulations of the Kingdom of Thailand (article 27.4).
+55.
+As I see it the CTRM Contract drew a distinction between those Services in
+respect of which Triple Point owed a contractual duty of care, and those matters
+which it would be a breach of contract not to provide (ie a distinction between
+contractual obligations of reasonable care and skill and strict contractual
+obligations). Defect-free software and deliverables fell into the second category as
+did functionality compliance. This distinction can be seen in the opening sentence
+of article 12.3 of the Main Part, and in addition, in the case of the deliverables, in
+article 23 of Part III Project & Services, which specifies by a table with columns the
+Milestones by reference to which Triple Point is to submit Deliverables to PTT. Two
+of those columns are for “Milestone and Activity” and “Deliverables” respectively.
+For example, the former includes an item of which the activity is stated to be
+“Prepare functional specification that describes the solution requirements, the
+architecture, and the detailed design for all the features” and the Deliverable as
+“Functional Specification” (item 3.2). Satisfaction of the specification for the new
+system and functional criteria would obviously be matters of considerable
+importance in a contract of this kind. The first sentence of article 12.3 makes it clear
+that there was a strict (or an absolute) obligation to supply software which was not
+defective and which met the agreed level of functionality.
+(4)
+It is incoherent and inappropriate to interpret the cap carve-out by
+reference to unrealistic examples of independent torts
+56.
+What the Court of Appeal and the judge held is that the word “negligence”
+must mean some independent tort and excludes breach of a contractual duty of skill
+and care. But no-one has yet thought of a realistic example of such a tort. Unless
+there is an obvious example of an independent tort, it is unlikely in my judgment
+that the parties considered that the word “negligence” should apply, and on Triple
+Point’s case apply only, to an independent tort. As I have explained, the Services
+were to be provided by data transmission. There would be no question of attending
+at the premises of PTT or of injury being done to wiring or hardware or to members
+
+Page 25
+
+of PTT’s staff through the actions of Triple Point. Neither the example given by Sir
+Rupert Jackson in his judgment in the Court of Appeal nor that given by Mr Stafford
+on the hearing of this appeal was apt for that reason. The example given by Sir
+Rupert Jackson was that of damage to the wiring at PTT’s premises causing personal
+injury to staff members of PTT (Judgment, para 119). In argument, Mr Stafford gave
+the example of the extracontractual service of repairing a computer done voluntarily
+at the request of a staff member at PTT’s premises. These are simply not realistic
+examples, and no-one has been able to think of a better one.
+57.
+Moreover, and more importantly, these are examples of acts that were outside
+article 12.3 altogether. Article 12.3 only dealt with liability under the CTRM
+Contract: see the words italicised in article 12.3 as set out in para 51 above. That
+was the limitation on damages. The limitation placed on damages was on damages
+under the CTRM Contract. So, any exclusion from that limitation also had to be
+damages under the Contract and that would exclude an independent tort. At one
+point in his argument, Mr Stafford was compelled to accept that the provision in the
+final sentence of article 12.3 was simply there for the avoidance of doubt (Transcript,
+p 86).
+58.
+Furthermore, article 13 provides a further indication against the limitation of
+the cap carve-out to independent torts. It was surmised by Triple Point that in their
+negotiations the parties to the CTRM Contract would have started with the position
+as set out in clause 7 of the PLA. The provenance of this document is a standard
+form contract which Triple Point requires persons who wish to buy its software to
+sign, and it contains a cap carve-out which does not use the word “negligence”.
+Insofar as the suggestion is that that word must have been put into article 12.3
+without any intention to produce a different result, there is absolutely no evidence
+to support that suggestion and it would only be admissible evidence if it was the
+objective of both parties. In my judgment, quite the contrary is plain without the
+need for any evidence. The word “negligence” clearly appears in article 12.3. In
+addition, it also appears in article 13 which provides an obligation of indemnity for
+loss caused by the actions of either party. The fact that the word was introduced not
+just once but twice in the main part of the CTRM Contract is inconsistent with any
+suggestion that its appearance in article 12.3 was of no import or a mistake. In the
+light of article 13, the inherent probability is that it was introduced deliberately.
+59.
+This point also receives a measure of support from the fact that article 29
+provides that in the event of any conflict the provisions in the Main Part should
+prevail over any provision in the PLA and from the further fact that article 29 at least
+in one respect enhances the protection given to PTT over that provided to users
+under the PLA. If the article 29 provision had not been there, PTT would have been
+subject to the other provisions of paragraph 7 of the PLA which exclude all liability
+for breach of warranty. As the provisions of article 12.3 take priority, PTT has the
+possibility of obtaining damages of any kind up to the amount of the price received
+
+Page 26
+
+by Triple Point. This demonstrates an intention to enhance PTT’s position as regards
+the damages remedy in the Main Part from that which it enjoyed under the PLA.
+60.
+Article 29 only operates where there is a conflict. Consequential loss of
+profits is a matter which would be of concern to commercial parties to a software
+contract. While the point has not been argued, there must be an argument that this is
+not within article 12.3 in any event because of the provisions of clause 7.5 of the
+PLA.
+61.
+Another argument advanced by Mr Stafford was that the objective of the
+parties was to have a meaningful cap. But this argument works both ways. The
+exclusion of negligence from the cap also made it a meaningful cap because
+otherwise article 12.3 arguably provided a wholly inadequate damages remedy to
+PTT.
+62.
+Mr Howells argues that the term “negligence” was an inappropriate one in
+any event because the contracts were not being performed within the English
+jurisdiction. This, he submits, is another argument for saying that the parties were
+unlikely to have intended that the cap carve-out should refer to an independent tort
+and that has some force. It should however be borne in mind, as the contract is
+governed by English law, that the court would endeavour to apply the English
+concept of negligence to whatever wrong was claimed to have occurred under any
+foreign law.
+63.
+In my judgment, the Court of Appeal went down the wrong route in
+concluding that the word “negligence” in the cap carve-out referred to an
+independent tort. The matters referred to in the final sentence are all characteristics
+of conduct: fraud, wilful misconduct, gross negligence and negligence. These can
+apply to breaches of the CTRM Contract. Considering the sentence as a whole it is
+clear that it includes an act which is a breach of contract and which possesses one
+of those characteristics. Thus, if there is a breach of contract to exercise skill and
+care by reason of Triple Point’s negligence, that will not be subject to the cap in
+article 12.3. It is simply the provision of Deliverables and other obligations of result
+under the CTRM Contract which fall within the cap. As I have explained, in a
+software contract, where the provision of software may result in damages of a
+considerable amount without any fault on the part of the designer and installer of the
+software, it is understandable that claims for damages for breach of the requirement
+that software be defect-free should in those circumstances be subject to the cap.
+
+Page 27
+
+(5)
+The exclusion of warranties in the PLA was deliberately not followed in
+article 12.3
+64.
+As an alternative, it is said that the formula for excluding matters from the
+limitation of liability was taken from the PLA and the word “negligence” was merely
+added in, and so it was suggested that it is unlikely to add very much more. But that
+is to misunderstand the nature of the PLA. As I have explained, the provenance of
+this document was a standard form agreement for licensing the software for which
+Triple Point had copyright protection. It was therefore an agreement with persons
+who might contract for nothing more than the licensing of that copyrighted software
+(just as a person might download open-source software on the internet for free).
+65.
+The notion that article 12.3 of the Main Part should be interpreted in line with
+paragraph 7.4 of the PLA has no traction when the very different provenance of
+those two provisions is considered. When the PLA was made a part of the CTRM
+Contract, which was for the provision of the design and installation of software
+including the copyrighted material, the formula used in article 12.3 cannot simply
+be assimilated to that in paragraph 7.4 of the PLA. It is likely to have been
+independently negotiated in a format appropriate for the CTRM Contract. There is
+no basis for the suggestion that the same terms as to liability should be included in
+a customised contract as were included in a standard form contract. In a customised
+contract the customer has the ability to negotiate a better deal than a person who is
+simply offered a standard form contract. Moreover, the principal concern of a person
+taking a licence from Triple Point would be the warranties as to merchantability and
+quality of the software (and so on) being licenced. In that context, negligence as an
+independent tort is not a relevant consideration.
+66.
+Mr Howells made a point about the creation of perverse incentives. He
+submits that the cap was framed around the contract price received by Triple Point.
+This framing had the effect of incentivising Triple Point to delay the performance
+of its obligations and the more liquidated damages PTT became entitled to the less
+the amount available to pay damages for other breaches. That, submits Mr Howells,
+might have been a reason why PTT would have been concerned to exclude
+negligence from the limitation of liability.
+67.
+I would not give weight to that submission as there is no evidence about the
+aims of both parties in framing the cap carve-out as they did. It is clear that Triple
+Point wanted to have a limitation of liability and one can well understand that the
+design and installation of software can give rise to claims by the client for
+compensation for loss and damage: for example, the new software may be said to be
+incompatible with other software of the client. This could no doubt happen without
+any lack of skill and care, but it may be entirely different if a defect occurs through
+
+Page 28
+
+lack of skill and care. Be that as it may, there was no evidence about the parties’ aim
+in agreeing to the cap carve-out.
+Conclusion on Issue 2
+68.
+In my judgment the cap carve-out in the final sentence of article 12.3 for all
+the reasons given above should be given its natural and ordinary meaning of
+removing from the cap all damages for negligence on Triple Point’s part, including
+damages for negligent breach of contract. That means that in my judgment the judge
+and the Court of Appeal were wrong to treat damages for breach of the contractual
+duty of skill and care as subject to the cap in article 12.3 of the Main Part of the
+CTRM Contract.
+Issue 3: The capping of liquidated damages issue - Are liquidated damages
+subject to the cap in article 12.3?
+69.
+The issue here is helpfully explained in the following passage from the
+judgment of Sir Rupert Jackson, who also sets out the Court of Appeal’s answer to
+it, which differed from that of the judge (judgment, paras 272 to 275):
+“123. The final question is whether liquidated damages for
+delay fall outside the article 12.3 cap as the judge has held. On
+this issue Mr Howells supports the judge’s reasoning and Mr
+Stafford attacks it.
+124. Mr Stafford submits that sentence 3 is a separate
+provision from sentence 2. He bases this argument on the
+reference to ‘the services or deliverables related to the breach’
+at the end of sentence 3. He submits that sentence 3 is making
+provision for specific breaches of contract, each of which will
+have a lower damages cap than the total liability cap imposed
+by sentence 2. Therefore, says Mr Stafford, the exception in
+sentence 3 for ‘specific remedies expressly identified as such
+in this contract’ has no application to the general cap imposed
+by sentence 2.
+125. Mr Howells rejects that analysis. He points out that
+under article 18 the contract price was payable by reference to
+milestones, not by reference to services or deliverables. He
+submits that sentences 2 and 3 must be read together. Sentence
+3 amplifies sentence 2 and provides further details. Therefore,
+
+Page 29
+
+the exception in sentence 3 applies also to the cap imposed by
+sentence 2.
+126. Both counsel accept that there are difficulties with the
+second and third sentences of article 12.3, whichever
+interpretation is correct. I have come to the conclusion that the
+appellant’s construction is preferable. Sentence 3 is dealing
+with specific remedies for individual breaches. Each breach is
+subject to its own individual mini-cap. I agree that precise
+calculation of an individual mini-cap will not be easy because
+of the way in which the contract price is structured, but it will
+be possible to make a reasonable assessment. For obvious
+reasons, sentence 3 cannot apply to delays. Unlike defects,
+delays cannot usually be ‘cured’ by the contractor.
+Furthermore, delays cannot be valued in the same way as
+defects. So there is a formula elsewhere, namely in clause 5.3,
+for valuing delays. Accordingly sentence 3 of article 12.3
+contains a specific exclusion for delay breaches. Sentence 2 is
+talking about something different from sentence 3, namely the
+cap on the contactor’s total liability for all breaches.
+127. In my view, the way in which the contract works is this:
+(i)
+Article 5.3 provides a formula for quantifying
+damages for delay.
+(ii)
+Sentence 3 of article 12.3 deals with breaches of
+contract not involving delay. Hence sentence 3
+necessarily includes the words ‘Except for the specific
+remedies expressly identified as such in this contract’. It
+is common ground that this phrase refers to liquidated
+damages under article 5.3. Sentence 3 of article 12.3
+imposes a cap on the recoverable damages for each
+individual breach of contract.
+(iii)
+Sentence 2 of article 12.3 imposes an overall cap
+on the contractor’s total liability. That cap on total
+liability means what it says. It encompasses damages for
+defects, damages for delay and damages for any other
+breaches …”
+
+Page 30
+
+70.
+Mr Howells seeks to persuade the Court that the judge was right and that
+liquidated damages are outside the cap. In particular, he submits that the liquidated
+damages for delay cannot be correlated with any portion of the Contract Price as
+required by the second sentence.
+71.
+In my judgment, the reasoning of the Court of Appeal is correct. I agree with
+the Court of Appeal that a reasonable assessment can be made of the relevant part
+of the price. I do not accept that the exception for special remedies in the third
+sentence extends to the second sentence dealing with the global cap. On my
+interpretation, the second and third sentences of article 12.3 serve separate functions
+and are in logical order. First there is a limitation on liability and, second, there is a
+limitation on the form of remedy. The limitation on the form of remedy contains an
+exception for special remedies under the contract, of which the liquidated damages
+clause would be one. But that does not mean to say that the same exception should
+be written into the limitation on liability. Accordingly, I would reject PTT’s appeal
+on this point.
+Conclusion on the three issues on this appeal
+72.
+I would allow this appeal in part. For the reasons given above, I conclude on
+Issue 1 (the availability of liquidated damages issue), that the Court of Appeal fell
+into error in being guided by the decision of the House of Lords in Glanzstoff
+because of the similarity in wording. This decision was not binding on them in that
+respect. I would accordingly allow the appeal on Issue 1. On Issue 2 (the scope of
+negligence issue), I would also allow the appeal. The exclusion from the cap should
+be given its ordinary meaning and not a strained meaning. A strained meaning is not
+justified in fact by the argument that the exclusion of damages for negligent breach
+of contract from the cap would then emasculate the cap. The important obligations
+about meeting the specifications for functionality and other absolute obligations in
+the CTRM Contract meant that liability for negligent breach of contract was not the
+core obligation of Triple Point under the CTRM Contract. Had the position been
+otherwise, that would have supported reading the reference to negligence in the cap
+carve-out as limited to the independent tort of negligence. On Issue 3 (the capping
+of liquidated damages), I would dismiss the appeal. The Court of Appeal were right
+to say that the cap embraced liquidated damages so that they counted towards the
+maximum damages recoverable under the cap.
+LORD LEGGATT: (with whom Lord Burrows agrees)
+73.
+I agree with Lady Arden that the appeal should be allowed for the reasons
+she gives but wish to add reasons of my own for reaching this conclusion.
+
+Page 31
+
+Liquidated damages
+74.
+A liquidated damages clause is a clause in a contract which stipulates what
+amount of money will be payable as damages for loss caused by a breach of the
+contract irrespective of what loss may actually be suffered if a breach of the relevant
+kind (typically, delay in performance of the contract) occurs. Liquidated damages
+clauses are a standard feature of major construction and engineering contracts and
+commonly provide for damages to be payable at a specified rate for each week or
+day of delay in the completion of work by the contractor after the contractual
+completion date has passed. Such a clause serves two useful purposes. First,
+establishing what financial loss delay has caused the employer would often be an
+intractable task capable of giving rise to costly disputes. Fixing in advance the
+damages payable for such delay avoids such difficulty and cost. Second, such a
+clause limits the contractor’s exposure to liability of an otherwise unknown and
+open-ended kind, while at the same time giving the employer certainty about the
+amount that it will be entitled to recover as compensation. Each party is therefore
+better able to manage the risk of delay in the completion of the project.
+The approach of the Court of Appeal
+75.
+In his judgment in the Court of Appeal (with which Lewison and Floyd LJJ
+agreed), Sir Rupert Jackson reviewed a series of cases in which courts have decided
+whether liquidated damages were payable in circumstances where the contract was
+terminated before the work had been completed: see [2019] EWCA Civ 230; [2019]
+1 WLR 3549, paras 76-111. He divided the cases (at para 106) into three groups,
+according to whether the court concluded that:
+(a)
+the clause in question did not apply to any period of delay in
+completion of the work;
+(b)
+the clause applied to any period of delay up to the date of termination
+of the contract; or
+(c)
+the clause continued to apply even after the termination of the contract
+until the work was completed by another contractor.
+76.
+Sir Rupert Jackson concluded that the category into which a particular clause
+falls must depend upon the wording of the clause itself (para 110). That must clearly
+be correct. He also expressed views, however, about the inherent likelihood that
+parties to a construction contract (or, as in this case, software engineering contract)
+would intend a liquidated damages clause to operate in one or another of the three
+
+Page 32
+
+possible ways he had identified. He said he had doubts about the cases in category
+(iii) as, if those cases were correct, the result would be that the employer and the
+second contractor could control the period for which liquidated damages will run
+(para 108). As regards category (i), Sir Rupert Jackson said that he saw much force
+in the reasoning of the House of Lords in the Scottish case of British Glanzstoff
+Manufacturing Co Ltd v General Accident, Fire and Life Assurance Corpn Ltd
+[1913] AC 143; 1913 SC (HL) 1 (para 109). He also said that the “Glanzstoff
+principle” cannot be confined to cases where - as happened in Glanzstoff itself - the
+contract was terminated before the due date for completion of the work (para 107).
+He drew an analogy with the clause in Glanzstoff when he came to interpret the
+liquidated damages clause at issue in the present case (para 112).
+77.
+I agree with Lady Arden that Glanzstoff is not authority for any legal principle
+(in either Scottish or English law). As Viscount Haldane LC said in giving the
+principal speech in that case: “What we have to determine is a matter of pure
+construction.” What the House of Lords decided, affirming the decision of the Court
+of Session, was that, on the correct interpretation of the contract in question, the
+liquidated damages clause did not apply to delay in completing the works which
+occurred after the employer had exercised its contractual right to take possession of
+the works and engage another contractor to complete them. The damages
+recoverable in that situation were governed by another clause in the contract which,
+in the words of Viscount Haldane, “constitutes an enclave in the contract by itself
+providing for a special remedy”: see 1913 SC (HL) 1 at p 2. As already mentioned,
+on the facts of Glanzstoff, the contract had been terminated before the date for
+completion of the work had arrived. No liquidated damages were therefore payable
+for the simple reason that no default by the contractor which gave rise to a liability
+to pay liquidated damages ever occurred. It is true that Viscount Haldane said of the
+liquidated damages clause in Glanzstoff (at p 3) that:
+“upon its construction I read it as meaning that if the
+contractors have actually completed the works, but have been
+late in completing the works, then, and in that case only, the
+clause applies.” (Emphasis added)
+However, the House of Lords was not contemplating a situation in which the
+contractors, having failed to complete the works by the due date, were then ousted
+from the contract by the employer before they had completed the works. No reason
+was given for supposing that, in such a situation, the contractors would not have
+been liable to pay liquidated damages for the delay which had already occurred
+before the contract was terminated, and I cannot think that Viscount Haldane (whose
+speech was given ex tempore at the conclusion of the appellant’s argument) had
+such a situation in mind. In any event, in the absence of any reasoning to support
+such a conclusion, no weight should in my view be attached to his remark.
+
+Page 33
+
+78.
+Sir Rupert Jackson acknowledged that a conclusion that a liquidated damages
+clause applies up to the termination of the contract - his category (ii) - is generally
+treated as the “orthodox analysis” but he suggested that this approach “is not free
+from difficulty” (para 110). That is because:
+“If a construction contract is abandoned or terminated, the
+employer is in new territory for which the liquidated damages
+clause may not have made provision. Although accrued rights
+must be protected, it may sometimes be artificial and
+inconsistent with the parties’ agreement to categorise the
+employer’s losses as £x per week up to a specified date and
+then general damages thereafter. It may be more logical and
+more consonant with the parties’ bargain to assess the
+employer’s total losses flowing from the abandonment or
+termination, applying the ordinary rules for assessing damages
+for breach of contract.”
+79.
+I confess to having difficulty with this reasoning. I agree that, if a
+construction contract is abandoned or terminated, the employer is thereafter in new
+territory for which the liquidated damages clause may not have made provision.
+However, as Sir Rupert Jackson acknowledged in saying that “accrued rights must
+be protected”, the effect in law of termination of a contract on the parties’ rights and
+obligations is prospective only. In other words, subject to contrary agreement, the
+parties are discharged from their obligations under the contract which would
+otherwise arise after termination but not those which have arisen before: see eg
+Burrows, A Restatement of the English Law of Contract, 2nd ed (2020), section
+19(4). In principle, therefore, where at the time of termination delay for which
+liquidated damages are payable has already occurred, there is no reason - in law or
+in justice - why termination of the contract should deprive the employer of its right
+to recover such damages, unless the contract clearly provides for this. The fact that,
+if the employer were deprived of that right, only one assessment of damages for
+delay would be required instead of two does not seem to me a good reason.
+Moreover, the last sentence of the passage quoted above appears to overlook the fact
+that losses caused by breaches occurring before the contract is abandoned or
+terminated are not part of the employer’s total losses flowing from the abandonment
+or termination. There is therefore nothing illogical in quantifying the damages for
+them separately. Whether it is inconsistent with the parties’ agreement to do so begs
+the question of what they have agreed.
+80.
+In addition to the ordinary effect of termination on the parties’ rights and
+obligations, I agree with Lady Arden that there are cogent commercial reasons why
+parties who include a liquidated damages clause in their contract would be unlikely
+to intend the employer’s right to receive such damages for delay by the contractor
+to be conditional upon the contractor actually completing the work. In the first place,
+
+Page 34
+
+if the parties wish to obtain the benefits of a liquidated damages clause mentioned
+at the start of this judgment, I can see no reason why, in the event that the contract
+is terminated before the work is completed, they would wish to forgo those benefits
+of certainty, simplicity and efficiency in quantifying the damages in relation to delay
+which has already occurred. Indeed, making the right to liquidated damages for
+delay by the contractor conditional upon the contractor completing the work would
+itself introduce considerable uncertainty at the time of contracting about what sum
+would be recoverable if delay occurs and would thus deprive the parties of the
+advantage of being able to know their financial exposure from this risk in advance.
+81.
+Secondly and still more importantly, a clause which had this effect would
+give a contractor who badly overruns the time specified for completion an incentive
+not to complete the work in order to avoid paying liquidated damages for the delay
+which its breach of contract has caused. It makes no sense to create such an
+incentive. As Lord Skerrington said in Cameron-Head v Cameron & Co 1919 SC
+627, p 636 - a case in which it was argued, relying on Glanzstoff, that a sum payable
+per day by purchasers of timber “until [the work of clearing the timber] was done”
+could not be recovered unless and until the work had been completed:
+“It was suggested that the purchasers had it in their power to
+reduce this stipulation to a mere nullity, because they had only
+to be bold enough to throw up the contract and say that they
+would not fulfil it in order to relieve themselves of it. … The
+purpose which the parties had in view would be defeated, if the
+penalty could not be exacted immediately but was to be payable
+only if and when the purchasers thought fit to complete their
+contract.”
+See also Davie M and Dowers N, “The Court of Appeal’s Look North for a Solution
+Goes South: Liquidated Damages and Termination in Triple Point Technology v
+PTT”, (2019) 23(3) Edin LR 395, 400. While this point assumes that the right to be
+paid liquidated damages is beneficial to the employer, if the parties have agreed a
+low rate which favours the contractor, the same point applies in reverse.
+82.
+I recognise that judges whose experience of entering into contracts of the kind
+under consideration is entirely vicarious need to be cautious in expressing views that
+a particular type of arrangement would not make commercial sense, especially if the
+arrangement is in fact commonly adopted. I therefore thought it would be a useful
+cross-check to ask counsel for Triple Point if, after the hearing, they could give an
+example of a standard form of contract which provides that liquidated damages for
+delay will be payable only if the contractor actually completes the work. The
+example they produced was the 2017 FIDIC Conditions of Contract for Plant &
+Design Build (the Yellow Book). However, clause 15.4(c) of these conditions
+
+Page 35
+
+provides that, where the contract is terminated for the contractor’s default, liquidated
+damages are payable for every day that has elapsed between the due date for
+completion of the works and the date of termination; see also Inns D & Touhey K,
+“Liquidated damages for delay after termination: until completion do us part?”
+(2019) 35(4) Const LJ 221 at 232. In other words, this is an example of the
+“orthodox” approach. The fact that no standard clause could be found which falls
+into Sir Rupert Jackson’s category (i) reinforces my view that such a clause is not
+one which parties to a commercial contract would think it sensible to choose.
+83.
+What of a clause in category (iii) which continues to apply even after the
+termination of the contract until the work is completed by another contractor? In
+Hall v Van der Heiden [2010] EWHC 586 (TCC), para 76, Coulson J rejected the
+suggestion that the defendant’s liability to pay liquidated damages came to an end
+when his employment under the contract was terminated. Coulson J said:
+“Any such term would reward the defendant for his own
+default. Take the example of a contractor who has wholly failed
+to comply with the contract, is in considerable delay, and is
+facing a notice of termination. The defendant’s case would
+mean that such a contractor was only liable to pay liquidated
+damages for delay before the decision was taken to terminate,
+thereby penalising the employer for trying to get the works
+completed by another contractor, and rewarding the contractor
+for sitting on his hands and failing to carry out the works in
+accordance with the programme.”
+84.
+As Sir Rupert Jackson pointed out, this decision has been criticised: [2019]
+EWCA Civ 230; [2019] 1 WLR 3549, para 100, citing as an example Hudson’s
+Building and Engineering Contracts, 13th ed (2015), p 733, fn 156 (now 14th ed
+(2020), para 6-023, fn 161). One criticism that has been made is that the reasoning
+reveals a misapprehension that, in the absence of a claim under the liquidated
+damages clause, the claimant would have had had no claim for damages for delay:
+see McKendrick E, “Liquidated Damages, Delay and the Termination of Contracts”,
+(2019) 8 JBL 577 at 587. However, I see no reason to think that Coulson J made
+such an elementary error. I am sure that what he had in mind was the difficulty of
+proving and quantifying loss caused by delay and the fact that a right to damages at
+the agreed rate of £700 per week in Hall was - as is often the position - patently far
+more advantageous to the employer than a claim for damages at common law (under
+which the only damages recoverable in Hall would have been a much smaller sum
+in storage costs). As I understand it, the point that Coulson J was making was that
+cutting off liquidated damages at the date of termination rewards the contractor for
+the fact that its default has led to the contract being terminated before the work has
+been completed by relieving it of further liability to pay damages at the agreed rate.
+
+Page 36
+
+85.
+While this is a relevant consideration, a clause under which liquidated
+damages cease to run at the date of termination cannot be said to reward the
+contractor for its default to an extent comparable to a clause which makes recovery
+of any liquidated damages for delay, including past delay, conditional upon whether
+the contractor chooses to complete the work. Any such factor also has to be set
+against the point made by Sir Rupert Jackson that, after the contract has been
+terminated, the time taken to complete the work is entirely outside the control of the
+original contractor. As Professor McKendrick has observed, it is possible that the
+risk which this poses for the contractor could be mitigated by making clear in the
+clause itself that the liability to pay liquidated damages will only arise post-
+termination if the employer and any replacement contractor complete the works in
+a timely, efficient and cost-effective manner: see 8 JBL 577, 593. But without some
+protection of this kind, it seems unlikely that a contractor would put itself at the
+mercy of the employer by agreeing that liquidated damages should continue to run
+after the termination of the contract.
+86.
+I conclude that it is ordinarily to be expected that, unless the clause clearly
+provides otherwise, a liquidated damages clause will apply to any period of delay in
+completing the work up to, but not beyond, the date of termination of the contract.
+The liquidated damages clause in this case
+87.
+The relevant clause of the CTRM Contract is the third paragraph of article 5
+(referred to for convenience as “article 5.3”), which states:
+“If CONTRACTOR fails to deliver work within the time
+specified and the delay has not been introduced by PTT,
+CONTRACTOR shall be liable to pay the penalty at the rate of
+0.1% (zero point one percent) of undelivered work per day of
+delay from the due date for delivery up to the date PTT accepts
+such work …” (Emphasis added)
+It is common ground on this appeal that, although the sum payable is referred to as
+“the penalty”, the clause is not a penalty clause but a clause providing for the
+payment of liquidated damages.
+88.
+Much money potentially turns on the meaning of this clause. The relevant
+facts are that Triple Point completed Stages 1 and 2 of Phase 1 of the project 149
+days late but did not complete any of the further seven Stages of Phase 1 nor any of
+the nine Stages of Phase 2 by the due dates or at all before the CTRM Contract was
+terminated. If (as the judge held and PTT contends) liquidated damages are payable
+
+Page 37
+
+for the delay up to the date of termination in delivering all the uncompleted work (a
+total period of 3,220 days), the sum recoverable is US$3,459,278.40. If on the other
+hand (as the Court of Appeal held and Triple Point contends) liquidated damages
+are payable only for the delay of 149 days in completing the work which Triple Point
+actually did complete, then the liquidated damages which Triple Point is liable to
+pay are only US$154,662.
+89.
+The meaning and effect of article 5.3 is in my view reasonably
+straightforward. Where the two conditions specified in the opening words are met -
+that is, (1) the Contractor fails to deliver work within the time specified, and (2) the
+delay has not been introduced by PTT, then liquidated damages are payable for each
+day of delay from the due date for delivery of any item of work up to the date when
+PTT accepts the work.
+90.
+It could not reasonably have been intended that, if PTT unjustifiably refuses
+to accept completed work, liquidated damages should continue to accrue until PTT
+chooses to accept the work, and it is not suggested that the clause has that effect. It
+seems to me that, on the wording of the clause, the way in which such a consequence
+is avoided is that any delay in accepting work after it has been completed would be
+delay “introduced by PTT”. Hence Triple Point would not be liable to pay the
+specified sum in respect of any such period.
+91.
+PTT has not sought to argue that article 5.3 continued to apply after the
+contract was terminated. (Nor in fact did PTT claim any unliquidated damages in
+relation to the further time taken for another contractor to complete the work after
+that date.) In light of the considerations discussed above, the term “delay” would in
+my view reasonably be understood to refer to delay by the Contractor - that is to say,
+any period of time when the Contractor is under an obligation to deliver work with
+which it has failed to comply. Accordingly, if the Contractor ceases to be under an
+obligation to deliver work because the Contractor is discharged from that obligation
+by the termination of the contract, no further liability to pay the sum payable for
+each day of delay in the performance of that obligation will arise. However,
+termination of the contract will not affect the liability of Triple Point to pay
+liquidated damages for each day of delay in the performance of its obligation to
+deliver work under the contract which had already occurred before the contract was
+terminated.
+92.
+The interpretation of article 5.3 contended for by Triple Point and accepted
+by the Court of Appeal is that, if Triple Point never completes the work because for
+example, as happened in this case, PTT terminates the contract lawfully because of
+Triple Point’s repudiatory breach, then there never is a date when PTT accepts the
+work and in these circumstances the liability to pay liquidated damages has no
+application. This interpretation seems to me to have the double disadvantage of
+
+Page 38
+
+being inconsistent with both the language and the commercial purpose of the clause.
+It is inconsistent with the language because the clause specifies the conditions which
+must be met in order for liability to pay liquidated damages to arise, and acceptance
+of the work by PTT is not one of them. The clause does not say that the Contractor
+shall be liable to pay the agreed sum for each day of delay provided that PTT accepts
+the work, or anything of that kind. It simply makes the Contractor liable to pay that
+sum for each day of delay up to the date PTT accepts the work. This carries no
+implication that the Contractor will not have a liability to pay liquidated damages
+for delay unless such a date arrives. To the contrary, the clause clearly signifies that,
+provided the two stated conditions are met, the liability to pay the agreed sum for
+each day of delay will run from the due date of delivery and will go on running until
+the work is accepted. That is the effect of the clause, no more and no less. If the
+contract is terminated, the liability to pay liquidated damages stops running, not
+because the end date specified in the clause has been reached, but because Triple
+Point ceases to be under an obligation to deliver work with which it is failing to
+comply.
+93.
+The interpretation for which Triple Point contends is also inconsistent with
+the purpose of the clause for the reasons given at paras 80-81 above. In short, the
+purpose of agreeing in advance on a sum payable as liquidated damages for each
+day of delay caused by the contractor would be defeated if the stipulated sum was
+payable only if and when the contractor chose to complete the contract.
+94.
+It was submitted by Mr Paul Darling QC, who argued this issue for Triple
+Point, that it may not be possible before work has been completed to determine what,
+if any, part of a period of delay in completing the work has been caused by PTT and
+is therefore not delay for which Triple Point is liable to pay liquidated damages. The
+suggestion was that reasonable parties would be unlikely in these circumstances to
+intend that liquidated damages should be payable unless and until a defined stage of
+the work has been completed. I am not persuaded by this argument. I accept that, if
+the contract is terminated after the due date for completion of work but before the
+relevant work has been completed, it may be impossible to know with any certainty
+when, if the contract had not been terminated, the work would have been completed
+and what part, if any, of the overall period of delay would have been caused by the
+employer. But that is not the relevant question. The relevant question is what part of
+the delay which has occurred between the due date for completion and the date of
+termination has in fact been caused by the employer. That does not depend on what
+would have happened thereafter. In any case, to the extent that there may be
+difficulties in proving to what extent delay has been caused by the employer, those
+difficulties would equally exist if the quantum of damages was at large and are not
+a reason to infer that, where a period of delay not caused by the employer has been
+established, the parties would not want the damages to be quantified on the basis of
+an agreed daily rate and would instead want them to be unliquidated.
+
+Page 39
+
+95.
+Accordingly, I would reject Triple Point’s contention that it is not liable under
+article 5.3 to pay liquidated damages for the periods of delay which occurred
+between the due dates for delivery of work and the termination of the contract (none
+of which on the judge’s findings were introduced by PTT). It follows that - subject
+to the issues about the correct interpretation of article 12.3 of the CTRM Contract to
+which I am about to turn - PTT is entitled to recover liquidated damages under article
+5.3 in the amount of US$3,459,278.40 assessed by the judge.
+The meaning of article 12.3
+96.
+Article 12.3 (with the four sentences separated and numbered for
+convenience) provides as follows:
+“1.
+CONTRACTOR shall be liable to PTT for any damage
+suffered by PTT as a consequence of CONTRACTOR’s breach
+of contract, including software defects or inability to perform
+‘Fully Complies’ or ‘Partially Complies’ functionalities as
+illustrated in Section 24 of Part III Project and Services.
+2.
+The total liability of CONTRACTOR to PTT under the
+Contract shall be limited to the Contract Price received by
+CONTRACTOR with respect to the services or deliverables
+involved under this Contract.
+3.
+Except for the specific remedies expressly identified as
+such in this Contract, PTT’s exclusive remedy for any claim
+arising out of this Contract will be for CONTRACTOR, upon
+receipt of written notice, to use best endeavor to cure the breach
+at its expense, or failing that, to return the fees paid to
+CONTRACTOR for the Services or Deliverables related to the
+breach.
+4.
+This limitation of liability shall not apply to
+CONTRACTOR’s liability resulting from fraud, negligence,
+gross negligence or wilful misconduct of CONTRACTOR or
+any of its officers, employees or agents.”
+97.
+The first point to make about this clause is that, as is clear from the first
+sentence onwards, the clause is concerned only with the liability of the Contractor
+for any damage suffered by PTT as a consequence of the Contractor’s breach of
+contract. It does not apply to any extra-contractual liability which the Contractor
+
+Page 40
+
+might incur under the law of tort. Although the words “arising out of this Contract”
+in sentence 3 might in some contexts (such as an arbitration clause) be construed
+more widely to include other claims arising out of the parties’ relationship, it is
+apparent from the later part of sentence 3 that it is concerned only with remedies for
+breach of contract. Like the rest of the clause, therefore, sentence 3 is dealing only
+with liability under the law of contract and not with liability in tort.
+The relationship of sentences 2 and 3
+98.
+It is common ground that sentences 2 and 3 of article 12.3 need to be read
+together in that they together constitute the “limitation of liability” referred to in
+sentence 4. PTT seeks to take this interrelationship a stage further, however, by
+arguing that the exception for “the specific remedies expressly identified as such in
+this Contract” at the start of sentence 3 also qualifies sentence 2. I agree with Lady
+Arden that this argument can be disposed of shortly, as there is simply no
+justification for rewriting the contract in such a way. The exception for specific
+remedies is needed in order to preserve, in particular, the remedy of liquidated
+damages for delay in the delivery of work provided by article 5.3. The remedy of
+returning the fees paid to the Contractor is not apposite to such a breach, as it is only
+once work has been delivered that fees are payable for it. By contrast, it makes
+perfectly good sense for the parties, if they choose to do so, to agree separately to
+impose a cap on the Contractor’s total liability under the contract which includes
+any liability to pay liquidated damages. It is clear from the wording of the clause
+that this is indeed what the parties have done - subject to the exception in sentence
+4.
+The meaning of “negligence” in sentence 4
+99.
+The principal dispute in relation to article 12.3 is whether the word
+“negligence” in sentence 4 refers to breach of a contractual duty of care (as PTT
+contends) or to breach of a duty of care in tort which does not give rise to a
+concurrent liability for breach of contract (as the judge and the Court of Appeal
+held).
+100. The starting point must be that, as the judge observed, any breach of an
+obligation to exercise reasonable care and skill would, in common legal language,
+be called “negligence”, whether the source of the obligation is a term of the contract
+or the law of tort: see [2017] EWHC 2178 (TCC), para 258. On a straightforward
+reading of article 12.3, therefore, liability resulting from breach of a contractual duty
+of care falls within the exception for “liability resulting from … negligence”
+established by sentence 4. Hence such liability is not subject to the limitation on the
+liability of Triple Point to PTT.
+
+Page 41
+
+101. A further, compelling reason for giving the word “negligence” in article 12.3
+its straightforward and ordinary legal meaning is that, as already noted, article 12.3
+only deals with liability for breach of the CTRM Contract and does not deal with
+liability in tort at all. It therefore makes no sense to interpret the word “negligence”
+in sentence 4 as referring to a basis of liability which is not part of the subject matter
+of the clause. The cap imposed in sentence 2 applies to the total liability of the
+Contractor under the CTRM Contract. It does not apply to any other liability which
+the Contractor might have independently of the CTRM Contract under the law of
+tort. The same applies to sentence 3 which, as already noted, deals with remedies
+for breaches of the CTRM Contract. Hence the only limitation of liability resulting
+from the Contractor’s negligence which sentence 4 can disapply is liability resulting
+from breach of a contractual duty of care. Liability in tort does not enter the equation.
+102. That is also consistent with the rest of sentence 4. The terms “gross
+negligence” and “wilful misconduct” are not, at least in common law systems,
+separate torts. It seems clear that those terms must be intended to describe, or at the
+very least to include, conduct which amounts to a breach of the contract. The same
+is true of “fraud”. Although that term could be used to refer to claims in tort such as
+claims in the tort of deceit, it is apt also to refer to fraud which would entitle the
+innocent party to rescind the contract or fraud in the performance of the contract. It
+is anomalous to treat the term “negligence” as excluding negligent conduct which
+amounts to a breach of the contract when there is no similar restriction on the scope
+of the other terms in the list.
+103. By contrast, the interpretation of the word “negligence” for which Triple
+Point contends is inconsistent not merely with the ordinary legal meaning of the
+word but with any meaning which the word can reasonably bear. I would certainly
+accept that the word “negligence” could in some contexts mean the tort of
+negligence - though, as stated, this is not a reasonable interpretation of the word in
+the context of a clause which does not apply to liability in tort at all. That is not,
+however, the meaning of the word for which Triple Point contends. If “negligence”
+in article 12.3 meant the tort of negligence, this might not be good enough for Triple
+Point and could produce illogical results. The reason is that, at any rate in English
+law, someone who provides services to another person generally owes that person a
+duty of care in tort whether or not the relationship between them is contractual and
+even if such a duty of care is also owed under the contract: see Henderson v Merrett
+Syndicates Ltd [1995] 2 AC 145; Robinson v PE Jones (Contractors) Ltd [2011]
+EWCA Civ 9; [2012] QB 44. In the present case a claim in tort would not have been
+governed by English law. Pursuant to article 4(1) of Regulation (EC) 864/2007
+(Rome II), the applicable law would be that of the country where the damage
+occurred, which was probably Thailand where PTT carries on its business. However,
+if the applicable law were similar in this respect to English law, negligence in the
+performance of the “Services” (defined in article 1.2 of the CTRM Contract to mean
+“all activities rendered by [Triple Point] to PTT in connection with the Project”)
+
+Page 42
+
+would give rise to a concurrent liability in tort as well as under the contract. If the
+intention were to cap Triple Point’s liability to PTT resulting from negligence in the
+performance of the contract, it would potentially defeat that intention to create an
+exception from the cap for liability for negligence in tort which arises concurrently
+with liability for breach of a contractual duty of care.
+104. To avoid that result, Triple Point contends that the term “negligence” in
+sentence 4 of article 12.3 does not include want of care which gives rise to liability
+in tort if it also gives rise to liability for breach of the contract. I take the Court of
+Appeal to have accepted this contention in holding that “negligence” in sentence 4
+of article 12.3 means “the freestanding tort of negligence”: see [2019] EWCA Civ
+230; [2019] 1 WLR 3549, para 119. The word “freestanding” was presumably
+intended to signify that the term “negligence” is confined to a negligent act or
+omission which is a breach of a duty of care owed in tort but is not also a breach of
+a duty of care arising under the contract.
+105. The problem with this approach, however, is that it seeks to build into the
+word “negligence” a convoluted meaning which the word cannot reasonably bear.
+No reasonable person would understand the word “negligence” to mean negligence
+which is neither a breach of a contractual duty of care nor of a concurrent duty of
+care in tort. Still less is that a possible meaning when, as discussed above, the context
+in which the word is used is a clause dealing only with liability for breach of the
+contract and not with liability in tort at all - let alone with liability in tort which
+arises altogether outside the scope of the contract.
+Clear words needed to restrict valuable rights
+106. Even if the interpretation for which Triple Point contends were considered to
+be a possible meaning of the word, a further reason for giving the word “negligence”
+its straightforward and ordinary legal meaning is that clear words are necessary
+before the court will hold that a contract has taken away valuable rights or remedies
+which one of the parties to it would have had at common law (or pursuant to statute).
+107. The approach of the courts to the interpretation of exclusion clauses
+(including clauses limiting liability) in commercial contracts has changed markedly
+in the last 50 years. Two forces have been at work. One has been the impact of the
+Unfair Contract Terms Act 1977, which provided a direct means of controlling
+unreasonable exclusion clauses and removed the need for courts to resort to artificial
+rules of interpretation to get around them: see Lord Denning’s swansong in George
+Mitchell (Chesterhall) Ltd v Finney Lock Seeds Ltd [1983] QB 284, 296-301; and
+Bank of Credit and Commerce International SA v Ali [2001] UKHL 8; [2002] 1 AC
+251, paras 57-60 (Lord Hoffmann). This change of attitude was heralded by the
+
+Page 43
+
+decision of the House of Lords in Photo Production Ltd v Securicor Transport Ltd
+[1980] AC 827. The second force has been the development of the modern approach
+in English law to contractual interpretation, with its emphasis on context and
+objective meaning and deprecation of special “rules” of interpretation - encapsulated
+by Lord Hoffmann’s announcement in Investors Compensation Scheme Ltd v West
+Bromwich Building Society [1998] 1 WLR 896 at 912 that “almost all the old
+intellectual baggage of ‘legal’ interpretation has been discarded”.
+108. The modern view is accordingly to recognise that commercial parties are free
+to make their own bargains and allocate risks as they think fit, and that the task of
+the court is to interpret the words used fairly applying the ordinary methods of
+contractual interpretation. It also remains necessary, however, to recognise that a
+vital part of the setting in which parties contract is a framework of rights and
+obligations established by the common law (and often now codified in statute).
+These comprise duties imposed by the law of tort and also norms of commerce
+which have come to be recognised as ordinary incidents of particular types of
+contract or relationship and which often take the form of terms implied in the
+contract by law. Although its strength will vary according to the circumstances of
+the case, the court in construing the contract starts from the assumption that in the
+absence of clear words the parties did not intend the contract to derogate from these
+normal rights and obligations.
+109. The first and still perhaps the leading statement of this principle is that in
+Modern Engineering (Bristol) Ltd v Gilbert-Ash (Northern) Ltd [1974] AC 689
+(“Gilbert-Ash”). The question was whether the parties to a building contract had
+agreed to exclude the contractor’s common law and statutory right to set off claims
+for breach of warranty against the price. The right allegedly excluded was thus one
+which would diminish the value of the claim otherwise maintainable against the
+contractor. Lord Diplock said (at 717H):
+“It is, of course, open to parties to a contract for sale of goods
+or for work and labour or for both to exclude by express
+agreement a remedy for its breach which would otherwise arise
+by operation of law … But in construing such a contract one
+starts with the presumption that neither party intends to
+abandon any remedies for its breach arising by operation of
+law, and clear express words must be used in order to rebut this
+presumption.”
+In Photo Production [1980] AC 827, 850-851, Lord Diplock returned to this
+principle and explained its rationale more fully:
+
+Page 44
+
+“Since the presumption is that the parties by entering into the
+contract intended to accept the implied obligations exclusion
+clauses are to be construed strictly and the degree of strictness
+appropriate to be applied to their construction may properly
+depend upon the extent to which they involve departure from
+the implied obligations. Since the obligations implied by law in
+a commercial contract are those which, by judicial consensus
+over the years or by Parliament in passing a statute, have been
+regarded as obligations which a reasonable businessman would
+realise that he was accepting when he entered into a contract of
+a particular kind, the court’s view of the reasonableness of any
+departure from the implied obligations which would be
+involved in construing the express words of an exclusion clause
+in one sense that they are capable of bearing rather than
+another, is a relevant consideration in deciding what meaning
+the words were intended by the parties to bear. But this does
+not entitle the court to reject the exclusion clause, however
+unreasonable the court itself may think it is, if the words are
+clear and fairly susceptible of one meaning only.” (Emphasis
+added)
+110. Many further authoritative statements of this principle are quoted in Lewison,
+The Interpretation of Contracts, 7th ed (2020), chapter 12, section 20: see eg
+Trafalgar House Construction (Regions) Ltd v General Surety & Guarantee Co Ltd
+[1996] AC 199, 208C (Lord Jauncey of Tullichettle); Stocznia Gdanska SA v Latvian
+Shipping Co [1998] 1 WLR 574, 585 (Lord Goff of Chieveley); HIH Casualty &
+General Insurance Ltd v Chase Manhattan Bank [2003] UKHL 6; [2003] 1 All ER
+(Comm) 349, para 11 (Lord Bingham of Cornhill); Bahamas Oil Refining Co
+International Ltd v Owners of the Cape Bari Tankschiffahrts GMBH & Co KG
+[2016] UKPC 20; [2017] 1 All ER (Comm) 189, para 31 (Lord Clarke). Notable
+statements of the principle are also contained in several judgments of Moore-Bick
+LJ in the Court of Appeal. In Stocznia Gdynia SA v Gearbulk Holdings Ltd [2009]
+EWCA Civ 75; [2010] QB 27, para 23, he said:
+“The court is unlikely to be satisfied that a party to a contract
+has abandoned valuable rights arising by operation of law
+unless the terms of the contract make it sufficiently clear that
+that was intended. The more valuable the right, the clearer the
+language will need to be.”
+See also Whitecap Leisure Ltd v John H Rundle Ltd [2008] EWCA Civ 429; [2008]
+2 Lloyd’s Rep 216, para 20; and Seadrill Management Services Ltd v OAO Gazprom
+[2010] EWCA Civ 691; [2011] 1 All ER (Comm) 1077, paras 27-29. In Seadrill at
+para 29, Moore-Bick LJ described the principle as “essentially one of common
+
+Page 45
+
+sense; parties do not normally give up valuable rights without making it clear that
+they intend to do so”.
+111. To the extent that the process has not been completed already, old and
+outmoded formulas such as the three-limb test in Canada Steamship Lines Ltd v The
+King [1952] AC 192, 208, and the “contra proferentem” rule are steadily losing their
+last vestiges of independent authority and being subsumed within the wider Gilbert-
+Ash principle. As Andrew Burrows QC, sitting as a Deputy High Court Judge, said
+in Federal Republic of Nigeria v JP Morgan Chase Bank NA [2019] EWHC 347
+(Comm); [2019] 1 CLC 207, para 34(iii):
+“Applying the modern approach, the force of what was the
+contra proferentem rule is embraced by recognising that a party
+is unlikely to have agreed to give up a valuable right that it
+would otherwise have had without clear words. And as Moore-
+Bick LJ put it in the Stocznia case, at para 23, ‘The more
+valuable the right, the clearer the language will need to be’. So,
+for example, clear words will generally be needed before a
+court will conclude that the agreement excludes a party’s
+liability for its own negligence.”
+See also Peel E, “Whither Contract Proferentem?” in Burrows and Peel (eds),
+Contract Terms (2007), chapter 4; and Foxton D, “The Status of the Special Rules
+of Construction of Exemption Clauses in Commercial Contracts” (2021) JBL 205.
+112. In Seadrill and in JP Morgan Chase Bank the obligation allegedly excluded
+by a clause in the contract was in each case an aspect of the obligation implied by
+law - originally at common law and now by section 13 of the Supply of Goods and
+Services Act 1982 - in a contract to supply services that the supplier will carry out
+the service with reasonable care and skill. In each case, applying the Gilbert-Ash
+principle, it was held that clear wording would be needed to exclude this obligation
+and that there was no such clear wording. Affirming the decision of the deputy judge
+in Federal Republic of Nigeria v JP Morgan Chase Bank NA [2019] EWCA Civ
+1641; [2019] 2 CLC 559, para 40, Rose LJ (with whom Baker LJ and Sir Bernard
+Rix agreed) said that the duty to exercise reasonable care and skill in the services
+provided (in that case by a bank to its customer) can “properly be described as one
+of the incidents which the law ordinarily attaches to the relationship” and is “a duty
+which is inherent in that relationship”. Those descriptions well express the doctrine
+that many types of contract are regarded as having certain ordinary incidents,
+derived from the nature of the relationship they create, which inform the
+interpretation of the contract and which clear words are required to displace.
+
+Page 46
+
+113. In the present case it was likewise an obligation implied by law in the CTRM
+Contract, in so far as it involved the supply of services, that Triple Point should carry
+out those services with reasonable care and skill. The parties have not sought to
+exclude that obligation from arising. Indeed, they have positively reinforced it by
+article 12.1. The extent of the departure from the ordinary remedy of damages for
+loss resulting from breach of that obligation which applying the liability cap would
+involve is illustrated by the potential financial impact of such a conclusion in the
+present case. On the judge’s findings, negligence of Triple Point in the performance
+of the Services gave rise prima facie to a liability to pay damages to PTT in a sum
+of US$14,664,035.18. This amount comprises the cost of procuring an alternative
+system quantified at US$10,574,756.78, wasted costs of US$630,000 and the
+liquidated damages for delay of US$3,459,278.40 referred to at para 95 above. If,
+however, the limitation of liability contained in article 12.3 applies to negligence in
+the performance of the Services, the total liability of Triple Point is limited to the
+sum of US$1,038,000. Hence declining to interpret the term “negligence” in
+sentence 4 as bearing its ordinary legal meaning would involve a substantial
+departure from the obligations implied by law in a contract of the present kind.
+Triple Point’s argument
+114. The argument which persuaded the Court of Appeal that the word
+“negligence” in sentence 4 of article 12.3 should not be given its straightforward
+meaning of a failure to exercise reasonable care and skill in the performance of the
+Services was that, on that basis, sentence 4 “would take away almost the entire
+protection afforded by the cap” and “deprive the … cap of any practical effect”: see
+[2019] EWCA Civ 230; [2019] 1 WLR 3549, paras 117 and 121.
+115. In my view, there are at least four flaws in this argument. First, as already
+indicated, the alternative meaning for which Triple Point contends - that the word
+“negligence” in sentence 4 of article 12.3 refers to negligence altogether outside the
+scope of the contract - is, in my view, not merely contrary to the ordinary legal
+meaning of the word “negligence” but is not a meaning which the term can
+reasonably bear.
+116. Second, as Lady Arden has shown, the argument in any case exaggerates the
+effect of giving the term “negligence” its ordinary legal meaning. As well as
+agreeing to supply services, Triple Point also agreed to provide what are referred to
+in article 12.3 as “Deliverables” consisting in software which complied with
+contractual specifications. This aspect of the contract imported obligations which
+were strict and not just duties of care. While it is true, therefore, that giving the term
+“negligence” in sentence 4 its ordinary legal meaning creates a significant exception
+to the limitation of liability in article 12.3, it is going too far to say that it takes away
+“almost the entire protection” afforded by the cap or that it deprives the cap “of any
+
+Page 47
+
+practical effect”. The clause still has the practical effect of limiting the liability of
+Triple Point for breach of any of the numerous obligations of result referred to by
+Lady Arden at para 54 of her judgment.
+117. Third, Triple Point’s argument would have more to commend it if,
+conversely, restricting the “negligence” referred to in sentence 4 to negligence
+outside the scope of the contract left the term with some meaningful content.
+However, as Lady Arden has also shown, it empties the term of any meaningful
+content. Several attempts have been made to come up with an example of a liability
+in tort outside the scope of the contract that reasonable parties could credibly have
+been seeking to preserve. None of the examples suggested seems to me to describe
+a scenario which might realistically have been a source of concern that would
+explain the decision to exclude liability for “negligence” from the cap. Moreover,
+even if any of the examples suggested is considered realistic, the exception would
+anyway have no content or practical effect as the cap does not apply to liability other
+than liability under the contract.
+118. Like Lady Arden, I do not consider that Triple Point gets any assistance from
+comparing sentence 4 of article 12.3 with clause 7.4 of Triple Point’s standard
+Licence Agreement, which formed part of the CTRM Contract. Clause 7.4 of the
+Licence Agreement limits “the aggregate liability of Triple Point for damages from
+any cause of action whatsoever” to the fees paid to Triple Point under the agreement,
+except for “such damages caused by fraud, gross negligence and wilful misconduct.”
+Far from assisting Triple Point, the fact that the exception in this standard term does
+not refer to “negligence” serves to show that the term “negligence” has been
+deliberately added in article 12.3 which is a bespoke clause (and is the relevant
+clause in this case because it is contained in the main contract which covered the
+implementation of the software system which Triple Point agreed to supply). It is
+not to be supposed that reasonable parties would have gone to the trouble of altering
+the wording of a standard clause in a way that was utterly pointless.
+119. Of more help to Triple Point, in my view, is the argument that the addition of
+“negligence” in article 12.3, if the term is given its ordinary legal meaning, makes
+the expression “gross negligence” redundant. I agree that it does have this result and
+that it would have been neater and better drafting simply to have deleted the word
+“gross”. But arguments of this sort based on verbal surplusage in a commercial
+contract do not count for much. As Staughton LJ said in Total Transport Corpn v
+Arcadia Petroleum Ltd [1998] 1 Lloyd’s Rep 351, 357:
+“It is well-established that the presumption against surplusage
+is of little value in the interpretation of commercial contracts.”
+
+Page 48
+
+Many authorities confirming that proposition are collected in Lewison, The
+Interpretation of Contracts, 7th ed (2020), chapter 7, section 3.
+120. Fourth, the argument advanced by Triple Point, even if it otherwise had merit,
+fails to take account of the principle discussed above that clear words are needed to
+exclude or limit an obligation implied by law as an ordinary incident of a contract.
+121. I therefore consider that no adequate reason has been shown for construing
+the contractor’s “liability resulting from … negligence” which is expressly excepted
+from the cap on liability by sentence 4 of article 12.3 to mean liability resulting from
+negligence outside the contract which would in any case not be subject to the cap.
+On the contrary, the only reasonable meaning of these words is that the cap does not
+apply to liability resulting from negligence in the performance of the Services under
+the contract. It follows that the cap does not apply to the damages claimed by PTT
+in this case.
+Conclusion
+122. For these reasons in addition to those given by Lady Arden, I agree that the
+appeal should be allowed, with the result that PTT is entitled to recover the damages
+assessed by the judge in the total sum of US$14,664,035.18 without any limitation
+of liability.
+LORD SALES: (part dissenting) (with whom Lord Hodge agrees)
+123. I agree with the judgment of Lady Arden on the first and third issues in the
+appeal. I also agree with Lord Leggatt’s reasoning on the first issue. I gratefully
+adopt Lady Arden’s account of the facts and will use her terminology in this
+judgment.
+124. The second issue relates to the interpretation of the word “negligence” in the
+fourth sentence of article 12.3 of the Main Part of the CTRM Contract between PTT
+and Triple Point. On that issue I have come to a different conclusion.
+125. I agree with the judge (paras 261-262) and Sir Rupert Jackson and the other
+members of the Court of Appeal (paras 117-121) that the word “negligence”, as used
+in that sentence, does not refer to negligence in the performance of Triple Point’s
+obligations under the CTRM Contract. I think it is telling that four experienced
+judges have all come to this view with little hesitation. Sir Rupert Jackson, who has
+
+Page 49
+
+great experience in dealing with contracts of this type, thought that the judge’s
+conclusion was obviously correct.
+126. The CTRM Contract was pulled together from a number of sources. Aspects
+of it are not well drafted. In particular, the fourth sentence of article 12.3 is not well
+expressed, whatever interpretation one gives to the word “negligence”. This is a one-
+off provision and the question of law to which it gives rise has no wider significance
+than this case.
+127. In my opinion, to understand article 12 four features of the CTRM Contract
+are of particular importance. First, the provisions of the Main Part are expressed to
+prevail where there is any conflict with other documentation pertaining to and
+forming part of the CTRM Contract: article 29 of the Main Part and clause 10.9 of
+the PLA. The Main Part is the primary source of the parties’ rights and obligations.
+Secondly, the term “Services” is defined in article 1.2 of the Main Part in very wide
+terms: “all activities rendered by CONTRACTOR [ie Triple Point] to PTT in
+connection with the Project”. As Lady Arden points out, this includes almost
+anything done by Triple Point under the CTRM Contract. Thirdly, article 12 appears
+in the section of the Main Part entitled “Performance Security and Liability”,
+comprising articles 11 to 13. It is this section which defines the basic obligations of
+the parties in a manner which governs all aspects of the CTRM Contract. Fourthly,
+it is common ground that the CTRM Contract and the services provided under it
+were produced by customising Triple Point’s standard software products and
+contractual terms: hence the use of the PLA, in modified form, as part of the CTRM
+Contract.
+128. In the “Performance Security and Liability” section of the Main Part, article
+11 imposes an obligation on Triple Point to furnish a performance security as a
+guarantee for the proper fulfilment of its obligations. Article 12 is headed “Liability
+and Responsibility” and deals with the obligations of Triple Point which are
+fundamental to performance of the CTRM Contract. Article 13 is headed
+“Indemnity” and sets out the obligation of each party (but with particular reference
+to Triple Point) to hold the other harmless in respect of liabilities the other may incur
+as a result of steps taken in implementation of the CTRM Contract.
+129. Article 12 provides:
+“12.1 CONTRACTOR shall exercise all reasonable skill, care
+and diligence and efficiency in the performance of the Services
+under the Contract and carry out all his responsibilities in
+accordance
+with
+recognized
+international
+professional
+standards. The CONTRACTOR, his employees and sub-
+
+Page 50
+
+contractors, while in Thailand and/or other countries where the
+Services are being carried out, shall respect the law and customs
+of the respective countries. The CONTRACTOR shall replace
+employees and sub-contractors who commit serious violation of
+the laws of such countries with others of equal competence
+satisfactory to PTT at the expense of the CONTRACTOR.
+12.2 CONTRACTOR’s personnel, representatives, successors
+and permitted assignees shall not have the benefit, whether
+directly or indirectly, of any royalty on or of any gratuity of
+commission in respect of any patented or protected articles or
+process used on or for the purpose of the Contract unless it is
+mutually agreed in writing that CONTRACTOR shall have such
+benefit.
+12.3 CONTRACTOR shall be liable to PTT for any damage
+suffered by PTT as a consequence of CONTRACTOR’s breach
+of contract, including software defects or inability to perform
+‘Fully Complies’ or ‘Partially Complies’ functionalities as
+illustrated in section 24 of Part III Project and Services. The total
+liability of CONTRACTOR to PTT under the Contract shall be
+limited to the Contract Price received by CONTRACTOR with
+respect to the services or deliverables involved under this
+Contract. Except for the specific remedies expressly identified
+as such in this Contract, PTT’s exclusive remedy for any claim
+arising out of this Contract will be for CONTRACTOR, upon
+receipt of written notice, to use best endeavor to cure the breach
+at its expense, or failing that, to return the fees paid to
+CONTRACTOR for the Services or Deliverables related to the
+breach. This limitation of liability shall not apply to
+CONTRACTOR’s liability resulting from fraud, negligence,
+gross negligence or wilful misconduct of CONTRACTOR or
+any of its officers, employees or agents.”
+130. The core obligation of Triple Point under the CTRM Contract is to exercise
+reasonable skill and care: article 12.1. The limitation of liability provisions set out
+in the second and third sentences of article 12.3, which form part of the same article,
+have to be read in that context. In my view, on a fair and straightforward reading of
+those sentences, they are intended to create a limitation of liability for Triple Point
+in respect of any breach of that core obligation, including to the extent that it may
+be reflected in a co-extensive duty of care in tort as contemplated in Henderson v
+Merrett Syndicates Ltd [1995] 2 AC 145. The fourth sentence of article 12.3
+naturally falls to be interpreted with that in mind.
+
+Page 51
+
+131. Mr Howells QC for PTT makes a textual point which, taken out of context,
+would have force. He emphasises that the limitation of liability in both the second
+and third sentences of article 12.3 refers to the liability of Triple Point “under” or
+“arising out of” the CTRM Contract; therefore, he says, the fourth sentence should
+be taken to be referring to (and only to) liability of Triple Point for breach of the
+CTRM Contract and any co-extensive Henderson v Merrett duty of care, and not
+other forms of liability it may incur. It would be unnecessary to refer to other forms
+of liability, since the limitation of liability in the second and third sentences of article
+12.3 does not apply to them. Alternatively, the fourth sentence should be taken to
+include reference to breaches of the CTRM Contract with particular qualities as set
+out there, even if it also includes reference to other forms of legal liability as well,
+making it clear for the avoidance of doubt as regards those other forms of liability
+that the limitation of liability in the provision does not apply to them. On either basis,
+Mr Howells submits, the fourth sentence of article 12.3 should be interpreted to
+mean that breaches of the CTRM Contract which have the quality of “negligence”
+do not fall within the scope of the limitation of liability in that article.
+132. The immediate objection to this which the judge and the Court of Appeal
+regarded as insuperable is that this interpretation would have the practical effect of
+undoing what the parties obviously intended the limitation of liability provision
+should achieve, namely to limit Triple Point’s liability for breach of its core
+obligation under the Contract to exercise reasonable skill and care in carrying out its
+tasks. By virtue of the definition of “Services” in article 1.2 of the Main Part and the
+priority given to the Main Part by virtue of article 29 of the Main Part and clause
+10.9 of the PLA (in the modified form in which it is incorporated in the CTRM
+Contract), that is the standard of obligation which governs practically all of what
+Triple Point is required to do under the CTRM Contract. Breach of such an
+obligation may be described as “negligence”, as a matter of ordinary legal parlance.
+Mr Howells does not suggest otherwise. Therefore, on the interpretation proposed
+by PTT, article 12.3 would grant a limitation of liability for Triple Point in respect
+of any simple failure by it (which did not have any added element of fraud, gross
+negligence or wilful misconduct) to comply with its core obligation under the
+CTRM Contract, while taking that away in the following sentence. If the word
+“negligence” in the fourth sentence is construed as applying to breaches by Triple
+Point of its obligation to exercise reasonable skill and care in carrying out its tasks,
+it would effectively nullify the limitation of liability in the second and third
+sentences. That limitation of liability would then only apply in relation to non-
+negligent breaches of any strict obligations in the CTRM Contract, but there are very
+few and, with the exception of the warranties as to the use of intellectual property
+rights in the PLA (clauses 7.1 and 7.3), are ancillary or peripheral to the main
+performance obligations under the Contract. Although Lady Arden regards the
+obligations of Triple Point regarding provision of defect-free software and
+“Deliverables” under the CTRM Contract as strict (para 54), I do not think that is
+right. They are part of the “Services” (as defined) under the CTRM Contract and
+
+Page 52
+
+accordingly, by virtue of article 12.1, are the subject of a performance obligation of
+reasonable skill and care.
+133. In my view, it makes no sense to interpret article 12.3 as giving with one hand
+and taking away with the other in this way. To the extent that the fourth sentence
+might be regarded as being in conflict with the second and third sentences, an
+interpretation should be adopted which gives effect to what was clearly the main
+purpose of article 12.3, which was to confer on Triple Point the protection of a
+limitation of liability in respect of ordinary breaches of its core performance
+obligation. That purpose is promoted, rather than defeated, by the interpretation
+given to the fourth sentence by the courts below.
+134. That interpretation is reinforced by the wider contractual context and by three
+textual features of the fourth sentence.
+135. The services to be provided by Triple Point under the CTRM Contract
+involved combining and modifying existing software products which it already
+offered to customer licensees. Those were to be the building blocks for the system
+it agreed to supply to PTT. The contractual starting point for the drafters of the
+CTRM Contract was to take Triple Point’s standard terms in relation to its existing
+products and then to incorporate them in the CTRM Contract, subject to certain
+adaptations.
+136. Clause 7.4 of Triple Point’s standard terms, as modified in the PLA for the
+purpose of being appended to and incorporated in the CTRM Contract, provided as
+follows:
+“… Licensee agrees that the aggregate liability of Triple Point
+for damages from any cause of action whatsoever, regardless
+of the form of action, shall not exceed the fees paid to Triple
+Point under the CTRM Contract and except such damages
+caused by fraud, gross negligence and wilful misconduct.”
+Thus, the starting point for the drafters was a limitation of liability provision which
+applied in relation to all forms of liability, whether under contract, in tort or
+otherwise, subject to disapplication in the case of damages caused by fraud, gross
+negligence or wilful misconduct (whether arising under contract or in tort or
+otherwise).
+137. The drafters recognised that provisions in Triple Point’s standard terms might
+conflict with what was written in the bespoke terms set out in the Main Part of the
+
+Page 53
+
+CTRM Contract. So, in clause 10.9 of the PLA as appended to and incorporated in
+the CTRM Contract, they included the following statement:
+“… Triple Point agrees that this agreement shall not supersede
+and shall be an annex to the CTRM Contract. In addition, Triple
+Point agrees that if there is any conflict between the CTRM
+Contract and this agreement, the CTRM Contract shall prevail
+and be enforceable.”
+In this way, the drafters demonstrated their concern to manage any potential
+dissonance between article 12.3 of the Main Part and clause 7.4 of the PLA standard
+terms. The inference is that the fourth sentence of article 12.3 was derived from the
+exception proviso in clause 7.4 and was intended to be interpreted in line with that
+proviso, so far as possible. Where conflict could not be avoided, the terms of the
+Main Part would prevail.
+138. The standard term clause 7.4 of the PLA was concerned with all forms of
+liability, so the terms “fraud”, “gross negligence” and “wilful misconduct” were
+intended to apply to breaches of contract and tort. There is every reason to infer that
+the same is true where the parties used the same terms in article 12.3 of the Main
+Part, having regard to the drafting history and since that would minimise the scope
+for conflict between the provisions. If the list in the fourth sentence of article 12.3
+referred only to breaches of contract, arguments could arise whether that involved a
+conflict with clause 7.4 having the effect that it was displaced; but the intention was
+that the scope for such arguments to arise should be kept to a minimum. Further,
+since the drafters were concerned to manage possible conflicting impressions which
+might be created by the different contractual documents, it is a reasonable inference
+that they intended the fourth sentence of article 12.3 to fulfil to some degree the
+function of avoiding doubt.
+139. Therefore, when the drafters wrote “this limitation shall not apply [etc]” in
+the fourth sentence of article 12.3 they intended the list as a whole to cover liability
+arising both in contract and in tort, and to say that the limitation cap on liability did
+not apply to fraud, gross negligence or wilful misconduct within either of those
+categories of liability, as was the case with clause 7.4. I use English law categories
+for ease of exposition and because they are the most obvious frame of reference for
+the drafters of the CTRM Contract as a contract governed by English law; but the
+terms in the list are applicable in relation to all and any type of non-contractual
+liability which might arise, including under the law of the various jurisdictions
+which might be implicated in the provision of the services under the CTRM
+Contract, such as Thailand, Singapore and the United Arab Emirates. Against this
+background, the suggestion that the restriction on the limitation of liability in article
+
+Page 54
+
+12.3 is limited to liability under the CTRM Contract (the first alternative in para 131
+above) is not persuasive.
+140. Three textual features of the fourth sentence of article 12.3 also support this
+view. First, since the list of cases of exception set out in that provision has been
+expanded to include “negligence” alongside “gross negligence”, the provision
+would be incoherent and nonsensical if it applied only to breaches of contract. The
+“gross negligence” category would be redundant. Therefore, the drafters must have
+intended that there should be scope for these terms to apply distinctly in relation to
+different types of liability. The only way for the fourth sentence of article 12.3 to be
+given an interpretation which avoids such redundancy is by reading the list as a
+whole as applicable to both liability in contract and liability in tort, while at the same
+time treating the specific term “negligence” as limited to liability in tort in order to
+reflect the purpose of the second and third sentences of article 12.3 as explained
+above. This has the result that “negligence” can be read as referring to liability in
+tort alone, and since “gross negligence” covers both forms of liability it is not a
+redundant term since it applies to breaches of contract involving gross, but not
+ordinary, negligence.
+141. Secondly, in the context set out above, it is significant that, by contrast with
+the second and third sentences of article 12.3, the fourth sentence is expressed in
+general terms and not by reference to liability “under the Contract”.
+142. The commercial sense of the restriction in the context of clause 7.4 of the
+PLA is readily understood. The limitation of liability was to cover Triple Point in
+respect of its ordinary conduct in seeking to meet its contractual obligations, where
+it was found not to have met the contractual standard of reasonable skill and care.
+But it would not apply if Triple Point did something out of the ordinary and
+involving a degree of culpability which was not to be expected as an ordinary
+incident of commercial relations under the contract, ie amounting to fraud, gross
+negligence or wilful misconduct.
+143. In my view, that same objective was intended to be carried into the fourth
+sentence of article 12.3. So what was the point of adding “negligence” to the list of
+forms of conduct to which the limitation of liability was not to apply? For the reasons
+I have given, the list as a whole is intended to refer to liability in contract and liability
+in tort. However, in the case of “negligence”, to avoid incompatibility with the
+fundamental object of the second and third sentences of article 12.3 and to avoid
+incoherence and textual redundancy in the fourth sentence, that specific term can
+only sensibly refer to liability in tort. It therefore must be taken to refer to the
+freestanding tort of negligence which, like the other terms in the list, is something
+apart from an ordinary incident of commercial relations under the contract. I agree
+with Sir Rupert Jackson’s explanation at para 119:
+
+Page 55
+
+“… The word ‘negligence’ must be read in context. The phrase
+‘fraud, negligence, gross negligence, or wilful misconduct’ is
+describing unusual or extreme conduct, such that Triple Point
+should forfeit the protection of the cap. It is talking about
+breaches of contract which are also freestanding torts or
+deliberate wrongdoing. In my view, ‘negligence’ in this context
+means the freestanding tort of negligence. For example, if
+Triple Point’s engineers carelessly left electrical wiring
+exposed which caused personal injury, that would be both a
+breach of contract and the freestanding tort of negligence. If the
+engineers did so deliberately, that would be both a breach of
+contract and wilful misconduct. In those two examples Triple
+Point would be liable for the full consequences of the
+engineers’ negligent conduct, alternatively their wilful
+misconduct, without the article 12.3 cap limiting the financial
+liability.”
+144. Mr Howells criticised Sir Rupert’s example, pointing out that the services to
+be rendered under the CTRM Contract did not include supply of hardware. But Sir
+Rupert’s basic point is correct. It is recognised that in cases involving the supply of
+services under a contract it is possible for the contractors to do something alongside
+the work they are carrying out under the contract, but outside the terms of the
+contract, which gives rise to an assumption of responsibility in the tort of negligence
+and hence to freestanding liability in negligence: see eg Holt v Payne Skillington
+(1995) 77 BLR 51, 72-73 (Hirst LJ) and Robinson v PE Jones (Contractors) Ltd
+[2011] EWCA Civ 9; [2012] QB 44, paras 77-80 (Jackson LJ). I do not think it is
+difficult to think of situations where this could be the case in relation to work carried
+out by Triple Point under the CTRM Contract. For example, freestanding liability
+in negligence could arise if one of Triple Point’s agents, while delivering training
+on the new system to a PTT employee under the CTRM Contract, was given remote
+access to the employee’s computer; the employee asked him to fix an unrelated
+problem with the computer alongside delivering the training; and he did so, but in a
+negligent way which caused damage to the computer or to PTT’s other operational
+systems. Given the vulnerability of computer systems to be infected by software
+content delivered remotely, which was to be the manner in which Triple Point’s
+agents were to be interacting with PTT’s systems, there could be many scenarios in
+which there might be a risk of tortious action by agents of Triple Point. As Sir Rupert
+appreciated, the important point is that there is a category of case to which the term
+“negligence” can coherently and sensibly refer which does not do violence to the
+intended effect of the second and third sentences of article 12.3. If anything, his
+example, focusing as it did on a problem in the delivery of hardware, understated
+the size and significance of this category of case.
+
+Page 56
+
+145. Therefore, while the list of excepted conduct in the fourth sentence of article
+12.3, taken as a whole, refers to liability in contract and liability in tort, the word
+“negligence” is intended to refer only to freestanding liability in tort. In my view,
+that is the only coherent interpretation which can be given to the fourth sentence.
+Certainly, in the context of this poorly drafted provision, I think it can be said to be
+the interpretation which is the least incoherent and which best reflects the intended
+effect of article 12.3 as a whole.
+146. Thirdly, in English law, which governs the CTRM Contract, “negligence” is
+a term which is capable of bearing a narrow, technical meaning as referring to the
+tort of negligence. The drafters’ choice of that word in article 12.3, rather than
+referring more generally to a failure to exercise “reasonable skill and care” (ie using
+the language already employed in the same provision in article 12.1), tends to
+indicate that they deliberately intended to draw a distinction between the two
+concepts and that the word “negligence” should bear that narrower, technical
+meaning.
+147. For these reasons, I would have dismissed PTT’s appeal in relation to the
+second issue.

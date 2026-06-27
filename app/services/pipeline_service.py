@@ -305,8 +305,8 @@ def verify_document(pdf_path, resolver=None, backend=None,
 def verify_text(text: str, resolver=None, backend=None,
                 document_name: str | None = None) -> VerifyResponse:
     """M1 from pasted text, then orchestrate."""
-    from app.services.citation_llm_service import enrich_from_text
-    enriched = enrich_from_text(text)
+    from app.services.citation_llm_service import extract_enriched_citations_from_text
+    enriched = extract_enriched_citations_from_text(text)
     response = verify_enriched(enriched, resolver or _default_resolver(),
                                backend or _default_backend(), document_name)
     _persist_report(response, enriched)

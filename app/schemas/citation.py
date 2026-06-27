@@ -42,11 +42,86 @@ class CitationExtraction(BaseModel):
     items: list[CitationMetadata]
 
 
+class SourceMetadataFields(BaseModel):
+    """The descriptive metadata of ONE source case-law document, as the stage-2 LLM
+    returns it. Mirrors :class:`Citation`'s fields but ALL optional, so "not found
+    -> null" is representable (the builder never fabricates)."""
+
+    case_name: str | None = None  # e.g. "OBG Ltd v Allan"
+    year: int | None = None  # 2007
+    court: str | None = None  # neutral court code: UKHL, EWHC, EWCA Civ ...
+    division: str | None = None  # bracketed division for EWHC: Comm, Ch, TCC ...
+    reporter: str | None = None  # law-report series: Ch, QB, AC, WLR, All ER ...
+    volume: int | None = None  # optional volume, e.g. 1 in "[1972] 1 QB 60"
+    number: int | None = None  # neutral case number, e.g. 21
+    page: int | None = None  # law-report page, e.g. 646
+    citation_type: CitationType | None = None
+    raw: str | None = None  # the case's OWN citation as printed, e.g. "[2007] UKHL 21"
+    court_name: str | None = None  # court in words, e.g. "House of Lords"
+    judges: list[str] = []  # e.g. ["Lord Hoffmann"]
+    decision_date: str | None = None  # judgment date as printed, e.g. "2 May 2007"
+
+
+class SourceMetadata(SourceMetadataFields):
+    """A source document's extracted metadata, keyed by filename, with the builder's
+    run status. Produced by the one-off ``source_metadata_builder`` and read back
+    later by the runtime pipeline."""
+
+    source: str  # filename identifier (the resource id), e.g. "obg-...-case-l.pdf"
+    status: str = "ok"  # "ok" | "error" (error -> review this source manually)
+    error: str | None = None  # populated when status == "error"
+
+
+class SourceExtraction(BaseModel):
+    """Root container for the stage-2 LLM reply for one source document. The model
+    returns its metadata under ``item``; the builder adds ``source`` and run status."""
+
+    item: SourceMetadataFields
+
+
 class EnrichedCitation(Citation, CitationMetadata):
     """A regex :class:`Citation` merged with its LLM :class:`CitationMetadata`.
 
     ``id`` is shared by both parents and reconciles the two halves.
     """
+
+
+class FieldMismatch(BaseModel):
+    """One citing-side attribute whose value disagrees with the matched source.
+
+    Only fields present (non-null) on the citing side are ever compared, so a
+    mismatch always means the document asserts something the real authority does
+    not — the partner should be alerted. Source-only fields are not flagged.
+    """
+
+    field: str  # the attribute name, e.g. "reporter", "division", "case_name"
+    citing_value: object | None = None  # value as written in the citing document
+    source_value: object | None = None  # value from the matched source metadata
+
+
+class MetadataMatchResult(BaseModel):
+    """Existence + metadata-equality verdict for one citation, produced by the
+    metadata-match layer that sits between extraction and the faithfulness check.
+
+    ``exists`` answers "is this a real case we could confirm?"; ``field_mismatches``
+    answers "does the document describe it with the real authority's metadata?".
+    Neither is the final user-facing verdict — that merges with the downstream
+    distortion detector — but together they catch fabricated and mislabelled cites.
+    """
+
+    id: int  # matches EnrichedCitation.id
+    exists: bool  # source found AND confirmed to be this case
+    matched_source: str | None = None  # identifier of the matched source (id/filename)
+    match_method: str | None = None  # "direct" | "fuzzy" | "semantic" | None
+    # True when the deterministic triple missed and the semantic resolver decided.
+    used_semantic_fallback: bool = False
+    # True when the year+court+number triple was satisfied (directly or confirmed).
+    required_params_matched: bool = False
+    field_mismatches: list[FieldMismatch] = []
+    # True when existence could not be confirmed either way (resolver wanted a web
+    # check, or the agent was unsure) — keeps "unknown" out of a false "doesn't exist".
+    needs_review: bool = False
+    reason: str | None = None  # one-line, plain-language rationale for the partner
 
 
 class ClassificationType(str, Enum):

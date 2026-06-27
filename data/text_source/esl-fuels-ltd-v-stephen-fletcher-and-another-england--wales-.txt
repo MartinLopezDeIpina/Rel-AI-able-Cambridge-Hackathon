@@ -1,0 +1,1037 @@
+Neutral citation number: [2013] EWHC 3726 (Ch)
+Case No: 3MA30779
+IN THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+MANCHESTER DISTRICT REGISTRY
+
+Manchester Civil Justice Centre
+1 Bridge Street West
+Manchester
+M60 9DJ
+
+27th November 2013
+
+B E F O R E:
+
+HIS HONOUR JUDGE HODGE QC
+(sitting as a Judge of the High Court)
+- - - - - - - - - - - - - - - - - - - - -
+Between:
+
+ESL FUELS LTD
+Claimant
+
+v
+
+STEPHEN FLETCHER & ANOR
+Defendants
+- - - - - - - - - - - - - - - - - - - - -
+Compril Limited
+Telephone: 01642 232324
+Facsimile: 01642 244001
+Denmark House
+169-173 Stockton Street
+Middlehaven
+Middlesbrough
+TS2 1BY
+- - - - - - - - - - - - - - - - - - - - -
+
+Mr Adam Solomon (instructed by DWF LLP) appeared on behalf of the Claimant
+
+Miss Naomi Ellenbogen QC (instructed by BBS Zatman LLP) appeared on behalf of the
+Defendants
+- - - - - - - - - - - - - - - - - - - - -
+Judgment
+
+1.
+His Honour Judge Hodge QC: This is the effective return date of an application for
+interim injunctive relief pending the speedy trial of a claim issued in the Chancery
+Division of the High Court in London on 7th November 2013 under claim number
+HC13E04834.
+
+2.
+The subject matter of the claim is what is said to be confidential information in the
+nature of trade secrets, although that characterisation is disputed by the defendants;
+and it is that dispute which lies at the heart of this case.
+
+3.
+In view of the nature of the claimant’s case, at the outset of the hearing before me I
+directed that it should take place in private pursuant to CPR 39.2 (3) (c). However,
+subject to representations from counsel, my provisional view is that there is no
+reason why this judgment (apart from its confidential schedule) should not be
+released for publication. [Having now received such representations, I have made
+certain minor redactions to this judgment in order to retain the confidentiality of the
+matters set out in the schedule. They are minimal and do not affect in any way the
+substance of this judgment.]
+
+4.
+The application first came on for hearing before Mr Justice Norris in London on
+Thursday 14th November 2013. Because the parties, their businesses, their witnesses,
+and their respective solicitors were all located in the North-West, the judge
+transferred the case to the Manchester District Registry (where it has now been
+allocated claim number 3MA30779); and, having accepted undertakings from the
+parties in the meantime, he gave various case management directions leading to an
+effective hearing before me in Manchester last Thursday, the 21st November 2013.
+
+5.
+By the time of that hearing, the claimant had filed no fewer than three witness
+statements from Mr Stephen David Whittaker, dated 6th, 18th and 21st November
+2013. Mr Whittaker is a director of the claimant company (which was previously
+called ‘Ebony Solutions Limited’, and to which I shall refer as ‘ESL’) and (with his
+wife, Janet) was one of its two founding shareholders.
+
+6.
+The defendants relied upon two witness statements from the first defendant, Mr
+Stephen Alan Fletcher, dated 15th and 20th November 2013, together with a witness
+statement from Mr Graham Jenkins, an industrial chemist and formerly (for some
+three years up to March 2013) the operations and production manager of ESL, dated
+14th November 2013. Although Mr Justice Norris’s order made provision for only
+one round of evidence, at the hearing no objection was taken to the admission in
+evidence of the later witness statements. An approved, but unsigned, copy of the
+particulars of claim (settled by counsel) was supplied to the court at about 9:20 on the
+morning of the hearing.
+
+7.
+At the hearing Mr Adam Solomon (of counsel) appeared for the claimant and the
+defendants were represented by Miss Naomi Ellenbogen QC. Both counsel had
+submitted detailed written skeleton arguments dated (in each case) 20th November
+2013. I had the advantage of pre-reading the witness statements and skeleton
+arguments before the hearing began. In his skeleton argument Mr Solomon had
+proposed that submissions from each party should be completed in the morning,
+leaving the afternoon for judgment and consequential matters. Unsurprisingly, given
+that three lever-arch files of authorities were placed before me, that timetable proved
+
+somewhat optimistic: Mr Solomon addressed me for about two hours, Miss
+Ellenbogen then responded for a little over two and half hours (interrupted by the
+luncheon adjournment), and Mr Solomon replied for about forty minutes. The
+hearing concluded at about ten past five that afternoon. Although I could have
+delivered an extemporary judgment at ten o’clock the following morning, neither
+counsel were available at that time. I therefore adjourned for judgment until ten
+o’clock today, Wednesday 27th November. By the time the court adjourned, I had
+been able to fix Monday 3rd February 2014 as the date for a speedy five-day trial of
+this claim in Manchester. I emphasise that five days has been allowed for this trial
+(to include pre-reading and delivery of judgment), and the parties will need to devise
+a trial timetable to accommodate this listing. As my list presently stands, the next
+dates I will have available after Friday 7th February are not until Tuesday 6th and
+Wednesday 7th May.
+
+8.
+The background to this application can be summarised as follows: ESL carries on
+the business of blending and supplying what it describes as “innovative fuel products”,
+specifically for the road, heating, heavy duty haulage and marine markets. Mr
+Whittaker, who is forty nine years of age, describes himself as an “inventor and
+innovator”. One of the products he claims to have developed, over a period of some
+three years prior to its launch in 2005, is a heating fuel called ‘Ultra 35’ (also known
+as ‘Greenflame’), which is said to enjoy significant competitive advantages over
+other regular heating fuels in terms of the excise duties which apply to it. Mr
+Whittaker asserts that the process for manufacturing Ultra 35 is a trade secret and
+highly confidential, and he has always been careful to treat it as such. Mr Whittaker
+has never written down precisely how Ultra 35 is made; but in paragraphs 20 and 21
+
+of his second witness statement he acknowledges (in response to points made by Mr
+Fletcher) that Ultra 35 is not always made from precisely the same components, or
+number of components, blended in precisely the same ratios.
+
+9.
+One of the components used to make Ultra 35 is a particular product (which I shall
+refer to in this judgment as ‘the Product’), which is sourced from a particular
+supplier (which I shall refer to as ‘the Supplier’) and is produced to a chemical
+specification provided by Mr Whittaker. That too is said to be a trade secret. These
+trade secrets originally belonged to their alleged creator, Mr Whittaker; but on 21st
+June 2013 he sold the intellectual property rights in these trade secrets to the claimant
+for £5.66 million (in accordance with a valuation provided by BDO LLP). It is those
+trade secrets (as described in Schedule 1 to the Particulars of Claim, and reproduced
+in the confidential schedule to this judgment) and their description which ESL seeks
+to protect by this litigation. It claims that Ultra 35 is ESL’s most successful product
+in terms both of sales and margins because it is sold by ESL to Certas Ltd (formerly
+GB Oils Ltd) at a rate that is more competitive than regular heating oils, thereby
+enabling Certas to sell it on at competitive rates.
+
+10.
+Under the terms of its rolling distribution agreement with ESL, Certas has the sole
+right to distribute Ultra 35 for resale. ESL is currently said to supply some 140
+million litres of Ultra 35 to Certas each year (although Mr Fletcher puts the figure at
+nearer 85 million litres); and that company is said by ESL to be its single most
+important business partner and generator of revenue. The hearing before me
+proceeded on the footing that the exclusivity agreement operated one way only (with
+ESL obliged to supply Ultra 35 only to Certas, but with Certas not obliged to
+
+purchase the equivalent product only from ESL), with no reference being made to
+clause D (under the heading ‘Confidentiality and Product Development Strategy’) of the
+Agreement (at page 171 of exhibit SW1).
+
+11.
+Until about the middle of 2009 ESL is said to have been a small family company,
+with the majority of the most significant tasks being undertaken by Mr Whittaker
+himself. However, he wished to concentrate upon his role as an innovator and
+developer of products. Therefore when, in early 2009, Mr Fletcher made an
+unsolicited approach to him, Mr Whittaker took him on to be his ‘right-hand man’; and
+he started working for ESL in May 2009. Mr Fletcher, who is now aged forty-one, is
+a qualified chemical engineer who was already recognised as a respected oil
+company manager. Until he resigned, on 23rd February 2009, he had been working
+for Nynas, a supplier of bitumen and related products. Initially, Mr Fletcher was
+recruited to a sales position at ESL, at an annual salary of £80,000; but this soon
+increased. In 2011, Mr Fletcher’s title was changed to ‘General Manager’ (the
+description which appears below Mr Fletcher’s name on the company’s Code of
+Conduct); and by the time he left ESL’s employment, on 20th September 2013, his
+salary had risen to £150,000 per annum.
+
+12.
+It is ESL’s case that Mr Fletcher effectively became the company’s managing
+director (although that formal title remained with Mr Whittaker, and Mr Fletcher was
+never formally appointed a statutory director of ESL). At no time did Mr Fletcher
+ever have any formal written contract of employment, although he was responsible
+(in May 2011) for arranging for written contracts of employment to be drawn up for
+ESL’s other employees. An email dated 25th May 2011 (at pages 101 to 103 of
+
+exhibit SW1) shows that Mr Fletcher considered whether confidentiality clauses
+would be required for particular employees: he considered that these would be
+appropriate for the operations manager and the transport coordinator, but not for the
+accounts manager, the site coordinator/driver or the drivers. Mr Fletcher’s email
+recognised that Mr Whittaker would probably also want to get a contract for Mr
+Fletcher; but nothing was ever done in that regard. In my judgment, the evidence
+does not support ESL’s characterisation of Mr Fletcher as a “shadow director” (within
+the meaning of Section 251 of the Companies Act 2006). But he was clearly ESL’s
+most senior employee after Mr Whittaker; and, on the evidence, I find that there is
+also an arguable case that he acted as a de facto director of ESL.
+
+13.
+Mr Fletcher first raised the topic of his resignation from ESL with Mr Whittaker on
+3rd September 2013; and his employment terminated on 20th September 2013. On
+12th September 2013 Mr Fletcher caused the second defendant company, Prema
+Energy Ltd (‘Prema’), to be incorporated, with Mr Fletcher as its sole director and
+shareholder. Earlier, on 17th August 2013, Mr Fletcher had caused the domain name
+premaenergy.com to be registered.
+
+14.
+At paragraph 54 of his first witness statement Mr Whittaker relies upon an email
+from Mr Fletcher of 5th September 2013 (pages 167 to 168 of exhibit SW1) as
+“evidence of a carefully laid plan by Mr Fletcher to exploit Ultra 35 for his own benefit”. At
+paragraphs 55 to 56 Mr Whittaker refers to the resignation of another ESL employee
+(James Taylor), who then went on to work for Prema, having previously claimed that
+his departure was nothing to do with Mr Fletcher. On 15th October Mr Whittaker
+discovered that Mr Fletcher was seeking to (1) source supplies of the Product from the
+
+Supplier and (2) to supply Certas with an Ultra 35 equivalent fuel called ‘Prema 35’. On
+18th October Mr Whittaker was told that Mr Fletcher was offering virtually an
+identical pricing structure to Certas as it currently enjoyed from ESL. ESL is
+concerned that if the defendants are permitted to use what it considers to be its trade
+secrets to manufacture an equivalent to Ultra 35 it will suffer irreparable damage, not
+merely in the loss of its major income stream, but in the reputation that ESL and Mr
+Whittaker enjoy in the market place. It is also said that if the defendants are allowed
+to sell Prema 35 to competitors of Certas, a significant source of revenue will be lost
+to that company, with which ESL has a long-term, and exclusive, supply
+arrangement.
+
+15.
+ESL’s solicitors (DWF LLP) dispatched a letter before action to the defendants (care
+of their solicitors, BBS Zatman LLP) on 29th October 2013 (pages 8 to 13 of exhibit
+SW1). The substantive response was contained in a letter dated 4th November 2013
+(pages 16 to 20 of exhibit SW1). The claim form and application notice were issued
+on 7th November and were served promptly thereafter, with an initial return date in
+the applications list in London of the 14th November, which the defendants’ solicitors
+asked (on 12th November) to be adjourned to come on as an application by order with
+a one day fixed listing.
+
+16.
+The defendants complain that no explanation has been offered for the one month’s
+delay between ESL’s first discovery of the activities complained of (on 15th October)
+and the first hearing (on 14th November); and they submit that ESL has managed
+without an injunction for a significant period, underlining the fact that the interim
+relief sought is inappropriate and unnecessary. I reject this complaint. In my
+
+judgment, the delay between the 15th October (after which further relevant
+information was acquired on 18th October) and the dispatch of the letter before action
+on 29th October is readily explicable by the need to assemble the information
+required to draft that letter, particularly given that Mr Fletcher had no written
+contract containing any post-termination restraints or confidentiality clauses.
+Thereafter, there was no undue delay in pursuing the claim. Further, from the
+redacted invoices produced by the defendants, it would appear that Prema's first
+delivery of Prema 35 did not take place until on or shortly before the 25th October
+2013, only two business days before the letter before action. I reject the submission
+that this lapse of time is any indication that interim relief is inappropriate or
+unnecessary.
+
+17.
+There was also an issue before me as to the identification of the relevant status quo.
+Miss Ellenbogen submits that it is the date of service of the claim form, on the 7th
+November 2013. She cites from the speech of Lord Diplock in Garden Cottage
+Foods Ltd v Milk Marketing Board [1984] 1 AC 130 at 140 B - G and the judgment
+of Lord Justice Dillon in Graham v Delderfield [1992] FSR 313 at 317. I do not find
+the latter case of any assistance because it was concerned with the effect of delay in
+bringing the matter to court, which is not the case here. Mr Solomon cites the
+analysis of the status quo at paragraphs 10.45 through to 10.48 of Goulding:
+Employee Competition, 2 edition (2011), in support of the proposition that the
+status quo means the state of affairs before the most significant recent change.
+nd
+
+18.
+I acknowledge that Mr Goulding’s QC’s analysis is open to the criticism that he does
+not quote the second of the two paragraphs from Lord Diplock’s judgment which was
+
+cited to me by Miss Ellenbogen and, in particular, the sentence at page 140 between
+letters F and G:
+
+“Now that the necessity for the court to determine that the plaintiff has
+made out a strong prima facie case for a permanent injunction before
+granting him an interlocutory injunction has been removed by the decision
+of this House in American Cyanamid, this also flaws the reasoning by
+which Ungoed-Thomas J reached the conclusion that he did as to what
+constituted the relevant period for determining what is the status quo.”
+
+That is a reference to the observation in Texaco Ltd v Mulberry Filling Station Ltd
+[1972] 1 WLR 814 at 831 that the relevant period for what constituted the status quo
+was the period preceding the commencement of the conduct on the part of the
+defendant in respect of which the action was brought - in that case, breaches of
+covenant.
+
+19.
+However, I must confess that I find it difficult to understand why the removal of the
+need to show a strong prima facie case for the grant of an interim injunction should
+lead to any alteration in the relevant period for determining the status quo; and, in
+any event, Lord Diplock’s observations were obiter because, as he observed, in the
+case before their Lordships’ House one never reached the stage at which the
+desirability of maintaining the status quo was brought into the balance of
+convenience. I accept Mr Goulding’s conclusion that the status quo means the state
+of affairs before the most significant, recent - and I emphasise recent - change. That
+seems to me to accord both with principle and with the sentence in Lord Diplock’s
+speech between letters D and E:
+
+“The duration of that period since the state of affairs last changed must be
+more than minimal, having regard to the total length of the relationship
+between the parties in respect of which the injunction is granted; otherwise
+the state of affairs before the last change would be the relevant status quo.”
+
+In the instant case, I hold that the status quo was that which applied before the
+defendants set up in business selling Prema 35.
+
+20.
+Perhaps unusually for an interim injunction application, the focus of much of the
+argument at the hearing was upon the first limb of the test in American Cyanamid Co
+v. Ethicon Ltd [1975] AC 396, namely whether there was a serious issue to be tried.
+Since there is no express contractual post-termination restraint upon the use of
+confidential information by Mr Fletcher, Mr Solomon accepts that he has to establish
+that ESL has a real prospect of establishing at trial that the information which it seeks
+to protect was of a sufficiently high degree of confidentiality as to amount to a trade
+secret: see Faccenda Chicken Ltd v Fowler [1987] Ch. 117 at 136. He submits that
+on the (admittedly disputed) evidence of Mr Whittaker, the formula for blending
+components to produce Ultra 35 satisfies all three of the classic elements required to
+give rise to an obligation of confidence identified by Megarry J in Coco v A.N.Clark
+(Engineers) Ltd [1969] R.P.C. 41 at 47. Mr Solomon submitted (by reference to
+observations of Lewison LJ in Force India Formula One Team Ltd v Aerolab SRL
+[2013] EWCA Civ 780 at [72]) that it is no defence that the person in breach of
+confidence could have obtained the information elsewhere if he did not in fact do so.
+Here, Mr Fletcher does not claim to have obtained the formula for Prema 35 by any
+process of reverse engineering.
+
+21.
+Mr Solomon submits that on ESL’s case, the present facts conform to what has been
+described by the Supreme Court (in Vestergaard Frandsen S/A v Bestnet Europe Ltd
+[2013] UK SC 31, reported at [2013] IRLR 654 at [23]) as “the classic case of breach
+of confidence”, involving “the claimant’s confidential information, such as a trade secret,
+being used inconsistently with its confidential nature by a defendant, who received it in
+circumstances where she had agreed, or ought to have appreciated, that it was confidential”.
+
+22.
+Mr Solomon took me to the judgment of the Court of Appeal in Lancashire Fires Ltd
+v SA Lyons & Co Ltd [1997] IRLR 113 for the matters to be considered when
+determining whether any particular item of information falls within the implied term
+of a contract of employment so as to prevent its use or disclosure by an employee
+after the termination of his employment. He also referred me to the guidance to be
+derived from the judgment of the New South Wales Court of Appeal in Del Casale v
+Artedomus (Aust) Pty Ltd [2007] NSWCA 172 at [40] as to the factors relevant to an
+identification of confidential information. He drew my attention to Hodgson JA’s
+citation (at [42]) of Astbury J’s decision in Amber Size & Chemical Co. Ltd v Menzel
+[1913] 2 Ch. 239 as an example of the court restraining the use by an ex-employee of
+confidential information in the nature of a secret formula or process which, since it
+involved a number of elements such that independent discovery by inquiry or
+experiment was unlikely to occur, could quite readily be distinguished from an
+employee’s general know-how.
+
+23.
+Mr Solomon also makes the point (by reference to observations of Cross J in Printers
+& Finishers Ltd v Holloway [1965] RPC 239 at 255) that the mere fact that the
+confidential information is not embodied in a document, but is carried away by the
+
+employee in his head, is not, of itself, a reason against the grant of an injunction to
+prevent its use or disclosure by him. He also relies on the decision of Buckley J in
+Under Water Welders & Repairers Ltd v Street and Longthorne [1968] RPC 498 for
+the proposition that it is no bar to the grant of interim injunctive relief that the
+applicant has not condescended to any details as to the particular characteristics of
+the relevant process which is said to give it a confidential character.
+
+24.
+In summary, Mr Solomon submits that it is clear that in all the circumstances of the
+case, the relevant information relied upon by ESL meets all of the criteria for the
+existence of an equitable obligation of confidence; and there is therefore a serious
+issue to be tried.
+
+25.
+Miss Ellenbogen submits that given the nature and effect of the relief sought by ESL,
+this hearing should be determined in accordance with the principles formulated by
+the Court of Appeal in Lansing Linde Ltd v Kerr [1991] 1 WLR 251 and Laddie J in
+Series 5 Software Ltd v Clarke [1996] 1 All ER 853 so that some assessment of the
+merits should be made, rather than a simple determination of whether there is a
+serious issue to be tried. Alternatively, and if the lower threshold test is considered
+to be appropriate, Miss Ellenbogen submits that none of the requirements of
+American Cyanamid is satisfied.
+
+26.
+In my judgment, Miss Ellenbogen can derive no assistance from Lansing Linde. That
+was not a trade secrets case such as the present. It was a post-termination restraint
+case where it would not be possible to hold a trial before the restraint had expired, or
+substantially expired, a factor emphasised by all three members of the Court of
+
+Appeal: see pages 258 between letters A and B, 266 between letters F and G, and 269
+letter H to 270 letter A. Moreover, both Lord Justice Staughton and Lady Justice
+Butler-Sloss stressed the limits upon the court’s assessment of the claimant’s
+prospects of success, and the need for judicial control over its extent: see pages 258
+between letters C and D and 270 between letters B and C. In Series 5 Software,
+whilst he considered that the court was not precluded from considering the strength
+of each party’s case when deciding whether to grant an application for interim relief
+in a confidential information case, Laddie J was also of the view that the court should
+rarely attempt to resolve complex issues of disputed fact or law: see 865 letters F - G.
+I consider that the head-note correctly states the effect of the decision when it says
+that any view as to the relative strengths of each party’s case should be reached only
+where it is apparent from the witness statements and any exhibited contemporary
+documents that one party’s case is much stronger than the other’s.
+
+27.
+In my judgment, the correct approach to the grant of interim injunctive relief is that
+stated by Robert Walker LJ in Guardian Media Group Plc v Associated Newspapers
+Ltd, unreported (20 January 2000) at [18], namely that the American
+th
+Cyanamid
+principles have a degree of flexibility, and do not prevent the court from giving
+proper weight to any clear - and I stress the word clear - view which the court can
+form at the time of the application for interim relief (and without the need for a mini-
+trial on copious written evidence) as to the likely outcome at trial.
+
+28.
+I turn then to consider whether that threshold test is satisfied. Miss Ellenbogen took
+me to the discussion of trade secrets in the first instance decision of Arnold J in
+Force India [2012] RPC 757 at [225] - [238]. She submits that, in reality, the court
+
+is being invited to prevent Mr Fletcher from exercising his skill and know-how in
+producing and selling a blended fuel which has a competitive advantage because
+[reason redacted]. That is said to be a classic restraint against competition. She
+relies upon the decision of Hoffmann J in Lock International Plc v Beswick [1989]
+IRLR 481 for the proposition that in a claim against an employee for misuse of
+confidential information it is of the essence that the employer should be able to
+identify with particularity the trade secret to which he lays claim. The terms of any
+injunction must also be capable of being framed in sufficient detail to enable the
+defendant to know exactly what information he is not free to use on behalf of his new
+employer. She submits that ESL fails on both counts. Miss Ellenbogen also prays in
+aid the decision of Laddie J in Ocular Sciences Limited v Aspect Vision Care Limited
+[1997] RPC 289 (although that was a claim for final relief at trial) as to the need for
+full and proper particulars of all the confidential information on which a claimant
+intends to rely in a claim for breach of confidence, and also on the extent of an
+employee’s right to use his acquired skill and expertise.
+
+29.
+On this latter aspect, I was also taken to the decisions of Brightman J in United
+Sterling Corporation Ltd v Felton & Mannion [1974] IRLR 314 and the Court of
+Appeal in FSS Travel & Leisure Systems Ltd v Johnson [1998] IRLR 382. The latter
+decision emphasised the need to identify and establish, by sufficiently specific,
+precise and cogent evidence, a body of objective knowledge qualifying for protection
+as a trade secret quite separate from the skill, experience, know-how and general
+knowledge inevitably acquired by a previously professionally qualified employee
+before and during the course of his employment.
+
+30.
+It is ESL’s evidence and case that Mr Whittaker had to share the secrets of Ultra 35
+with Mr Fletcher when he became his “right-hand man”. At paragraphs 35 to 38 of his
+first witness statement Mr Whittaker says this:
+
+“35 I explained to Mr Fletcher that I wanted him to take over a range of
+important tasks. These included all aspects of ordering from suppliers
+including negotiating and agreeing prices. For this purpose, very soon
+after his joining I gave him unlimited authority to authorise payments by
+ESL. I had also to share with Mr Fletcher the secrets of the Ultra 35
+product because it was intended that his role was to assume the
+responsibility of dealing with [the Supplier] and the other suppliers who
+provide ESL with the chemical components which make up Ultra 35.
+
+36 Before I did this I explained to him about the innovative nature of
+Ultra 35 and its development, its launch in 2005 and the secret and
+confidential nature of its manufacture, constituents and processes. It
+was made expressly clear by me to Mr Fletcher that he was to be
+entrusted with commercially confidential information and trade secrets
+and that he was to take care to maintain the secrets. I first explained this
+to him in the period between his unsolicited approach to me and my
+offering him a role shortly before his email of 9 February 2009. What I
+said to him was that we, i.e. ESL, had a significant advantage with Ultra
+35 that permitted ESL to do something that no-one else could do and I
+said to him that if he came on board we would have to make sure it
+stayed that way, which meant keeping the secret of how Ultra 35 was
+produced.
+th
+
+37 After Mr Fletcher joined ESL he and I devised strategies together as
+to how we could keep the secret despite developing new products that
+use the same components and processes. I made it clear to him that he
+would have to be very careful when ordering components from oil
+companies and discussing their specifications so as not to reveal their
+precise use because of the secret nature of the process of manufacture of
+Ultra 35.
+
+38 In fact during the previous year before he joined ESL I had spoken to
+Mr Fletcher when he was at Nynas about ordering a component from
+Nynas that I intended to use in Ultra 35. Even at that stage I had said to
+him when he asked about the use to which the product would be put that
+I could not explain to him exactly why I wanted the particular
+component as it formed part of a trade secret.”
+
+31.
+This evidence is challenged by Mr Fletcher in his first witness statement. He says the
+following:
+
+“32 All of this shows that, contrary to what Mr Whittaker has suggested,
+there was no set or singular formula to make this fuel. The method for
+making it was wide ranging and changed on a regular basis and is well
+known in the industry.
+
+33 Mr Whittaker has also suggested that the components needed are not
+regular products that can be brought from refineries. That is simply
+wrong. As I have demonstrated above the product can be and has been
+produced using widely available components...
+
+35 As regards the production process, although Mr Whittaker suggests
+that the production process is a “trade secret” the fact is that the
+components used to make a batch of the oil were simply mixed together
+…
+
+36 Any of the components could be added in any order whatsoever. It
+made no difference to the end product. In every oil refinery in the world,
+and I would guess in almost every oil terminal in the world, oil streams
+are mixed. There is no secret at all in the production process or in the
+percentage of each component required to make the end product.
+
+37 There is nothing secret or confidential whatsoever about this process.
+I was and am aware of these matters as a result of my years of experience
+in the industry. There are numerous different ways of producing this
+type of fuel …
+
+42 To suggest that the formula for making such a basic fuel is secret is in
+my view absolutely wrong. I have never been shown or informed of any
+formula.
+
+43 It is not correct, as suggested by Mr Whittaker, that no one else
+needed to know how the product was made or that he did not share that
+information. Nearly all of the individuals within the company knew how
+the various blends were produced as did, obviously, the third parties who
+manufactured the blends.
+
+44 I did not know what the formula was within the ‘Assignment of
+Intellectual Property Rights’ document referred to by Mr Whittaker and
+exhibited to his witness statement, until that document was served on my
+solicitors, after much delay (and only as a result of an order by the court)
+at 11.46 a.m. on Thursday 14 November 2013.
+
+45 I have now had the opportunity to properly consider that document for
+the first time. It confirms my initial suspicions that there is no “formula”
+and the description is circular and so vague and generic as to hold little
+meaning. Self-evidently, it is not a formula; merely a generic
+description.
+
+46 I do not understand how what is set out in this document can possibly
+amount to a trade secret. I do not know what is meant by “knowledge”
+which is not defined. At no stage did Mr Whittaker ever give me any
+such knowledge. As I have set out above, due to my experience and
+knowhow in the industry, I already had the knowledge as to how to make
+this product. For example, if I had been approached, prior to joining
+ESL, and asked to produce [type of fuel redacted], I could have done so
+easily from my own knowledge.
+
+47 In my view, the description set out in the document is meaningless. It
+is not even a formula. It is simply a vague description as to the practice
+of blending oils …
+
+49 The formula does not amount to anything that could be said to be
+unique or that sets out a method (of making any product) that was not
+already within my knowledge and knowhow.
+
+50 Ultra 35 has been made in many ways using many components in
+varying quantities. Many other components have been looked at during
+my time in the business and, although they would have been fine to use
+in the blending, were not purchased due to cash constraints. Hitting the
+basic parameters that are regularly tested for is not difficult if you have a
+basic knowledge of fuels blending. That is where my specialist skill and
+knowledge as a chemical engineer lies …
+
+52 There are in any event a number of different products of the nature of
+Ultra 35 in the market i.e. [types of fuel redacted] …
+
+54 In summary, there is no trade secret or confidential information
+attaching to Ultra 35. There is no “magic” to the production of Ultra 35
+and there is no secret formula. The principal reasons why there are
+relatively few suppliers of the product is that the major fuel companies
+tend to concentrate on mainstream fuels and there are a small number of
+independent blenders in the market with access to an oil terminal, a tax
+warehouse and transport facilities.
+
+55 The key to ESL’s success over the years lies mainly in the fact that
+they have access to a “tax” warehouse and to suppliers of the components
+required. In addition, however, and most importantly, the key has been a
+very lucrative contract with Certas who have been prepared to purchase a
+significant volume of this fuel. ESL’s success has been down to high
+sales volumes to Certas which themselves were driven by massive
+expansion on the part of Certas…”
+
+32.
+Mr Fletcher also disputes Mr Whittaker’s role as an inventor/innovator at paragraph
+117. Mr Fletcher concludes (at paragraphs 126 and 127) as follows:
+
+”126 For the reasons set out in this statement, I do not believe that there is any
+trade secret owned by ESL or which it is entitled to seek to protect in these
+proceedings. The product which ESL sells as Ultra 35 is made from mixing the
+most basic of ingredients, such as [types of ingredient redacted], and there is a
+multitude of components, combinations of components and percentage mixes
+that can be used to make this kind of [type of fuel redacted]. Quite simply, to
+make the fuel, the relative components are put into a tank and mixed up.
+
+127 In my view, Mr Whittaker and ESL are concerned simply to stifle
+legitimate competition in the absence of any contractual restraints.”
+
+33.
+In his second witness statement Mr Fletcher asserts (at paragraph 13) that he already
+had the knowledge of how to make an oil of the Ultra 35 type even before he joined
+ESL. At paragraphs 26 and 27 he says this:
+
+”26 I disagree with the comments at paragraph 29 [of Mr Whittaker’s second
+statement]. I can make and have made a similar fuel using my skill and
+knowledge and not as a result of working at ESL or using any trade secret. For
+example, during my time at Nynas, we were blending and making kerosene, gas
+oils and fuel oils. I could show someone how to blend this type of [type of fuel
+redacted] in a few minutes. It is very simple and is only a matter of
+[requirements redacted]. As I have previously stated, many other
+components can be used if they fit the distillation range i.e. they are not too
+“heavy” and have relatively low sulphur levels.
+
+27 I fail to see how the claimant can ask the court to protect a formula that,
+even now as part of this application, they are not prepared to disclose. I also
+think that it is nonsensical to describe anything in the schedule/description as
+amounting to “vital information”.”
+
+34.
+Mr Solomon recognises that the defendants challenge almost all that Mr Whittaker
+has said; but he submits that the court is in no position to determine these disputed
+issues of fact on the papers. He submits that the defendants are seeking to exploit a
+concept - that of [type of fuel redacted] - using a specific formula the knowledge of
+which was imparted to Mr Fletcher in confidence whilst employed in a senior role by
+ESL. He says that nowhere does Mr Fletcher claim that he had to experiment to
+develop a fuel similar to Ultra 35. He does not say that he engaged in any reverse
+engineering. Mr Solomon points to what are said to be deficiencies in the
+defendants’ evidence, such as the lack of any detailed description of how to blend a
+fuel similar to Ultra 35, and the lack of any evidential basis underpinning Mr
+Fletcher’s assertions that there are other producers of a fuel of the same nature as
+Ultra 35.
+
+35.
+Mr Solomon relies not only upon the contrary evidence of Mr Whittaker, but also
+upon the email from Mr Paul Vian (the Managing Director of Certas) to Mr
+Whittaker of 21 November 2013 which forms exhibit SW3 to Mr Whittaker’s third
+witness statement. That email read as follows:
+st
+“Dear Stephen,
+
+I understand that ESL Fuels Limited is currently engaged in litigation with
+Prema Energy Limited in relation to Prema’s production and sale of its
+Prema 35 product.
+I write to confirm, in my capacity as managing director of Certas Energy
+UK Limited (Certas), that we did not purchase any potential equivalent
+product to Ultra 35 until such time as Certas was approached by Stephen
+Fletcher/Prema Energy offering its Prema 35 product.
+Moreover, during the past ten years Certas has acquired twenty nine oil
+distributor companies, none of whom also supplied/purchased an equivalent
+product.
+I can also confirm that had Certas the knowledge or ability to manufacture
+an equivalent product then they would have done so. However, up until
+recently the only product on the market which was of the required quality
+for Certas’s needs was Ultra 35.
+I can also confirm that over the past few years Certas dealt primarily with
+Stephen Fletcher when liaising with ESL up until his resignation, and it
+appeared to me that he was played an integral role in managing the affairs
+of ESL.
+Paul Vian,
+Managing Director.”
+
+36.
+Miss Ellenbogen emphasises that one does not know what preceded, and provoked,
+Mr Vian’s email beyond what is said about it by Mr Whittaker. She also emphasises
+that Certas is a distributor, rather than a manufacturer or producer, of fuel oils, and
+that Mr Vian does not profess to have technical skills himself. This is in contrast to
+Mr Fletcher’s own technical expertise, as outlined, in particular, at paragraph 5 of his
+first witness statement (which is not disputed by ESL). Miss Ellenbogen points out
+
+that Mr Vian does not condescend to particularise Certas’s needs; and she makes the
+point that one would not expect a competitor (such as [identity of competitor
+redacted], which is also a seller of fuel oils) to be prepared to offer its own
+competing product to Certas. Acknowledging all of these points, I do not consider
+that I can simply disregard the evidence contained within Mr Vian’s email. It may be
+possible to challenge that evidence at trial. But for the purposes of this interim
+hearing on the papers, I find that it supports ESL’s case that there is a serious issue to
+be tried.
+
+37.
+Despite all that Miss Ellenbogen has so eloquently said on the defendants’ behalf, I
+accept Mr Solomon’s submission, for the reasons that he gives, that at the heart of
+this litigation there are clearly triable issues of fact which can only be determined at a
+full trial on oral evidence. In my judgment, it is not possible to form a clear - and I
+stress clear - view on the written evidence as to the likely outcome of the trial.
+
+38.
+Miss Ellenbogen also submits that the orders sought by ESL are embarrassing for
+want of an adequate definition of the “confidential information” which it is sought to
+protect, and are too widely drawn as a matter of law. As to the former submission,
+Mr Solomon counters that the defendants gave voluntary undertakings to Mr Justice
+Norris, incorporating a definition of “confidential information” in the terms which
+ESL proposes should be incorporated in the order which it now seeks. It is therefore
+too late for the defendants to submit that this definition is insufficiently precise.
+
+39.
+I reject this contention. The undertakings were given solely to regulate the position
+for seven days over until an effective hearing of the interim injunction application.
+
+Further, the undertakings were expressly given without prejudice to the defendants’
+contention that there was no confidential information which was the property of the
+claimant and/or which it was entitled to protect. In my judgment, this contention
+remains open to the defendants. Miss Ellenbogen relies upon the judgment of
+Brightman J in the United Sterling Corporation Ltd case (previously cited) to
+undermine Mr Solomon’s reliance upon the earlier Under Water Welders case; and
+she cites in support the observation at page 231 of Brearley & Bloch: Employment
+Covenants and Confidential Information: Law Practice and Technique, 3 edition, to
+the effect that it is unlikely, in today’s atmosphere of greater scepticism regarding
+claims of confidentiality, that an injunction would have been granted in these
+circumstances.
+rd
+
+40.
+However, applications such as the present are always highly fact-specific. On the
+evidence in this case, I am satisfied that the defendants have sufficient knowledge of
+the nature of the confidential information, the use of which ESL seeks to restrain; and
+that they will have no difficulty in complying with any court order. The nature of the
+confidential information has been sufficiently defined to enable the defendants to
+know what they can, and cannot, do with sufficient precision.
+
+41.
+Miss Ellenbogen referred me to observations of Scott J in Balston Ltd v Headline
+Filters Ltd [1987] FSR 330 at 351 - 352, of Cumming-Bruce LJ in GD Searle & Co
+Limited v Celltech Limited [1982] FSR 92 at 99 - 101, and of the Court of Appeal in
+Caterpillar Logistics Services (UK) Ltd v De Crean [2012] EWCA Civ 156, reported
+at [2012] 3 All ER 129 at [6] - [65]. She submits that ESL is merely seeking to stifle
+competition in the market place by a former employee. Of course, I bear these
+
+observations in mind; but having found that there is a serious issue to be tried as to
+whether the confidential information asserted in the present case is a trade secret, on
+analysis I do not find them to be of any real assistance to the defendants. ESL’s
+complaint is not merely that the defendants are seeking to compete with ESL, but
+rather that they are seeking to exploit its trade secrets in order to do so. As Mr
+Solomon observed in his reply, a trade secret does not become part of an employee’s
+stock in trade simply because he learns of it, and uses it, during the course of his
+employment. Nor is ESL seeking to restrain the business activities of the defendants
+generally. It does not seek to prevent the defendants from producing, and selling, all
+forms of fuel oil but only one particular formulation, albeit one in which the
+defendants would enjoy a particular competitive advantage because of [reason
+redacted]. However, on ESL’s case that competitive advantage derives from the use
+of its trade secrets, which were imparted to Mr Fletcher in circumstances giving rise
+to a seriously arguable obligation of confidence.
+
+42.
+Having found that there is a serious issue to be tried as to whether the confidential
+information asserted by ESL is a trade secret, I turn then to the balance of
+convenience. This was the subject of much less evidence and argument before me.
+ESL’s evidence can be found at paragraphs 66 - 71 of Mr Whittaker’s first witness
+statement:
+
+“66 I believe that it is self evident that if Mr Fletcher is permitted to use
+ESL’s trade secrets to manufacture Ultra 35 the damage to ESL would be
+irreparable, not merely in the loss of its major income stream but in the
+reputation that I and ESL enjoy in this market. A significant source of
+
+profitable revenue will be lost to Certas too with whom ESL has a long term
+and exclusive supply of arrangement.
+
+ 67 Mr Vian said to me when I spoke to him on 15 October 2013 that Certas
+is seriously concerned at Mr Fletcher’s activities because no-one else in the
+market has developed a product with the qualities and competitive advantage
+of Ultra 35 as I myself know, and which is itself a function of the
+confidentiality that protects Ultra 35, and that Certas has relied on ESL’s
+supply of Ultra 35 to develop a thriving and profitable division supplying
+users of industrial oil boilers, and that Certas regard with concern the
+prospect of this being under threat. Mr Vian as an experienced oil executive
+will be aware of [identity of product redacted] from [identity of supplier
+redacted].
+th
+
+68 Mr Vian said that he regarded the manner of Mr Fletcher’s approach to
+Certas as being a veiled commercial threat, that is to say buy from me or I
+will sell to your competitors, as I relate above. That is why I understand from
+Mr Vian that Certas regards itself as a matter of self preservation almost
+bound to deal with Mr Fletcher.
+
+69 The fact is, therefore, that Mr Fletcher’s unique position as a senior
+employee and shadow director of ESL has furnished him with the means to
+speak to Certas in that way. I believe that Certas expects ESL to protect its
+confidential information, not only for itself but for those with whom it does
+business, and who in turn rely on ESL.
+
+70 The value of ESL with Ultra 35 that has made it an attractive proposition
+for potential purchasers and investors, including Certas, would be seriously
+damaged, if not lost, as a result of the defendants’ activities.
+
+71 Prema plainly has no ostensible substance. I do not know Mr Fletcher’s
+means but, unless and until demonstrated to the contrary, doubt they would
+extend to the damage that ESL would sustain if he was permitted to continue
+on his current course down to a possible trial of this matter, even with the
+direction for a speedy trial which I understand counsel will seek from the
+court. Zatman’s letter says that Prema has significant financial backing
+which will enable it to contest this litigation. I do not know if that is correct
+but of course no undertakings have been offered whether on behalf of Prema
+or any third party.”
+
+43.
+The defendants’ evidence is at paragraphs 123-125 of Mr Fletcher’s first witness
+statement (headed ‘Balance of Convenience/Damages as an adequate remedy’):
+
+“123 In any event, I do not consider that the balance of convenience lies in
+favour of the grant of an interim injunction, which would seriously hamper
+Prema, a company plainly still in its infancy. Prema already has significant
+overheads, particularly in terms of the costs of storing fuel in tanks and its sea
+terminal. Its continued trading does not affect ESL’s own ability to trade and
+there is no indication that ESL has in fact suffered, or will suffer, any loss as a
+result.
+
+124 I am not seeking to exclude ESL from the marketplace, whether from
+trading with Certas or anyone else. If ESL has chosen to date to enter into an
+
+exclusive supply agreement with Certas, that is a commercial decision which
+does not restrict my right to sell an alternative product.
+
+125 Mr Whittaker does not explain why damages would be an inadequate
+remedy, were he to succeed at trial. If, as he asserts, ESL and Prema Energy
+are the only ones producing the fuel which ESL sells as ‘Ultra 35’, any losses
+which he could establish should be readily quantifiable.
+
+44.
+Mr Whittaker comments upon this at paragraphs 53 to 55 of his second witness
+statement (also headed ‘Balance of Convenience/Damages as an adequate remedy’):
+
+“53 Mr Fletcher addresses these issues in three short paragraphs at paragraphs
+123 to 125. He asserts that the second defendant, Prema, already has
+significant overheads, but gives no indication of any. There are no relevant
+documents appended to this section of his witness statement. Significantly, Mr
+Fletcher asserts that Prema’s ‘continued trading does not affect ESL’s own
+ability to trade’. This fundamentally ignores the commerciality of the
+situation. As I set out in my first witness statement, there has been an offer to
+purchase a majority shareholding in the claimant for many millions of pounds.
+I refer to paragraph 70 of my first witness statement. The prospect of any such
+offer being made now with a direct competitor producing an identical product
+is fanciful. If the defendants were allowed in the meantime to carry on
+producing Prema 35, and supplying the same market as that for Ultra 35,
+prospective suitors would become alarmed and would price that concern into
+any offer made after conclusion of this action, even if the outcome is that the
+defendants are prevented by order from their current activities. It would be
+hard to maintain to a potential purchaser that the claimant has a unique
+
+position in the market in circumstances in which the defendants have been
+permitted to continue to trade and erode that position, albeit through breaching
+their legal obligations to the claimant. Furthermore Prema 35 would be taking
+business away from the claimant and eroding its turnover and profitability.
+
+54 The supply arrangement between the claimant and Certas is undermined
+and damaged by the existence of the defendants if Certas, as its managing
+director has in turn said to me, feels itself commercially forced to buy from the
+defendants in order to maintain the exclusivity for this product it previously
+enjoyed by reason of the arrangements between us made possible by the
+claimant’s trade secret.
+
+55 Although Mr Fletcher boldly states that damages would be an adequate
+remedy if the interim injunction is not granted, there will be a massive impact
+on the claimant as there is no indication that the defendants would have any
+means whatsoever of meeting those damages. On the other hand, Mr Fletcher
+does not dispute that the cross undertaking in damages from the claimant is
+more than adequate. Plainly the balance of convenience favours granting an
+interim injunction pending a speedy trial. At present the second defendant has
+only just begun to trade, and it has done so in the knowledge that the claimant
+was going to attempt to prevent it from doing so. In any event, this injunction
+really seeks to prevent the defendants from using the claimant’s trade secret
+plus other associated relief, and does not seek to prevent the defendants from
+any other trade.”
+
+45.
+Mr Fletcher expands upon his evidence at paragraphs 40 to 43 of his second witness
+statement:
+
+“40 In relation to paragraph 53, Prema’s overheads are storage charges (access
+to nine tanks with one in operation at a yearly cost of £350,000), the purchase
+of components, product testing, office facilities (short term licence of £12,000
+per year), vehicles and wages. Prema has to cover off around £50,000 of
+expenses per month.
+
+41 In relation to paragraph 54, Certas have made it clear that they will buy
+from whom they choose.
+
+42 In relation to the question of damages at paragraph 55, Mr Whittaker
+ignores the fact that the claimant is effectively attempting to stop us from
+trading. We have only made about £9,000 worth of profits so far. Prema had
+commenced trading by the time we received the claimant’s solicitors’ letter of
+claim dated 29 October 2013. Prema’s first invoice was dated 25 October
+2013.
+th
+th
+
+43 If the claimant’s application is granted, and if Prema is injuncted from
+trading for the next 8 to 12 weeks, this would have a massive impact on our
+ability to trade effectively thereafter. We are a tiny company attempting to get
+our business off the ground, and gaining a toehold into this market is a key to
+our business. Being prevented from doing so would be catastrophic for the
+business.”
+
+46.
+I have borne all of this evidence firmly in mind. For ESL, Mr Solomon submits that
+Mr Whittaker, in his witness statements, has given evidence as to the value of the
+trade secret. It is not clear what assets the defendants have which would come
+
+anywhere near compensating ESL for the potential losses it may incur. The
+defendants’ evidence does not deal at all with that point. It is said that the
+defendants’ evidence skates over the issue in three short paragraphs of Mr Fletcher’s
+first witness statement. Indeed, to the extent that any indication of the defendants’
+ability to pay is provided, it is implied that there would be none. Prema is said still to
+be “in its infancy” and is just starting up and is already said to have “significant
+overheads”. Mr Solomon makes the point that ESL does not seek to prevent the
+defendants from trading in other fuel products. Further, Mr Solomon submits that, as
+with many confidential information cases, it may be very difficult to prove loss
+caused by the defendants’ breaches, and to determine what the consequential loss to
+ESL would be. On the other hand, there is said to be a good cross-undertaking
+provided by ESL, the value of which has not been disputed by the defendants. It is
+said that the balance of convenience entirely favours the grant of the injunctions. It
+is said that the lesser evil must be to prevent the defendants from commencing a new
+business for what would be a relatively short period of time pending a speedy trial,
+rather than to permit what might prove to be hugely expensive damage to ESL. It is
+said that, as can be seen from the defendants’ redacted invoices, the vast majority of
+which (all save for less than £2,000) were issued after ESL’s letter before claim, the
+defendants have been trading safe in the knowledge that to do so was opposed by
+ESL, which would be seeking injunctive relief to prevent them from doing do. It is
+said that it is not now open to the defendants to assert that there is any equitable, or
+just, basis for them continuing to do so pending a speedy trial.
+
+47.
+It is said that an offer to deposit four per cent of the net profit earned on the sale or
+supply of Prema 35 into an account to be held by the defendants’ solicitors is
+
+unacceptable to ESL. It is said that it is not known even now whether the defendants
+have entered into contractual relations with any third parties for the sale or supply of
+Prema 35, nor when any such contracts were made. All that has been provided to
+ESL are redacted invoices. (As an aside, Mr Solomon submits that the very fact that
+the defendants need to redact the information on the invoices demonstrates how
+commercially sensitive and confidential such information is.) Nevertheless, it is said
+by Mr Solomon that it is settled law that the court has the power to grant an
+injunction against an ex-employee restraining him from entering into future
+contracts, or even fulfilling a contract already made with a third party. However,
+there is nothing in the defendants’ evidence which suggests that there would be any
+prejudice to third parties, or that there could be such prejudice.
+
+48.
+For the defendants, Miss Ellenbogen submits that Prema is a fledgling business
+which has already incurred significant overheads and is trading. It is said to have
+considerable financial backing, and that Certas has made clear that it will not have its
+suppliers dictated to it. Miss Ellenbogen submits that ESL is not itself precluded
+from trading, and there is no evidence that it has suffered, or will suffer, any loss.
+There is said to be no evidence that it cannot still sell one hundred per cent of its
+production of Ultra 35 to Certas.
+
+49.
+Miss Ellenbogen submits that Mr Whittaker’s evidence (at the end of paragraph 53 of
+his second witness statement) that Prema 35 will be taking business away from the
+claimant, and eroding its turnover and profitability, is just bare assertion. Further,
+Miss Ellenbogen submits that if, as ESL contends, the only competitor in the market
+
+place for Ultra 35 is Prema, then any losses sustained by ESL should be readily
+quantifiable.
+
+50.
+Miss Ellenbogen addresses Mr Whittaker’s assertions that there has been an offer to
+purchase a majority shareholding in the claimant for many millions of pounds, and
+that the prospect of any such offer being repeated, with a direct competitor producing
+an identical product, is fanciful. As to that Miss Ellenbogen says: (1) That it is no
+answer to the point made by the defendants. (2) That, in any event, the offer in
+question was made by Certas in 2010. She refers in that regard to paragraph 2.20 of
+the BDO Valuation report. She says that, for reasons not identified, that offer was
+not accepted, and it is clear from Mr Whittaker’s evidence that no offer has been
+made by anyone since. (3) Miss Ellenbogen says that ESL cannot be heard to
+complain if the value of its shares is reduced by the existence of competition in the
+market place.
+
+51.
+Miss Ellenbogen submits that ESL is an established, successful business. By
+contrast, if Prema’s ability to trade is stifled, even on an interim basis, that will affect
+its ability to gain a foothold in the market place. Mr Fletcher, in paragraph 43 of his
+second witness statement, describes the likely effect on its business as being
+“catastrophic”. Miss Ellenbogen submits that the extent of its associated losses will
+be difficult to quantify. In short, Miss Ellenbogen submits that ESL just does not like
+competition, and that the grant of an injunction against the defendants would be
+oppressive, and would cause more harm than refusing to grant it pending a speedy
+trial of this claim.
+
+52.
+In reply, Mr Solomon submitted that the defendants have only been trading for a
+couple of weeks so it has not been possible for ESL to produce any evidence of
+actual, and continuing, loss. He submits that common sense dictates that sales of
+Ultra 35 will drop if a competing product, not previously available, is now available
+in the market. He submits that the availability of a competing product of that kind
+may also undermine the value of ESL’s business. He submits that there is no real
+evidence before the court that the defendants will suffer any loss if an interim
+injunction issues which will not be compensated in damages by a party to litigation,
+namely ESL, which is well able to discharge such a liability.
+
+53.
+Those are the submissions on the adequacy of damages and the balance of
+convenience. In my judgment, on the issue of the adequacy of damages, the balance
+falls in the defendants’ favour. I acknowledge that ESL is an established business,
+and that it would be well able to discharge any liability on its cross-undertaking in
+damages if it were to be granted interim injunctive relief yet were to fail at trial.
+However it has, and for some years past it has had, only one customer for Ultra 35,
+namely Certas. ESL should, in my judgment, readily be able to quantify any drop in
+income from sales of Ultra 35 to Certas; and (through the process of disclosure) it
+should be able to attribute such drop in sales to sales of Prema’s competing product
+(Prema 35). Provided the defendants are able to meet any award of damages, in my
+judgment ESL can be adequately compensated in damages for any pecuniary loss it
+may suffer if interim injunctive relief is withheld but ESL succeeds at trial. As for
+any damage to ESL’s commercial reputation and standing, in my judgment this will
+be adequately redressed if ESL is vindicated by victory over the defendants at trial.
+That will establish the validity of ESL’s trade secret in the formula for Ultra 35, both
+
+for the past, and also for the future. As for Prema, it is a fledgling company
+attempting to get its business of the ground. The grant of an interim injunction will
+prevent it from developing its business and meeting its start-up costs. It may well be
+strangled at birth if it is prevented from producing, and marketing, a competing
+product which, on the defendants’ case, it has every entitlement to sell.
+
+54.
+In the Series 5 Software case (previously cited) Mr Justice Laddie (at page 868
+between letters E and F) recognised that, as far as the balance of convenience was
+concerned, it was clear that either of the first two injunctions sought by the plaintiff
+in that case might well have the effect of depriving the defendants of the means of
+earning a living. He described their new venture as being “strangled near birth”. In
+my judgment, that is a weighty factor to be borne in mind when considering the
+balance of convenience.
+
+55.
+Whilst I acknowledge that the desirability of maintaining the status quo favours ESL,
+in my judgment one never reaches the stage at which this is brought into the balance
+of convenience. In my judgment, subject to an undertaking by the defendants to
+preserve the net profits realised on the sale of Prema 35 pending the trial of this
+claim, the balance of convenience falls in favour of the defendants in relation to sales
+of Prema 35. However, subject to that, an interim injunction will issue to protect
+ESL’s allegedly confidential information. In other words, the confidentiality of the
+alleged trade secret is to be preserved; but that is not to prevent the defendants from
+being able to sell Prema 35, subject to appropriate preservation of the net profits.
+The confidential schedule to this judgment will simply reproduce Schedule 1 to the
+Particulars of Claim.
+
+56.
+I appreciate that I have been going for about an hour and a half. Are there any
+matters which either of you feel that I have not adequately addressed in this judgment
+which it is necessary for me to address?
+End of Judgment

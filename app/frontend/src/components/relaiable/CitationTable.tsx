@@ -7,11 +7,13 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { StatusBadge } from "./StatusBadge";
-
-import { MOCK_CITATIONS, SORTED_CITATIONS, type Citation } from "@/lib/mock-citations";
+import { ConfidenceBar } from "./ConfidenceBar";
+import { type Citation } from "@/lib/mock-citations";
+import { useReport } from "@/lib/report";
 import { ArrowUpRight } from "lucide-react";
 
 export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
+  const { citations, sorted } = useReport();
   return (
     <div className="overflow-hidden rounded-xl border bg-card shadow-elegant">
       <div className="flex items-center justify-between border-b px-5 py-4">
@@ -22,7 +24,7 @@ export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
           </p>
         </div>
         <span className="rounded-full bg-muted px-3 py-1 text-xs text-slate-ink">
-          {MOCK_CITATIONS.length} citations
+          {citations.length} citations
         </span>
       </div>
       <Table>
@@ -30,13 +32,14 @@ export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
           <TableRow className="hover:bg-transparent">
             <TableHead>Citation</TableHead>
             <TableHead>Status</TableHead>
+            <TableHead className="w-[180px]">Confidence</TableHead>
             <TableHead>Issue</TableHead>
+            <TableHead>Recommended action</TableHead>
             <TableHead className="w-8" />
-
           </TableRow>
         </TableHeader>
         <TableBody>
-          {SORTED_CITATIONS.map((c) => (
+          {sorted.map((c) => (
             <TableRow
               key={c.id}
               onClick={() => onOpen(c)}
@@ -47,10 +50,10 @@ export function CitationTable({ onOpen }: { onOpen: (c: Citation) => void }) {
                 <div className="font-mono text-xs text-muted-foreground">{c.citation}</div>
               </TableCell>
               <TableCell><StatusBadge status={c.status} /></TableCell>
-              
+              <TableCell><ConfidenceBar value={c.confidence} /></TableCell>
               <TableCell className="text-sm text-slate-ink">{c.issue}</TableCell>
+              <TableCell className="text-sm text-slate-ink">{c.action}</TableCell>
               <TableCell>
-
                 <ArrowUpRight className="h-4 w-4 text-muted-foreground" />
               </TableCell>
             </TableRow>

@@ -1,0 +1,1164 @@
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+
+Die Mercurii, 5° Februarii 1975
+Note:
+American Cyanamid principles
+Guidelines set out in this case to establish whether an applicant has an adequate case for the
+granting of an interlocutory injunction. The guidelines consider:
+• Whether the claimant had a strong or merely an arguable case.
+• The adequacy of damages as a remedy.
+• The balance of convenience.
+• Whether the status quo should be maintained.
+Parliamentary Archives,
+HL/PO/JU/4/3/1262
+HOUSE OF LORDS
+AMERICAN CYANAMID
+v.
+ETHICON LIMITED
+Lord Diplock
+Viscount Dilhorne
+Lord Cross of Chelsea
+Lord Salmon
+Lord Edmund-Davies
+
+Lord Diplock
+MY LORDS,
+This
+interlocutory
+appeal
+concerns
+a
+patent
+for
+the
+use
+as
+absorbable
+surgical
+sutures
+of
+filaments
+made
+of
+a
+particular
+kind
+of
+chain
+polymer
+known as " a polyhydroxyacetic ester " (" PHAE "). These are sutures of
+a kind that disintegrate and are absorbed by the human body once they
+have
+served
+their
+purpose.
+The
+Appellants
+("
+Cyanamid
+"),
+an
+American
+Company,
+are
+the
+registered
+proprietors
+of
+the
+patent.
+Its
+priority
+date
+in the United Kingdom is October 2nd, 1964. At that date the absorbable
+sutures
+in
+use
+were
+of
+natural
+origin.
+They
+were
+made
+from
+animal
+tissues popularly known as catgut. The Respondents (" Ethicon "), a sub-
+sidiary
+of
+another
+American
+Company,
+were
+the
+dominant
+suppliers
+of
+catgut sutures in the U.K. market.
+Cyanamid
+introduced
+their
+patented
+product
+in
+1970.
+The
+chemical
+sub-
+stance of which it is made is a homo-polymer, i.e. all the units in the chain,
+except the first and the last (" the end stabilisers"), consist of glycolide
+radicals. Glycolide is the radical of Glycolic acid, which is another name
+for
+hydroxyacetic
+acid.
+By
+1973
+this
+product
+had
+succeeded
+in
+capturing
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+2
+
+some 15 per cent, of the U.K. market for absorbable surgical sutures. Faced
+with this competition to catgut, Ethicon who supplied 80 per cent, of the
+market were proposing to introduce their own artificial suture (" XLG ").
+The chemical substance of which it is made is not a homopolymer but a
+copolymer, i.e. although 90 per cent, by weight of the units in the chain
+consist of glycolide radicals, the remaining 10 per cent, are lactide radicals,
+which are similar in chemical properties to glycolide radicals but not identical
+in chemical composition.
+Cyanamid
+contend
+the
+XLG
+infringes
+their
+patent,
+of
+which
+the
+principal
+claim is " A sterile article for the surgical repair or replacement of living
+" tissue, the article being readily absorbable by living tissue and being formed
+" from a polyhydroxyacetic ester." As is disclosed in the body of the patent,
+neither the substance PHAE nor the method of making it into filaments was
+new at the priority date. Processes for manufacturing filaments from PHAE
+had been the subject of two earlier U.S. patents in 1953 (Lowe) and 1954
+(Higgins).
+The
+invention
+claimed
+by
+Cyanamid
+thus
+consisted
+of
+the
+discovery of a new use for a known substance.
+On
+5th
+March,
+1973,
+Cyanamid
+started
+a quia
+timet action
+against
+Ethicon
+for an injunction to restrain the threatened infringement of their patent by
+supplying sutures made of XLG to surgeons in the United Kingdom. On
+the same
+day
+they
+gave notice
+of
+motion
+for
+an
+interlocutory injunction.
+Voluminous affidavits and exhibits were filed on behalf of each party. The
+hearing of the motion before Graham J. lasted three days. On 30th July,
+1973,
+he
+granted
+an
+interlocutory
+injunction
+upon
+the
+usual
+undertaking
+in damages by Cyanamid.
+Ethicon
+appealed
+to
+the
+Court
+of
+Appeal.
+The
+hearing
+there
+took
+eight
+Jays.
+On
+5th
+February,
+1974,
+the
+Court
+of
+Appeal
+gave
+judgment.
+They
+allowed
+the
+appeal
+and
+discharged
+the
+judge's
+order.
+Leave
+to
+appeal
+from that decision was granted by Your Lordships' House. It was estimated
+that the hearing in this House of the appeal at which leave to adduce more
+affidavit evidence was to be sought would last twelve days.
+The
+question
+whether
+the
+use
+of
+XLG
+as
+an
+absorbable
+surgical
+suture
+is an infringement of Cyanamid's patent depends upon the meaning to be
+given to the three words " a polyhydroxyacetic ester " in the principal claim.
+2
+Cyanamid's contention is that at the date of publication of the patent those
+words were used as a term of art in the chemistry of polymerisation not only
+in the narrower meaning of a homopolymer of which the units in the chain,
+apart from the end stabilisers, consisted solely of glycolide radicals but also
+in the broader meaning of a copolymer of which up to 15 per cent, of the
+units in the chain would be lactide radicals; and that what was said in the
+body of the patent made it clear that in the claim the words were used in
+this wider meaning.
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+3
+
+Ethicon's
+first
+contention
+is
+that
+the
+words
+"
+a
+polyhydroxyacetic
+ester
+"
+in the principal claim bear the narrower meaning only, viz. that they are
+restricted to a homopolymer of which all the units in the chain except the
+end stabilisers consist of glycolide radicals. In the alternative, as commonly
+happens where the contest is between a narrower and a wider meaning in
+a patent specification, they attack the validity of the patent, if it bears the
+wider
+meaning,
+on
+the
+grounds
+of
+inutility,
+insufficiency,
+unfair
+basis
+and
+false suggestion. These objections are really the obverse of their argument
+in favour of the narrower construction. They are all different ways of saying
+that if the claim is construed widely it includes copolymers which will not
+have as surgical sutures the characteristics described in the body of the patent.
+Ethicon also attack the validity of the patent on the ground of obviousness.
+Both Graham J. and the Court of Appeal felt constrained by authority to
+deal
+with
+Cyanamid's
+claim
+to
+an
+interlocutory
+injunction
+by
+considering
+first whether, upon the whole of the affidavit evidence before them, a prima
+facie case of infringement had been made out. As Russell L.J. put it in
+the concluding paragraph of his reasons for judgment with which the other
+members of the court agreed: —" If there be no prima facie case on the
+"
+point
+essential
+to
+entitle
+the
+plaintiff
+to
+complain
+of
+the
+defendant's
+" proposed activities, that is the end of any claim to interlocutory relief."
+" Prima facie case " may in some contexts be an elusive concept, but the
+sense in which it was being used by Russell L.J. is apparent from an earlier
+passage in his judgment. After a detailed analysis of the conflicting expert
+testimony he said: —" I am not satisfied on the present evidence that on the
+"
+proper
+construction
+of
+this
+specification,
+addressed
+as
+it
+is
+to
+persons
+" skilled in the relevant art or science, the claim extends to sterile surgical
+" sutures produced not only from a homopolymer of glycolide but also from
+" a copolymer of glycolide and up to 15 per cent, of lactide. That is to say
+" that I do not consider that a prima facie case of infringement is established."
+In
+effect what the Court of Appeal
+was doing was trying the issue of
+infringement
+upon
+the
+conflicting
+affidavit
+evidence
+as
+it
+stood,
+without
+the benefit of oral testimony or cross-examination. They were saying " If we
+" had to give judgment in the action now without any further evidence we
+" should hold that Cyanamid had not satisfied the onus of proving that their
+" patent would be infringed by Ethicon's selling sutures made of XLG." The
+Court of Appeal accordingly did not find it necessary to go into the questions
+raised by Ethicon as to the validity of the patent or to consider where the
+balance of convenience lay.
+Graham J. had adopted the same approach as the Court of Appeal; but,
+upon the same evidence he had come to the contrary conclusion on the issue
+of infringement. He considered that on the evidence as it stood Cyanamid
+had
+made
+out
+a
+"
+strong prima
+facie case"
+that
+their
+patent
+would
+be
+infringed by Ethicon's selling sutures made of XLG. He then went on to
+deal briefly with the attack upon the validity of the patent and came to the
+conclusion
+that
+upon
+the
+evidence
+before
+him
+none
+of
+the
+grounds
+of
+invalidity
+advanced
+by
+Ethicon
+was
+likely
+to
+succeed.
+He
+therefore
+felt
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+4
+
+entitled to consider the balance of convenience. In his opinion it lay in
+favour
+of
+maintaining
+the status
+quo until
+the
+trial
+of
+the
+action.
+So
+he
+granted
+Cyanamid
+an
+interlocutory
+injunction
+restraining
+Ethicon
+from
+infringing the patent until the trial or further order.
+The grant of an interlocutory injunction is a remedy that is both temporary
+and discretionary. It would be most exceptional for your Lordships to give
+leave to appeal to this House in a case which turned upon where the balance
+3
+of
+convenience
+lay.
+In
+the
+instant
+appeal,
+however,
+the
+question
+of
+the
+balance of convenience, although it had been considered by Graham J. and
+decided in Cyanamid's favour, was never reached by the Court of Appeal.
+They considered that there was a rule of practice so well established as to
+constitute
+a
+rule
+of
+law
+that
+precluded
+them
+from
+granting
+any
+interim
+injunction unless upon the evidence adduced by both the parties on the hear-
+ing of the application the applicant had satisfied the court that on the balance
+of probabilities the acts of the other party sought to be enjoined would, if
+committed, violate the applicant's legal rights. In the view of the Court of
+Appeal the case which the applicant had to prove before any question of
+balance of convenience arose was "prima facie " only in the sense that the
+conclusion of law reached by the court upon that evidence might need to be
+modified at some later date in the light of further evidence either detracting
+from the probative value of the evidence on which the court had acted or
+proving additional facts. It was in order to enable the existence of any such
+rule of law to be considered by your Lordships' House that leave to appeal
+was granted.
+The
+instant
+appeal
+arises
+in
+a
+patent
+case.
+Historically
+there
+was
+undoubtedly a time when in an action for infringement of a patent that was
+not already " well established ", whatever that may have meant, an interlocu-
+tory injunction to restrain infringement would not be granted if counsel for
+the defendant stated that it was intended to attack the validity of the patent.
+Relics of this reluctance to enforce a monopoly that was challenged, even
+though the alleged grounds of invalidity were weak, are to be found in the
+judgment
+of
+Scrutton
+L.J.
+as
+late
+as
+1924
+in Smith v. Grigg,
+Limited ([1924]
+1
+K.B.
+655);
+but
+the
+elaborate
+procedure
+for
+the
+examination
+of
+patent
+specifications by expert examiners before a patent is granted, the opportunity
+for opposition at that stage and the provisions for appeal to the Patent Appeal
+Tribunal in the person of a patent judge of the High Court, make the grant
+of a patent nowadays a good prima facie reason, in the true sense of that
+term, for supposing the patent to be valid, and have rendered obsolete the
+former
+rule
+of
+practice
+as
+respects
+interlocutory
+injunctions
+in
+infringement
+actions.
+In
+my
+view
+the
+grant
+of
+interlocutory
+injunctions
+in
+actions
+for
+infringement of patents is governed by the same principles as in other actions.
+I turn to consider what those principles are.
+My
+Lords,
+when
+an
+application
+for
+an
+interlocutory
+injunction
+to
+restrain
+a defendant from doing acts alleged to be in violation of the plaintiff's legal
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+5
+
+right is made upon contested facts, the decision whether or not to grant an
+interlocutory
+injunction
+has
+to
+be
+taken
+at
+a
+time
+when ex
+hypothesi the
+existence of the right or the violation of it, or both, is uncertain and will
+remain uncertain until final judgment is given in the action. It was to mitigate
+the risk of injustice to the plaintiff during the period before that uncertainty
+could be resolved that the practice arose of granting him relief by way of
+interlocutory injunction ; but since the middle of the nineteenth century this
+has been made subject to his undertaking to pay damages to the defendant
+for any loss sustained by reason of the injunction if it should be held at the
+trial that the plaintiff had not been entitled to restrain the defendant from doing
+what he was threatening to do. The object of the interlocutory injunction is
+to protect the plaintiff against injury by violation of his right for which he
+could not be adequately compensated in damages recoverable in the action if
+the uncertainty were resolved in his favour at the trial; but the plaintiff's
+need for such protection must be weighed against the corresponding need of
+the defendant to be protected against injury resulting from his having been
+prevented from exercising his own legal rights for which he could not be
+adequately
+compensated
+under
+the
+plaintiff's
+undertaking
+in
+damages
+if
+the
+uncertainty were resolved in the defendant's favour at the trial. The Court
+must weigh one need against another and determine where " the balance of
+" convenience " lies.
+In those cases where the legal rights of the parties depend upon facts that
+are in dispute between them, the evidence available to the court at the hearing
+of the application for an interlocutory injunction is incomplete. It is given
+on affidavit and has not been tested by oral cross-examination. The purpose
+4
+sought to be achieved by giving to the court discretion to grant such injunctions
+would be stultified if the discretion were clogged by a technical rule forbidding
+its exercise if upon that incomplete untested evidence the court evaluated the
+chances of the plaintiff's ultimate success in the action at 50 per cent, or less,
+but permitting its exercise if the court evaluated his chances at more than 50
+percent.
+The notion that it is incumbent upon the court to undertake what is in effect
+a preliminary trial of the action upon evidential material different from that
+upon which the actual trial will be conducted, is, I think, of comparatively
+recent origin, though it can be supported by references in earlier cases to the
+need to show " a probability that the plaintiff is entitled to relief " (Preston v.
+Luck 27 Ch.D. 497 per Cotton L.J. at p. 506) or " a strong prima facie case
+" that the right which he seeks to protect in fact exists " (Smith v. Grigg
+Limited [1924] 1 K.B. 655 per Atkin L.J. at p. 659). These are to be contrasted
+with expressions in other cases indicating a much less onerous criterion, such
+as the need to show that there is " certainly a case to be tried " (Jones v.
+Pacaya
+Rubber
+and
+Produce
+Company,
+Limited [1911]
+1
+KB
+445 per
+Buckley
+L.J.
+at
+p.457)
+which
+corresponds
+more
+closely
+with
+what
+judges
+generally
+treated
+as
+sufficient
+to
+justify
+their
+considering
+the
+balance
+of
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+6
+
+convenience
+upon
+applications
+for
+interlocutory
+injunctions,
+at
+any
+rate
+up
+to the time when I became a member of your Lordships' House.
+An
+attempt
+had
+been
+made
+to
+reconcile
+these
+apparently
+differing
+approaches to the exercise of the discretion by holding that the need to show
+a probability or a strong prima facie case applied only to the establishment
+by the plaintiff of his right, and that the lesser burden of showing an arguable
+case to be tried applied to the alleged violation of that right by the defendant
+(Donmar
+Productions
+Ltd. v. Bart [1967]
+1.
+W.L.R.
+740
+per
+Ungoed
+Thomas
+J. at p. 742 Harmon Pictures Ltd. v. Osborne [1967] 1 W.L.R. 723 per Goff
+J.
+at
+p.
+738).
+The
+suggested
+distinction
+between
+what
+the
+plaintiff
+must
+establish as respects his right and what he must show as respects its violation
+did not long survive. It was rejected by the Court of Appeal in Hubbard v.
+Vosper ([1972] 2 Q.B. 84)—a case in which the plaintiff's entitlement to copy-
+right was undisputed but an injunction was refused despite the apparent weak-
+ness of the suggested defence. The Court, however, expressly deprecated any
+attempt to fetter the discretion of the court by laying down any rules which
+would have the effect of limiting the flexibility of the remedy as a means of
+achieving the objects that I have indicated above. Nevertheless this authority
+was treated by Graham J. and the Court of Appeal in the instant appeal
+as leaving intact the supposed rule that the court is not entitled to take any
+account of the balance of convenience unless it has first been satisfied that
+if the case went to trial upon no other evidence than is before the court at the
+hearing of the application the plaintiff would be entitled to judgment for a
+permanent injunction in the same terms as the interlocutory injunction sought.
+Your Lordships should in my view take this opportunity of declaring that
+there is no such rule. The use of such expressions as " a probability ", " a
+" prima facie case ", or " a strong prima facie case " in the context of the
+exercise of a discretionary power to grant an interlocutory injunction leads to
+confusion as to the object sought to be achieved by this form of temporary
+relief. The court no doubt must be satisfied that the claim is not frivolous
+or vexatious; in other words, that there is a serious question to be tried.
+It is no part of the court's function at this stage of the litigation to try to
+resolve conflicts of evidence on affidavit as to facts on which the claims of
+either party may ultimately depend nor to decide difficult questions of law
+which
+call
+for
+detailed
+argument
+and
+mature
+considerations.
+These
+are
+matters to be dealt with at the trial. One of the reasons for the introduction
+of the practice of requiring an undertaking as to damages upon the grant
+of an interlocutory injunction was that " it aided the court in doing that
+" which was its great object, viz. abstaining from expressing any opinion upon
+" the merits of the case until the hearing " (Wakefield v. Duke of Buccleugh
+[1865] 12 L.T. n.s. 628 at 629). So unless the material available to the court
+at the hearing of the application for an interlocutory injunction fails to
+5
+disclose that the plaintiff has any real prospect of succeeding in his claim for
+a permanent injunction at the trial, the court should go on to consider whether
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+7
+
+the balance of convenience lies in favour of granting or refusing the inter-
+locutory relief that is sought.
+As to that, the governing principle is that the court should first consider
+whether if the plaintiff were to succeed at the trial in establishing his right
+to a permanent injunction he would be adequately compensated by an award
+of damages for the loss he would have sustained as a result of the defendant's
+continuing to do what was sought to be enjoined between the time of the
+application and the time of the trial. If damages in the measure recoverable
+at common law would be adequate remedy and the defendant would be in
+a financial position to pay them, no interlocutory injunction should normally
+be granted, however strong the plaintiff's claim appeared to be at that stage.
+If, on the other hand, damages would not provide an adequate remedy for
+the plaintiff in the event of his succeeding at the trial, the court should then
+consider
+whether,
+on
+the
+contrary
+hypothesis
+that
+the
+defendant
+were
+to
+succeed at the trial in establishing his right to do that which was sought to be
+enjoined,
+he
+would
+be
+adequately
+compensated
+under
+the
+plaintiff's
+under-
+taking as to damages for the loss he would have sustained by being prevented
+from doing so between the time of the application and the time of the trial.
+If damages in the measure recoverable under such an undertaking would be
+an adequate remedy and the plaintiff would be in a financial position to pay
+them, there would be no reason upon this ground to refuse an interlocutory
+injunction.
+It is where there is doubt as to the adequacy of the respective remedies in
+damages available to either party or to both, that the question of balance of
+convenience
+arises.
+It
+would
+be
+unwise
+to
+attempt
+even
+to
+list
+all
+the
+various matters which may need to be taken into consideration in deciding
+where the balance lies, let alone to suggest the relative weight to be attached
+to them. These will vary from case to case.
+Where
+other
+factors
+appear
+to
+be
+evenly
+balanced
+it
+is
+a
+counsel
+of
+prudence to take such measures as are calculated to preserve the status quo.
+If the defendant is enjoined temporarily from doing something that he has not
+done before, the only effect of the interlocutory injunction in the event of his
+succeeding at the trial is to postpone the date at which he is able to embark
+upon a course of action which he has not previously found it necessary to
+undertake ; whereas to interrupt him in the conduct of an established enter-
+prise would cause much greater inconvenience to him since he would have
+to start again to establish it in the event of his succeeding at the trial.
+Save in the simplest cases, the decision to grant or to refuse an interlocutory
+injunction will cause to whichever party is unsuccessful on the application
+some disadvantages which his ultimate success at the trial may show he ought
+to have been spared and the disadvantages may be such that the recovery of
+damages to which he would then be entitled either in the action or under the
+plaintiff's undertaking would not be sufficient to compensate him fully for
+all of them. The extent to which the disadvantages to each party would be
+incapable of being compensated in damages in the event of his succeeding
+at the trial is always a significant factor in assessing where the balance of
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+8
+
+convenience lies; and if the extent of the uncompensatable disadvantage to
+each party would not differ widely, it may not be improper to take into
+account in tipping the balance the relative strength of each party's case as
+revealed by the affidavit evidence adduced on the hearing of the application.
+This, however, should be done only where it is apparent upon the facts dis-
+closed by evidence as to which there is no credible dispute that the strength
+of one party's case is disproportionate to that of the other party. The court
+is not justified in embarking upon anything resembling a trial of the action
+upon conflicting affidavits in order to evaluate the strength of either party's
+case.
+I would reiterate that, in addition to those to which I have referred, there
+may be many other special factors to be taken into consideration in the
+particular
+circumstances
+of
+individual
+cases.
+The
+instant
+appeal
+affords
+one
+example of this.
+6
+Returning,
+therefore,
+to
+the
+instant
+appeal,
+it
+cannot
+be
+doubted
+that
+the
+affidavit evidence shows that there are serious questions to be tried. Graham
+J. and the Court of Appeal have already tried the question of infringement
+on
+such
+affidavit
+evidence
+as
+was
+available
+and
+have
+come
+to
+contrary
+conclusions. Graham J. has already also tried the question of invalidity on
+these affidavits and has come to the conclusion that the defendant's grounds
+of objection to the patent are unlikely to succeed, so it was clearly incumbent
+upon him and on the Court of Appeal to consider the balance of convenience.
+Graham J. did so and came to the conclusion that the balance of con-
+venience lay in favour of his exercising his discretion by granting an inter-
+locutory
+injunction.
+As
+Patent
+Judge
+he
+has
+unrivalled
+experience
+of
+pharmaceutical
+patents
+and
+the
+way
+in
+which
+the
+pharmaceutical
+industry
+is
+carried
+on.
+Lacking
+in
+this
+experience,
+an
+Appellate
+Court
+should
+be
+hesitant to over-rule his exercise of his discretion, unless they are satisfied that
+he has gone wrong in law.
+The
+factors
+which
+he
+took
+into
+consideration
+and,
+in
+my
+view
+properly,
+were that Ethicon's sutures XLG were not yet on the market; so they had no
+business which would be brought to a stop by the injunction ; no factories
+would be closed and no work-people would be thrown out of work. They
+held a dominant position in the United Kingdom market for absorbent surgical
+sutures and adopted an aggressive sales policy. Cyanamid on the other hand
+were in the course of establishing a growing market in PHAE surgical sutures
+which
+competed
+with
+the
+natural
+catgut
+sutures
+marketed
+by
+Ethicon.
+If
+Ethicon were entitled also to establish themselves in the market for PHAE
+absorbable surgical sutures until the action is tried, which may not be for
+two
+or
+three
+years
+yet,
+and
+possibly
+thereafter
+until
+the
+case
+is
+finally
+disposed
+of
+on
+appeal,
+Cyanamid,
+even
+though
+ultimately
+successful
+in
+proving infringement, would have lost its chance of continuing to increase
+its share in the total market in absorbent surgical sutures which the continua-
+tion of an uninterrupted monopoly of PHAE sutures would have gained for
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+9
+
+it by the time of the expiry of the patent in 1980. It is notorious that new
+pharmaceutical
+products
+used
+exclusively
+by
+doctors
+or
+available
+only
+on
+prescription take a long time to become established in the market, that much
+of the benefit of the monopoly granted by the patent derives from the fact
+that the patented
+product is
+given the opportunity
+of becoming
+established
+and this benefit continues to be reaped after the patent has expired.
+In
+addition
+there
+was
+a
+special
+factor
+to
+which
+Graham
+J.
+attached
+importance.
+This
+was
+that,
+once
+doctors
+and
+patients
+had
+got
+used
+to
+Ethicon's product XLG in the period prior to the trial, it might well be
+commercially
+impracticable
+for
+Cyanamid
+to
+deprive
+the
+public
+of
+it
+by
+insisting on a permanent injunction at the trial, owing to the damaging effect
+which
+this
+would
+have
+upon
+its
+goodwill
+in
+this
+specialised
+market
+and
+thus upon the sale of its other pharmaceutical products.
+I can see no ground for interfering in the Learned Judge's assessment of
+the
+balance
+of
+convenience
+or
+for
+interfering
+with
+the
+discretion
+that
+he
+exercised
+by
+granting
+the
+injunction.
+In
+view
+of
+the
+fact
+that
+there
+are
+serious questions to be tried upon which the available evidence is incomplete,
+conflicting and untested, to express an opinion now as to the prospects of
+success of either party would only be embarrassing to the Judge who will
+have
+eventually
+to
+try
+the
+case.
+The
+likelihood
+of
+such
+embarrassment
+provides an additional reason for not adopting the course that both Graham
+J. and the Court of Appeal thought they were bound to follow, of dealing
+with the existing evidence in detail and giving reasoned assessments of their
+views as to the relative strengths of each party's cases.
+I would allow the appeal and restore the order of Graham J.
+Viscount Dilhorne
+MY LORDS,
+I have had the advantage of reading the speech of my noble and learned
+friend,
+Lord
+Diplock.
+I
+agree
+with
+it
+and
+that
+this
+appeal
+should
+be
+allowed and the Order of Graham J. restored.
+7
+Lord Cross of Chelsea
+MY LORDS,
+For
+the reasons
+given by
+my
+noble and learned friend Lord Diplock in
+his speech, which I have had the advantage of reading in draft, I would allow
+this appeal.
+Lord Salmon
+MY LORDS,
+
+11/10/2017 15:30
+[W00.12.BLANK.DOTM]
+10
+
+I agree with the opinion of my noble and learned friend Lord Diplock, and
+for the reasons he gives I would allow the appeal and restore the order of
+Graham J.
+Lord Edmund-Davies
+MY LORDS,
+For
+the
+reasons
+given
+by
+my
+noble
+and
+learned
+friend,
+Lord
+Diplock,
+I would also allow this appeal.

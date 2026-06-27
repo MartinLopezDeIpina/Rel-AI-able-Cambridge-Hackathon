@@ -22,12 +22,17 @@ let reportNotReadyLogged = false;
 interface AnalysisState {
   hasAnalysis: boolean;
   documentName: string | null;
+  citations: Citation[]; // live verification result ([] => components fall back to mock)
+  documentParagraphs: string[]; // live document-preview paragraphs
   jurisdiction: string;
   report: ReportPayload | null;
   config: DocumentConfig | null;
   _pollTimer: number | null;
   setJurisdiction: (j: string) => void;
-  startAnalysis: (name: string) => void;
+  /** Store a real verification result (from POST /api/citations/verify). */
+  setReport: (name: string, citations: Citation[], paragraphs?: string[]) => void;
+  /** Seed the bundled demo (citations stay empty -> mock fallback renders). */
+  startDemo: (name?: string) => void;
   reset: () => void;
   loadReport: () => Promise<void>;
   loadConfig: () => Promise<void>;
@@ -96,17 +101,30 @@ async function fetchValidatedConfig(): Promise<DocumentConfig | null> {
 export const useAnalysisStore = create<AnalysisState>((set, get) => ({
   hasAnalysis: false,
   documentName: null,
-  jurisdiction: "UK",
+  citations: [],
+  documentParagraphs: [],
+  jurisdiction: "England & Wales",
   report: null,
   config: null,
   _pollTimer: null,
   setJurisdiction: (j) => set({ jurisdiction: j }),
-  startAnalysis: (name) => set({ hasAnalysis: true, documentName: name }),
+  // Synchronous path (the UI's primary flow): POST /verify -> setReport(...).
+  setReport: (name, citations, paragraphs = []) =>
+    set({ hasAnalysis: true, documentName: name, citations, documentParagraphs: paragraphs }),
+  startDemo: (name = "Demo — Halberd Trading v Orient Pacific.docx") =>
+    set({ hasAnalysis: true, documentName: name, citations: [], documentParagraphs: [] }),
   reset: () => {
     get().stopReportPolling();
     reportNotReadyLogged = false;
-    set({ hasAnalysis: false, documentName: null, report: null });
+    set({
+      hasAnalysis: false,
+      documentName: null,
+      citations: [],
+      documentParagraphs: [],
+      report: null,
+    });
   },
+  // Polling path (report.json artefact): kept available for the file-based flow.
   loadReport: async () => {
     const report = await fetchValidatedReport();
     if (report) {
