@@ -156,11 +156,13 @@ fehlende `report.json` (HTTP 404 / Netzwerkfehler) selbst als „noch nicht fert
 weiter, ohne Validierungsfehler. Der atomare Write beim Abschluss reicht also. Das Backend
 schreibt immer `status: "complete"`; ein `pending`-File ist optional und standardmäßig aus.
 
-**Edge-Case Zero-Citations.** Das Frontend verlangt bei `status=="complete"` `citations.length ≥ 1`.
-Findet die Extraktion **0 Zitate**, kollidiert ein `complete`+`[]`-Report mit dieser Regel
-(→ Intermediary-Check #6). Backend-Default-Entscheidung: in diesem Fall **keine** `report.json`
-schreiben (Frontend bleibt im 404/„läuft noch"-Zustand) ODER das Frontend muss `complete`+leer
-als legitimes „keine Zitate gefunden" zulassen. Zu bestätigen.
+**Edge-Case Zero-Citations — ENTSCHIEDEN.** Findet die Extraktion **0 Zitate**, schreibt das
+Backend trotzdem den normalen Report (`status: "complete"`, `citations: []`) — **kein**
+Sonderfall backend-seitig. Das **Frontend** behandelt `status=="complete"` **&&**
+`citations.length===0` als **Validierungsfehler** und zeigt eine sichtbare Fehlermeldung
+(nicht nur einen Log-Eintrag). Damit unterscheidet sich „läuft noch" (404, kein Fehler) klar
+von „fertig, aber leer" (sichtbarer Fehler). Frontend-Spec: `validateReport` → `valid:false`,
+`missing:["citations (empty while complete)"]`; UI rendert eine Error-Message.
 
 ### 5.4 — Verdrahtung
 `POST /api/citations/verify` baut `VerifyResponse` wie bisher (API-Contract unverändert),
