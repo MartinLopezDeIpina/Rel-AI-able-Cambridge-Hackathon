@@ -82,6 +82,7 @@ def _explanation(status: ClassificationType, r: MetadataMatchResult,
 
 def _to_item(c, r: MetadataMatchResult, report: dict | None) -> dict:
     status = _verdict(r, report)
+    unc = (report or {}).get("uncertainty") if report else None
     return {
         "id": c.id,
         # --- frontend contract (assert_verify_response) ---
@@ -101,6 +102,9 @@ def _to_item(c, r: MetadataMatchResult, report: dict | None) -> dict:
         "used_semantic_fallback": r.used_semantic_fallback,
         "field_mismatches": [m.model_dump() for m in r.field_mismatches],
         "distortion": report,  # full Step-4 report (or None when not run)
+        # semantic-entropy uncertainty that the source supports the citation (0..1
+        # normalised; higher = the model is less certain about its faithfulness call).
+        "uncertainty": unc.get("uncertainty_norm") if isinstance(unc, dict) else None,
     }
 
 
